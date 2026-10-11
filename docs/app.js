@@ -6,6 +6,10 @@
   var DONNEES = window.INDEX_NOTARIAT;
   var ACTES = DONNEES.actes;
   var PAR_PAGE = 50;
+  // Dépôt où se trouvent les fiches complètes (actes/…/acte.md).
+  var DEPOT = "Chivos/Notariat-Saint-Flour", BRANCHE = "main";
+  var URL_BRUTE = "https://raw.githubusercontent.com/" + DEPOT + "/" + BRANCHE + "/";
+  var URL_GITHUB = "https://github.com/" + DEPOT + "/blob/" + BRANCHE + "/";
 
   var $ = function (sel, racine) { return (racine || document).querySelector(sel); };
   var $$ = function (sel, racine) { return Array.prototype.slice.call((racine || document).querySelectorAll(sel)); };
@@ -313,7 +317,7 @@
           var p = m.p, a = m.acte;
           var details = [p.profession, p.residence && "à " + p.residence, p.filiation].filter(Boolean).map(esc).join(" · ");
           var graphies = p.graphies.length ? '<div class="graphies">« ' + p.graphies.map(esc).join(" », « ") + " »</div>" : "";
-          return '<tr><td data-l="Personne">' + nomComplet(p) + graphies + "</td>" +
+          return '<tr class="cliquable" data-acte="' + a.idx + '"><td data-l="Personne">' + nomComplet(p) + graphies + "</td>" +
             '<td data-l="Rôle">' + esc(p.role) + (details ? '<div class="details">' + details + "</div>" : "") + "</td>" +
             '<td data-l="Date" class="date">' + esc(dateLisible(a.date)) + "</td>" +
             '<td data-l="Acte"><button type="button" class="lien-acte" data-acte="' + a.idx + '">' + esc(a.type) + "</button>" +
@@ -326,7 +330,7 @@
           return '<span class="' + (trouve ? "personne trouvee" : "personne") + '">' + nomComplet(p) +
             (p.role ? ' <span class="role">(' + esc(couper(p.role, 40)) + ")</span>" : "") + "</span>";
         });
-        return '<article class="carte-acte">' +
+        return '<article class="carte-acte cliquable" data-acte="' + a.idx + '">' +
           '<header><button type="button" class="lien-acte titre-acte" data-acte="' + a.idx + '">' + esc(dateLisible(a.date)) + " — " + esc(a.type) + "</button>" +
           '<span class="meta">' + esc([a.lieu, a.notaire && "notaire " + a.notaire, a.cote].filter(Boolean).join(" · ")) + "</span></header>" +
           '<p class="resume">' + esc(couper(a.resume, 320)) + "</p>" +
@@ -365,7 +369,7 @@
     $("#fiche-titre").textContent = dateLisible(a.date) + " — " + a.type;
     var meta = [
       ["Lieu", a.lieu], ["Notaire", a.notaire], ["Dépôt", a.depot], ["Cote", a.cote],
-      ["Transcription", a.etat], ["Confiance", a.confiance], ["Fiche", a.chemin],
+      ["Transcription", a.etat], ["Confiance", a.confiance],
     ].filter(function (x) { return x[1]; });
     var lignes = a.personnes.map(function (p, ip) {
       var trouve = etat.marques.has(a.mentions[ip]);
@@ -381,6 +385,11 @@
     $("#fiche-corps").innerHTML =
       '<dl class="meta-fiche">' + meta.map(function (x) { return "<dt>" + x[0] + "</dt><dd>" + esc(x[1]) + "</dd>"; }).join("") + "</dl>" +
       "<h3>Résumé</h3><p>" + esc(a.resume) + "</p>" +
+      (a.chemin ? '<details class="transcription" data-chemin="' + esc(a.chemin) + '">' +
+        "<summary>Transcription complète, points douteux et notes</summary>" +
+        '<div class="transcription-corps"></div>' +
+        '<p class="source-fiche"><a href="' + esc(URL_GITHUB + encodeURI(a.chemin)) + '" target="_blank" rel="noopener">Ouvrir la fiche sur GitHub ↗</a></p>' +
+        "</details>" : "") +
       "<h3>Personnes (" + a.personnes.length + ")</h3>" +
       '<table class="table-fiche"><thead><tr><th>Personne</th><th>Rôle</th><th>Profession, résidence, filiation</th></tr></thead><tbody>' + lignes + "</tbody></table>" +
       liste("Lieux cités", a.lieux) + liste("Sommes", a.sommes) +
@@ -389,6 +398,115 @@
     if (!d.open) d.showModal();
     d.scrollTop = 0;
   }
+
+  // ------------------------------------------------------------------ transcription complète
+  var cacheFiches = new Map();
+  function chargerFiche(chemin) {
+    if (cacheFiches.has(chemin)) return cacheFiches.get(chemin);
+    // Servie depuis le dépôt complet (serveur local) : la fiche est à côté ;
+    // sinon (GitHub Pages, fichier local) : on la lit sur GitHub.
+    var sources = [];
+    if (/^https?:$/.test(location.protocol) && !/github\.io$/.test(location.hostname)) sources.push("../" + encodeURI(chemin));
+    sources.push(URL_BRUTE + encodeURI(chemin));
+    var essai = function (i) {
+      return fetch(sources[i]).then(function (r) {
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        return r.text();
+      }).catch(function (err) {
+        if (i + 1 < sources.length) return essai(i + 1);
+        throw err;
+      });
+    };
+    var promesse = essai(0);
+    promesse.catch(function () { cacheFiches.delete(chemin); });
+    cacheFiches.set(chemin, promesse);
+    return promesse;
+  }
+
+  // Mise en forme du texte : échappement, puis le peu de Markdown utilisé
+  // dans les fiches (`code`, **gras**, *italique*) et les exposants <sup>.
+  function enLigne(s) {
+    return esc(s)
+      .replace(/&lt;sup&gt;(.*?)&lt;\/sup&gt;/g, "<sup>$1</sup>")
+      .replace(/`([^`]+)`/g, "<code>$1</code>")
+      .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
+      .replace(/(^|[\s(«])\*([^*\s][^*]*?)\*(?=[\s).,;:»]|$)/g, "$1<em>$2</em>");
+  }
+
+  // Convertit le corps Markdown d'une fiche (sans l'en-tête YAML) en HTML.
+  function markdownVersHtml(md) {
+    var lignes = md.replace(/\r\n?/g, "\n").split("\n");
+    var html = [], para = [], liste = null, i = 0;
+    function fermer() {
+      if (para.length) { html.push("<p>" + enLigne(para.join(" ")) + "</p>"); para = []; }
+      if (liste) { html.push("<ul>" + liste.map(function (x) { return "<li>" + enLigne(x) + "</li>"; }).join("") + "</ul>"); liste = null; }
+    }
+    while (i < lignes.length) {
+      var l = lignes[i];
+      if (/^```/.test(l)) {
+        fermer();
+        var bloc = [];
+        for (i++; i < lignes.length && !/^```/.test(lignes[i]); i++) bloc.push(lignes[i]);
+        i++;
+        html.push('<pre class="texte-acte">' + esc(bloc.join("\n")).replace(/&lt;sup&gt;(.*?)&lt;\/sup&gt;/g, "<sup>$1</sup>") + "</pre>");
+        continue;
+      }
+      var t = /^(#{1,6})\s+(.*)$/.exec(l);
+      if (t) {
+        fermer();
+        var niveau = Math.min(6, t[1].length + 2);
+        html.push("<h" + niveau + ">" + enLigne(t[2]) + "</h" + niveau + ">");
+      } else if (/^\|/.test(l)) {
+        fermer();
+        var rangees = [];
+        for (; i < lignes.length && /^\|/.test(lignes[i]); i++) rangees.push(lignes[i]);
+        i--;
+        var cellules = function (r) { return r.replace(/^\||\|\s*$/g, "").split("|").map(function (c) { return c.trim(); }); };
+        var corps = rangees.filter(function (r) { return !/^\|[\s:|-]+\|?\s*$/.test(r); });
+        html.push('<div class="defile"><table><thead><tr>' + cellules(corps[0] || "").map(function (c) { return "<th>" + enLigne(c) + "</th>"; }).join("") +
+          "</tr></thead><tbody>" + corps.slice(1).map(function (r) {
+            return "<tr>" + cellules(r).map(function (c) { return "<td>" + enLigne(c) + "</td>"; }).join("") + "</tr>";
+          }).join("") + "</tbody></table></div>");
+      } else if (/^\s*[-*]\s+/.test(l)) {
+        if (para.length) fermer();
+        if (!liste) liste = [];
+        liste.push(l.replace(/^\s*[-*]\s+/, ""));
+      } else if (/^>\s?/.test(l)) {
+        fermer();
+        html.push("<blockquote>" + enLigne(l.replace(/^>\s?/, "")) + "</blockquote>");
+      } else if (!l.trim()) {
+        fermer();
+      } else if (liste && /^\s+/.test(l)) {
+        liste[liste.length - 1] += " " + l.trim(); // suite d'un élément de liste
+      } else {
+        if (liste) fermer();
+        para.push(l.trim());
+      }
+      i++;
+    }
+    fermer();
+    return html.join("");
+  }
+
+  function afficherTranscription(details) {
+    var corps = $(".transcription-corps", details);
+    if (corps.dataset.etat === "ok" || corps.dataset.etat === "chargement") return;
+    corps.dataset.etat = "chargement";
+    corps.innerHTML = '<p class="chargement">Chargement de la transcription…</p>';
+    chargerFiche(details.dataset.chemin).then(function (texte) {
+      // On retire l'en-tête YAML et le résumé, déjà affiché plus haut.
+      var md = texte.replace(/^\uFEFF?---\n[\s\S]*?\n---\n/, "");
+      md = md.replace(/^## Résumé\s*\n[\s\S]*?(?=^## )/m, "");
+      corps.innerHTML = markdownVersHtml(md);
+      corps.dataset.etat = "ok";
+    }).catch(function () {
+      corps.innerHTML = '<p class="erreur">Impossible de charger la transcription (connexion ?). Elle reste consultable sur GitHub via le lien ci-dessous.</p>';
+      corps.dataset.etat = "";
+    });
+  }
+  document.addEventListener("toggle", function (ev) {
+    if (ev.target.matches && ev.target.matches("details.transcription") && ev.target.open) afficherTranscription(ev.target);
+  }, true);
 
   // ------------------------------------------------------------------ adresse (partage)
   function sauverDansAdresse(e) {
@@ -494,8 +612,13 @@
     $(".resultats").scrollIntoView({ block: "start" });
   });
   document.addEventListener("click", function (ev) {
-    var b = ev.target.closest(".lien-acte");
-    if (b) { ouvrirFiche(parseInt(b.dataset.acte, 10)); return; }
+    // Toute la ligne (ou la carte) ouvre la fiche, sauf si l'on sélectionne du texte.
+    var b = ev.target.closest(".lien-acte, .cliquable");
+    if (b) {
+      if (!b.matches(".lien-acte") && String(window.getSelection())) return;
+      ouvrirFiche(parseInt(b.dataset.acte, 10));
+      return;
+    }
     var lp = ev.target.closest(".lien-personne");
     if (lp) {
       $("#fiche").close();

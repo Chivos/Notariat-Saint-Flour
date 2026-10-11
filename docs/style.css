@@ -8,6 +8,7 @@
   --accent: #8a3b1f;
   --accent-doux: #f3e2d8;
   --trouve: #fff1c2;
+  --survol: #efeae1;
   --trouve-bord: #d9a400;
   --rayon: 6px;
   color-scheme: light;
@@ -23,6 +24,7 @@
     --accent: #e39a74;
     --accent-doux: #3d2a20;
     --trouve: #3f3519;
+    --survol: #2f2b26;
     --trouve-bord: #c49a2c;
     color-scheme: dark;
   }
@@ -37,6 +39,7 @@
   --accent: #e39a74;
   --accent-doux: #3d2a20;
   --trouve: #3f3519;
+  --survol: #2f2b26;
   --trouve-bord: #c49a2c;
   color-scheme: dark;
 }
@@ -125,6 +128,9 @@ td.date { white-space: nowrap; font-variant-numeric: tabular-nums; }
 .graphies { font-style: italic; }
 .lien-acte, .lien-personne { background: none; border: 0; padding: 0; color: var(--accent); cursor: pointer; text-align: left; }
 .lien-acte:hover, .lien-personne:hover { text-decoration: underline; }
+.cliquable { cursor: pointer; transition: background-color 0.12s; }
+tr.cliquable:hover td, .carte-acte.cliquable:hover { background: var(--survol); }
+.cliquable:hover .lien-acte { text-decoration: underline; }
 .lien-personne { color: inherit; }
 .lien-personne:hover .patronyme { color: var(--accent); }
 
@@ -171,3 +177,22 @@ dialog.fiche::backdrop { background: rgb(0 0 0 / 0.45); }
 .texte-aide dt { font-weight: 600; margin-top: 0.5rem; }
 .texte-aide dd { margin: 0.1rem 0 0 0; color: var(--texte-doux); }
 .texte-aide p { color: var(--texte-doux); }
+
+/* ---------- transcription complète ---------- */
+details.transcription { margin: 1rem 0; border: 1px solid var(--bordure); border-radius: var(--rayon); background: var(--fond); }
+details.transcription > summary { cursor: pointer; padding: 0.6rem 0.8rem; font-weight: 600; color: var(--accent); }
+details.transcription > summary:hover { background: var(--survol); }
+details.transcription[open] > summary { border-bottom: 1px solid var(--bordure); }
+.transcription-corps, .source-fiche { padding: 0 0.9rem; }
+.transcription-corps h4 { font-family: Georgia, serif; font-weight: normal; font-size: 1.05rem; color: var(--accent); margin: 1rem 0 0.4rem; }
+.transcription-corps h5 { font-size: 0.95rem; margin: 0.8rem 0 0.3rem; }
+.transcription-corps ul { padding-left: 1.2rem; }
+.transcription-corps li { margin: 0.2rem 0; }
+.transcription-corps code { font-size: 0.88em; background: var(--surface-2); border-radius: 3px; padding: 0 0.2rem; }
+.transcription-corps blockquote { margin: 0.5rem 0; padding-left: 0.8rem; border-left: 3px solid var(--bordure); color: var(--texte-doux); }
+.transcription-corps .defile { overflow-x: auto; }
+pre.texte-acte { font: 0.85rem/1.55 ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; background: var(--surface);
+  border: 1px solid var(--bordure); border-radius: 4px; padding: 0.75rem; overflow-x: auto; white-space: pre; }
+.chargement, .erreur { color: var(--texte-doux); font-style: italic; }
+.source-fiche { font-size: 0.85rem; margin: 0.6rem 0 0.9rem; }
+.source-fiche a { color: var(--accent); }
