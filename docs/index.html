@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Notariat de Saint-Flour</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="entete">
+  <div>
+    <h1>Notariat de Saint-Flour</h1>
+    <p class="sous-titre">Explorateur des index d'actes dépouillés — <span id="stats-globales">chargement…</span></p>
+  </div>
+  <button type="button" class="bouton-discret" id="bouton-aide">Aide</button>
+</header>
+
+<div class="mise-en-page">
+  <form id="formulaire" class="panneau" autocomplete="off">
+    <button type="button" class="bouton-replier" id="bouton-filtres" aria-expanded="true">Critères de recherche</button>
+    <div id="corps-filtres">
+
+    <fieldset class="bloc-personne" data-personne="1">
+      <legend>Personne</legend>
+      <label>Nom de famille
+        <input type="search" name="nom1" placeholder="ex. Vergne, Chastel, Pagès">
+      </label>
+      <label>Prénom
+        <input type="search" name="prenom1" placeholder="ex. Jehan, Anthoine">
+      </label>
+      <details class="avance">
+        <summary>Rôle, profession, résidence</summary>
+        <label>Rôle <input type="search" name="role1" placeholder="ex. testateur, témoin, confront"></label>
+        <label>Profession <input type="search" name="profession1" placeholder="ex. marchand, laboureur"></label>
+        <label>Résidence / filiation <input type="search" name="residence1" placeholder="ex. Roffiac, fils de"></label>
+      </details>
+    </fieldset>
+
+    <fieldset class="bloc-personne" data-personne="2" id="bloc-personne-2" hidden>
+      <legend>2ᵉ personne dans le même acte</legend>
+      <label>Nom de famille <input type="search" name="nom2"></label>
+      <label>Prénom <input type="search" name="prenom2"></label>
+      <details class="avance">
+        <summary>Rôle, profession, résidence</summary>
+        <label>Rôle <input type="search" name="role2"></label>
+        <label>Profession <input type="search" name="profession2"></label>
+        <label>Résidence / filiation <input type="search" name="residence2"></label>
+      </details>
+      <button type="button" class="bouton-discret" id="retirer-personne-2">Retirer cette personne</button>
+    </fieldset>
+    <button type="button" class="bouton-discret" id="ajouter-personne-2">+ Chercher une 2ᵉ personne dans le même acte</button>
+
+    <fieldset>
+      <legend>Proximité des noms</legend>
+      <div class="ligne-options">
+        <label>Nom
+          <select name="modeNom">
+            <option value="exact">Exacte (hors accents)</option>
+            <option value="ortho">Orthographique</option>
+            <option value="phon" selected>Phonétique</option>
+          </select>
+        </label>
+        <label>Prénom
+          <select name="modePrenom">
+            <option value="exact">Exacte (hors accents)</option>
+            <option value="ortho" selected>Orthographique</option>
+            <option value="phon">Phonétique</option>
+          </select>
+        </label>
+      </div>
+      <div class="ligne-options">
+        <label>Position
+          <select name="position">
+            <option value="entier" selected>Mot entier</option>
+            <option value="debut">Commence par</option>
+            <option value="contient">Contient</option>
+          </select>
+        </label>
+        <label>Tolérance
+          <select name="tolerance">
+            <option value="0" selected>0 lettre</option>
+            <option value="1">1 lettre</option>
+            <option value="2">2 lettres</option>
+            <option value="3">3 lettres</option>
+          </select>
+        </label>
+      </div>
+      <label class="case"><input type="checkbox" name="equivPrenoms" checked> Équivalences de prénoms (Jehan = Jean, Anth.e = Antoine, Guilhen = Guillaume…)</label>
+      <label class="case"><input type="checkbox" name="graphies" checked> Chercher aussi dans les graphies originales</label>
+    </fieldset>
+
+    <fieldset>
+      <legend>Dates</legend>
+      <div class="ligne-options">
+        <label>Du <input type="text" name="du" placeholder="1650 ou 1650-03" inputmode="numeric" pattern="\d{4}(-\d{1,2}(-\d{1,2})?)?"></label>
+        <label>Au <input type="text" name="au" placeholder="1660-12-31" inputmode="numeric" pattern="\d{4}(-\d{1,2}(-\d{1,2})?)?"></label>
+      </div>
+      <p class="aide-champ">Année, année-mois ou date complète. Le jour et le mois inconnus (« 00 ») sont inclus.</p>
+    </fieldset>
+
+    <fieldset>
+      <legend>Acte</legend>
+      <label>Type d'acte <select name="type"><option value="">Tous</option></select></label>
+      <label>Lieu de passation <select name="lieu"><option value="">Tous</option></select></label>
+      <label>Notaire <select name="notaire"><option value="">Tous</option></select></label>
+      <label>Transcription
+        <select name="etat"><option value="">Toutes</option></select>
+      </label>
+      <label>Recherche libre <input type="search" name="texte" placeholder="résumé, mots-clés, lieux cités, sommes, cote"></label>
+    </fieldset>
+
+    <div class="actions-formulaire">
+      <button type="button" id="reinitialiser">Réinitialiser</button>
+    </div>
+    </div>
+  </form>
+
+  <main class="resultats">
+    <div class="barre-resultats">
+      <div class="onglets" role="tablist">
+        <button type="button" role="tab" data-vue="personnes" aria-selected="true">Personnes <span class="compteur" id="nb-personnes">0</span></button>
+        <button type="button" role="tab" data-vue="actes" aria-selected="false">Actes <span class="compteur" id="nb-actes">0</span></button>
+      </div>
+      <div class="outils-resultats">
+        <label>Tri
+          <select id="tri">
+            <option value="date">Date</option>
+            <option value="date-desc">Date (récent d'abord)</option>
+            <option value="nom">Nom, prénom</option>
+            <option value="type">Type d'acte</option>
+          </select>
+        </label>
+        <button type="button" class="bouton-discret" id="export-csv">Exporter CSV</button>
+      </div>
+    </div>
+    <p id="resume-recherche" class="resume-recherche"></p>
+    <div id="liste" class="liste"></div>
+    <nav id="pagination" class="pagination" aria-label="Pages de résultats"></nav>
+  </main>
+</div>
+
+<dialog id="fiche" class="fiche">
+  <div class="fiche-entete">
+    <h2 id="fiche-titre"></h2>
+    <button type="button" class="bouton-discret" id="fiche-fermer" aria-label="Fermer">✕</button>
+  </div>
+  <div id="fiche-corps"></div>
+</dialog>
+
+<dialog id="aide" class="fiche">
+  <div class="fiche-entete">
+    <h2>Comment chercher</h2>
+    <button type="button" class="bouton-discret" data-fermer aria-label="Fermer">✕</button>
+  </div>
+  <div class="texte-aide">
+    <h3>Proximité des noms</h3>
+    <dl>
+      <dt>Exacte</dt>
+      <dd>Ignore seulement la casse, les accents et la ponctuation (« Pagès » = « PAGES »).</dd>
+      <dt>Orthographique</dt>
+      <dd>Neutralise les variations graphiques de l'époque : I/J/Y et U/V (Iean = Jean), H muet (Jehan), TH et PH (Anthoine, Phelip), LH et NH occitans (Breulh = Breuil, Vernhe = Vergne), S devant consonne (Estienne = Étienne, Chastel = Châtel), lettres doublées (Bonniol = Boniol), CT (Benoict), finales S/X/Z/E (Pagès = Pagez = Page), D/T final.</dd>
+      <dt>Phonétique</dt>
+      <dd>Compare la prononciation française : en plus de ce qui précède, C/K/QU, G/J, S/Z, AU/EAU/O, AI/EI/E, OU, nasales (an/en, in/ain/ein, on), « ille » (Bataille, Breuil), consonnes finales muettes (Chabot = Chabaud, Rouger = Rougé, Cussac = Cussat, Couderc = Coudert).</dd>
+      <dt>Tolérance</dt>
+      <dd>Accepte en plus jusqu'à 1, 2 ou 3 lettres de différence (ajout, suppression ou substitution) sur la forme normalisée choisie (limitée à une lettre pour trois lettres du nom, pour que « Chabot » ne trouve pas n'importe quoi). Utile pour les lectures douteuses (Rougier ≈ Rouger, Bouniol ≈ Bonniol).</dd>
+      <dt>Position</dt>
+      <dd>« Commence par » trouve « Chaul » → Chauliaguet, Chaulhac… ; « Contient » cherche le fragment n'importe où.</dd>
+    </dl>
+    <h3>Prénoms</h3>
+    <p>Avec les équivalences, les formes et abréviations anciennes sont ramenées à une forme de référence : Jehan, Iean → Jean ; Anth.e → Antoine ; Margte, Margarite → Marguerite ; Cath.e → Catherine ; Guilhen, Guillem → Guillaume ; Izabeau, Élisabeth → Isabeau ; Giraud, Guiraud → Géraud ; Xpofle → Christophe ; Loys → Louis… Un prénom composé (« Jean Hugues ») est trouvé par chacun de ses mots.</p>
+    <h3>Graphies</h3>
+    <p>Chaque personne a un nom et un prénom normalisés par le transcripteur, et les graphies relevées dans l'acte (« Jehan breulh »). Cochez « graphies » pour chercher aussi dans ces formes originales.</p>
+    <h3>Deux personnes</h3>
+    <p>Le bouton « 2ᵉ personne » limite aux actes où figurent les deux (par exemple les deux époux d'un contrat de mariage, ou un vendeur et un acheteur).</p>
+    <h3>Dates</h3>
+    <p>Les dates incomplètes de l'index (« 1660-00-00 ») sont conservées : une recherche « du 1660-03 au 1660-05 » inclut les actes datés seulement de 1660, signalés par « 00 ».</p>
+    <p>La recherche est conservée dans l'adresse de la page : on peut la mettre en favori ou la partager.</p>
+  </div>
+</dialog>
+
+<script src="phonetique.js"></script>
+<script src="donnees.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
