@@ -1,5 +1,6 @@
-/* Explorateur des index du notariat de Saint-Flour. */
-(function () {
+/* Explorateur des index du notariat de Saint-Flour.
+ * Lancé par chargement.js une fois l'index chargé. */
+window.demarrerExplorateur = function () {
   "use strict";
 
   var P = window.Phonetique;
@@ -403,10 +404,10 @@
   var cacheFiches = new Map();
   function chargerFiche(chemin) {
     if (cacheFiches.has(chemin)) return cacheFiches.get(chemin);
-    // Servie depuis le dépôt complet (serveur local) : la fiche est à côté ;
-    // sinon (GitHub Pages, fichier local) : on la lit sur GitHub.
+    // Site publié (actes/ copié à côté de la page), dépôt complet servi
+    // localement (../actes/), sinon lecture directe sur GitHub.
     var sources = [];
-    if (/^https?:$/.test(location.protocol) && !/github\.io$/.test(location.hostname)) sources.push("../" + encodeURI(chemin));
+    if (/^https?:$/.test(location.protocol)) sources.push(encodeURI(chemin), "../" + encodeURI(chemin));
     sources.push(URL_BRUTE + encodeURI(chemin));
     var essai = function (i) {
       return fetch(sources[i]).then(function (r) {
@@ -648,4 +649,4 @@
   }
   lireAdresse();
   rechercher();
-})();
+};
