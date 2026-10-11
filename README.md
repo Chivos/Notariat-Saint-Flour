@@ -21,7 +21,8 @@ type d'acte, lieu, notaire, rôle ou texte libre, avec :
   Guilhen = Guillaume, Margte = Marguerite…) ;
 - recherche dans les **graphies originales** ;
 - recherche de **deux personnes dans le même acte** ;
-- fiche détaillée de chaque acte, export CSV, adresse partageable.
+- fiche détaillée de chaque acte (avec la transcription complète), export CSV, adresse partageable ;
+- page **Statistiques** : période couverte, actes par année, par mois, par type et par notaire, noms, prénoms, lieux, rôles et professions les plus fréquents (un clic sur une barre lance la recherche correspondante).
 
 ### Mise à jour du site
 
