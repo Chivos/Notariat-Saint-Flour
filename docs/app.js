@@ -79,32 +79,39 @@ window.demarrerExplorateur = function () {
   }
 
   // Construit une fonction (chaîne -> booléen) pour un mot recherché.
-  function comparateur(requete, mode, position, tolerance, prenom) {
+  // Motif avec jokers : ? = une lettre, * = zéro ou plusieurs lettres.
+  function aJokers(s) { return /[?*]/.test(s); }
+  function motifJokers(requete) {
+    var q = String(requete).normalize("NFD").replace(/[\u0300-\u036f]/g, "").toUpperCase()
+      .replace(/[^A-Z?*]/g, "");
+    if (!q.replace(/\*/g, "")) return null; // « * » seul : aucun critère
+    return new RegExp("^" + q.replace(/\?/g, ".").replace(/\*+/g, ".*") + "$");
+  }
+
+  // Construit une fonction (chaîne -> booléen) pour un mot recherché.
+  function comparateur(requete, mode, tolerance, prenom) {
+    var memo = new Map();
+    if (aJokers(requete)) {
+      var motif = motifJokers(requete);
+      if (!motif) return null;
+      return function (valeur) {
+        var r = memo.get(valeur);
+        if (r === undefined) { r = motif.test(P.lettres(valeur)); memo.set(valeur, r); }
+        return r;
+      };
+    }
     var q = cle(mode, requete, prenom);
     if (!q) return null;
     // Sur un nom court, 3 lettres d'écart ne veulent plus rien dire.
     if (tolerance > 0) tolerance = Math.min(tolerance, Math.max(1, Math.floor(q.length / 3)));
-    var memo = new Map();
     return function (valeur) {
       var r = memo.get(valeur);
       if (r !== undefined) return r;
       var v = cle(mode, valeur, prenom);
-      if (!v) r = false;
-      else if (position === "contient") r = v.indexOf(q) >= 0 || (tolerance > 0 && contientApproche(v, q, tolerance));
-      else if (position === "debut") r = v.lastIndexOf(q, 0) === 0 || (tolerance > 0 && P.distance(v.slice(0, q.length), q, tolerance) <= tolerance);
-      else r = v === q || (tolerance > 0 && P.distance(v, q, tolerance) <= tolerance);
+      r = !!v && (v === q || (tolerance > 0 && P.distance(v, q, tolerance) <= tolerance));
       memo.set(valeur, r);
       return r;
     };
-  }
-
-  function contientApproche(v, q, t) {
-    for (var i = 0; i + q.length - t <= v.length; i++) {
-      for (var l = Math.max(1, q.length - t); l <= q.length + t && i + l <= v.length; l++) {
-        if (P.distance(v.substr(i, l), q, t) <= t) return true;
-      }
-    }
-    return false;
   }
 
   // Filtre « personne » : renvoie une fonction (mention -> booléen) ou null si vide.
@@ -113,17 +120,18 @@ window.demarrerExplorateur = function () {
     var nomQ = c.nom.trim();
     if (nomQ) {
       // Un nom en plusieurs mots (« de Lort ») est comparé d'un seul tenant.
-      var cmpNom = comparateur(nomQ, opts.modeNom, opts.position, opts.tolerance, false);
+      var cmpNom = comparateur(nomQ, opts.modeNom, opts.tolerance, false);
       if (cmpNom) tests.push(function (m) {
         if (cmpNom(m.p.nom)) return true;
         if (opts.graphies) for (var i = 0; i < m.tokens.length; i++) if (cmpNom(m.tokens[i])) return true;
         return false;
       });
     }
-    var motsP = P.mots(c.prenom);
+    // Mots du prénom, en gardant les jokers (« Jean Hug* »).
+    var motsP = c.prenom.split(/[\s'-]+/).filter(function (w) { return w.replace(/[^\p{L}?*]/gu, ""); });
     if (motsP.length) {
       var cmps = motsP.map(function (w) {
-        return comparateur(w, opts.modePrenom, opts.position, opts.tolerance, opts.equivPrenoms);
+        return comparateur(w, opts.modePrenom, opts.tolerance, opts.equivPrenoms);
       }).filter(Boolean);
       if (cmps.length) tests.push(function (m) {
         return cmps.every(function (cmp) {
@@ -150,7 +158,7 @@ window.demarrerExplorateur = function () {
   var form = $("#formulaire");
   var CHAMPS_TEXTE = ["nom1", "prenom1", "role1", "profession1", "residence1",
     "nom2", "prenom2", "role2", "profession2", "residence2", "du", "au", "texte"];
-  var CHAMPS_SELECT = ["modeNom", "modePrenom", "position", "tolerance", "type", "notaire"];
+  var CHAMPS_SELECT = ["modeNom", "modePrenom", "tolerance", "type", "notaire"];
   var CASES = ["equivPrenoms", "graphies"];
   var DEFAUTS = {};
 
@@ -206,7 +214,7 @@ window.demarrerExplorateur = function () {
   function rechercher() {
     var e = lireFormulaire();
     var opts = {
-      modeNom: e.modeNom, modePrenom: e.modePrenom, position: e.position,
+      modeNom: e.modeNom, modePrenom: e.modePrenom,
       tolerance: parseInt(e.tolerance, 10) || 0,
       equivPrenoms: e.equivPrenoms, graphies: e.graphies,
     };

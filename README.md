@@ -15,7 +15,8 @@ type d'acte, lieu, notaire, rôle ou texte libre, avec :
   S devant consonne, lettres doublées, finales muettes…) ;
 - proximité **phonétique** (prononciation française : C/K/QU, G/J, S/Z,
   AU/EAU/O, nasales, « ille », consonnes finales muettes…) ;
-- **tolérance** de 1 à 3 lettres, recherche « commence par » / « contient » ;
+- **tolérance** de 1 à 3 lettres ;
+- **jokers** `?` (une lettre inconnue) et `*` (plusieurs lettres) : `Chaul*`, `B?nal`, `*ac` ;
 - **équivalences de prénoms** anciens (Jehan = Jean, Anth.e = Antoine,
   Guilhen = Guillaume, Margte = Marguerite…) ;
 - recherche dans les **graphies originales** ;
