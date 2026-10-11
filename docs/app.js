@@ -145,7 +145,7 @@
   var form = $("#formulaire");
   var CHAMPS_TEXTE = ["nom1", "prenom1", "role1", "profession1", "residence1",
     "nom2", "prenom2", "role2", "profession2", "residence2", "du", "au", "texte"];
-  var CHAMPS_SELECT = ["modeNom", "modePrenom", "position", "tolerance", "type", "lieu", "notaire", "etat"];
+  var CHAMPS_SELECT = ["modeNom", "modePrenom", "position", "tolerance", "type", "notaire"];
   var CASES = ["equivPrenoms", "graphies"];
   var DEFAUTS = {};
 
@@ -165,9 +165,7 @@
   }
   var parNombre = function (a, b) { return b[1] - a[1] || a[0].localeCompare(b[0], "fr"); };
   remplirSelect("type", compter("tg").sort(parNombre));
-  remplirSelect("lieu", compter("lg").sort(function (a, b) { return a[0].localeCompare(b[0], "fr"); }));
   remplirSelect("notaire", compter("ng").sort(parNombre));
-  remplirSelect("etat", compter("etat").sort(parNombre));
 
   CHAMPS_TEXTE.concat(CHAMPS_SELECT).forEach(function (n) { DEFAUTS[n] = form.elements[n].value; });
   CASES.forEach(function (n) { DEFAUTS[n] = form.elements[n].checked; });
@@ -220,9 +218,7 @@
     var actes = [], personnes = [], marques = new Set();
     ACTES.forEach(function (a) {
       if (e.type && a.tg !== e.type) return;
-      if (e.lieu && a.lg !== e.lieu) return;
       if (e.notaire && a.ng !== e.notaire) return;
-      if (e.etat && a.etat !== e.etat) return;
       if (du || au) {
         if (!a.bornes) return;
         if (du && a.bornes[1] < du) return;
