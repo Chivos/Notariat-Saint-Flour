@@ -130,7 +130,7 @@
       </div>
     </div>
     <p id="resume-recherche" class="resume-recherche"></p>
-    <div id="liste" class="liste"></div>
+    <div id="liste" class="liste"><p class="vide">Chargement de l'index des actes…</p></div>
     <nav id="pagination" class="pagination" aria-label="Pages de résultats"></nav>
   </main>
 </div>
@@ -171,13 +171,13 @@
     <h3>Dates</h3>
     <p>Les dates incomplètes de l'index (« 1660-00-00 ») sont conservées : une recherche « du 1660-03 au 1660-05 » inclut les actes datés seulement de 1660, signalés par « 00 ».</p>
     <h3>Fiche d'acte</h3>
-    <p>Cliquez sur une ligne de résultat pour ouvrir la fiche. Dépliez « Transcription complète » pour lire la transcription diplomatique, les points douteux, les notes et les pistes de recoupement (chargées depuis le dossier <code>actes/</code> du dépôt GitHub, une connexion est donc nécessaire).</p>
+    <p>Cliquez sur une ligne de résultat pour ouvrir la fiche. Dépliez « Transcription complète » pour lire la transcription diplomatique, les points douteux, les notes et les pistes de recoupement (fichiers du dossier <code>actes/</code> du dépôt).</p>
     <p>La recherche est conservée dans l'adresse de la page : on peut la mettre en favori ou la partager.</p>
   </div>
 </dialog>
 
 <script src="phonetique.js"></script>
-<script src="donnees.js"></script>
 <script src="app.js"></script>
+<script src="chargement.js"></script>
 </body>
 </html>

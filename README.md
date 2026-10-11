@@ -2,9 +2,9 @@
 
 Index des actes notariés dépouillés (minutes Sourzat, Pagès… — AD Cantal, 3 E 263 / 264).
 
+- `actes/` : fiche complète de chaque acte (`acte.md` : métadonnées, transcription, notes).
 - `index/` : index générés (`index.json` et leurs versions Markdown : actes, personnes, lieux).
 - `docs/` : **explorateur web** des index.
-- `outils/` : scripts.
 
 ## Explorateur web
 
@@ -22,18 +22,18 @@ type d'acte, lieu, notaire, rôle ou texte libre, avec :
 - recherche de **deux personnes dans le même acte** ;
 - fiche détaillée de chaque acte, export CSV, adresse partageable.
 
-### Utilisation
+### Mise à jour du site
 
-- En local : ouvrir `docs/index.html` dans un navigateur (aucun serveur nécessaire).
-- En ligne : activer GitHub Pages (Settings → Pages → *Deploy from a branch*,
-  branche principale, dossier `/docs`).
+Il suffit de pousser sur `main` les nouveaux fichiers (`actes/…/acte.md`,
+`index/index.json`, etc.) : le workflow « Publier le site »
+(`.github/workflows/site.yml`) republie automatiquement le site en
+quelques minutes. Rien à générer à la main.
 
-### Mise à jour des données
+Réglage à faire une seule fois : *Settings → Pages → Build and deployment →
+Source : GitHub Actions*. L'avancement de chaque publication est visible
+dans l'onglet *Actions* du dépôt.
 
-Après une mise à jour de `index/index.json` :
+### Utilisation locale
 
-```sh
-python3 outils/generer_donnees_site.py
-```
-
-qui régénère `docs/donnees.js`.
+Ouvrir `docs/index.html` dans un navigateur : l'index et les transcriptions
+sont alors lus sur GitHub (connexion nécessaire).

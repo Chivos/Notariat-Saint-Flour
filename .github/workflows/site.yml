@@ -1,0 +1,50 @@
+# Publie l'explorateur sur GitHub Pages à chaque push sur main.
+# Le site assemblé contient la page (docs/), l'index (index/index.json)
+# et les fiches complètes (actes/) : il suffit de pousser les nouveaux
+# fichiers pour que le site soit à jour quelques minutes plus tard.
+#
+# Réglage à faire une seule fois : Settings → Pages → Build and deployment
+# → Source : « GitHub Actions ».
+name: Publier le site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Vérifier l'index
+        run: python3 -c "import json; d=json.load(open('index/index.json', encoding='utf-8')); print(len(d['actes']), 'actes')"
+
+      - name: Assembler le site
+        run: |
+          mkdir -p _site
+          cp -r docs/. _site/
+          cp index/index.json _site/index.json
+          cp -r actes _site/actes
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deploiement
+        uses: actions/deploy-pages@v4
