@@ -657,4 +657,16 @@ window.demarrerExplorateur = function () {
   }
   lireAdresse();
   rechercher();
+
+  // Accès pour le panneau Statistiques (statistiques.js).
+  window.Explorateur = {
+    actes: ACTES,
+    mentions: MENTIONS,
+    chercher: function (criteres, vue) {
+      ecrireFormulaire(criteres);
+      etat.vue = vue || "personnes";
+      rechercher();
+      $(".resultats").scrollIntoView({ block: "start" });
+    },
+  };
 };

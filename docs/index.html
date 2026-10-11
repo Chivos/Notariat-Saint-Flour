@@ -12,7 +12,10 @@
     <h1>Notariat de Saint-Flour</h1>
     <p class="sous-titre">Explorateur des index d'actes dépouillés — <span id="stats-globales">chargement…</span></p>
   </div>
-  <button type="button" class="bouton-discret" id="bouton-aide">Aide</button>
+  <nav class="liens-entete">
+    <button type="button" class="bouton-discret" id="bouton-stats">Statistiques</button>
+    <button type="button" class="bouton-discret" id="bouton-aide">Aide</button>
+  </nav>
 </header>
 
 <div class="mise-en-page">
@@ -171,7 +174,17 @@
 </dialog>
 
 <script src="phonetique.js"></script>
+<dialog id="statistiques" class="fiche fiche-large">
+  <div class="fiche-entete">
+    <h2>Statistiques des actes indexés</h2>
+    <button type="button" class="bouton-discret" data-fermer aria-label="Fermer">✕</button>
+  </div>
+  <div id="statistiques-corps"></div>
+  <div id="infobulle-stats" class="infobulle" role="tooltip" hidden></div>
+</dialog>
+
 <script src="app.js"></script>
+<script src="statistiques.js"></script>
 <script src="chargement.js"></script>
 </body>
 </html>
