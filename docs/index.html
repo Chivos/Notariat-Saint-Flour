@@ -23,11 +23,12 @@
     <fieldset class="bloc-personne" data-personne="1">
       <legend>Personne</legend>
       <label>Nom de famille
-        <input type="search" name="nom1" placeholder="ex. Vergne, Chastel, Pagès">
+        <input type="search" name="nom1" placeholder="ex. Vergne, Chaul*, B?nal">
       </label>
       <label>Prénom
         <input type="search" name="prenom1" placeholder="ex. Jehan, Anthoine">
       </label>
+      <p class="aide-champ">Jokers : <b>?</b> = une lettre inconnue, <b>*</b> = zéro, une ou plusieurs lettres.</p>
       <details class="avance">
         <summary>Rôle, profession, résidence</summary>
         <label>Rôle <input type="search" name="role1" placeholder="ex. testateur, témoin, confront"></label>
@@ -69,13 +70,6 @@
         </label>
       </div>
       <div class="ligne-options">
-        <label>Position
-          <select name="position">
-            <option value="entier" selected>Mot entier</option>
-            <option value="debut">Commence par</option>
-            <option value="contient">Contient</option>
-          </select>
-        </label>
         <label>Tolérance
           <select name="tolerance">
             <option value="0" selected>0 lettre</option>
@@ -159,8 +153,8 @@
       <dd>Compare la prononciation française : en plus de ce qui précède, C/K/QU, G/J, S/Z, AU/EAU/O, AI/EI/E, OU, nasales (an/en, in/ain/ein, on), « ille » (Bataille, Breuil), consonnes finales muettes (Chabot = Chabaud, Rouger = Rougé, Cussac = Cussat, Couderc = Coudert).</dd>
       <dt>Tolérance</dt>
       <dd>Accepte en plus jusqu'à 1, 2 ou 3 lettres de différence (ajout, suppression ou substitution) sur la forme normalisée choisie (limitée à une lettre pour trois lettres du nom, pour que « Chabot » ne trouve pas n'importe quoi). Utile pour les lectures douteuses (Rougier ≈ Rouger, Bouniol ≈ Bonniol).</dd>
-      <dt>Position</dt>
-      <dd>« Commence par » trouve « Chaul » → Chauliaguet, Chaulhac… ; « Contient » cherche le fragment n'importe où.</dd>
+      <dt>Jokers ? et *</dt>
+      <dd><b>?</b> remplace exactement une lettre inconnue, <b>*</b> un nombre quelconque de lettres (y compris aucune) : « B?nal » → Bonal, Banal ; « Chaul* » → Chauliaguet, Chaulhac… ; « *ac » → Cussac, Roffiac… ; « *ign* » cherche le fragment n'importe où. Avec un joker, la recherche porte sur l'orthographe du nom (et des graphies si la case est cochée), hors accents et majuscules : la proximité orthographique ou phonétique, la tolérance et les équivalences de prénoms ne s'appliquent pas.</dd>
     </dl>
     <h3>Prénoms</h3>
     <p>Avec les équivalences, les formes et abréviations anciennes sont ramenées à une forme de référence : Jehan, Iean → Jean ; Anth.e → Antoine ; Margte, Margarite → Marguerite ; Cath.e → Catherine ; Guilhen, Guillem → Guillaume ; Izabeau, Élisabeth → Isabeau ; Giraud, Guiraud → Géraud ; Xpofle → Christophe ; Loys → Louis… Un prénom composé (« Jean Hugues ») est trouvé par chacun de ses mots.</p>
