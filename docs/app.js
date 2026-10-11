@@ -313,7 +313,7 @@
           var p = m.p, a = m.acte;
           var details = [p.profession, p.residence && "à " + p.residence, p.filiation].filter(Boolean).map(esc).join(" · ");
           var graphies = p.graphies.length ? '<div class="graphies">« ' + p.graphies.map(esc).join(" », « ") + " »</div>" : "";
-          return '<tr><td data-l="Personne">' + nomComplet(p) + graphies + "</td>" +
+          return '<tr class="cliquable" data-acte="' + a.idx + '"><td data-l="Personne">' + nomComplet(p) + graphies + "</td>" +
             '<td data-l="Rôle">' + esc(p.role) + (details ? '<div class="details">' + details + "</div>" : "") + "</td>" +
             '<td data-l="Date" class="date">' + esc(dateLisible(a.date)) + "</td>" +
             '<td data-l="Acte"><button type="button" class="lien-acte" data-acte="' + a.idx + '">' + esc(a.type) + "</button>" +
@@ -326,7 +326,7 @@
           return '<span class="' + (trouve ? "personne trouvee" : "personne") + '">' + nomComplet(p) +
             (p.role ? ' <span class="role">(' + esc(couper(p.role, 40)) + ")</span>" : "") + "</span>";
         });
-        return '<article class="carte-acte">' +
+        return '<article class="carte-acte cliquable" data-acte="' + a.idx + '">' +
           '<header><button type="button" class="lien-acte titre-acte" data-acte="' + a.idx + '">' + esc(dateLisible(a.date)) + " — " + esc(a.type) + "</button>" +
           '<span class="meta">' + esc([a.lieu, a.notaire && "notaire " + a.notaire, a.cote].filter(Boolean).join(" · ")) + "</span></header>" +
           '<p class="resume">' + esc(couper(a.resume, 320)) + "</p>" +
@@ -494,8 +494,13 @@
     $(".resultats").scrollIntoView({ block: "start" });
   });
   document.addEventListener("click", function (ev) {
-    var b = ev.target.closest(".lien-acte");
-    if (b) { ouvrirFiche(parseInt(b.dataset.acte, 10)); return; }
+    // Toute la ligne (ou la carte) ouvre la fiche, sauf si l'on sélectionne du texte.
+    var b = ev.target.closest(".lien-acte, .cliquable");
+    if (b) {
+      if (!b.matches(".lien-acte") && String(window.getSelection())) return;
+      ouvrirFiche(parseInt(b.dataset.acte, 10));
+      return;
+    }
     var lp = ev.target.closest(".lien-personne");
     if (lp) {
       $("#fiche").close();
