@@ -1,49 +1,61 @@
 :root {
-  --fond: #f7f4ee;
-  --surface: #fffdf9;
-  --surface-2: #f0ebe1;
-  --texte: #2b2620;
-  --texte-doux: #6b6257;
-  --bordure: #ddd5c7;
-  --accent: #8a3b1f;
-  --accent-doux: #f3e2d8;
-  --trouve: #fff1c2;
-  --survol: #efeae1;
-  --barre: #b0562f;
-  --trouve-bord: #d9a400;
-  --rayon: 6px;
+  --fond: #f4f6fa;
+  --surface: #ffffff;
+  --surface-2: #edf1f7;
+  --texte: #182033;
+  --texte-doux: #5a6479;
+  --bordure: #dbe1eb;
+  --accent: #1f4fae;
+  --accent-doux: #e7eefb;
+  --trouve: #e7eefb;
+  --survol: #f0f4fa;
+  --barre: #2556b8;
+  --trouve-bord: #7da0e0;
+  --entete: #173b8c;
+  --entete-texte: #ffffff;
+  --or: #e2b13c;
+  --gueules: #c62a35;
+  --rayon: 8px;
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --fond: #1b1916;
-    --surface: #24211d;
-    --surface-2: #2e2a25;
-    --texte: #ece6dc;
-    --texte-doux: #a99f92;
-    --bordure: #423c34;
-    --accent: #e39a74;
-    --accent-doux: #3d2a20;
-    --trouve: #3f3519;
-    --survol: #2f2b26;
-    --barre: #c97650;
-    --trouve-bord: #c49a2c;
+    --fond: #0f1421;
+    --surface: #161d2d;
+    --surface-2: #1d2639;
+    --texte: #e6eaf2;
+    --texte-doux: #9aa4b8;
+    --bordure: #2a3450;
+    --accent: #8fb2ff;
+    --accent-doux: #1d2b4b;
+    --trouve: #1d2b4b;
+    --survol: #1b2438;
+    --barre: #4f7fd9;
+    --trouve-bord: #4f7fd9;
+    --entete: #12245a;
+    --entete-texte: #ffffff;
+    --or: #e2b13c;
+    --gueules: #e0525c;
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
-  --fond: #1b1916;
-  --surface: #24211d;
-  --surface-2: #2e2a25;
-  --texte: #ece6dc;
-  --texte-doux: #a99f92;
-  --bordure: #423c34;
-  --accent: #e39a74;
-  --accent-doux: #3d2a20;
-  --trouve: #3f3519;
-  --survol: #2f2b26;
-  --barre: #c97650;
-  --trouve-bord: #c49a2c;
+  --fond: #0f1421;
+  --surface: #161d2d;
+  --surface-2: #1d2639;
+  --texte: #e6eaf2;
+  --texte-doux: #9aa4b8;
+  --bordure: #2a3450;
+  --accent: #8fb2ff;
+  --accent-doux: #1d2b4b;
+  --trouve: #1d2b4b;
+  --survol: #1b2438;
+  --barre: #4f7fd9;
+  --trouve-bord: #4f7fd9;
+  --entete: #12245a;
+  --entete-texte: #ffffff;
+  --or: #e2b13c;
+  --gueules: #e0525c;
   color-scheme: dark;
 }
 
@@ -53,9 +65,9 @@ body {
   margin: 0;
   background: var(--fond);
   color: var(--texte);
-  font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font: 15px/1.55 "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
-h1, h2, h3 { font-family: Georgia, "Times New Roman", serif; font-weight: normal; }
+h1, h2, h3 { font-weight: 650; letter-spacing: -0.01em; }
 button, input, select { font: inherit; color: inherit; }
 
 .entete {
@@ -92,7 +104,7 @@ label input[type=search], label input[type=text], label select {
   background: var(--fond); border: 1px solid var(--bordure); border-radius: 4px; color: var(--texte);
 }
 input:focus-visible, select:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
-input.invalide { border-color: #c0392b; }
+input.invalide { border-color: var(--gueules); }
 label.case { display: flex; gap: 0.45rem; align-items: flex-start; color: var(--texte); }
 label.case input { margin-top: 0.25rem; }
 .ligne-options { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem; }
@@ -146,7 +158,7 @@ tr.cliquable:hover td, .carte-acte.cliquable:hover { background: var(--survol); 
 
 .carte-acte { background: var(--surface); border: 1px solid var(--bordure); border-radius: var(--rayon); padding: 0.75rem 0.9rem; margin-bottom: 0.6rem; }
 .carte-acte header { display: flex; flex-wrap: wrap; gap: 0.25rem 0.75rem; align-items: baseline; }
-.titre-acte { font-family: Georgia, serif; font-size: 1.05rem; }
+.titre-acte { font-weight: 600; font-size: 1rem; }
 .carte-acte .meta { font-size: 0.8rem; color: var(--texte-doux); }
 .carte-acte .resume { margin: 0.4rem 0; font-size: 0.9rem; }
 .carte-acte .personnes { margin: 0; font-size: 0.85rem; color: var(--texte-doux); }
@@ -187,7 +199,7 @@ details.transcription > summary { cursor: pointer; padding: 0.6rem 0.8rem; font-
 details.transcription > summary:hover { background: var(--survol); }
 details.transcription[open] > summary { border-bottom: 1px solid var(--bordure); }
 .transcription-corps, .source-fiche { padding: 0 0.9rem; }
-.transcription-corps h4 { font-family: Georgia, serif; font-weight: normal; font-size: 1.05rem; color: var(--accent); margin: 1rem 0 0.4rem; }
+.transcription-corps h4 { font-weight: 600; font-size: 1.05rem; color: var(--accent); margin: 1rem 0 0.4rem; }
 .transcription-corps h5 { font-size: 0.95rem; margin: 0.8rem 0 0.3rem; }
 .transcription-corps ul { padding-left: 1.2rem; }
 .transcription-corps li { margin: 0.2rem 0; }
@@ -275,3 +287,37 @@ label.en-ligne select { width: auto; margin: 0; }
 label.case { margin: 0.2rem 0; font-size: 0.82rem; }
 .actions-formulaire { padding-top: 0.35rem; text-align: right; }
 .actions-formulaire .bouton-discret { background: none; border: 0; padding: 0.2rem 0; }
+
+/* ---------- thème « Saint-Flour » : azur, or et gueules du blason ---------- */
+.entete { background: var(--entete); color: var(--entete-texte); border-bottom: 3px solid var(--or); padding: 0.8rem 16px; }
+.entete .marque { display: flex; align-items: center; gap: 0.8rem; min-width: 0; }
+.entete .blason { flex: none; width: 34px; height: 40px; }
+.entete h1 { font-size: 1.35rem; font-weight: 700; color: var(--entete-texte); }
+.entete .sous-titre { color: rgb(255 255 255 / 0.78); font-size: 0.85rem; }
+.entete .bouton-discret { color: var(--entete-texte); font-weight: 500; padding: 0.3rem 0; border-bottom: 2px solid transparent; }
+.entete .bouton-discret:hover { text-decoration: none; border-bottom-color: var(--or); }
+.liens-entete { flex-wrap: wrap; justify-content: flex-end; }
+
+.panneau, table, .carte-acte, .graphique, .tuile { border-radius: var(--rayon); }
+.panneau { box-shadow: 0 1px 2px rgb(16 24 40 / 0.05); }
+legend, details.options-noms > summary { color: var(--accent); }
+label input[type=search], label input[type=text], label select { background: var(--surface); border-radius: 6px; }
+label input[type=search]:focus, label input[type=text]:focus, label select:focus { border-color: var(--accent); outline: none;
+  box-shadow: 0 0 0 3px var(--accent-doux); }
+.onglets button[aria-selected=true] { color: var(--accent); }
+.compteur { background: var(--accent-doux); color: var(--accent); }
+th { background: var(--surface-2); }
+.carte-acte { box-shadow: 0 1px 2px rgb(16 24 40 / 0.04); }
+.personne.trouvee { background: var(--trouve); box-shadow: inset 0 -2px 0 var(--trouve-bord); border-radius: 3px; }
+.pagination button[aria-current=page] { color: #fff; }
+.accueil { background: var(--surface); }
+.tuile { background: var(--surface); border-top: 3px solid var(--accent); }
+.tuile-valeur { color: var(--texte); }
+.graphique { background: var(--surface); }
+details.transcription { background: var(--surface-2); }
+pre.texte-acte { background: var(--surface); }
+.avertissement { border-left-color: var(--gueules); background: var(--surface-2); }
+@media (max-width: 640px) {
+  .entete { flex-wrap: wrap; }
+  .entete .blason { width: 28px; height: 33px; }
+}
