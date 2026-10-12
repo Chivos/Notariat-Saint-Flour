@@ -584,6 +584,14 @@ window.demarrerExplorateur = function () {
     clearTimeout(minuteur);
     minuteur = setTimeout(rechercher, 200);
   }
+  // Résumé des options de proximité (affiché quand le bloc est replié).
+  function resumerOptions() {
+    var nomMode = { exact: "exacte", ortho: "ortho.", phon: "phonét." };
+    var t = parseInt(form.elements.tolerance.value, 10) || 0;
+    $("#resume-options").textContent = "— nom " + nomMode[form.elements.modeNom.value] +
+      ", prénom " + nomMode[form.elements.modePrenom.value] + (t ? ", ±" + t : "");
+  }
+  form.addEventListener("change", resumerOptions);
   form.addEventListener("input", rechercherBientot);
   form.addEventListener("change", rechercherBientot);
   form.addEventListener("submit", function (ev) { ev.preventDefault(); rechercher(); });
@@ -666,6 +674,7 @@ window.demarrerExplorateur = function () {
     $("#bouton-filtres").setAttribute("aria-expanded", "false");
   }
   lireAdresse();
+  resumerOptions();
   rechercher();
 
   // Accès pour le panneau Statistiques (statistiques.js).

@@ -27,12 +27,12 @@
     <fieldset class="bloc-personne" data-personne="1">
       <legend>Personne</legend>
       <label>Nom de famille
-        <input type="search" name="nom1" placeholder="ex. Vergne, Chaul*, B?nal">
+        <input type="search" name="nom1" placeholder="ex. Vergne, Chaul*, B?nal" title="Jokers : ? = une lettre inconnue, * = zéro, une ou plusieurs lettres">
       </label>
       <label>Prénom
-        <input type="search" name="prenom1" placeholder="ex. Jehan, Anthoine">
+        <input type="search" name="prenom1" placeholder="ex. Jehan, Anth*" title="Jokers : ? = une lettre inconnue, * = zéro, une ou plusieurs lettres">
       </label>
-      <p class="aide-champ">Jokers : <b>?</b> = une lettre inconnue, <b>*</b> = zéro, une ou plusieurs lettres.</p>
+      <p class="aide-champ">Jokers : <b>?</b> = une lettre, <b>*</b> = plusieurs</p>
       <details class="avance">
         <summary>Rôle, profession, résidence</summary>
         <label>Rôle <input type="search" name="role1" placeholder="ex. testateur, témoin, confront"></label>
@@ -53,10 +53,10 @@
       </details>
       <button type="button" class="bouton-discret" id="retirer-personne-2">Retirer cette personne</button>
     </fieldset>
-    <button type="button" class="bouton-discret" id="ajouter-personne-2">+ Chercher une 2ᵉ personne dans le même acte</button>
+    <button type="button" class="bouton-discret" id="ajouter-personne-2">+ 2ᵉ personne dans le même acte</button>
 
-    <fieldset>
-      <legend>Proximité des noms</legend>
+    <details class="options-noms">
+      <summary>Proximité des noms <span id="resume-options" class="resume-options"></span></summary>
       <div class="ligne-options">
         <label>Nom
           <select name="modeNom">
@@ -73,38 +73,37 @@
           </select>
         </label>
       </div>
-      <div class="ligne-options">
-        <label>Tolérance
-          <select name="tolerance">
-            <option value="0" selected>0 lettre</option>
-            <option value="1">1 lettre</option>
-            <option value="2">2 lettres</option>
-            <option value="3">3 lettres</option>
-          </select>
-        </label>
-      </div>
-      <label class="case"><input type="checkbox" name="equivPrenoms" checked> Équivalences de prénoms (Jehan = Jean, Anth.e = Antoine, Guilhen = Guillaume…)</label>
+      <label class="en-ligne">Tolérance
+        <select name="tolerance">
+          <option value="0" selected>0 lettre</option>
+          <option value="1">1 lettre</option>
+          <option value="2">2 lettres</option>
+          <option value="3">3 lettres</option>
+        </select>
+      </label>
+      <label class="case"><input type="checkbox" name="equivPrenoms" checked> Équivalences de prénoms (Jehan = Jean, Anth.e = Antoine…)</label>
       <label class="case"><input type="checkbox" name="graphies" checked> Chercher aussi dans les graphies originales</label>
-    </fieldset>
+    </details>
 
     <fieldset>
       <legend>Dates</legend>
       <div class="ligne-options">
-        <label>Du <input type="text" name="du" placeholder="1650 ou 1650-03" inputmode="numeric" pattern="\d{4}(-\d{1,2}(-\d{1,2})?)?"></label>
-        <label>Au <input type="text" name="au" placeholder="1660-12-31" inputmode="numeric" pattern="\d{4}(-\d{1,2}(-\d{1,2})?)?"></label>
+        <label>Du <input type="text" name="du" placeholder="1650 ou 1650-03" inputmode="numeric" pattern="\d{4}(-\d{1,2}(-\d{1,2})?)?" title="Année, année-mois ou date complète ; les jours et mois inconnus (« 00 ») sont inclus"></label>
+        <label>Au <input type="text" name="au" placeholder="1660-12-31" inputmode="numeric" pattern="\d{4}(-\d{1,2}(-\d{1,2})?)?" title="Année, année-mois ou date complète ; les jours et mois inconnus (« 00 ») sont inclus"></label>
       </div>
-      <p class="aide-champ">Année, année-mois ou date complète. Le jour et le mois inconnus (« 00 ») sont inclus.</p>
     </fieldset>
 
     <fieldset>
       <legend>Acte</legend>
-      <label>Type d'acte <select name="type"><option value="">Tous</option></select></label>
-      <label>Notaire <select name="notaire"><option value="">Tous</option></select></label>
-      <label>Recherche libre <input type="search" name="texte" placeholder="résumé, mots-clés, lieux cités, sommes, cote"></label>
+      <div class="ligne-options">
+        <label>Type <select name="type"><option value="">Tous</option></select></label>
+        <label>Notaire <select name="notaire"><option value="">Tous</option></select></label>
+      </div>
+      <label>Recherche libre <input type="search" name="texte" placeholder="résumé, mots-clés, lieux, cote…"></label>
     </fieldset>
 
     <div class="actions-formulaire">
-      <button type="button" id="reinitialiser">Réinitialiser</button>
+      <button type="button" class="bouton-discret" id="reinitialiser">Réinitialiser la recherche</button>
     </div>
     </div>
   </form>

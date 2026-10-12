@@ -256,3 +256,22 @@ ol.barres li:hover { background: var(--survol); }
 .accueil p { margin: 0.4rem auto; max-width: 36rem; }
 .accueil strong { color: var(--texte); }
 .outils-resultats .bouton-discret:disabled { color: var(--texte-doux); opacity: 0.5; cursor: default; text-decoration: none; }
+
+/* ---------- formulaire condensé ---------- */
+.panneau { padding: 0.6rem 0.75rem; }
+fieldset { margin: 0 0 0.35rem; padding: 0.45rem 0 0.1rem; }
+label { margin: 0.25rem 0; }
+label input[type=search], label input[type=text], label select { padding: 0.3rem 0.45rem; margin-top: 0.1rem; }
+.aide-champ { margin: 0 0 0.2rem; }
+details.avance summary { margin: 0.15rem 0; }
+#ajouter-personne-2 { padding: 0 0 0.35rem; text-align: left; }
+details.options-noms { border-top: 1px solid var(--bordure); padding: 0.45rem 0 0.2rem; margin-bottom: 0.35rem; }
+details.options-noms > summary { cursor: pointer; font-weight: 600; font-size: 0.8rem; text-transform: uppercase;
+  letter-spacing: 0.05em; color: var(--accent); }
+.resume-options { text-transform: none; letter-spacing: 0; font-weight: normal; color: var(--texte-doux); font-size: 0.8rem; }
+details.options-noms[open] .resume-options { display: none; }
+label.en-ligne { display: flex; align-items: center; gap: 0.5rem; }
+label.en-ligne select { width: auto; margin: 0; }
+label.case { margin: 0.2rem 0; font-size: 0.82rem; }
+.actions-formulaire { padding-top: 0.35rem; text-align: right; }
+.actions-formulaire .bouton-discret { background: none; border: 0; padding: 0.2rem 0; }
