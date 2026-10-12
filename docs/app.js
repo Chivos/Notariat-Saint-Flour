@@ -223,13 +223,18 @@ window.demarrerExplorateur = function () {
       ? filtrePersonne({ nom: e.nom2, prenom: e.prenom2, role: e.role2, profession: e.profession2, residence: e.residence2 }, opts)
       : null;
 
+    // Tant qu'aucun critère n'est saisi, la zone de résultats reste vierge.
+    var champs = ["nom1", "prenom1", "role1", "profession1", "residence1", "du", "au", "texte", "type", "notaire"];
+    if (!$("#bloc-personne-2").hidden) champs.push("nom2", "prenom2", "role2", "profession2", "residence2");
+    etat.attente = !champs.some(function (n) { return String(e[n] || "").trim(); });
+
     var du = bornesSaisie(e.du, false), au = bornesSaisie(e.au, true);
     form.elements.du.classList.toggle("invalide", !!e.du.trim() && !du);
     form.elements.au.classList.toggle("invalide", !!e.au.trim() && !au);
     var motsTexte = plat(e.texte).split(/\s+/).filter(Boolean);
 
     var actes = [], personnes = [], marques = new Set();
-    ACTES.forEach(function (a) {
+    if (!etat.attente) ACTES.forEach(function (a) {
       if (e.type && a.tg !== e.type) return;
       if (e.notaire && a.ng !== e.notaire) return;
       if (du || au) {
@@ -318,7 +323,12 @@ window.demarrerExplorateur = function () {
       : "";
 
     var html;
-    if (!liste.length) {
+    $("#export-csv").disabled = !liste.length;
+    if (etat.attente) {
+      html = '<div class="accueil"><p><strong>Saisissez un critère de recherche</strong> pour afficher les actes et les personnes correspondants : ' +
+        "nom de famille, prénom, dates, type d'acte, notaire ou recherche libre.</p>" +
+        "<p>Exemples : nom « Vergne » (proximité phonétique), « Chaul* » (jokers), prénom « Jehan », dates « 1660 » à « 1662 ».</p></div>";
+    } else if (!liste.length) {
       html = '<p class="vide">Aucun résultat. Essayez la proximité phonétique, une tolérance d\'une lettre, ou élargissez les dates.</p>';
     } else if (etat.vue === "personnes") {
       html = '<table class="table-personnes"><thead><tr><th>Personne</th><th>Rôle, qualité</th><th>Date</th><th>Acte</th></tr></thead><tbody>' +
