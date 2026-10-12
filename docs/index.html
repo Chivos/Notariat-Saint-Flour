@@ -15,6 +15,7 @@
   <nav class="liens-entete">
     <button type="button" class="bouton-discret" id="bouton-stats">Statistiques</button>
     <button type="button" class="bouton-discret" id="bouton-aide">Aide</button>
+    <button type="button" class="bouton-discret" id="bouton-apropos">À propos</button>
   </nav>
 </header>
 
@@ -174,6 +175,27 @@
 </dialog>
 
 <script src="phonetique.js"></script>
+<dialog id="apropos" class="fiche">
+  <div class="fiche-entete">
+    <h2>À propos</h2>
+    <button type="button" class="bouton-discret" data-fermer aria-label="Fermer">✕</button>
+  </div>
+  <div class="texte-aide">
+    <p class="avertissement">Les transcriptions et index présentés ici sont fournis <strong>sans aucune garantie</strong>.</p>
+    <h3>Transcriptions</h3>
+    <ul>
+      <li>Les transcriptions des actes, leurs résumés et les index (personnes, lieux, sommes, mots-clés) ont été <strong>entièrement réalisés par intelligence artificielle</strong>, avec le modèle Opus 5.5.</li>
+      <li><strong>Aucune modification manuelle ni vérification</strong> n'a été faite : lectures erronées, noms mal lus, dates ou sommes inexactes sont possibles. Les passages douteux sont signalés entre crochets avec un point d'interrogation (« [Vernoges?] ») et détaillés dans la rubrique « Points douteux » de chaque fiche.</li>
+      <li>Avant toute utilisation (généalogie, histoire, publication), <strong>reportez-vous à l'acte original</strong> conservé aux Archives départementales du Cantal, à l'aide de la cote indiquée dans chaque fiche.</li>
+    </ul>
+    <h3>Cette page</h3>
+    <ul>
+      <li>Cette page de consultation a elle-même été « vibe-codée » : elle a été écrite par une IA à partir de demandes en langage naturel, sans relecture du code par un développeur.</li>
+      <li>Les rapprochements orthographiques et phonétiques des noms sont des aides à la recherche : ils peuvent proposer des faux rapprochements ou en manquer.</li>
+    </ul>
+  </div>
+</dialog>
+
 <dialog id="statistiques" class="fiche fiche-large">
   <div class="fiche-entete">
     <h2>Statistiques des actes indexés</h2>

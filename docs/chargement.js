@@ -68,6 +68,14 @@
     };
   }
 
+  // « À propos » doit rester consultable même si l'index ne se charge pas.
+  document.getElementById("bouton-apropos").addEventListener("click", function () {
+    document.getElementById("apropos").showModal();
+  });
+  var dlgApropos = document.getElementById("apropos");
+  dlgApropos.querySelector("[data-fermer]").addEventListener("click", function () { dlgApropos.close(); });
+  dlgApropos.addEventListener("click", function (ev) { if (ev.target === dlgApropos) dlgApropos.close(); });
+
   var sources = [];
   if (/^https?:$/.test(location.protocol)) sources.push("index.json", "../index/index.json");
   sources.push(URL_BRUTE + "index/index.json");
