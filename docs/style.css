@@ -291,7 +291,6 @@ label.case { margin: 0.2rem 0; font-size: 0.82rem; }
 /* ---------- thème « Saint-Flour » : azur, or et gueules du blason ---------- */
 .entete { background: var(--entete); color: var(--entete-texte); border-bottom: 3px solid var(--or); padding: 0.8rem 16px; }
 .entete .marque { display: flex; align-items: center; gap: 0.8rem; min-width: 0; }
-.entete .blason { flex: none; width: 34px; height: 40px; }
 .entete h1 { font-size: 1.35rem; font-weight: 700; color: var(--entete-texte); }
 .entete .sous-titre { color: rgb(255 255 255 / 0.78); font-size: 0.85rem; }
 .entete .bouton-discret { color: var(--entete-texte); font-weight: 500; padding: 0.3rem 0; border-bottom: 2px solid transparent; }
@@ -319,5 +318,4 @@ pre.texte-acte { background: var(--surface); }
 .avertissement { border-left-color: var(--gueules); background: var(--surface-2); }
 @media (max-width: 640px) {
   .entete { flex-wrap: wrap; }
-  .entete .blason { width: 28px; height: 33px; }
 }
