@@ -19,6 +19,7 @@
   </div>
   <nav class="liens-entete">
     <button type="button" class="bouton-discret" id="bouton-stats">Statistiques</button>
+    <button type="button" class="bouton-discret" id="bouton-familles">Familles <span class="etiquette-beta">expérimental</span></button>
     <button type="button" class="bouton-discret" id="bouton-aide">Aide</button>
     <button type="button" class="bouton-discret" id="bouton-apropos">À propos</button>
   </nav>
@@ -172,6 +173,8 @@
     <p>Le bouton « 2ᵉ personne » limite aux actes où figurent les deux (par exemple les deux époux d'un contrat de mariage, ou un vendeur et un acheteur).</p>
     <h3>Dates</h3>
     <p>Les dates incomplètes de l'index (« 1660-00-00 ») sont conservées : une recherche « du 1660-03 au 1660-05 » inclut les actes datés seulement de 1660, signalés par « 00 ».</p>
+    <h3>Familles (expérimental)</h3>
+    <p>Le bouton « Familles » reconstitue automatiquement, pour un nom de famille, des groupes familiaux à partir des liens de parenté écrits dans les index (filiations, « veuve de… », « père de l'épouse », époux des contrats de mariage). C'est une approche exploratoire : vérifiez toujours dans les actes.</p>
     <h3>Fiche d'acte</h3>
     <p>Cliquez sur une ligne de résultat pour ouvrir la fiche. Dépliez « Transcription complète » pour lire la transcription diplomatique, les points douteux, les notes et les pistes de recoupement (fichiers du dossier <code>actes/</code> du dépôt).</p>
     <p>La recherche est conservée dans l'adresse de la page : on peut la mettre en favori ou la partager.</p>
@@ -200,6 +203,31 @@
   </div>
 </dialog>
 
+<dialog id="familles" class="fiche fiche-large">
+  <div class="fiche-entete">
+    <h2>Familles reconstituées <span class="etiquette-beta">expérimental</span></h2>
+    <button type="button" class="bouton-discret" data-fermer aria-label="Fermer">✕</button>
+  </div>
+  <div class="familles-corps">
+    <div class="avertissement">
+      <strong>Approche exploratoire.</strong> Les arbres ci-dessous sont construits automatiquement à partir des liens de parenté
+      écrits dans les index (« fils de feu Pierre ROCHE et de Jeanne ALAUIOL », « veuve d'Antoine MEYRE », « père de l'épouse »…)
+      et des époux des contrats de mariage. Les mentions d'un même nom sont regroupées en une seule personne quand elles partagent
+      un parent, un conjoint ou un enfant. Des homonymes peuvent être confondus, une même personne dédoublée, et les erreurs de
+      lecture des transcriptions se propagent : <strong>vérifiez toujours dans les actes</strong>.
+    </div>
+    <form id="familles-form" class="familles-form" autocomplete="off">
+      <label>Nom de famille
+        <input type="search" id="familles-nom" list="familles-liste-noms" placeholder="ex. ROCHE, CUSSAC, HUGON">
+      </label>
+      <button type="submit" class="bouton-principal">Reconstituer</button>
+    </form>
+    <datalist id="familles-liste-noms"></datalist>
+    <p id="familles-suggestions" class="familles-suggestions"></p>
+    <div id="familles-resultats"></div>
+  </div>
+</dialog>
+
 <dialog id="statistiques" class="fiche fiche-large">
   <div class="fiche-entete">
     <h2>Statistiques des actes indexés</h2>
@@ -211,6 +239,8 @@
 
 <script src="app.js"></script>
 <script src="statistiques.js"></script>
+<script src="familles-moteur.js"></script>
+<script src="familles.js"></script>
 <script src="chargement.js"></script>
 </body>
 </html>

@@ -319,3 +319,40 @@ pre.texte-acte { background: var(--surface); }
 @media (max-width: 640px) {
   .entete { flex-wrap: wrap; }
 }
+
+/* ---------- familles (expérimental) ---------- */
+.etiquette-beta { display: inline-block; font-size: 0.65rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em;
+  padding: 0.05rem 0.35rem; border-radius: 999px; background: var(--or); color: #1b1b1b; vertical-align: middle; margin-left: 0.2rem; }
+.familles-corps { padding: 0.25rem 1rem 1rem; }
+.familles-form { display: flex; gap: 0.6rem; align-items: end; flex-wrap: wrap; margin: 0.9rem 0 0.4rem; }
+.familles-form label { flex: 1 1 260px; margin: 0; }
+.bouton-principal { padding: 0.45rem 1rem; background: var(--accent); color: #fff; border: 0; border-radius: 6px; font-weight: 600; cursor: pointer; }
+.bouton-principal:hover { filter: brightness(1.1); }
+:root[data-theme="dark"] .bouton-principal { color: #0f1421; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .bouton-principal { color: #0f1421; } }
+.familles-suggestions { font-size: 0.82rem; color: var(--texte-doux); display: flex; flex-wrap: wrap; gap: 0.35rem; align-items: center; margin: 0 0 1rem; }
+.puce { background: var(--accent-doux); color: var(--accent); border: 0; border-radius: 999px; padding: 0.15rem 0.6rem; font-size: 0.8rem; cursor: pointer; }
+.puce:hover { filter: brightness(0.95); }
+.fam-resume { color: var(--texte-doux); font-size: 0.9rem; }
+.fam-resume strong { color: var(--texte); }
+.fam-arbre { background: var(--surface); border: 1px solid var(--bordure); border-radius: var(--rayon); padding: 0.6rem 0.9rem; margin-bottom: 0.75rem; }
+.fam-arbre h3 { margin: 0 0 0.4rem; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--texte-doux); font-weight: 600; }
+ul.fam-racine, ul.fam-enfants { list-style: none; margin: 0; padding: 0; }
+ul.fam-enfants { margin-left: 0.6rem; padding-left: 1.1rem; border-left: 2px solid var(--accent-doux); }
+ul.fam-enfants > li { position: relative; }
+ul.fam-enfants > li::before { content: ""; position: absolute; left: -1.1rem; top: 0.95rem; width: 0.85rem; border-top: 2px solid var(--accent-doux); }
+.fam-ligne { padding: 0.2rem 0; }
+.fam-conjoint { margin-left: 1.4rem; }
+.fam-lien { color: var(--or); font-weight: 700; margin-right: 0.35rem; }
+.fam-personne { background: none; border: 0; padding: 0.1rem 0.2rem; margin-left: -0.2rem; border-radius: 4px; cursor: pointer; color: var(--texte); font-size: 0.95rem; }
+.fam-personne:hover, .fam-personne[aria-expanded=true] { background: var(--accent-doux); }
+.fam-meta { font-size: 0.8rem; color: var(--texte-doux); margin-left: 0.4rem; }
+.badge { display: inline-block; font-size: 0.7rem; padding: 0 0.4rem; border-radius: 999px; background: var(--surface-2); color: var(--texte-doux); margin-left: 0.35rem; }
+.badge-attention { background: color-mix(in srgb, var(--gueules) 14%, transparent); color: var(--gueules); }
+.fam-detail { margin: 0.3rem 0 0.5rem 0.4rem; padding: 0.5rem 0.7rem; background: var(--surface-2); border-radius: 6px; font-size: 0.85rem; }
+.fam-detail ul { margin: 0; padding-left: 1.1rem; }
+.fam-detail p { margin: 0 0 0.3rem; }
+.fam-filiation { color: var(--texte-doux); }
+.fam-renvoi { color: var(--texte-doux); font-size: 0.9rem; }
+.fam-isoles summary { cursor: pointer; color: var(--accent); font-weight: 600; margin: 0.5rem 0; }
+.fam-isoles ul { list-style: none; padding: 0; columns: 2 380px; }
