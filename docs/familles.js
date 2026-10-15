@@ -9,6 +9,7 @@
   var corps = document.getElementById("familles-resultats");
   var champ = document.getElementById("familles-nom");
   var base = null;
+  var courant = null; // groupes familiaux affichés (pour l'arbre graphique)
 
   function esc(s) {
     return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
@@ -115,7 +116,8 @@
     });
     composantes.sort(function (a, b) { return b.length - a.length; });
 
-    var html = composantes.map(function (comp) {
+    courant = { composantes: composantes, membres: fam.membres };
+    var html = composantes.map(function (comp, numero) {
       var dans = new Set(comp.map(function (x) { return x.id; }));
       var parentsDans = function (x) { var n = 0; x.parents.forEach(function (e) { if (dans.has(e.ind.id)) n++; }); return n; };
       var conjointAvecParents = function (x) {
@@ -153,7 +155,9 @@
       // Personnes restées hors arbre (liées seulement par un conjoint déjà placé, etc.).
       var restants = comp.filter(function (x) { return !places.has(x.id); });
       contenu += restants.map(function (r) { return rendre(r, "", ""); }).join("");
-      return '<section class="fam-arbre"><h3>' + comp.length + " personnes liées</h3><ul class=\"fam-racine\">" + contenu + "</ul></section>";
+      return '<section class="fam-arbre"><div class="fam-arbre-entete"><h3>' + comp.length + " personnes liées</h3>" +
+        '<button type="button" class="bouton-arbre" data-comp="' + numero + '">Arbre graphique</button></div>' +
+        '<ul class="fam-racine">' + contenu + "</ul></section>";
     }).join("");
 
     return { html: html, nbArbres: composantes.length, isoles: isoles };
@@ -196,6 +200,11 @@
     afficher(champ.value);
   });
   dialogue.addEventListener("click", function (ev) {
+    var bArbre = ev.target.closest(".bouton-arbre");
+    if (bArbre && courant) {
+      window.ArbreGraphique.ouvrir(courant.composantes[parseInt(bArbre.dataset.comp, 10)], courant.membres, champ.value.trim().toUpperCase());
+      return;
+    }
     var puce = ev.target.closest(".puce");
     if (puce) { champ.value = puce.dataset.nom; afficher(puce.dataset.nom); return; }
     var b = ev.target.closest(".fam-personne");

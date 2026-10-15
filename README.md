@@ -22,7 +22,7 @@ type d'acte, lieu, notaire, rôle ou texte libre, avec :
 - recherche dans les **graphies originales** ;
 - recherche de **deux personnes dans le même acte** ;
 - fiche détaillée de chaque acte (avec la transcription complète), export CSV, adresse partageable ;
-- onglet **Familles** (expérimental) : reconstitution automatique de groupes familiaux pour un nom, à partir des filiations, des mentions « veuve de… », « père de l'épouse »… et des époux des contrats de mariage ;
+- onglet **Familles** (expérimental) : reconstitution automatique de groupes familiaux pour un nom, à partir des filiations, des mentions « veuve de… », « père de l'épouse »… et des époux des contrats de mariage, avec un arbre généalogique graphique (zoom, téléchargement en SVG) ;
 - page **Statistiques** : période couverte, actes par année, par mois, par type et par notaire, noms, prénoms, lieux, rôles et professions les plus fréquents (un clic sur une barre lance la recherche correspondante).
 
 ### Mise à jour du site

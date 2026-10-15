@@ -356,3 +356,32 @@ ul.fam-enfants > li::before { content: ""; position: absolute; left: -1.1rem; to
 .fam-renvoi { color: var(--texte-doux); font-size: 0.9rem; }
 .fam-isoles summary { cursor: pointer; color: var(--accent); font-weight: 600; margin: 0.5rem 0; }
 .fam-isoles ul { list-style: none; padding: 0; columns: 2 380px; }
+
+/* ---------- arbre graphique ---------- */
+.fam-arbre-entete { display: flex; align-items: center; justify-content: space-between; gap: 0.5rem; margin-bottom: 0.4rem; }
+.fam-arbre-entete h3 { margin: 0; }
+.bouton-arbre { background: var(--accent); color: #fff; border: 0; border-radius: 6px; padding: 0.3rem 0.75rem; font-size: 0.82rem; font-weight: 600; cursor: pointer; }
+.bouton-arbre:hover { filter: brightness(1.1); }
+:root[data-theme="dark"] .bouton-arbre { color: #0f1421; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .bouton-arbre { color: #0f1421; } }
+dialog.fiche-plein { width: calc(100vw - 32px); max-width: none; height: calc(100vh - 32px); display: none; flex-direction: column; overflow: hidden; }
+dialog.fiche-plein[open] { display: flex; }
+.arbre-outils { display: flex; align-items: center; gap: 0.35rem; flex-wrap: wrap; }
+.bouton-outil { background: var(--surface-2); border: 1px solid var(--bordure); border-radius: 6px; padding: 0.2rem 0.6rem; cursor: pointer; font-size: 0.85rem; min-width: 2rem; }
+.bouton-outil:hover { background: var(--accent-doux); }
+.arbre-echelle { font-size: 0.8rem; color: var(--texte-doux); min-width: 3rem; text-align: center; font-variant-numeric: tabular-nums; }
+.arbre-legende { margin: 0; padding: 0.4rem 1rem; font-size: 0.78rem; color: var(--texte-doux); border-bottom: 1px solid var(--bordure); }
+.pastille { display: inline-block; width: 0.7rem; height: 0.7rem; border-radius: 2px; vertical-align: -1px; margin-left: 0.4rem; }
+.pastille-h { background: #2f63c4; } .pastille-f { background: #c8457a; } .pastille-i { background: #8a93a6; }
+.arbre-legende .or { color: var(--or); font-weight: 700; }
+.arbre-zone { flex: 1 1 auto; overflow: auto; background: var(--surface-2); cursor: grab; min-height: 0; }
+.arbre-zone.glisse { cursor: grabbing; user-select: none; }
+.arbre-zone svg { display: block; }
+.arbre-zone .case:hover rect:first-of-type, .arbre-zone .case:focus rect:first-of-type { stroke-width: 3; }
+.arbre-zone .case:focus { outline: none; }
+.arbre-detail { flex: 0 0 auto; max-height: 38%; overflow: auto; padding: 0.6rem 1rem 0.8rem; border-top: 1px solid var(--bordure); background: var(--surface); font-size: 0.88rem; }
+.arbre-detail h3 { margin: 0 0 0.3rem; font-size: 1rem; }
+.arbre-detail ul { margin: 0.3rem 0 0; padding-left: 1.1rem; }
+.arbre-relations { display: grid; grid-template-columns: max-content 1fr; gap: 0.1rem 0.8rem; margin: 0.2rem 0; }
+.arbre-relations dt { color: var(--texte-doux); }
+.arbre-relations dd { margin: 0; }

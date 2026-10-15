@@ -434,6 +434,40 @@
       ind.residence = plusFrequent(ind.residences);
       ind.cle = cleNom(ind.nom) + "|" + clePrenom(ind.prenom);
     });
+    // Sexe probable (pour l'affichage) : d'après les rôles et filiations (« fille de », « veuve de »,
+    // « vendeur »…), puis d'après les prénoms usuels, puis par opposition au conjoint.
+    var FEM = /^(?:fille|épouse|future épouse|veuve|femme|mère|sœur|soeur|venderesse|vendeuse|testatrice|donatrice|acquéreuse|héritière|débitrice|créancière|cédante|preneuse|tante|nièce|cousine|belle-mère|belle-sœur|servante|damoiselle|demoiselle|dame)\b/i;
+    var MASC = /^(?:fils|filz|époux|futur époux|mari|père|frère|vendeur|testateur|donateur|acquéreur|héritier|débiteur|créancier|cédant|preneur|oncle|neveu|cousin|beau-père|beau-frère|gendre|prêtre|curé|notaire|sieur|marchand|laboureur|praticien|clerc)\b/i;
+    // Formes écrites (sans accents) : la clé orthographique confondrait Jean et Jeanne.
+    var cles = function (liste) { var r = new Set(); liste.split(" ").forEach(function (n) { r.add(P.lettres(n)); }); return r; };
+    var PRENOMS_F = cles("Marguerite Catherine Jeanne Antoinette Marie Anne Isabeau Isabelle Agnès Françoise Louise Gabrielle Hélips Helix " +
+      "Jehanne Delphine Madeleine Raymonde Jacquette Maronne Peyronnelle Astruge Blanche Guillemette Sibylle Claudine Lucrèce Perrette Susanne " +
+      "Toinette Barthélemie Alix Hélène Michelle Philippine Gasparde Jacqueline Dauphine Flourette Bonne Vidale Durande Pétronille");
+    var PRENOMS_M = cles("Jean Pierre Antoine Guillaume Jacques Étienne François Durand Vidal Mathieu Géraud Barthélemy Bernard Michel " +
+      "Louis Charles Hugues Gaspard Balthazar Georges Bertrand Gilbert Blaise André Grégoire Philippe Raymond Astorg Adrien Laurent " +
+      "Simon Nicolas Sébastien Germain Robert Gabriel Philibert Aymard Bonnet Guillen Guilhen Dominique Vital Hector Armand Julien " +
+      "Martin Thomas Joseph Paul Amable Benoît Christophe Martial Marc Mathias Abraham Jérôme Gilles Denis Léonard Annet Antonin");
+    INDIV.forEach(function (ind) {
+      var f = 0, m = 0;
+      ind.mentions.forEach(function (x) {
+        [x.m.p.role, x.m.p.filiation].forEach(function (t) {
+          t = nettoyer(t).replace(/^(?:probablement|sans doute|second|seconde|première|premier|aîné|aînée|feue?)\s+/i, "");
+          if (FEM.test(t)) f++; else if (MASC.test(t)) m++;
+        });
+      });
+      if (f > m) ind.sexe = "F";
+      else if (m > f) ind.sexe = "M";
+      else {
+        // Prénom usuel (forme écrite : Jeanne ≠ Jean).
+        var pr = P.lettres(ind.prenom.split(" ")[0]).replace(/^IEH?AN/, "JEAN").replace(/^ANTH/, "ANT");
+        if (PRENOMS_F.has(pr)) ind.sexe = "F";
+        else if (PRENOMS_M.has(pr)) ind.sexe = "M";
+      }
+    });
+    for (var tour = 0; tour < 2; tour++) INDIV.forEach(function (ind) {
+      if (ind.sexe) return;
+      ind.conjoints.forEach(function (e) { if (e.ind.sexe && !ind.sexe) ind.sexe = e.ind.sexe === "F" ? "M" : "F"; });
+    });
     // Homonymes : plusieurs individus de même nom et prénom.
     var parCle = new Map();
     INDIV.forEach(function (ind) {

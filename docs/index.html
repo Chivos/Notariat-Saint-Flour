@@ -174,7 +174,7 @@
     <h3>Dates</h3>
     <p>Les dates incomplètes de l'index (« 1660-00-00 ») sont conservées : une recherche « du 1660-03 au 1660-05 » inclut les actes datés seulement de 1660, signalés par « 00 ».</p>
     <h3>Familles (expérimental)</h3>
-    <p>Le bouton « Familles » reconstitue automatiquement, pour un nom de famille, des groupes familiaux à partir des liens de parenté écrits dans les index (filiations, « veuve de… », « père de l'épouse », époux des contrats de mariage). C'est une approche exploratoire : vérifiez toujours dans les actes.</p>
+    <p>Le bouton « Familles » reconstitue automatiquement, pour un nom de famille, des groupes familiaux à partir des liens de parenté écrits dans les index (filiations, « veuve de… », « père de l'épouse », époux des contrats de mariage). Le bouton « Arbre graphique » de chaque groupe l'affiche en arbre descendant (couples côte à côte, enfants rattachés à leur union, cases bleues ou roses selon le sexe estimé), avec zoom et téléchargement de l'image. C'est une approche exploratoire : vérifiez toujours dans les actes.</p>
     <h3>Fiche d'acte</h3>
     <p>Cliquez sur une ligne de résultat pour ouvrir la fiche. Dépliez « Transcription complète » pour lire la transcription diplomatique, les points douteux, les notes et les pistes de recoupement (fichiers du dossier <code>actes/</code> du dépôt).</p>
     <p>La recherche est conservée dans l'adresse de la page : on peut la mettre en favori ou la partager.</p>
@@ -228,6 +228,25 @@
   </div>
 </dialog>
 
+<dialog id="arbre-graphique" class="fiche fiche-plein">
+  <div class="fiche-entete">
+    <h2 id="arbre-titre">Arbre reconstitué</h2>
+    <div class="arbre-outils">
+      <button type="button" class="bouton-outil" id="arbre-moins" aria-label="Dézoomer">−</button>
+      <span id="arbre-echelle" class="arbre-echelle">100 %</span>
+      <button type="button" class="bouton-outil" id="arbre-plus" aria-label="Zoomer">+</button>
+      <button type="button" class="bouton-outil" id="arbre-ajuster">Ajuster</button>
+      <button type="button" class="bouton-outil" id="arbre-svg" title="Télécharger l'image (SVG)">Télécharger</button>
+      <button type="button" class="bouton-discret" data-fermer aria-label="Fermer">✕</button>
+    </div>
+  </div>
+  <p class="arbre-legende"><span class="pastille pastille-h"></span> homme <span class="pastille pastille-f"></span> femme
+    <span class="pastille pastille-i"></span> inconnu · <span class="or">∞</span> union (pointillés : déduite) · case grisée : allié d'un autre nom ·
+    contour pointillé : personne déduite ou renvoi. Sexe et liens estimés automatiquement. Cliquez sur une case pour le détail, faites glisser pour vous déplacer.</p>
+  <div id="arbre-zone" class="arbre-zone"></div>
+  <div id="arbre-detail" class="arbre-detail" hidden></div>
+</dialog>
+
 <dialog id="statistiques" class="fiche fiche-large">
   <div class="fiche-entete">
     <h2>Statistiques des actes indexés</h2>
@@ -241,6 +260,7 @@
 <script src="statistiques.js"></script>
 <script src="familles-moteur.js"></script>
 <script src="familles.js"></script>
+<script src="arbre-graphique.js"></script>
 <script src="chargement.js"></script>
 </body>
 </html>
