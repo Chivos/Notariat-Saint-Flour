@@ -211,6 +211,7 @@
     if (ind.enfants.size) bloc.push("<dt>Enfants</dt><dd>" + rel(ind.enfants) + "</dd>");
     if (ind.fratrie.size) bloc.push("<dt>Frères et sœurs</dt><dd>" + rel(ind.fratrie) + "</dd>");
     panneau.innerHTML = "<h3>" + esc(ind.prenom) + ' <span class="patronyme">' + esc(ind.nom) + "</span></h3>" +
+      (ind.variantes && ind.variantes.length ? '<p class="fam-variantes">Aussi écrit : ' + ind.variantes.map(esc).join(", ") + " (variantes regroupées automatiquement)</p>" : "") +
       (bloc.length ? '<dl class="arbre-relations">' + bloc.join("") + "</dl>" : "") +
       (lignes.length ? "<ul>" + lignes.join("") + "</ul>" : "<p>Personne connue seulement par la filiation d'un proche (individu déduit).</p>");
     panneau.hidden = false;
