@@ -25,9 +25,16 @@
       .replace(/[\[\]?]/g, "").replace(/\s+/g, " ").trim();
   }
   function cleNom(nom) { return P.cleOrtho(nom); }
+  // Formes féminines que la clé orthographique confondrait avec le masculin (Jeanne = Jean…).
+  var FEMININS = new Set(("JEANNE JEHANNE IEANNE IEHANNE JANE LOUISE LOYSE LOUYSE FRANCOISE MICHELLE GABRIELLE RAYMONDE DURANDE VIDALE " +
+    "BERNARDE GERAUDE GUIRAUDE SIMONE DENISE PAULE JULIENNE MARTINE CLAUDINE ANDREE PHILIPPE").split(" "));
+  function cleMot(mot) {
+    var l = P.lettres(mot);
+    return P.prenomCanonique(mot) + (FEMININS.has(l) || /(?:ETTE|ETE)$/.test(l) ? "*" : "");
+  }
   function clePrenom(prenom) {
     var mots = P.mots(prenom);
-    return mots.length ? P.prenomCanonique(mots[0]) + (mots[1] ? "-" + P.prenomCanonique(mots[1]) : "") : "";
+    return mots.length ? cleMot(mots[0]) + (mots[1] ? "-" + cleMot(mots[1]) : "") : "";
   }
   function anneeDe(a) { var y = parseInt((a.date || "").slice(0, 4), 10); return y > 0 ? y : null; }
 
@@ -158,7 +165,7 @@
     // Mentions exploitables : un nom et un prénom lisibles, hors notaires.
     var M = [];
     mentions.forEach(function (m) {
-      var nom = nettoyer(m.p.nom), prenom = nettoyer(m.p.prenom);
+      var nom = nettoyer(m.p.nom), prenom = nettoyer(String(m.p.prenom || "").replace(/\(.*?\)/g, ""));
       var info = {
         m: m, acte: m.acte, nom: nom, prenom: prenom,
         kn: cleNom(nom), kp: clePrenom(prenom),
@@ -312,28 +319,92 @@
     // prénom, ou les conjoints d'une même personne au même prénom et au nom presque identique.
     function prenomDe(o) { return o.cle.split("|")[1]; }
     function nomDe(o) { return o.cle.split("|")[0]; }
-    for (var passe = 0; passe < 2; passe++) {
-      var parentsParEnfant = new Map(), conjointsPar = new Map();
+    // Prénoms proches : même forme de référence, ou prononciation à une lettre près
+    // (Cibelle / Sibielle / Cibielle), sans jamais confondre masculin et féminin.
+    function prenomsProches(a, b) {
+      var ka = prenomDe(a), kb = prenomDe(b);
+      if (ka === kb) return true;
+      if (/\*/.test(ka) !== /\*/.test(kb)) return false;
+      var pa = P.clePhon(P.mots(a.prenom)[0] || ""), pb = P.clePhon(P.mots(b.prenom)[0] || "");
+      return Math.min(pa.length, pb.length) >= 4 && P.distance(pa, pb, 1) <= 1;
+    }
+    // Noms proches : même clé, ou prononciation à « tol » lettres près (ROZIERE / ROUZEYRE).
+    function nomsProches(a, b, tol) {
+      if (nomDe(a) === nomDe(b)) return true;
+      var pa = P.clePhon(a.nom), pb = P.clePhon(b.nom);
+      return Math.min(pa.length, pb.length) >= 4 && P.distance(pa, pb, tol) <= tol && P.distance(nomDe(a), nomDe(b), tol + 1) <= tol + 1;
+    }
+    function unirProches(liste, test) {
+      for (var i = 0; i < liste.length; i++) for (var j = i + 1; j < liste.length; j++) {
+        if (test(liste[i], liste[j])) uf.unir(noeud(liste[i]), noeud(liste[j]));
+      }
+    }
+    for (var passe = 0; passe < 3; passe++) {
+      var parentsParEnfant = new Map(), enfantsParParent = new Map(), conjointsPar = new Map();
+      var ajouter = function (map, cle, o) {
+        var k = uf.trouver(noeud(cle));
+        if (!map.has(k)) map.set(k, []);
+        map.get(k).push(o);
+      };
+      // Prénoms des parents connus de chaque groupe (pour ne pas réunir deux enfants de mères différentes).
+      var prenomsParents = new Map();
       LIENS.forEach(function (l) {
-        var map = l.type === "parent" ? parentsParEnfant : l.type === "conjoint" ? conjointsPar : null;
-        if (!map) return;
-        var paires = l.type === "parent" ? [[l.b, l.a]] : [[l.a, l.b], [l.b, l.a]];
-        paires.forEach(function (pr) {
-          var k = uf.trouver(noeud(pr[0]));
-          if (!map.has(k)) map.set(k, []);
-          map.get(k).push(pr[1]);
+        if (l.type !== "parent") return;
+        var k = uf.trouver(noeud(l.b));
+        if (!prenomsParents.has(k)) prenomsParents.set(k, new Set());
+        prenomsParents.get(k).add(prenomDe(l.a));
+      });
+      var memesParents = function (a, b) {
+        var pa = prenomsParents.get(uf.trouver(noeud(a))), pb = prenomsParents.get(uf.trouver(noeud(b)));
+        if (!pa || !pb || pa.size < 2 || pb.size < 2) return true;
+        var ok = true;
+        pa.forEach(function (k) { if (!pb.has(k)) ok = false; });
+        return ok;
+      };
+      LIENS.forEach(function (l) {
+        if (l.type === "parent") { ajouter(parentsParEnfant, l.b, l.a); ajouter(enfantsParParent, l.a, l.b); }
+        else if (l.type === "conjoint") { ajouter(conjointsPar, l.a, l.b); ajouter(conjointsPar, l.b, l.a); }
+      });
+      // Deux parents d'un même enfant au prénom proche : une seule personne.
+      parentsParEnfant.forEach(function (l) { unirProches(l, prenomsProches); });
+      // Deux enfants d'un même parent, même nom et prénom proche : une seule personne
+      // (deux enfants cités dans le même acte restent distincts grâce aux interdits).
+      enfantsParParent.forEach(function (l) {
+        unirProches(l, function (a, b) { return prenomsProches(a, b) && nomsProches(a, b, 1) && memesParents(a, b); });
+      });
+      // Deux conjoints d'une même personne au prénom et au nom proches : une seule personne.
+      conjointsPar.forEach(function (l) { unirProches(l, function (a, b) { return prenomsProches(a, b) && nomsProches(a, b, 2); }); });
+      // Deux couples aux noms et prénoms proches des deux côtés (ROCHE ∞ Maronne FAYON /
+      // ROCHER ∞ Marianne FAYON) : un seul couple.
+      if (passe === 0) {
+        // Ici les deux conjoints se confirment l'un l'autre : on tolère un peu plus d'écart.
+        var personneProche = function (a, b) {
+          var nomOk = P.clePhon(a.nom) === P.clePhon(b.nom) || nomsProches(a, b, 1);
+          if (!nomOk) return false;
+          if (prenomsProches(a, b)) return true;
+          if (/\*/.test(prenomDe(a)) !== /\*/.test(prenomDe(b))) return false;
+          var pa = P.clePhon(P.mots(a.prenom)[0] || ""), pb = P.clePhon(P.mots(b.prenom)[0] || "");
+          return Math.min(pa.length, pb.length) >= 5 && P.distance(pa, pb, 2) <= 2;
+        };
+        var parSon = new Map();
+        LIENS.forEach(function (l) {
+          if (l.type !== "conjoint") return;
+          [[l.a, l.b], [l.b, l.a]].forEach(function (c) {
+            var k = P.clePhon(c[0].nom).slice(0, 3) + "|" + P.clePhon(c[1].nom).slice(0, 3);
+            if (!parSon.has(k)) parSon.set(k, []);
+            parSon.get(k).push(c);
+          });
         });
-      });
-      parentsParEnfant.forEach(function (l) {
-        for (var i = 0; i < l.length; i++) for (var j = i + 1; j < l.length; j++) {
-          if (prenomDe(l[i]) === prenomDe(l[j])) uf.unir(noeud(l[i]), noeud(l[j]));
-        }
-      });
-      conjointsPar.forEach(function (l) {
-        for (var i = 0; i < l.length; i++) for (var j = i + 1; j < l.length; j++) {
-          if (prenomDe(l[i]) === prenomDe(l[j]) && P.distance(nomDe(l[i]), nomDe(l[j]), 1) <= 1) uf.unir(noeud(l[i]), noeud(l[j]));
-        }
-      });
+        parSon.forEach(function (l) {
+          for (var i = 0; i < l.length; i++) for (var j = i + 1; j < l.length; j++) {
+            var x = l[i], y = l[j];
+            if (personneProche(x[0], y[0]) && personneProche(x[1], y[1])) {
+              uf.unir(noeud(x[0]), noeud(y[0]));
+              uf.unir(noeud(x[1]), noeud(y[1]));
+            }
+          }
+        });
+      }
     }
     // Un individu déduit se confond avec l'unique individu réel de même nom… seulement s'il y en a un seul.
     var reelsParCle = new Map();
@@ -467,6 +538,13 @@
     for (var tour = 0; tour < 2; tour++) INDIV.forEach(function (ind) {
       if (ind.sexe) return;
       ind.conjoints.forEach(function (e) { if (e.ind.sexe && !ind.sexe) ind.sexe = e.ind.sexe === "F" ? "M" : "F"; });
+    });
+    // Variantes d'écriture réunies dans un même individu (affichées pour contrôle).
+    INDIV.forEach(function (ind) {
+      var v = new Set();
+      ind.mentions.forEach(function (x) { v.add(x.prenom + " " + x.nom.toUpperCase()); });
+      v.delete(ind.prenom + " " + ind.nom);
+      ind.variantes = Array.from(v);
     });
     // Homonymes : plusieurs individus de même nom et prénom.
     var parCle = new Map();

@@ -81,6 +81,8 @@
     var fr = [];
     ind.fratrie.forEach(function (e) { fr.push(libelle(e.ind)); });
     return '<div class="fam-detail" hidden>' +
+      (ind.variantes && ind.variantes.length ? '<p class="fam-variantes">Aussi écrit : ' + ind.variantes.map(esc).join(", ") +
+        " (variantes regroupées automatiquement)</p>" : "") +
       (fr.length ? "<p>Frère ou sœur de : " + fr.join(", ") + "</p>" : "") +
       (lignes.length ? "<ul>" + lignes.join("") + "</ul>" : "<p>Aucune mention directe : personne citée seulement dans la filiation d'un proche.</p>") +
       "</div>";

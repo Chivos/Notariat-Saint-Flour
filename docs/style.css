@@ -385,3 +385,4 @@ dialog.fiche-plein[open] { display: flex; }
 .arbre-relations { display: grid; grid-template-columns: max-content 1fr; gap: 0.1rem 0.8rem; margin: 0.2rem 0; }
 .arbre-relations dt { color: var(--texte-doux); }
 .arbre-relations dd { margin: 0; }
+.fam-variantes { color: var(--texte-doux); font-style: italic; }
