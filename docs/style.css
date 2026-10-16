@@ -533,3 +533,12 @@ pre.texte-acte { border: 0; background: var(--surface-2); }
   .liens-entete { justify-content: flex-start; gap: 0.2rem; margin-left: -0.6rem; }
   .entete .bouton-discret { padding: 0.3rem 0.6rem; }
 }
+
+/* Formulaire posé directement sur le fond papier (sans bloc de couleur) */
+.panneau { background: transparent; padding: 0.2rem 0.2rem 0.2rem 0; }
+.bloc-personne[data-personne="2"] { background: var(--surface-2); }
+.pastille-registre { background: var(--pastel-bleu); }
+legend, details.options-noms > summary { color: var(--texte-doux); }
+@media (max-width: 860px) {
+  .panneau { background: var(--surface); padding: 0.7rem 0.9rem; }
+}
