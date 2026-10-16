@@ -157,7 +157,7 @@ window.demarrerExplorateur = function () {
   // ------------------------------------------------------------------ formulaire
   var form = $("#formulaire");
   var CHAMPS_TEXTE = ["nom1", "prenom1", "role1", "profession1", "residence1",
-    "nom2", "prenom2", "role2", "profession2", "residence2", "du", "au", "texte"];
+    "nom2", "prenom2", "role2", "profession2", "residence2", "du", "au", "texte", "registre"];
   var CHAMPS_SELECT = ["modeNom", "modePrenom", "tolerance", "type", "notaire"];
   var CASES = ["equivPrenoms", "graphies"];
   var DEFAUTS = {};
@@ -197,7 +197,19 @@ window.demarrerExplorateur = function () {
     CASES.forEach(function (n) { form.elements[n].checked = e[n] !== undefined ? e[n] : DEFAUTS[n]; });
     var p2 = ["nom2", "prenom2", "role2", "profession2", "residence2"].some(function (n) { return form.elements[n].value; });
     afficherPersonne2(p2);
+    afficherRegistre();
   }
+  // Filtre « registre » (posé depuis la liste des registres des Statistiques).
+  function afficherRegistre() {
+    var r = form.elements.registre.value;
+    $("#pastille-registre").hidden = !r;
+    $("#pastille-registre strong").textContent = r;
+  }
+  $("#retirer-registre").addEventListener("click", function () {
+    form.elements.registre.value = "";
+    afficherRegistre();
+    rechercher();
+  });
 
   // ------------------------------------------------------------------ état d'affichage
   var etat = { vue: "personnes", page: 1, tri: "date", personnes: [], actes: [], marques: new Set() };
@@ -224,7 +236,7 @@ window.demarrerExplorateur = function () {
       : null;
 
     // Tant qu'aucun critère n'est saisi, la zone de résultats reste vierge.
-    var champs = ["nom1", "prenom1", "role1", "profession1", "residence1", "du", "au", "texte", "type", "notaire"];
+    var champs = ["nom1", "prenom1", "role1", "profession1", "residence1", "du", "au", "texte", "type", "notaire", "registre"];
     if (!$("#bloc-personne-2").hidden) champs.push("nom2", "prenom2", "role2", "profession2", "residence2");
     etat.attente = !champs.some(function (n) { return String(e[n] || "").trim(); });
 
@@ -237,6 +249,7 @@ window.demarrerExplorateur = function () {
     if (!etat.attente) ACTES.forEach(function (a) {
       if (e.type && a.tg !== e.type) return;
       if (e.notaire && a.ng !== e.notaire) return;
+      if (e.registre && a.registre !== e.registre) return;
       if (du || au) {
         if (!a.bornes) return;
         if (du && a.bornes[1] < du) return;

@@ -386,3 +386,19 @@ dialog.fiche-plein[open] { display: flex; }
 .arbre-relations dt { color: var(--texte-doux); }
 .arbre-relations dd { margin: 0; }
 .fam-variantes { color: var(--texte-doux); font-style: italic; }
+
+/* ---------- registres ---------- */
+.pastille-registre { display: flex; align-items: center; gap: 0.4rem; margin: 0.3rem 0 0; font-size: 0.82rem; color: var(--texte-doux);
+  background: var(--accent-doux); border-radius: 6px; padding: 0.25rem 0.5rem; }
+.pastille-registre strong { color: var(--accent); }
+.pastille-registre .bouton-discret { margin-left: auto; padding: 0 0.2rem; }
+.table-registres { font-size: 0.86rem; }
+.table-registres td, .table-registres th { padding: 0.4rem 0.6rem; }
+.table-registres td.nombre, .table-registres th.nombre { text-align: right; font-variant-numeric: tabular-nums; }
+.table-registres td.cote { white-space: nowrap; font-weight: 600; }
+.table-registres .dossier { display: block; font-size: 0.75rem; color: var(--texte-doux); font-family: ui-monospace, Menlo, Consolas, monospace; }
+.table-registres tr.ligne-registre { cursor: pointer; }
+.table-registres tr.ligne-registre:hover td { background: var(--survol); }
+.ecart-index { color: var(--gueules); }
+.dossier-mois { color: var(--texte-doux); font-size: 0.8rem; }
+.table-registres tr.total td { font-weight: 600; background: var(--surface-2); }
