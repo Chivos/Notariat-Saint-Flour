@@ -40,6 +40,9 @@ jobs:
           cp index/index.json _site/index.json
           cp -r actes _site/actes
 
+      - name: Lister les registres (d'après les dossiers de scans)
+        run: python3 outils/registres.py _site/registres.json
+
       - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3

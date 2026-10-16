@@ -43,6 +43,13 @@
     return "non identifié";
   }
 
+  // « AD15 3 E 263-1, pages 10, 11 » -> « 3 E 263-1 » (cote du registre aux AD).
+  function coteRegistre(cote) {
+    var m = /(\d+)\s*E\s*(\d+)\s*-\s*(\d+)/.exec(String(cote || "").replace(/^AD\s*\d+\s*/i, ""));
+    return m ? m[1] + " E " + m[2] + "-" + m[3] : "";
+  }
+  window.coteRegistre = coteRegistre;
+
   function convertir(donnees) {
     return {
       genere_le: donnees.genere_le || "",
@@ -52,7 +59,7 @@
           type: a.type || "", tg: groupeType(a.type),
           date: a.date_acte || "", lieu: a.lieu || "",
           notaire: a.notaire || "", ng: notaireNormalise(a.notaire),
-          depot: a.depot || "", cote: a.cote || "",
+          depot: a.depot || "", cote: a.cote || "", registre: coteRegistre(a.cote),
           etat: a.etat_transcription || "", confiance: a.confiance || "",
           personnes: (a.personnes || []).map(function (p) {
             return {

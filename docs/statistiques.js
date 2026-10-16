@@ -169,6 +169,8 @@
         (s.nbMentions / Math.max(1, s.nbActes)).toLocaleString("fr", { maximumFractionDigits: 1 }) + " par acte en moyenne") +
       tuile("Patronymes distincts", nombre(s.nbPatronymes), "après normalisation orthographique") +
       "</div>" +
+      '<section class="graphique graphique-large" id="stats-registres"><h3>Registres couverts</h3>' +
+      '<p class="sous-titre-graphique">Chargement de la liste des registres…</p></section>' +
 
       colonnes("Actes par année", "Actes datés : " + nombre(datees) + ". Année la plus fournie : " + esc(anneeMax.label) + " (" + nombre(anneeMax.n) + " actes). Cliquez sur une année pour en voir les actes.",
         points, "actes", function (p) { return p.annee % pas === 0 || p === points[0] || p === points[points.length - 1] ? p.label : ""; },
@@ -203,6 +205,82 @@
       "</div>";
   }
 
+  // ------------------------------------------------------------------ registres
+  // Liste des registres d'après les noms des dossiers de scans (registres.json, produit
+  // à la publication par outils/registres.py). À défaut (page ouverte hors du site
+  // publié), on la reconstitue à partir des cotes de l'index.
+  var NOMS_MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"];
+  function cleTri(cote) {
+    return cote.split(/(\d+)/).map(function (p) { return /^\d+$/.test(p) ? ("000000" + p).slice(-6) : p; }).join("");
+  }
+  function chargerRegistres(actes) {
+    var section = document.getElementById("stats-registres");
+    var dansIndex = new Map(), notaires = new Map(), annees = new Map();
+    actes.forEach(function (a) {
+      if (!a.registre) return;
+      dansIndex.set(a.registre, (dansIndex.get(a.registre) || 0) + 1);
+      var n = notaires.get(a.registre) || new Map();
+      var nom = String(a.notaire || "").replace(/\[.*?\]|\(.*?\)|\?/g, "").replace(/\s+/g, " ").trim();
+      if (nom) n.set(nom, (n.get(nom) || 0) + 1);
+      notaires.set(a.registre, n);
+      var y = parseInt((a.date || "").slice(0, 4), 10);
+      if (y > 0) { var b = annees.get(a.registre) || [y, y]; annees.set(a.registre, [Math.min(b[0], y), Math.max(b[1], y)]); }
+    });
+    function nomComplet(r) {
+      // Nom du dossier (« Sourzat »), complété du prénom le plus fréquent dans l'index.
+      var meilleur = "", max = 0;
+      (notaires.get(r.cote) || new Map()).forEach(function (n, nom) { if (n > max) { max = n; meilleur = nom; } });
+      var court = r.notaire.toUpperCase();
+      var plat = function (s) { return s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toUpperCase(); };
+      return meilleur && plat(meilleur).indexOf(plat(court)) === 0 ? meilleur : court;
+    }
+    function periode(r) {
+      if (r.annee_debut == null) return esc(r.periode || "");
+      var a = r.annee_fin && r.annee_fin !== r.annee_debut ? r.annee_debut + "–" + r.annee_fin : String(r.annee_debut);
+      return r.mois_debut ? a + ' <span class="dossier-mois">(à partir de ' + NOMS_MOIS[r.mois_debut - 1] + ")</span>" : a;
+    }
+    function afficher(liste, depuisDossiers) {
+      var total = liste.reduce(function (s, r) { return s + (r.fiches || 0); }, 0);
+      section.innerHTML = "<h3>Registres couverts</h3>" +
+        '<p class="sous-titre-graphique">' + nombre(liste.length) + " registres, classés par cote des Archives départementales du Cantal. " +
+        (depuisDossiers
+          ? "Notaire et années d'après le nom du dossier de numérisation (pas d'après la lecture des actes). "
+          : "Liste reconstituée d'après les cotes de l'index (la liste établie d'après les dossiers de numérisation n'est disponible que sur le site publié). ") +
+        "Cliquez sur un registre pour en afficher les actes.</p>" +
+        '<div class="defile"><table class="table-registres"><thead><tr><th>Cote</th><th>Notaire</th><th>Années</th>' +
+        (depuisDossiers ? '<th class="nombre">Actes transcrits</th>' : "") + '<th class="nombre">Dans l\'index</th></tr></thead><tbody>' +
+        liste.map(function (r) {
+          var n = dansIndex.get(r.cote) || 0;
+          var ecart = depuisDossiers && n < r.fiches;
+          // Un registre absent de l'index n'a pas d'actes à afficher : ligne non cliquable.
+          var attrs = n ? ' class="ligne-registre" role="button" tabindex="0" data-recherche="' + esc(JSON.stringify({ criteres: { registre: r.cote }, vue: "actes" })) + '"'
+            : ' title="Registre transcrit mais pas encore intégré à l\'index"';
+          return "<tr" + attrs + ">" +
+            '<td class="cote">' + esc(r.cote) + (r.dossier ? '<span class="dossier">' + esc(r.dossier) + "</span>" : "") + "</td>" +
+            "<td>" + esc(nomComplet(r)) + "</td><td>" + periode(r) + "</td>" +
+            (depuisDossiers ? '<td class="nombre">' + nombre(r.fiches) + "</td>" : "") +
+            '<td class="nombre' + (ecart ? " ecart-index" : "") + '"' + (ecart ? ' title="Des fiches de ce registre ne sont pas encore dans l\'index"' : "") + ">" + nombre(n) + "</td></tr>";
+        }).join("") +
+        (depuisDossiers ? '<tr class="total"><td colspan="3">Total</td><td class="nombre">' + nombre(total) + '</td><td class="nombre">' +
+          nombre(Array.from(dansIndex.values()).reduce(function (s, n) { return s + n; }, 0)) + "</td></tr>" : "") +
+        "</tbody></table></div>";
+    }
+    function deLIndex() {
+      var liste = Array.from(dansIndex.keys()).map(function (cote) {
+        var b = annees.get(cote) || [null, null];
+        var nom = "", max = 0;
+        (notaires.get(cote) || new Map()).forEach(function (n, k) { if (n > max) { max = n; nom = k; } });
+        return { cote: cote, notaire: nom.split(" ")[0] || "", annee_debut: b[0], annee_fin: b[1] };
+      }).sort(function (a, b) { return cleTri(a.cote).localeCompare(cleTri(b.cote)); });
+      afficher(liste, false);
+    }
+    if (!/^https?:$/.test(location.protocol)) { deLIndex(); return; }
+    fetch("registres.json", { cache: "no-cache" }).then(function (r) {
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return r.json();
+    }).then(function (d) { afficher(d.registres || [], true); }).catch(deLIndex);
+  }
+
   // ------------------------------------------------------------------ dialogue
   var dialogue = document.getElementById("statistiques");
   var corps = document.getElementById("statistiques-corps");
@@ -214,6 +292,7 @@
     if (!corps.dataset.pret) {
       corps.innerHTML = rendre(calculer(X.actes, X.mentions));
       corps.dataset.pret = "1";
+      chargerRegistres(X.actes);
     }
     dialogue.showModal();
   }
