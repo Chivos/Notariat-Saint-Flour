@@ -134,7 +134,7 @@
     return {
       fond: v("--surface", "#ffffff"), fond2: v("--surface-2", "#edf1f7"), texte: v("--texte", "#182033"),
       doux: v("--texte-doux", "#5a6479"), trait: v("--texte-doux", "#5a6479"), or: v("--or", "#e2b13c"),
-      homme: "#2f63c4", femme: "#c8457a", inconnu: "#8a93a6",
+      homme: v("--sexe-h", "#dbe6f6"), femme: v("--sexe-f", "#f8dfe6"), inconnu: v("--sexe-i", "#e9e7e3"),
     };
   }
   function dessiner(arbres, membres) {
@@ -163,9 +163,10 @@
     });
     cases.forEach(function (k, i) {
       var ind = k.ind;
-      var bord = ind.sexe === "M" ? c.homme : ind.sexe === "F" ? c.femme : c.inconnu;
+      // Aplat de couleur selon le sexe estimé ; contour pointillé seulement pour un renvoi ou une personne déduite.
+      var fond = ind.sexe === "M" ? c.homme : ind.sexe === "F" ? c.femme : c.inconnu;
       var allie = !membres.has(ind.id);
-      var tir = k.renvoi || ind.deduit ? ' stroke-dasharray="5 3"' : "";
+      var contour = k.renvoi || ind.deduit ? ' stroke="' + c.doux + '" stroke-width="1.2" stroke-dasharray="5 3"' : "";
       var dates = [];
       if (ind.debut) dates.push(ind.debut === ind.fin ? String(ind.debut) : ind.debut + "–" + ind.fin);
       if (ind.feuAvant) dates.push("† av. " + ind.feuAvant);
@@ -174,9 +175,8 @@
         (ind.mentions.length ? " — " + ind.mentions.length + " mention(s)" : "");
       out.push('<g class="case" data-i="' + i + '" tabindex="0" role="button" style="cursor:pointer">');
       out.push("<title>" + esc(info) + "</title>");
-      out.push('<rect x="' + k.x + '" y="' + k.y + '" width="' + L + '" height="' + H + '" rx="8" fill="' + (allie ? c.fond2 : c.fond) +
-        '" stroke="' + bord + '" stroke-width="' + (k.renvoi ? 1.2 : 2) + '"' + tir + "/>");
-      out.push('<rect x="' + k.x + '" y="' + k.y + '" width="5" height="' + H + '" rx="2" fill="' + bord + '"' + (k.renvoi ? ' opacity="0.4"' : "") + "/>");
+      out.push('<rect x="' + k.x + '" y="' + k.y + '" width="' + L + '" height="' + H + '" rx="12" fill="' + (k.renvoi ? c.fond : fond) + '"' +
+        (allie && !k.renvoi ? ' fill-opacity="0.6"' : "") + contour + "/>");
       out.push('<text x="' + (k.x + 14) + '" y="' + (k.y + 20) + '" font-size="12.5" fill="' + c.texte + '">' + esc(couper(ind.prenom, 24)) + "</text>");
       out.push('<text x="' + (k.x + 14) + '" y="' + (k.y + 37) + '" font-size="13.5" font-weight="700" fill="' + c.texte + '">' + esc(couper(ind.nom, 20)) + "</text>");
       out.push('<text x="' + (k.x + 14) + '" y="' + (k.y + 54) + '" font-size="11" fill="' + c.doux + '">' + esc(couper(sous, 28)) + "</text>");

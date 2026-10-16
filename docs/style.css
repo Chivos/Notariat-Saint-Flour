@@ -402,3 +402,143 @@ dialog.fiche-plein[open] { display: flex; }
 .ecart-index { color: var(--gueules); }
 .dossier-mois { color: var(--texte-doux); font-size: 0.8rem; }
 .table-registres tr.total td { font-weight: 600; background: var(--surface-2); }
+
+/* =====================================================================
+   Thème « aplats pastel » : surfaces en aplats de couleurs pâles, sans
+   bordures, liserés ni ombres ; les blocs se distinguent par leur fond.
+   ===================================================================== */
+:root {
+  --fond: #f4f1ec;
+  --surface: #ffffff;
+  --surface-2: #efebe4;
+  --texte: #24304a;
+  --texte-doux: #66708a;
+  --bordure: #ebe6de;
+  --accent: #3a5a9a;
+  --accent-doux: #e3eaf6;
+  --trouve: #fbe3d3;
+  --trouve-bord: transparent;
+  --survol: #f5f1ea;
+  --barre: #5577bd;
+  --entete: #dfe8f4;
+  --entete-texte: #24304a;
+  --or: #d98c5f;
+  --gueules: #c2504a;
+  --pastel-bleu: #e3ebf7;
+  --pastel-sauge: #e3eedf;
+  --pastel-peche: #fbe6d6;
+  --pastel-lavande: #ebe5f4;
+  --pastel-paille: #f5ecca;
+  --sexe-h: #dbe6f6;
+  --sexe-f: #f8dfe6;
+  --sexe-i: #e9e7e3;
+  --rayon: 12px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --fond: #171a21; --surface: #1f232c; --surface-2: #262b36; --texte: #e8e6e1; --texte-doux: #a3a9b7;
+    --bordure: #2c313d; --accent: #9db7ea; --accent-doux: #2a3550; --trouve: #4a3428; --survol: #252a34;
+    --barre: #6f8fcf; --entete: #232a3a; --entete-texte: #e8e6e1; --or: #e0a37c; --gueules: #e07a72;
+    --pastel-bleu: #26314a; --pastel-sauge: #26362c; --pastel-peche: #3d2d24; --pastel-lavande: #312a40; --pastel-paille: #3a3524;
+    --sexe-h: #2b3a57; --sexe-f: #4a2e3a; --sexe-i: #33363d;
+  }
+}
+:root[data-theme="dark"] {
+  --fond: #171a21; --surface: #1f232c; --surface-2: #262b36; --texte: #e8e6e1; --texte-doux: #a3a9b7;
+  --bordure: #2c313d; --accent: #9db7ea; --accent-doux: #2a3550; --trouve: #4a3428; --survol: #252a34;
+  --barre: #6f8fcf; --entete: #232a3a; --entete-texte: #e8e6e1; --or: #e0a37c; --gueules: #e07a72;
+  --pastel-bleu: #26314a; --pastel-sauge: #26362c; --pastel-peche: #3d2d24; --pastel-lavande: #312a40; --pastel-paille: #3a3524;
+  --sexe-h: #2b3a57; --sexe-f: #4a2e3a; --sexe-i: #33363d;
+}
+body { font-family: "DM Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+h1, h2, h3 { font-weight: 700; letter-spacing: -0.015em; }
+
+/* Bandeau : aplat bleu pâle, sans liseré */
+.entete { background: var(--entete); color: var(--entete-texte); border: 0; padding: 1rem 16px; }
+.entete .sous-titre { color: var(--texte-doux); }
+.entete .bouton-discret { color: var(--entete-texte); border: 0; padding: 0.35rem 0.75rem; border-radius: 999px; }
+.entete .bouton-discret:hover { background: rgb(255 255 255 / 0.6); }
+:root[data-theme="dark"] .entete .bouton-discret:hover { background: rgb(255 255 255 / 0.08); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .entete .bouton-discret:hover { background: rgb(255 255 255 / 0.08); } }
+.etiquette-beta { background: var(--pastel-paille); color: var(--texte); }
+
+/* Formulaire : aplat sauge, champs blancs sans contour */
+.panneau { background: var(--pastel-sauge); border: 0; box-shadow: none; padding: 0.9rem 1rem; }
+fieldset, details.options-noms, .actions-formulaire { border: 0; }
+fieldset { padding-top: 0.55rem; }
+legend, details.options-noms > summary { color: var(--texte); letter-spacing: 0.06em; }
+label input[type=search], label input[type=text], label select {
+  background: var(--surface); border: 1px solid transparent; border-radius: 10px; padding: 0.4rem 0.6rem; }
+label input[type=search]:focus, label input[type=text]:focus, label select:focus { border-color: transparent; box-shadow: 0 0 0 3px var(--accent-doux); }
+.bloc-personne[data-personne="2"] { background: rgb(255 255 255 / 0.5); border-radius: 10px; }
+.pastille-registre { background: var(--surface); border-radius: 10px; }
+
+/* Onglets en pastilles */
+.barre-resultats { border: 0; align-items: center; }
+.onglets { background: var(--surface-2); border-radius: 999px; padding: 0.25rem; gap: 0.15rem; }
+.onglets button { border: 0; border-radius: 999px; padding: 0.4rem 0.9rem; }
+.onglets button[aria-selected=true] { background: var(--surface); color: var(--texte); }
+.compteur { background: var(--pastel-bleu); color: var(--accent); }
+.outils-resultats select { border: 0; border-radius: 999px; padding: 0.3rem 0.6rem; background: var(--surface-2); }
+
+/* Résultats : aplats blancs, séparations par des filets très légers */
+table { border: 0; border-radius: var(--rayon); overflow: hidden; }
+th { background: var(--surface-2); color: var(--texte-doux); }
+th, td { border-bottom: 1px solid var(--surface-2); }
+.carte-acte { border: 0; box-shadow: none; border-radius: var(--rayon); }
+.personne.trouvee { background: var(--trouve); box-shadow: none; border-radius: 6px; padding: 0 0.3rem; }
+.accueil { background: var(--pastel-bleu); border: 0; color: var(--texte-doux); }
+.pagination button { border: 0; border-radius: 999px; background: var(--surface); }
+.pagination button[aria-current=page] { background: var(--accent); color: var(--surface); }
+
+/* Fenêtres : fond papier, blocs blancs */
+dialog.fiche { border: 0; border-radius: 16px; background: var(--fond); box-shadow: 0 20px 60px rgb(20 25 40 / 0.25); }
+.fiche-entete { background: var(--fond); border: 0; }
+details.transcription { border: 0; background: var(--surface); }
+details.transcription[open] > summary { border: 0; }
+pre.texte-acte { border: 0; background: var(--surface-2); }
+.transcription-corps blockquote { border: 0; background: var(--surface-2); padding: 0.4rem 0.7rem; border-radius: 8px; }
+.avertissement { border: 0; background: var(--pastel-peche); border-radius: 10px; }
+.mots-cles span { background: var(--pastel-lavande); }
+
+/* Statistiques : tuiles en aplats de couleurs différentes, sans liseré */
+.tuile { border: 0; border-radius: var(--rayon); padding: 0.9rem 1rem; }
+.tuile:nth-child(4n+1) { background: var(--pastel-bleu); }
+.tuile:nth-child(4n+2) { background: var(--pastel-sauge); }
+.tuile:nth-child(4n+3) { background: var(--pastel-peche); }
+.tuile:nth-child(4n+4) { background: var(--pastel-lavande); }
+.tuile-valeur { font-size: 1.9rem; }
+.graphique { background: var(--surface); border: 0; border-radius: var(--rayon); }
+.colonnes { border-bottom-color: var(--surface-2); }
+.table-registres tr.total td { background: var(--pastel-bleu); }
+
+/* Familles et arbre */
+.familles-form label input { background: var(--surface); }
+.puce { background: var(--pastel-bleu); }
+.fam-arbre { border: 0; background: var(--surface); }
+.bouton-arbre { background: var(--pastel-bleu); color: var(--accent); }
+.bouton-arbre:hover { filter: none; background: var(--accent-doux); }
+:root[data-theme="dark"] .bouton-arbre { color: var(--accent); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .bouton-arbre { color: var(--accent); } }
+.bouton-principal { border-radius: 999px; }
+.bouton-outil { border: 0; background: var(--surface); border-radius: 999px; }
+.arbre-legende, .arbre-detail { border: 0; }
+.arbre-legende { background: var(--fond); }
+.arbre-zone { background: var(--surface-2); }
+.pastille-h { background: var(--sexe-h); } .pastille-f { background: var(--sexe-f); } .pastille-i { background: var(--sexe-i); }
+.pastille { width: 0.9rem; height: 0.9rem; border-radius: 4px; }
+.badge { background: var(--surface-2); }
+.arbre-zone .case:hover rect, .arbre-zone .case:focus rect { stroke: var(--accent); stroke-width: 2; }
+@media (max-width: 640px) {
+  .liens-entete { justify-content: flex-start; gap: 0.2rem; margin-left: -0.6rem; }
+  .entete .bouton-discret { padding: 0.3rem 0.6rem; }
+}
+
+/* Formulaire posé directement sur le fond papier (sans bloc de couleur) */
+.panneau { background: transparent; padding: 0.2rem 0.2rem 0.2rem 0; }
+.bloc-personne[data-personne="2"] { background: var(--surface-2); }
+.pastille-registre { background: var(--pastel-bleu); }
+legend, details.options-noms > summary { color: var(--texte-doux); }
+@media (max-width: 860px) {
+  .panneau { background: var(--surface); padding: 0.7rem 0.9rem; }
+}
