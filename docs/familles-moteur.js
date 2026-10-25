@@ -210,7 +210,7 @@
           var ty = plat(y.m.p.role + " " + y.m.p.filiation);
           // Un conjoint n'est pas l'enfant du sujet (« fils de … et de <prénom du sujet> »).
           if (/\b(fils|fille|filz)\b/.test(ty) && prenomSujet && new RegExp("\\b(fils|fille|filz)\\b[^;]*\\b" + prenomSujet + "\\b").test(ty)) return false;
-          if (cible.feu && !/défunt|feu\b/.test(ty)) return false;
+          if (cible.feu && !/defunt|deffunt|feue?\b/.test(ty)) return false;
         }
         return true;
       });
