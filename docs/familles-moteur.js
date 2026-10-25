@@ -449,7 +449,8 @@
         LIENS.forEach(function (l) {
           if (l.type !== "conjoint") return;
           [[l.a, l.b], [l.b, l.a]].forEach(function (c) {
-            var k = P.clePhon(c[0].nom).slice(0, 3) + "|" + P.clePhon(c[1].nom).slice(0, 3);
+            // Tri grossier (deux premiers sons de chaque nom) : ALLOY et ALBOY doivent se retrouver ensemble.
+            var k = P.clePhon(c[0].nom).slice(0, 2) + "|" + P.clePhon(c[1].nom).slice(0, 2);
             if (!parSon.has(k)) parSon.set(k, []);
             parSon.get(k).push(c);
           });
