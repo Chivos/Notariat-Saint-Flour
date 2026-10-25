@@ -386,7 +386,11 @@
       var pa = P.clePhon(a.nom), pb = P.clePhon(b.nom);
       return Math.min(pa.length, pb.length) >= 4 && P.distance(pa, pb, tol) <= tol && P.distance(nomDe(a), nomDe(b), tol + 1) <= tol + 1;
     }
-    function unirProches(liste, test) {
+    function nomsCourtsProches(a, b) {
+      var pa = P.clePhon(a.nom), pb = P.clePhon(b.nom);
+      return Math.min(pa.length, pb.length) >= 3 && pa.slice(0, 2) === pb.slice(0, 2) && P.distance(pa, pb, 1) <= 1;
+    }
+        function unirProches(liste, test) {
       for (var i = 0; i < liste.length; i++) for (var j = i + 1; j < liste.length; j++) {
         if (test(liste[i], liste[j])) uf.unir(noeud(liste[i]), noeud(liste[j]));
       }
@@ -425,7 +429,8 @@
         unirProches(l, function (a, b) { return prenomsProches(a, b) && nomsProches(a, b, 1) && memesParents(a, b); });
       });
       // Deux conjoints d'une même personne au prénom et au nom proches : une seule personne.
-      conjointsPar.forEach(function (l) { unirProches(l, function (a, b) { return prenomsProches(a, b) && nomsProches(a, b, 2); }); });
+      // (noms courts acceptés si le début concorde : BROHA / BRAZE, conjoints d'un même homme).
+      conjointsPar.forEach(function (l) { unirProches(l, function (a, b) { return prenomsProches(a, b) && (nomsProches(a, b, 2) || nomsCourtsProches(a, b)); }); });
       // Deux couples aux noms et prénoms proches des deux côtés (ROCHE ∞ Maronne FAYON /
       // ROCHER ∞ Marianne FAYON) : un seul couple.
       if (passe === 0) {
