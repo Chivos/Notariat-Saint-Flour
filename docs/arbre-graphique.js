@@ -168,6 +168,7 @@
       var allie = !membres.has(ind.id);
       var contour = k.renvoi || ind.deduit ? ' stroke="' + c.doux + '" stroke-width="1.2" stroke-dasharray="5 3"' : "";
       var dates = [];
+      if (ind.rang) dates.push(ind.rang);
       if (ind.debut) dates.push(ind.debut === ind.fin ? String(ind.debut) : ind.debut + "–" + ind.fin);
       if (ind.feuAvant) dates.push("† av. " + ind.feuAvant);
       var sous = k.renvoi ? "voir ailleurs dans l'arbre" : ind.deduit ? "déduit (filiation)" : dates.join("  ");
