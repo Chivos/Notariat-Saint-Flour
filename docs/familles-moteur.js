@@ -39,7 +39,7 @@
   }
   function anneeDe(a) { var y = parseInt((a.date || "").slice(0, 4), 10); return y > 0 ? y : null; }
 
-  var TITRES = /^(?:m\^?e|me|mre|m\^?re|mtre|maistre|maître|messire|sieur|sr|s\^?r|noble|honn?est?e|honnête|dame|damoiselle|demoiselle|dam\.?lle|dlle|vénérable|venerable|discret|frère|sœur)\.?\s+/i;
+  var TITRES = /^(?:m\^?e|me|mre|m\^?re|mr|m|mtre|maistre|maître|messire|monsieur|sieur|sr|s\^?r|noble|honn?est?e|honnête|dame|damoiselle|demoiselle|dam\.?lle|dlle|vénérable|venerable|discret|frère|sœur)\.?\s+/i;
   var PRENOMS_COMPOSES = /^(?:Jean|Jeanne|Marie|Anne|Pierre|Louis|François|Claude)\s+(?:Baptiste|Pierre|Louis|François|Marie|Anne|Jacques|Antoine|Joseph|Hugues|Claude)$/i;
   var FEU = /^(?:feue?s?|défunte?s?|deffunte?s?)\s+/i;
 
@@ -441,13 +441,16 @@
           if (prenomsProches(a, b)) return true;
           if (/\*/.test(prenomDe(a)) !== /\*/.test(prenomDe(b))) return false;
           var pa = P.clePhon(P.mots(a.prenom)[0] || ""), pb = P.clePhon(P.mots(b.prenom)[0] || "");
-          return Math.min(pa.length, pb.length) >= 5 && P.distance(pa, pb, 2) <= 2;
+          // Nom identique de ce côté : on tolère une lecture plus fautive du prénom (Holipa / Hélips).
+          var minimum = nomDe(a) === nomDe(b) ? 4 : 5;
+          return Math.min(pa.length, pb.length) >= minimum && P.distance(pa, pb, 2) <= 2;
         };
         var parSon = new Map();
         LIENS.forEach(function (l) {
           if (l.type !== "conjoint") return;
           [[l.a, l.b], [l.b, l.a]].forEach(function (c) {
-            var k = P.clePhon(c[0].nom).slice(0, 3) + "|" + P.clePhon(c[1].nom).slice(0, 3);
+            // Tri grossier (deux premiers sons de chaque nom) : ALLOY et ALBOY doivent se retrouver ensemble.
+            var k = P.clePhon(c[0].nom).slice(0, 2) + "|" + P.clePhon(c[1].nom).slice(0, 2);
             if (!parSon.has(k)) parSon.set(k, []);
             parSon.get(k).push(c);
           });
