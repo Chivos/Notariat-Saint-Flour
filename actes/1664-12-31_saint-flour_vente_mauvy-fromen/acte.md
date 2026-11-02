@@ -18,9 +18,9 @@ etat_transcription: complète
 confiance: moyenne
 transcrit_le: 2026-10-01
 images:
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-27_Sourzat_07.1664\Acte_086_p418-423\depot-notaires-saint-flour-3e263-27-frad015-3-e-263-27-00418.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-27_Sourzat_07.1664\Acte_086_p418-423\depot-notaires-saint-flour-3e263-27-frad015-3-e-263-27-00419.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-27_Sourzat_07.1664\Acte_086_p418-423\depot-notaires-saint-flour-3e263-27-frad015-3-e-263-27-00423.jpg"
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-27_Sourzat_07.1664\Acte_086_p418-423\depot-notaires-saint-flour-3e263-27-frad015-3-e-263-27-00418.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-27_Sourzat_07.1664\Acte_086_p418-423\depot-notaires-saint-flour-3e263-27-frad015-3-e-263-27-00419.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-27_Sourzat_07.1664\Acte_086_p418-423\depot-notaires-saint-flour-3e263-27-frad015-3-e-263-27-00423.jpg'
 
 personnes:
   - nom: MAUVY

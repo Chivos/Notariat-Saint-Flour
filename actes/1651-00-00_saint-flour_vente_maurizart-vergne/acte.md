@@ -2,7 +2,7 @@
 # ─── Identification ────────────────────────────────────────────────
 id: 1651-00-00_saint-flour_vente_maurizart-vergne
 type: vente
-date_acte: 1651-00-00
+date_acte: "1651-00-00"
 date_acte_texte: "date non lue (clause de date dans la partie détruite) ; endos : « No 53 = 1651 » ; « Expedie[?] 16[52?] »"
 date_style: ""
 

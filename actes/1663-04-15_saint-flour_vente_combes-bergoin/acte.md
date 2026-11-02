@@ -21,12 +21,12 @@ etat_transcription: complète
 confiance: moyenne
 transcrit_le: 2026-10-02
 images:
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-24_Sourzat_01.1663\Acte_045_p262-267\depot-notaires-saint-flour-3e263-24-frad015-3-e-263-24-00262.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-24_Sourzat_01.1663\Acte_045_p262-267\depot-notaires-saint-flour-3e263-24-frad015-3-e-263-24-00263.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-24_Sourzat_01.1663\Acte_045_p262-267\depot-notaires-saint-flour-3e263-24-frad015-3-e-263-24-00264.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-24_Sourzat_01.1663\Acte_045_p262-267\depot-notaires-saint-flour-3e263-24-frad015-3-e-263-24-00265.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-24_Sourzat_01.1663\Acte_045_p262-267\depot-notaires-saint-flour-3e263-24-frad015-3-e-263-24-00266.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-24_Sourzat_01.1663\Acte_045_p262-267\depot-notaires-saint-flour-3e263-24-frad015-3-e-263-24-00267.jpg"
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-24_Sourzat_01.1663\Acte_045_p262-267\depot-notaires-saint-flour-3e263-24-frad015-3-e-263-24-00262.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-24_Sourzat_01.1663\Acte_045_p262-267\depot-notaires-saint-flour-3e263-24-frad015-3-e-263-24-00263.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-24_Sourzat_01.1663\Acte_045_p262-267\depot-notaires-saint-flour-3e263-24-frad015-3-e-263-24-00264.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-24_Sourzat_01.1663\Acte_045_p262-267\depot-notaires-saint-flour-3e263-24-frad015-3-e-263-24-00265.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-24_Sourzat_01.1663\Acte_045_p262-267\depot-notaires-saint-flour-3e263-24-frad015-3-e-263-24-00266.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-24_Sourzat_01.1663\Acte_045_p262-267\depot-notaires-saint-flour-3e263-24-frad015-3-e-263-24-00267.jpg'
 
 # ─── Index nominatif (le cœur du recoupement) ──────────────────────
 personnes:

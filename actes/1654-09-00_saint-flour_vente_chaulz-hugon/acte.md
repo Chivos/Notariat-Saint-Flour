@@ -1,7 +1,7 @@
 ---
 id: 1654-09-00_saint-flour_vente_chaulz-hugon
 type: vente
-date_acte: 1654-09-00
+date_acte: "1654-09-00"
 date_acte_texte: "[...] jour du moys de septambre (minute, l. 28 ; année non lue dans le corps) ; [6?] 7bre 1654 (endos)"
 date_style: ""
 

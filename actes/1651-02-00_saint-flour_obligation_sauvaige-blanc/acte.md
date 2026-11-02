@@ -2,7 +2,7 @@
 # ─── Identification ────────────────────────────────────────────────
 id: 1651-02-00_saint-flour_obligation_sauvaige-blanc
 type: obligation
-date_acte: 1651-02-00
+date_acte: "1651-02-00"
 date_acte_texte: "endos : du [m.e?] febvrier 1651 ; corps : [S.] flour [en lestude?] dud. no.re Les [...] auant midy [...] cinq[...] (lacune)"
 date_style: ""
 

@@ -16,8 +16,8 @@ etat_transcription: complète
 confiance: moyenne
 transcrit_le: 2026-10-02
 images:
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-22_Sourzat_01.1662\Acte_038_p179-180\depot-notaires-saint-flour-3e263-22-frad015-3-e-263-22-00179.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-22_Sourzat_01.1662\Acte_038_p179-180\depot-notaires-saint-flour-3e263-22-frad015-3-e-263-22-00180.jpg"
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-22_Sourzat_01.1662\Acte_038_p179-180\depot-notaires-saint-flour-3e263-22-frad015-3-e-263-22-00179.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-22_Sourzat_01.1662\Acte_038_p179-180\depot-notaires-saint-flour-3e263-22-frad015-3-e-263-22-00180.jpg'
 personnes:
   - nom: RODDE
     prenom: Guillaume

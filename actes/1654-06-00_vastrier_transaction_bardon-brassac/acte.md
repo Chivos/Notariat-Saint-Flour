@@ -2,7 +2,7 @@
 # ─── Identification ────────────────────────────────────────────────
 id: 1654-06-00_vastrier_transaction_bardon-brassac
 type: transaction
-date_acte: 1654-06-00
+date_acte: "1654-06-00"
 date_acte_texte: "Le [...] [...] [...] de Iuin[?] apres midy (endos : m[...] Iuin 1654)"
 date_style: ""
 

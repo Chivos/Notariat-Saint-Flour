@@ -18,9 +18,9 @@ etat_transcription: partielle
 confiance: moyenne
 transcrit_le: 2026-10-02
 images:
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-24_Sourzat_01.1663\Acte_032_p187-189\depot-notaires-saint-flour-3e263-24-frad015-3-e-263-24-00187.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-24_Sourzat_01.1663\Acte_032_p187-189\depot-notaires-saint-flour-3e263-24-frad015-3-e-263-24-00188.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-24_Sourzat_01.1663\Acte_032_p187-189\depot-notaires-saint-flour-3e263-24-frad015-3-e-263-24-00189.jpg"
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-24_Sourzat_01.1663\Acte_032_p187-189\depot-notaires-saint-flour-3e263-24-frad015-3-e-263-24-00187.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-24_Sourzat_01.1663\Acte_032_p187-189\depot-notaires-saint-flour-3e263-24-frad015-3-e-263-24-00188.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-24_Sourzat_01.1663\Acte_032_p187-189\depot-notaires-saint-flour-3e263-24-frad015-3-e-263-24-00189.jpg'
 
 personnes:
   - nom: SUFFAR BARBIOL

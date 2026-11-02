@@ -18,11 +18,11 @@ etat_transcription: complète
 confiance: moyenne
 transcrit_le: 2026-10-01
 images:
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-28_Sourzat_01.1665\Acte_004_p014-025\depot-notaires-saint-flour-3e263-28-frad015-3-e-263-28-00014.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-28_Sourzat_01.1665\Acte_004_p014-025\depot-notaires-saint-flour-3e263-28-frad015-3-e-263-28-00015.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-28_Sourzat_01.1665\Acte_004_p014-025\depot-notaires-saint-flour-3e263-28-frad015-3-e-263-28-00016.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-28_Sourzat_01.1665\Acte_004_p014-025\depot-notaires-saint-flour-3e263-28-frad015-3-e-263-28-00017.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-28_Sourzat_01.1665\Acte_004_p014-025\depot-notaires-saint-flour-3e263-28-frad015-3-e-263-28-00025.jpg"
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-28_Sourzat_01.1665\Acte_004_p014-025\depot-notaires-saint-flour-3e263-28-frad015-3-e-263-28-00014.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-28_Sourzat_01.1665\Acte_004_p014-025\depot-notaires-saint-flour-3e263-28-frad015-3-e-263-28-00015.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-28_Sourzat_01.1665\Acte_004_p014-025\depot-notaires-saint-flour-3e263-28-frad015-3-e-263-28-00016.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-28_Sourzat_01.1665\Acte_004_p014-025\depot-notaires-saint-flour-3e263-28-frad015-3-e-263-28-00017.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-28_Sourzat_01.1665\Acte_004_p014-025\depot-notaires-saint-flour-3e263-28-frad015-3-e-263-28-00025.jpg'
 
 personnes:
   - nom: CHADELAT

@@ -18,10 +18,10 @@ etat_transcription: complète
 confiance: moyenne
 transcrit_le: 2026-10-02
 images:
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-23_Sourzat_07.1662\Acte_033_p157-167\depot-notaires-saint-flour-3e263-23-frad015-3-e-263-23-00157.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-23_Sourzat_07.1662\Acte_033_p157-167\depot-notaires-saint-flour-3e263-23-frad015-3-e-263-23-00158.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-23_Sourzat_07.1662\Acte_033_p157-167\depot-notaires-saint-flour-3e263-23-frad015-3-e-263-23-00159.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-23_Sourzat_07.1662\Acte_033_p157-167\depot-notaires-saint-flour-3e263-23-frad015-3-e-263-23-00167.jpg"
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-23_Sourzat_07.1662\Acte_033_p157-167\depot-notaires-saint-flour-3e263-23-frad015-3-e-263-23-00157.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-23_Sourzat_07.1662\Acte_033_p157-167\depot-notaires-saint-flour-3e263-23-frad015-3-e-263-23-00158.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-23_Sourzat_07.1662\Acte_033_p157-167\depot-notaires-saint-flour-3e263-23-frad015-3-e-263-23-00159.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-23_Sourzat_07.1662\Acte_033_p157-167\depot-notaires-saint-flour-3e263-23-frad015-3-e-263-23-00167.jpg'
 
 personnes:
   - nom: CHASTANG

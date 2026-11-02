@@ -2,7 +2,7 @@
 # ─── Identification ────────────────────────────────────────────────
 id: 1651-07-00_saint-flour_vente_chanson-berthon
 type: vente
-date_acte: 1651-07-00
+date_acte: "1651-07-00"
 date_acte_texte: "du [xem.e?] Juillet 1651 (endos) ; an [...] 165[1?] (corps, lacunaire)"
 date_style: ""
 

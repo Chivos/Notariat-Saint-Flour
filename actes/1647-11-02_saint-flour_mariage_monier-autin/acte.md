@@ -18,10 +18,10 @@ etat_transcription: complète
 confiance: moyenne
 transcrit_le: 2026-10-03
 images:
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-1_Sourzat_07.1647\Acte_010_p030-033\depot-notaires-saint-flour-3e263-1-frad015-3-e-263-1-00030.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-1_Sourzat_07.1647\Acte_010_p030-033\depot-notaires-saint-flour-3e263-1-frad015-3-e-263-1-00031.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-1_Sourzat_07.1647\Acte_010_p030-033\depot-notaires-saint-flour-3e263-1-frad015-3-e-263-1-00032.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-1_Sourzat_07.1647\Acte_010_p030-033\depot-notaires-saint-flour-3e263-1-frad015-3-e-263-1-00033.jpg"
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-1_Sourzat_07.1647\Acte_010_p030-033\depot-notaires-saint-flour-3e263-1-frad015-3-e-263-1-00030.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-1_Sourzat_07.1647\Acte_010_p030-033\depot-notaires-saint-flour-3e263-1-frad015-3-e-263-1-00031.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-1_Sourzat_07.1647\Acte_010_p030-033\depot-notaires-saint-flour-3e263-1-frad015-3-e-263-1-00032.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-1_Sourzat_07.1647\Acte_010_p030-033\depot-notaires-saint-flour-3e263-1-frad015-3-e-263-1-00033.jpg'
 
 personnes:
   - nom: MONIER

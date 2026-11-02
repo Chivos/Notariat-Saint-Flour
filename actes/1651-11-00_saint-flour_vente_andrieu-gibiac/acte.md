@@ -2,7 +2,7 @@
 # ─── Identification ────────────────────────────────────────────────
 id: 1651-11-00_saint-flour_vente_andrieu-gibiac
 type: vente
-date_acte: 1651-11-00
+date_acte: "1651-11-00"
 date_acte_texte: "corps : date perdue (lacune) ; endos : Du xx[e?]m.e No.bre [...]"
 date_style: ""
 

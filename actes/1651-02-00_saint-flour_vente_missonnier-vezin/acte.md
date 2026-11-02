@@ -1,7 +1,7 @@
 ---
 id: 1651-02-00_saint-flour_vente_missonnier-vezin
 type: vente
-date_acte: 1651-02-00
+date_acte: "1651-02-00"
 date_acte_texte: "corps : date perdue (lacune) ; endos : « du [iij.e?] Feburier 1651 » ; p. 164 : « Led. an Iour lieu »"
 date_style: ""
 

@@ -30,7 +30,7 @@ images:
 personnes:
   - nom: CHAULIAGUET
     prenom: Jacques
-    graphies: [Me Jacques Chauliaguet, Jacques Chauliaguet, S. [Jacques?]]
+    graphies: ['Me Jacques Chauliaguet', 'Jacques Chauliaguet', 'S. [Jacques?]']
     role: partie (bénéficiaire de la constitution de mariage de 1647)
     age: ""
     profession: avocat
@@ -39,7 +39,7 @@ personnes:
     statut: vivant
   - nom: CHAULIAGUET
     prenom: Mathieu
-    graphies: [Me Mathieu Chauliaguet, Me Math[ieu] Chauliaguet, M Chauliaguet]
+    graphies: ['Me Mathieu Chauliaguet', 'Me Math[ieu] Chauliaguet', 'M Chauliaguet']
     role: partie (père de Jacques)
     age: ""
     profession: conseiller du roi, élu en l'élection de Saint-Flour
@@ -48,7 +48,7 @@ personnes:
     statut: vivant
   - nom: CHAULIAGUET
     prenom: Antoine
-    graphies: [Anthoine Chauliaguet, hon.ble homme Anthoine Chauliag[uet]]
+    graphies: ['Anthoine Chauliaguet', 'hon.ble homme Anthoine Chauliag[uet]']
     role: partie (oncle de Jacques)
     age: ""
     profession: bourgeois

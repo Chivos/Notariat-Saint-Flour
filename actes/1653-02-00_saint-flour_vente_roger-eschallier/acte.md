@@ -2,7 +2,7 @@
 # ─── Identification ────────────────────────────────────────────────
 id: 1653-02-00_saint-flour_vente_roger-eschallier
 type: vente
-date_acte: 1653-02-00
+date_acte: "1653-02-00"
 date_acte_texte: "Le [...]ieme Jour du Mois de Febvrier [apres midy?] [mil vjᶜ?] Cinquante trois (endos : du [...] Febvrier 1653)"
 date_style: ""
 

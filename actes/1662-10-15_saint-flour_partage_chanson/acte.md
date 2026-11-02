@@ -21,10 +21,10 @@ etat_transcription: complète
 confiance: moyenne
 transcrit_le: 2026-10-02
 images:
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-23_Sourzat_07.1662\Acte_038_p179-182\depot-notaires-saint-flour-3e263-23-frad015-3-e-263-23-00179.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-23_Sourzat_07.1662\Acte_038_p179-182\depot-notaires-saint-flour-3e263-23-frad015-3-e-263-23-00180.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-23_Sourzat_07.1662\Acte_038_p179-182\depot-notaires-saint-flour-3e263-23-frad015-3-e-263-23-00181.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-23_Sourzat_07.1662\Acte_038_p179-182\depot-notaires-saint-flour-3e263-23-frad015-3-e-263-23-00182.jpg"
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-23_Sourzat_07.1662\Acte_038_p179-182\depot-notaires-saint-flour-3e263-23-frad015-3-e-263-23-00179.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-23_Sourzat_07.1662\Acte_038_p179-182\depot-notaires-saint-flour-3e263-23-frad015-3-e-263-23-00180.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-23_Sourzat_07.1662\Acte_038_p179-182\depot-notaires-saint-flour-3e263-23-frad015-3-e-263-23-00181.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-23_Sourzat_07.1662\Acte_038_p179-182\depot-notaires-saint-flour-3e263-23-frad015-3-e-263-23-00182.jpg'
 
 # ─── Index nominatif (le cœur du recoupement) ──────────────────────
 personnes:

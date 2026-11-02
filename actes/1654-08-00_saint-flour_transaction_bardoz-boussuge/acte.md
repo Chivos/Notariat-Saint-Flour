@@ -1,7 +1,7 @@
 ---
 id: 1654-08-00_saint-flour_transaction_bardoz-boussuge
 type: transaction
-date_acte: 1654-08-00
+date_acte: "1654-08-00"
 date_acte_texte: "le [vingtiesme?] jo.r du mois daoust apres midy gbʃc cinquante quatre (minute) ; le [...] aoust 1654 (endos)"
 date_style: ""
 

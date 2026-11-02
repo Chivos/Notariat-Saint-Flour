@@ -2,7 +2,7 @@
 # ─── Identification ────────────────────────────────────────────────
 id: 1651-01-00_saint-flour_transaction_guerin-castaing
 type: transaction
-date_acte: 1651-01-00
+date_acte: "1651-01-00"
 date_acte_texte: "[...] de Janvier apres midy (endos : du [ne?] Janvier 165[1?])"
 date_style: ""
 

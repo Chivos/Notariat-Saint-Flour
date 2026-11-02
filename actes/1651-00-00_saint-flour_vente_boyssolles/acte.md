@@ -1,7 +1,7 @@
 ---
 id: 1651-00-00_saint-flour_vente_boyssolles
 type: vente
-date_acte: 1651-00-00
+date_acte: "1651-00-00"
 date_acte_texte: "[Januier? / dauril?] auant midy 1651 (endos : [Le 5? / c5?] Mars? 1651)"
 date_style: ""
 

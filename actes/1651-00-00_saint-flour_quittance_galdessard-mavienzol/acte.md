@@ -2,7 +2,7 @@
 # ─── Identification ────────────────────────────────────────────────
 id: 1651-00-00_saint-flour_quittance_galdessard-mavienzol
 type: quittance
-date_acte: 1651-00-00
+date_acte: "1651-00-00"
 date_acte_texte: "[...] Mil [vj^c?] Cinquante [...] (jour, mois et fin du millésime perdus)"
 date_style: ""
 

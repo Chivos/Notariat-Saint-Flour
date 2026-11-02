@@ -2,7 +2,7 @@
 # ─── Identification ────────────────────────────────────────────────
 id: 1653-12-00_saint-flour_vente_fray-mas
 type: vente
-date_acte: 1653-12-00
+date_acte: "1653-12-00"
 date_acte_texte: "Le [Vingt?][...] Iour de [decembre?] Auant midy [...] Cinquante troys[?] ; ratification : de ce mois de decemb[re] 1653 ... Le Vingt[...] [...] [decembre?] auant midy [...] Cinquante [...]"
 date_style: ""
 

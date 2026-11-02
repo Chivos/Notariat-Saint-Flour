@@ -2,7 +2,7 @@
 # ─── Identification ────────────────────────────────────────────────
 id: 1654-10-00_saint-flour_testament_vachassol
 type: testament
-date_acte: 1654-10-00
+date_acte: "1654-10-00"
 date_acte_texte: "Le Vingt[...]e jo.r du mois d'Octobre [mil six cens] Cinquante quatre ; endos : 2[?] 8bre 1654"
 date_style: ""
 

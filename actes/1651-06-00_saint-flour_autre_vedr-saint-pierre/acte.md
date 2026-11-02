@@ -2,7 +2,7 @@
 # ─── Identification ────────────────────────────────────────────────
 id: 1651-06-00_saint-flour_autre_vedr-saint-pierre
 type: autre
-date_acte: 1651-06-00
+date_acte: "1651-06-00"
 date_acte_texte: "Juny[?] mil [...]"
 date_style: ""
 
@@ -108,6 +108,6 @@ Fragment de fin d'un acte de nature indéterminée. Il est conservé p. 191 des 
 
 - **Marquise VEDRINES** : la bibliothèque contient une « Marquise Vedrines, veuve [et héritière par bénéfice d'inventaire] » du notaire Sourzat. Elle a requis des copies collationnées, voir `1657-10-10_saint-flour_testament_delort-moner` et l'expédition mentionnée dans `1650-03-12_saint-flour_testament_merle-ingimbert`. Si la signataire est bien Marquise Vedrines, il pourrait s'agir de l'épouse du notaire, signant comme partie ou comme témoin. C'est une hypothèse à vérifier, car le patronyme n'est pas lu en entier. La famille VEDRINES est très présente dans la bibliothèque, à Saint-Flour, à partir de 1658.
 - **SAINT-PIERRE** : un « [de St?] Pierre » témoin signataire figure dans `1661-02-12_saint-flour_testament_daude`. Comparer les paraphes.
-- Examiner la p. 190 (fin de l'acte 48) et le verso éventuel de la p. 191 : le corps de cet acte pourrait s'y trouver.
+- Examiner les p. 187-190 (l'acte 48 n'est pas présent dans le dossier local) et la p. 192, que le découpage n'attribue à aucun acte (verso éventuel) : le corps de cet acte pourrait s'y trouver.
 - Chercher dans le registre 3 E 263-5, autour de juin 1651, un acte où Marquise Vedr… et un Saint-Pierre interviennent ensemble. Consulter aussi un éventuel répertoire du notaire.
 - Fiche à ne pas utiliser seule pour une conclusion (confiance faible).

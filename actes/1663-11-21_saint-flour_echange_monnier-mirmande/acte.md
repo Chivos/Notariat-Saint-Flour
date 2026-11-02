@@ -18,10 +18,10 @@ etat_transcription: complète
 confiance: moyenne
 transcrit_le: 2026-10-03
 images:
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-25_Sourzat_07.1663\Acte_045_p217-220\depot-notaires-saint-flour-3e263-25-frad015-3-e-263-25-00217.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-25_Sourzat_07.1663\Acte_045_p217-220\depot-notaires-saint-flour-3e263-25-frad015-3-e-263-25-00218.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-25_Sourzat_07.1663\Acte_045_p217-220\depot-notaires-saint-flour-3e263-25-frad015-3-e-263-25-00219.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-25_Sourzat_07.1663\Acte_045_p217-220\depot-notaires-saint-flour-3e263-25-frad015-3-e-263-25-00220.jpg"
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-25_Sourzat_07.1663\Acte_045_p217-220\depot-notaires-saint-flour-3e263-25-frad015-3-e-263-25-00217.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-25_Sourzat_07.1663\Acte_045_p217-220\depot-notaires-saint-flour-3e263-25-frad015-3-e-263-25-00218.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-25_Sourzat_07.1663\Acte_045_p217-220\depot-notaires-saint-flour-3e263-25-frad015-3-e-263-25-00219.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-25_Sourzat_07.1663\Acte_045_p217-220\depot-notaires-saint-flour-3e263-25-frad015-3-e-263-25-00220.jpg'
 
 personnes:
   - nom: MONNIER

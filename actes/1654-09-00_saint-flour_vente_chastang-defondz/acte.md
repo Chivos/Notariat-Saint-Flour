@@ -1,7 +1,7 @@
 ---
 id: 1654-09-00_saint-flour_vente_chastang-defondz
 type: vente
-date_acte: 1654-09-00
+date_acte: "1654-09-00"
 date_acte_texte: "le [treziesme?] septembre g.bj.c cinquante quatre (l. 78) ; [7bre?] 1654 (endos) ; quittance : [quinze?] may g.bj.c cinquante cinq (l. 99)"
 date_style: ""
 

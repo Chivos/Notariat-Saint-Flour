@@ -2,7 +2,7 @@
 # ─── Identification ────────────────────────────────────────────────
 id: 1654-06-00_saint-flour_vente_chappoulle-antheraiq
 type: vente
-date_acte: 1654-06-00
+date_acte: "1654-06-00"
 date_acte_texte: "Faict & passe aud. S.t flour [... 1 mot] [... 1 mot] [mois?] de Juin (corps) ; [6?].e Juin 1654 (endos)"
 date_style: ""
 

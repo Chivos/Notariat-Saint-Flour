@@ -2,7 +2,7 @@
 # ─── Identification ────────────────────────────────────────────────
 id: 1653-02-00_saint-flour_vente_barthomeuf-chanlaguet
 type: vente
-date_acte: 1653-02-00
+date_acte: "1653-02-00"
 date_acte_texte: "le [quinze?] febvrier apres midy [mil vi.c?] cinq.te [troiz?] (endos : [deux?] feurier 1653)"
 date_style: ""
 

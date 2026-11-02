@@ -42,7 +42,7 @@ personnes:
     residence: "Vibrezac, paroisse d'Alleuze"
     filiation: ""
     statut: "vivant ; dit mineur lors des quittances ratifiées"
-  - nom: [FABRE?]
+  - nom: '[FABRE?]'
     prenom: "Jean"
     graphies: ["Jean [Fabre?]"]
     role: "bénéficiaire de la quittance de 26 livres"
@@ -60,7 +60,7 @@ personnes:
     residence: "[Menac?] (lieu non lu)"
     filiation: ""
     statut: "vivant"
-  - nom: [BRICAIRE?]
+  - nom: '[BRICAIRE?]'
     prenom: ""
     graphies: ["[Bricaire?] no.re Roy[al]"]
     role: "notaire ayant reçu la quittance de 26 livres"
@@ -78,7 +78,7 @@ personnes:
     residence: ""
     filiation: "veuve de Me Jean [CHAUSSE?]"
     statut: "feu"
-  - nom: [CHAUSSE?]
+  - nom: '[CHAUSSE?]'
     prenom: "Jean"
     graphies: ["Mre Jean [Chausse?]"]
     role: "mari prédécédé de Jeanne MOUNIER"
@@ -114,7 +114,7 @@ personnes:
     residence: ""
     filiation: ""
     statut: "vivant"
-  - nom: [CROZET?]
+  - nom: '[CROZET?]'
     prenom: "Pierre"
     graphies: ["pierre [Crozet?]"]
     role: "confront (champ joignant la Combe)"
@@ -150,7 +150,7 @@ personnes:
     residence: ""
     filiation: ""
     statut: "vivant"
-  - nom: [BURELLE?]
+  - nom: '[BURELLE?]'
     prenom: "Jacques"
     graphies: ["Jacq. [Burelle?]"]
     role: "confront (bois joignant la Barthasse, avec Jean Vedrine)"
@@ -186,7 +186,7 @@ personnes:
     residence: "Vibrezac, paroisse d'Alleuze"
     filiation: ""
     statut: "vivant"
-  - nom: [PAUC?]
+  - nom: '[PAUC?]'
     prenom: "[Claude?]"
     graphies: ["[Claude?] [Pauc?]", "Pauc"]
     role: "témoin, signe"

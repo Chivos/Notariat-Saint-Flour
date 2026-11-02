@@ -18,9 +18,9 @@ etat_transcription: complète
 confiance: moyenne
 transcrit_le: 2026-10-01
 images:
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-27_Sourzat_07.1664\Acte_051_p258-260\depot-notaires-saint-flour-3e263-27-frad015-3-e-263-27-00258.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-27_Sourzat_07.1664\Acte_051_p258-260\depot-notaires-saint-flour-3e263-27-frad015-3-e-263-27-00259.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-27_Sourzat_07.1664\Acte_051_p258-260\depot-notaires-saint-flour-3e263-27-frad015-3-e-263-27-00260.jpg"
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-27_Sourzat_07.1664\Acte_051_p258-260\depot-notaires-saint-flour-3e263-27-frad015-3-e-263-27-00258.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-27_Sourzat_07.1664\Acte_051_p258-260\depot-notaires-saint-flour-3e263-27-frad015-3-e-263-27-00259.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-27_Sourzat_07.1664\Acte_051_p258-260\depot-notaires-saint-flour-3e263-27-frad015-3-e-263-27-00260.jpg'
 
 personnes:
   - nom: BAYLE

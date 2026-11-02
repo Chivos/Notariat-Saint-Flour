@@ -2,7 +2,7 @@
 # ─── Identification ────────────────────────────────────────────────
 id: 0000-00-00_saint-flour_vente_chauva-chasal
 type: vente
-date_acte: 0000-00-00
+date_acte: "0000-00-00"
 date_acte_texte: "non lue (lacune) ; seul « [...] du M[o?]is » en fin de p. 349"
 date_style: ""
 

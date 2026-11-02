@@ -38,7 +38,7 @@ personnes:
     statut: vivant
   - nom: BOYMETTON
     prenom: Jacques
-    graphies: [Jacques hugos Boymetton, hugo[s?] Boymetton, Bonmetton, Hugo, Hugos]
+    graphies: [Jacques hugos Boymetton, "hugo[s?] Boymetton", Bonmetton, Hugo, Hugos]
     role: acquéreur
     age: ""
     profession: ""

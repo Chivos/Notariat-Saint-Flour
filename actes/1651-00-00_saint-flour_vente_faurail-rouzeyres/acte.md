@@ -2,7 +2,7 @@
 # ─── Identification ────────────────────────────────────────────────
 id: 1651-00-00_saint-flour_vente_faurail-rouzeyres
 type: vente
-date_acte: 1651-00-00
+date_acte: "1651-00-00"
 date_acte_texte: "endos : du [dernier?] [Mai? / Mars?] 1651 (date du corps de l'acte perdue)"
 date_style: ""
 

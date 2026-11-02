@@ -18,9 +18,9 @@ etat_transcription: complète
 confiance: bonne
 transcrit_le: 2026-10-03
 images:
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-26_Sourzat_01.1664\Acte_044_p202-208\depot-notaires-saint-flour-3e263-26-frad015-3-e-263-26-00202.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-26_Sourzat_01.1664\Acte_044_p202-208\depot-notaires-saint-flour-3e263-26-frad015-3-e-263-26-00203.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-26_Sourzat_01.1664\Acte_044_p202-208\depot-notaires-saint-flour-3e263-26-frad015-3-e-263-26-00208.jpg"
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-26_Sourzat_01.1664\Acte_044_p202-208\depot-notaires-saint-flour-3e263-26-frad015-3-e-263-26-00202.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-26_Sourzat_01.1664\Acte_044_p202-208\depot-notaires-saint-flour-3e263-26-frad015-3-e-263-26-00203.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-26_Sourzat_01.1664\Acte_044_p202-208\depot-notaires-saint-flour-3e263-26-frad015-3-e-263-26-00208.jpg'
 
 personnes:
   - nom: FONTES

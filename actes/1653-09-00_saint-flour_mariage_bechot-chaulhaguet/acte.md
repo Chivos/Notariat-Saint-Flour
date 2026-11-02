@@ -2,7 +2,7 @@
 # ─── Identification ────────────────────────────────────────────────
 id: 1653-09-00_saint-flour_mariage_bechot-chaulhaguet
 type: contrat de mariage
-date_acte: 1653-09-00
+date_acte: "1653-09-00"
 date_acte_texte: "Le Vingt[...]iesme[?] Iour du Mois de Septambre apres midy xvj[c] Cinquante trois (quantième surchargé) ; endos : 10 7bre 1653 ; quittance : Le dixiesme 10[e] Septembre xvj[c] Cinquante quatre"
 date_style: ""
 

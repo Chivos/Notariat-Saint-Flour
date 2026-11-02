@@ -1,7 +1,7 @@
 ---
 id: 1654-11-00_saint-flour_subrogation_fendouze-chalmette
 type: autre
-date_acte: 1654-11-00
+date_acte: "1654-11-00"
 date_acte_texte: "le vingt[deux?]e jour de ((biffé : septembre)) ((interligne : Nouembre)) avant midy [...] cinq.te quatre"
 date_style: ""
 

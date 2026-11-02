@@ -2,7 +2,7 @@
 # ─── Identification ────────────────────────────────────────────────
 id: 1651-11-00_saint-flour_testament_dechausse
 type: testament
-date_acte: 1651-11-00
+date_acte: "1651-11-00"
 date_acte_texte: "date du corps de l'acte détruite ; endos : du xv[i?].e Novembre 1651"
 date_style: ""
 

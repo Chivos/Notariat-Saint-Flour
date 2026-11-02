@@ -16,10 +16,10 @@ etat_transcription: partielle
 confiance: moyenne
 transcrit_le: 2026-10-03
 images:
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-1_Sourzat_07.1647\Acte_018_p058-061\depot-notaires-saint-flour-3e263-1-frad015-3-e-263-1-00058.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-1_Sourzat_07.1647\Acte_018_p058-061\depot-notaires-saint-flour-3e263-1-frad015-3-e-263-1-00059.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-1_Sourzat_07.1647\Acte_018_p058-061\depot-notaires-saint-flour-3e263-1-frad015-3-e-263-1-00060.jpg"
-  - "C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-1_Sourzat_07.1647\Acte_018_p058-061\depot-notaires-saint-flour-3e263-1-frad015-3-e-263-1-00061.jpg"
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-1_Sourzat_07.1647\Acte_018_p058-061\depot-notaires-saint-flour-3e263-1-frad015-3-e-263-1-00058.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-1_Sourzat_07.1647\Acte_018_p058-061\depot-notaires-saint-flour-3e263-1-frad015-3-e-263-1-00059.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-1_Sourzat_07.1647\Acte_018_p058-061\depot-notaires-saint-flour-3e263-1-frad015-3-e-263-1-00060.jpg'
+  - 'C:\Users\sylva\Desktop\Analyses_notaires\AD15_3 E 263-1_Sourzat_07.1647\Acte_018_p058-061\depot-notaires-saint-flour-3e263-1-frad015-3-e-263-1-00061.jpg'
 personnes:
   - nom: COMBES
     prenom: Guillaume
