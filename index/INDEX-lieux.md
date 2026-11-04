@@ -6,8 +6,10 @@
 |---|---|---|
 | Agde (Languedoc) | 1 | 1653-10-25_saint-flour_vente_bastide-cristal |
 | Aigues-Mortes (daiguesmortes) | 1 | 1656-04-06_saint-flour_transaction_rouzeyres |
+| Alauze (dalauze, da lueze ; sans doute Alleuze, Cantal) | 1 | 1634-11-19_saint-flour_vente_vigier-missonier |
 | Alauzet (métairie du seigneur de Rochegonde) | 1 | 1663-03-20_saint-flour_echange_rispal-pautard_b |
 | Albaret | 1 | 1660-11-20_saint-flour_mariage_chausoz-montgial |
+| Albaret (dalbaret, dalberret) | 1 | 1634-02-11_saint-flour_quittance_fabre-pitiot |
 | Albaret-Sainte-Marie | 1 | 1656-05-20_alleuze_mariage_catala-chanson |
 | Albaret-le-Comtal | 2 | 1659-02-23_saint-flour_vente_cheylard-fabre, 1663-11-07_saint-flour_vente_fabre-aujolet |
 | Albaret-le-[Comtal?] | 1 | 1659-06-05_saint-flour_partage_vedrines-mirmande |
@@ -26,7 +28,7 @@
 | Aleuzet (Alleuzet) | 1 | 1664-03-01_saint-flour_desistement_poulverelle-andrieu |
 | Aleyrac (diocèse du Puy) | 1 | 1657-12-27_saint-flour_mariage_mazamblard-mauvy |
 | Aleyrac [?] | 1 | 1653-11-30_saint-flour_transaction_verdier-mallet |
-| Allanche | 12 | 1628-04-19_saint-flour_cession_chavillier-berger, 1647-07-17_saint-flour_apprentissage_lapeyre-guanil, 1647-11-06_saint-flour_bail_roze-pages, 1650-02-20_saint-flour_donation_mornac, 1659-07-18_saint-flour_mariage_merle-combes, 1659-12-13_saint-flour_testament_rolland-faluet, 1660-01-31_saint-flour_mariage_eschallier-montgial, 1660-06-16_saint-flour_transaction_seugrac-dubois, 1661-08-30_saint-flour_testament_levat, 1662-01-26_saint-flour_vente_rispal-dabladie, 1663-03-17_saint-flour_inventaire_grezes-bechot, 1665-08-01_saint-flour_mariage_brugeirolles-chanson |
+| Allanche | 14 | 1628-04-19_saint-flour_cession_chavillier-berger, 1633-10-06_saint-flour_vente_apchier-aurillac, 1643-04-00_saint-flour_vente_solignac-dufour, 1647-07-17_saint-flour_apprentissage_lapeyre-guanil, 1647-11-06_saint-flour_bail_roze-pages, 1650-02-20_saint-flour_donation_mornac, 1659-07-18_saint-flour_mariage_merle-combes, 1659-12-13_saint-flour_testament_rolland-faluet, 1660-01-31_saint-flour_mariage_eschallier-montgial, 1660-06-16_saint-flour_transaction_seugrac-dubois, 1661-08-30_saint-flour_testament_levat, 1662-01-26_saint-flour_vente_rispal-dabladie, 1663-03-17_saint-flour_inventaire_grezes-bechot, 1665-08-01_saint-flour_mariage_brugeirolles-chanson |
 | Allanche (lieu de La Barge) | 1 | 1656-01-19_allanche_testament_rigault |
 | Allanche (paroisse, église et cimetière ; graphies dallanche, dallange) | 1 | 1656-01-19_allanche_testament_rigault |
 | Allanche (parr.e dallanche ; Alleuze probable) | 1 | 1654-07-19_saint-flour_echange_chanson-monnier |
@@ -35,7 +37,7 @@
 | Allanche[?] | 2 | 1653-01-03_saint-flour_donation_maurilhiar, 1663-09-02_saint-flour_mariage_chazal-mourier |
 | Allauzi[?] (Alleuze ?) | 1 | 1664-12-28_roffiac_vente_aurelhe-mauvy |
 | Alle[u?]zi[?] (Alleuze ?) | 1 | 1652-06-08_villedieu_testament_missonnier |
-| Alleuze | 93 | 1649-07-17_saint-flour_quittance_gardelle-giraldon, 1650-03-06_saint-flour_quittance_chalier-teyssedre, 1650-03-24_alleuze_testament_galdissard-douhet, 1650-04-18_villedieu_vente_goizet-gibrat, 1650-09-24_saint-flour_mariage_boyer-bauthet, 1650-10-02_saint-flour_transaction_odoul-mallassaigne, 1650-11-09_alleuze_mariage_chassang-auzolet, 1651-03-18_saint-flour_obligation_fajon-monier, 1652-02-12_saint-flour_subrogation_folhe-chausy, 1652-06-30_saint-flour_transaction_marchand-chauses, 1653-02-15_saint-flour_mariage_eschallier-cebrousse, 1653-04-08_saint-flour_bail_aujolet-chanson, 1653-09-20_saint-flour_transaction_chassang-pages, 1653-10-28_saint-flour_vente_fabre-vayron, 1654-02-01_villedieu_vente_monnier-chassang, 1654-04-20_saint-flour_vente_andrieu-cussac, 1654-06-13_saint-flour_vente_chanson-cussac, 1654-07-18_saint-flour_obligation_pouget-faure, 1656-01-20_saint-flour_mariage_odoul-chambaroz, 1656-03-29_saint-flour_vente_gaudelle-missonnier, 1656-05-20_alleuze_mariage_catala-chanson, 1657-01-31_alleuze_donation_fabre-chanson, 1657-03-19_saint-flour_subrogation_bonnault-canilhac, 1657-04-08_saint-flour_transaction_rechalier-basset, 1657-09-09_saint-flour_mariage_tuffery-vedrines, 1658-01-19_saint-flour_vente_grezes-eschallier, 1658-06-23_saint-flour_mariage_chausse-fourcharie, 1658-07-04_saint-flour_vente_roux-chassang, 1658-07-10_saint-flour_vente_chanson-bonafos, 1658-08-04_saint-flour_demission_juery-chanson, 1658-09-24_saint-flour_vente_estival-rouchette, 1658-10-29_saint-flour_vente_cochinie, 1658-11-10_saint-flour_bail_monnier-vedrines, 1659-02-04_saint-flour_mariage_galdissard-eschallier, 1659-02-18_saint-flour_echange_monnier-mirmande, 1659-04-06_saint-flour_vente_delaspre-chaulaguet, 1659-06-05_saint-flour_partage_vedrines-mirmande, 1659-06-08_saint-flour_vente_monnier-pauc, 1659-06-16_saint-flour_vente_gardret-chanson, 1659-11-16_saint-flour_vente_barthet, 1659-11-23_saint-flour_mariage_falgheyras-bossuge, 1659-12-20_saint-flour_vente_bonnol, 1659-12-29_saint-flour_vente_barthet, 1660-01-10_saint-flour_vente_lanie-avrilee, 1660-02-10_villedieu_mariage_berhot-couchaire, 1660-04-17_saint-flour_vente_gardelle-couzhavie, 1660-04-20_saint-flour_vente_chanson, 1660-06-27_saint-flour_transaction_parro-gastal, 1660-11-20_saint-flour_mariage_chausoz-montgial, 1661-02-19_fayet_mariage_chanson-eschallier, 1661-02-22_saint-flour_echange_missonnier-grezes, 1661-02-25_saint-flour_vente_coucharie-chanson, 1661-03-28_saint-flour_echange_grezes, 1661-05-28_saint-flour_vente_clavillier-chanson, 1661-06-09_saint-flour_testament_audouin-fajon, 1661-11-00_alleuze_donation_andrieu, 1661-11-19_saint-flour_echange_gibrat-cussac, 1662-01-19_saint-flour_mariage_eschallier-masset, 1662-04-11_saint-flour_ratification_barthet, 1662-10-15_saint-flour_vente_gastal-ventinghol, 1662-10-18_saint-flour_vente_pelegrin-barthomeuf, 1662-11-18_saint-flour_vente_barthet-chauses, 1662-12-29_saint-flour_mariage_trabut-chevallier, 1663-01-31_saint-flour_mariage_coucherie-chanson, 1663-03-10_saint-flour_vente_lastic-albepart, 1663-05-27_alleuze_mariage_ventughol-vedrines, 1663-07-15_saint-flour_donation_chanson-barthet, 1663-09-02_saint-flour_echange_chanson, 1663-11-21_saint-flour_echange_monnier-mirmande, 1664-02-16_saint-flour_mariage_guyon-teissedre, 1664-03-22_saint-flour_testament_bonniol, 1664-04-01_saint-flour_vente_chanson-roux, 1664-05-20_saint-flour_vente_aureille-monnier, 1664-10-12_saint-flour_revente_vedrines-chanson, 1664-11-16_saint-flour_echange_cussac-monier, 1664-11-28_saint-flour_quittance_chauzon-barthet, 1665-01-01_saint-flour_mariage_chadelat-guezes, 1665-01-04_saint-flour_vente_chauson-bouchet, 1665-01-07_alleuze_quittance_mournac, 1665-03-19_saint-flour_vente_chandon-pare, 1665-03-24_saint-flour_echange_baccon-migoulle, 1665-04-11_saint-flour_vente_chanson-portefaix_b, 1665-05-21_saint-flour_cession_parrot-cussac, 1665-06-28_saint-flour_vente_andrieu-dupuy, 1665-09-00_saint-flour_vente_cussac, 1666-01-27_alleuze_testament_daix, 1666-04-20_saint-flour_vente_andrieu-barthomeuf, 1666-04-27_saint-flour_vente_guadolle-paul, 1666-05-02_saint-flour_subrogation_barthet-chauzon, 1666-05-08_saint-flour_vente_gibrat-andrieu, 1666-06-14_saint-flour_vente_barthet, 1666-08-22_saint-flour_vente_delort-delcros, 1666-09-21_saint-flour_vente_chauson-bechot |
+| Alleuze | 97 | 1633-05-28_saint-flour_vente_perillier, 1634-02-16_saint-flour_quittance_bastide-andrieu, 1634-05-06_saint-flour_vente_bachier-messonnier, 1634-11-29_saint-flour_accord_montsal-landeiral, 1649-07-17_saint-flour_quittance_gardelle-giraldon, 1650-03-06_saint-flour_quittance_chalier-teyssedre, 1650-03-24_alleuze_testament_galdissard-douhet, 1650-04-18_villedieu_vente_goizet-gibrat, 1650-09-24_saint-flour_mariage_boyer-bauthet, 1650-10-02_saint-flour_transaction_odoul-mallassaigne, 1650-11-09_alleuze_mariage_chassang-auzolet, 1651-03-18_saint-flour_obligation_fajon-monier, 1652-02-12_saint-flour_subrogation_folhe-chausy, 1652-06-30_saint-flour_transaction_marchand-chauses, 1653-02-15_saint-flour_mariage_eschallier-cebrousse, 1653-04-08_saint-flour_bail_aujolet-chanson, 1653-09-20_saint-flour_transaction_chassang-pages, 1653-10-28_saint-flour_vente_fabre-vayron, 1654-02-01_villedieu_vente_monnier-chassang, 1654-04-20_saint-flour_vente_andrieu-cussac, 1654-06-13_saint-flour_vente_chanson-cussac, 1654-07-18_saint-flour_obligation_pouget-faure, 1656-01-20_saint-flour_mariage_odoul-chambaroz, 1656-03-29_saint-flour_vente_gaudelle-missonnier, 1656-05-20_alleuze_mariage_catala-chanson, 1657-01-31_alleuze_donation_fabre-chanson, 1657-03-19_saint-flour_subrogation_bonnault-canilhac, 1657-04-08_saint-flour_transaction_rechalier-basset, 1657-09-09_saint-flour_mariage_tuffery-vedrines, 1658-01-19_saint-flour_vente_grezes-eschallier, 1658-06-23_saint-flour_mariage_chausse-fourcharie, 1658-07-04_saint-flour_vente_roux-chassang, 1658-07-10_saint-flour_vente_chanson-bonafos, 1658-08-04_saint-flour_demission_juery-chanson, 1658-09-24_saint-flour_vente_estival-rouchette, 1658-10-29_saint-flour_vente_cochinie, 1658-11-10_saint-flour_bail_monnier-vedrines, 1659-02-04_saint-flour_mariage_galdissard-eschallier, 1659-02-18_saint-flour_echange_monnier-mirmande, 1659-04-06_saint-flour_vente_delaspre-chaulaguet, 1659-06-05_saint-flour_partage_vedrines-mirmande, 1659-06-08_saint-flour_vente_monnier-pauc, 1659-06-16_saint-flour_vente_gardret-chanson, 1659-11-16_saint-flour_vente_barthet, 1659-11-23_saint-flour_mariage_falgheyras-bossuge, 1659-12-20_saint-flour_vente_bonnol, 1659-12-29_saint-flour_vente_barthet, 1660-01-10_saint-flour_vente_lanie-avrilee, 1660-02-10_villedieu_mariage_berhot-couchaire, 1660-04-17_saint-flour_vente_gardelle-couzhavie, 1660-04-20_saint-flour_vente_chanson, 1660-06-27_saint-flour_transaction_parro-gastal, 1660-11-20_saint-flour_mariage_chausoz-montgial, 1661-02-19_fayet_mariage_chanson-eschallier, 1661-02-22_saint-flour_echange_missonnier-grezes, 1661-02-25_saint-flour_vente_coucharie-chanson, 1661-03-28_saint-flour_echange_grezes, 1661-05-28_saint-flour_vente_clavillier-chanson, 1661-06-09_saint-flour_testament_audouin-fajon, 1661-11-00_alleuze_donation_andrieu, 1661-11-19_saint-flour_echange_gibrat-cussac, 1662-01-19_saint-flour_mariage_eschallier-masset, 1662-04-11_saint-flour_ratification_barthet, 1662-10-15_saint-flour_vente_gastal-ventinghol, 1662-10-18_saint-flour_vente_pelegrin-barthomeuf, 1662-11-18_saint-flour_vente_barthet-chauses, 1662-12-29_saint-flour_mariage_trabut-chevallier, 1663-01-31_saint-flour_mariage_coucherie-chanson, 1663-03-10_saint-flour_vente_lastic-albepart, 1663-05-27_alleuze_mariage_ventughol-vedrines, 1663-07-15_saint-flour_donation_chanson-barthet, 1663-09-02_saint-flour_echange_chanson, 1663-11-21_saint-flour_echange_monnier-mirmande, 1664-02-16_saint-flour_mariage_guyon-teissedre, 1664-03-22_saint-flour_testament_bonniol, 1664-04-01_saint-flour_vente_chanson-roux, 1664-05-20_saint-flour_vente_aureille-monnier, 1664-10-12_saint-flour_revente_vedrines-chanson, 1664-11-16_saint-flour_echange_cussac-monier, 1664-11-28_saint-flour_quittance_chauzon-barthet, 1665-01-01_saint-flour_mariage_chadelat-guezes, 1665-01-04_saint-flour_vente_chauson-bouchet, 1665-01-07_alleuze_quittance_mournac, 1665-03-19_saint-flour_vente_chandon-pare, 1665-03-24_saint-flour_echange_baccon-migoulle, 1665-04-11_saint-flour_vente_chanson-portefaix_b, 1665-05-21_saint-flour_cession_parrot-cussac, 1665-06-28_saint-flour_vente_andrieu-dupuy, 1665-09-00_saint-flour_vente_cussac, 1666-01-27_alleuze_testament_daix, 1666-04-20_saint-flour_vente_andrieu-barthomeuf, 1666-04-27_saint-flour_vente_guadolle-paul, 1666-05-02_saint-flour_subrogation_barthet-chauzon, 1666-05-08_saint-flour_vente_gibrat-andrieu, 1666-06-14_saint-flour_vente_barthet, 1666-08-22_saint-flour_vente_delort-delcros, 1666-09-21_saint-flour_vente_chauson-bechot |
 | Alleuze (Alenze) | 1 | 1662-03-28_saint-flour_vente_aureille-malessaignes |
 | Alleuze (Aleuze), paroisse et mandement | 1 | 1665-04-25_saint-flour_echange_ventuighol-souchari |
 | Alleuze (Allauze) | 1 | 1661-07-22_alleuze_testament_gardelle |
@@ -53,6 +55,7 @@
 | Alleuze (au lieu de La Barge, maison du testateur) | 1 | 1666-01-27_alleuze_testament_daix |
 | Alleuze (dAleuze ; endos d[alenze?]), paroisse | 1 | 1653-05-02_saint-flour_donation_solie-boudon |
 | Alleuze (dAleuze) | 1 | 1651-06-06_saint-flour_vente_chauzes-cayssedre |
+| Alleuze (dal[euse?], Daluze) | 1 | 1634-03-21_saint-flour_vente_gorce-andrieu |
 | Alleuze (dalauze) | 1 | 1665-04-11_saint-flour_vente_chanson-portefaix |
 | Alleuze (daleuze) | 3 | 1664-01-17_alleuze_mariage_chanson-vedrines, 1664-04-14_saint-flour_vente_andrieu-fayon, 1664-04-17_saint-flour_bail_roumiol-teissedre |
 | Alleuze (daleuze, dal[euze]) | 1 | 1651-06-25_saint-flour_vente_audouin-matthaugier |
@@ -70,7 +73,7 @@
 | Alleuze (mandement, dalleuze) | 1 | 1660-01-11_saint-flour_vente_rispal-gerault |
 | Alleuze (paroisse ; « dallenze » / « dalleuze ») | 1 | 1653-04-19_saint-flour_echange_andrieu |
 | Alleuze (paroisse et mandement) | 3 | 1650-07-02_saint-flour_mariage_eschallier-monnier, 1654-07-06_saint-flour_echange_chanson-teyssedre, 1654-07-18_saint-flour_vente_pouget-faure |
-| Alleuze (paroisse) | 14 | 1650-01-29_saint-flour_echange_douhet-taillade, 1653-02-00_saint-flour_vente_roger-eschallier, 1654-06-25_saint-flour_vente_gardelle-delolme, 1654-10-28_saint-flour_vente_rigault-deramis, 1657-01-31_alleuze_donation_fabre-chanson, 1658-04-01_saint-flour_transaction_cussac-chausse, 1659-12-13_saint-flour_mariage_coiffier-fabre, 1662-04-22_saint-flour_vente_chanson, 1662-12-02_saint-flour_echange_giraldon-chanson, 1663-05-03_saint-flour_vente_chanson, 1663-09-02_saint-flour_vente_chanson, 1663-11-07_saint-flour_vente_brugier-chassang, 1663-11-22_saint-flour_transaction_quinsat-grezes, 1664-01-26_saint-flour_vente_chanson |
+| Alleuze (paroisse) | 15 | 1633-11-14_saint-flour_vente_monnier-mossine, 1650-01-29_saint-flour_echange_douhet-taillade, 1653-02-00_saint-flour_vente_roger-eschallier, 1654-06-25_saint-flour_vente_gardelle-delolme, 1654-10-28_saint-flour_vente_rigault-deramis, 1657-01-31_alleuze_donation_fabre-chanson, 1658-04-01_saint-flour_transaction_cussac-chausse, 1659-12-13_saint-flour_mariage_coiffier-fabre, 1662-04-22_saint-flour_vente_chanson, 1662-12-02_saint-flour_echange_giraldon-chanson, 1663-05-03_saint-flour_vente_chanson, 1663-09-02_saint-flour_vente_chanson, 1663-11-07_saint-flour_vente_brugier-chassang, 1663-11-22_saint-flour_transaction_quinsat-grezes, 1664-01-26_saint-flour_vente_chanson |
 | Alleuze (paroisse, endos « dalleuze ») | 1 | 1656-04-23_saint-flour_echange_bouniol-chassang |
 | Alleuze (paroisse, l. 13 « d[allanx?] ») | 1 | 1660-01-26_auzolles_mariage_maury-mighoulle |
 | Alleuze (paroisse, lecture probable) | 1 | 1658-01-06_saint-flour_subrogation_fayon |
@@ -129,13 +132,17 @@
 | Ambrez [Ambres ?] | 1 | 1653-02-17_saint-flour_vente_tisset-cussac |
 | And[...] [?] (ville) | 1 | 1626-01-17_saint-flour_consentement_delaroche |
 | Andelac (Andelat ?) | 1 | 1665-09-21_saint-flour_vente_meylioi-jourlanche |
-| Andelat | 76 | 1609-01-20_andelat_mariage_farreyres-boudet, 1626-07-25_saint-flour_bail_fayet-molye, 1626-09-01_andelat_obligation_admins-brugier, 1628-08-01_andelat_association_bourguin-blanc, 1632-01-22_saint-flour_mariage_missonnier-roudier, 1632-04-17_saint-flour_revente_eschaubard, 1632-07-04_saint-flour_mariage_baille-chastel, 1632-11-19_andelat_testament_tantal, 1650-01-22_roffiac_mariage_seunier-bastide, 1651-01-12_saint-flour_mariage_coulzie-bastide, 1651-12-06_andelat_donation_maury-sauvet, 1651-12-09_saint-flour_quittance_segur-gozier, 1653-01-23_andelat_testament_roux, 1653-02-22_saint-flour_mariage_siccard-montgial, 1654-02-20_saint-flour_quittance_dumas-porchau, 1654-03-01_fraissenet_testament_nouzeiroe-beche, 1654-09-16_andelat_testament_sauvet-chalmette, 1654-11-03_andelat_desistement_avenens-fulhes, 1656-02-19_saint-flour_transaction_rolland-wanchier, 1656-12-22_saint-flour_transaction_crespoul-crestail, 1657-01-08_saint-flour_mariage_armand-bastide, 1657-02-24_saint-flour_subrogation_tiouleyre-peschau, 1657-06-16_andelat_donation_boutoule-gault, 1658-02-09_roffiac_mariage_blondy-parra, 1658-02-26_saint-flour_mariage_jean-bastide, 1658-07-13_saint-flour_donation_combes-mauly, 1658-07-25_saint-flour_transaction_surrel, 1659-01-22_andelat_donation_roux-alboy, 1659-02-01_saint-flour_obligation_chazal-meinier, 1659-02-10_saint-flour_subrogation_suvert-bechot, 1659-06-02_andelat_quittance_peschau, 1659-11-03_andelat_donation_brezes, 1659-11-07_roffiac_vente_rolland-brugier, 1660-01-02_roffiac_testament_jean, 1660-01-31_saint-flour_vente_maury, 1660-02-20_saint-flour_vente_grizet-suvvel, 1660-02-21_saint-flour_vente_cristal-odoul, 1660-04-10_saint-flour_mariage_castide-meylieu, 1660-05-01_saint-flour_vente_migne-bougier, 1660-05-28_saint-flour_mariage_bertrand-sauvat, 1660-08-16_saint-flour_vente_bossuge-bo, 1660-11-00_saint-flour_testament_anvielle-compaing, 1661-03-07_saint-flour_testament_raul, 1661-07-08_saint-flour_vente_achier-solier, 1661-07-08_saint-flour_vente_achier-solier_b, 1661-07-20_andelat_testament_chastel-alboy, 1661-10-00_saint-flour_testament_solier, 1662-01-14_saint-flour_mariage_chalmete-marly, 1662-01-28_saint-flour_mariage_delmar-marty, 1662-02-24_saint-flour_vente_coutavel-mallet, 1662-03-22_saint-flour_echange_crespoul-cristal, 1662-04-25_saint-flour_vente_odoul-fabri, 1662-05-01_saint-flour_vente_cristal-sarrazin, 1662-07-24_saint-flour_vente_martin-jean, 1662-09-25_saint-flour_vente_pechau-durand, 1662-10-08_saint-flour_vente_galdissard-maury, 1662-10-09_saint-flour_vente_delmas-malet, 1662-12-28_saint-flour_mariage_defondz-martin, 1663-05-15_saint-flour_transaction_rayat-yzabel, 1663-05-19_saint-flour_vente_delmas-mallet, 1663-06-19_saint-flour_vente_nicolas-boudet, 1664-02-21_saint-flour_mariage_rayne-lombard, 1664-10-00_saint-flour_revente_savrazy-apchier, 1664-11-21_saint-flour_vente_chilman-malet, 1664-11-22_andelat_testament_delmas, 1665-03-04_saint-flour_vente_pons-trinsie, 1665-03-12_saint-flour_vente_delmas-albepard, 1665-05-24_saint-flour_donation_jordin-bougier, 1665-06-28_saint-flour_vente_surrel-bastide, 1665-12-31_saint-flour_cession_falgeyrac-montaigne, 1666-02-04_saint-flour_cession_maury-rubene, 1666-02-07_saint-flour_mariage_amat-serrohan, 1666-06-08_andelat_testament_auveille-bastide, 1666-07-06_andelat_mariage_revel-jean, 1666-08-30_saint-flour_mariage_jean-dufour, 1666-10-05_saint-flour_demission_albon-jean |
+| Andelat | 88 | 1609-01-20_andelat_mariage_farreyres-boudet, 1626-07-25_saint-flour_bail_fayet-molye, 1626-09-01_andelat_obligation_admins-brugier, 1628-08-01_andelat_association_bourguin-blanc, 1632-01-22_saint-flour_mariage_missonnier-roudier, 1632-04-17_saint-flour_revente_eschaubard, 1632-07-04_saint-flour_mariage_baille-chastel, 1632-11-19_andelat_testament_tantal, 1633-01-25_saint-flour_mariage_gibrat-alhadieres, 1633-02-01_andelat_mariage_jean-tronchier, 1633-02-01_andelat_mariage_tronchier-jean, 1633-02-26_saint-flour_vente_soulet-cellier, 1633-05-09_andelat_bail_brugier-julhe, 1633-07-27_andelat_testament_sarrel, 1634-01-23_saint-flour_transport_delfour, 1634-02-27_saint-flour_bail_bellengreville-amigo, 1634-05-01_saint-flour_quittance_sureil-jean, 1634-07-20_saint-flour_vente_desfondz-baudrongue, 1634-09-24_saint-flour_vente_crespel-bertin, 1634-12-21_saint-flour_vente_jourdane-ruel, 1650-01-22_roffiac_mariage_seunier-bastide, 1651-01-12_saint-flour_mariage_coulzie-bastide, 1651-12-06_andelat_donation_maury-sauvet, 1651-12-09_saint-flour_quittance_segur-gozier, 1653-01-23_andelat_testament_roux, 1653-02-22_saint-flour_mariage_siccard-montgial, 1654-02-20_saint-flour_quittance_dumas-porchau, 1654-03-01_fraissenet_testament_nouzeiroe-beche, 1654-09-16_andelat_testament_sauvet-chalmette, 1654-11-03_andelat_desistement_avenens-fulhes, 1656-02-19_saint-flour_transaction_rolland-wanchier, 1656-12-22_saint-flour_transaction_crespoul-crestail, 1657-01-08_saint-flour_mariage_armand-bastide, 1657-02-24_saint-flour_subrogation_tiouleyre-peschau, 1657-06-16_andelat_donation_boutoule-gault, 1658-02-09_roffiac_mariage_blondy-parra, 1658-02-26_saint-flour_mariage_jean-bastide, 1658-07-13_saint-flour_donation_combes-mauly, 1658-07-25_saint-flour_transaction_surrel, 1659-01-22_andelat_donation_roux-alboy, 1659-02-01_saint-flour_obligation_chazal-meinier, 1659-02-10_saint-flour_subrogation_suvert-bechot, 1659-06-02_andelat_quittance_peschau, 1659-11-03_andelat_donation_brezes, 1659-11-07_roffiac_vente_rolland-brugier, 1660-01-02_roffiac_testament_jean, 1660-01-31_saint-flour_vente_maury, 1660-02-20_saint-flour_vente_grizet-suvvel, 1660-02-21_saint-flour_vente_cristal-odoul, 1660-04-10_saint-flour_mariage_castide-meylieu, 1660-05-01_saint-flour_vente_migne-bougier, 1660-05-28_saint-flour_mariage_bertrand-sauvat, 1660-08-16_saint-flour_vente_bossuge-bo, 1660-11-00_saint-flour_testament_anvielle-compaing, 1661-03-07_saint-flour_testament_raul, 1661-07-08_saint-flour_vente_achier-solier, 1661-07-08_saint-flour_vente_achier-solier_b, 1661-07-20_andelat_testament_chastel-alboy, 1661-10-00_saint-flour_testament_solier, 1662-01-14_saint-flour_mariage_chalmete-marly, 1662-01-28_saint-flour_mariage_delmar-marty, 1662-02-24_saint-flour_vente_coutavel-mallet, 1662-03-22_saint-flour_echange_crespoul-cristal, 1662-04-25_saint-flour_vente_odoul-fabri, 1662-05-01_saint-flour_vente_cristal-sarrazin, 1662-07-24_saint-flour_vente_martin-jean, 1662-09-25_saint-flour_vente_pechau-durand, 1662-10-08_saint-flour_vente_galdissard-maury, 1662-10-09_saint-flour_vente_delmas-malet, 1662-12-28_saint-flour_mariage_defondz-martin, 1663-05-15_saint-flour_transaction_rayat-yzabel, 1663-05-19_saint-flour_vente_delmas-mallet, 1663-06-19_saint-flour_vente_nicolas-boudet, 1664-02-21_saint-flour_mariage_rayne-lombard, 1664-10-00_saint-flour_revente_savrazy-apchier, 1664-11-21_saint-flour_vente_chilman-malet, 1664-11-22_andelat_testament_delmas, 1665-03-04_saint-flour_vente_pons-trinsie, 1665-03-12_saint-flour_vente_delmas-albepard, 1665-05-24_saint-flour_donation_jordin-bougier, 1665-06-28_saint-flour_vente_surrel-bastide, 1665-12-31_saint-flour_cession_falgeyrac-montaigne, 1666-02-04_saint-flour_cession_maury-rubene, 1666-02-07_saint-flour_mariage_amat-serrohan, 1666-06-08_andelat_testament_auveille-bastide, 1666-07-06_andelat_mariage_revel-jean, 1666-08-30_saint-flour_mariage_jean-dufour, 1666-10-05_saint-flour_demission_albon-jean |
+| Andelat (Andelac, Andellac) — paroisse ; juge d'Andelat | 1 | 1633-05-09_andelat_bail_brugier-julhe |
+| Andelat (Andelac, Dandelat) | 1 | 1633-02-11_saint-flour_vente_julhe-baille_b |
 | Andelat (Andellac, Andelac) | 1 | 1652-01-28_andelat_mariage_boussuge-bastide |
 | Andelat (Andellat, Andelat) | 1 | 1664-02-23_saint-flour_vente_sauret-bertrand |
+| Andelat (Dandellac, Dandelat) | 1 | 1633-03-21_saint-flour_vente_apchier-serret |
 | Andelat (Dandellat, dandelat) | 1 | 1659-01-14_saint-flour_vente_boyer-barthomeuf |
 | Andelat (Le Saillant) | 1 | 1664-11-22_andelat_testament_delmas |
 | Andelat ([Salham?], probablement le Sailhant) | 1 | 1632-12-03_andelat_donation_dalzon-vendre |
 | Andelat ([Sebanghol?] / Sebarghol, maison du défunt) | 1 | 1658-05-24_andelat_inventaire_roux-alboy |
+| Andelat ([andellat?], dandellac / dandellat), l. 5 | 1 | 1634-03-26_saint-flour_vente_gastel-jurol |
 | Andelat (andelar) | 1 | 1626-03-08_saint-flour_apprentissage_padin-chastel |
 | Andelat (andelat) | 1 | 1666-01-03_saint-flour_vente_malot-albepart |
 | Andelat (andelat, dandelat) | 1 | 1661-08-28_saint-flour_mariage_chaulhac-meyliot |
@@ -148,40 +155,52 @@
 | Andelat (dandelac) | 1 | 1659-02-25_saint-flour_mariage_mounier-leyssandre |
 | Andelat (dandelat) | 2 | 1654-12-31_saint-flour_vente_grezes-bastide, 1657-11-10_saint-flour_transaction_cristal-crespoul |
 | Andelat (dandelat, andelat), paroisse | 1 | 1658-05-24_andelat_inventaire_roux-alboy |
+| Andelat (dandelat, dandelas) | 1 | 1633-04-25_saint-flour_vente_crespoul-siuergol |
+| Andelat (dandellac, andelac, Dandelat) | 1 | 1633-02-01_andelat_mariage_tronchier-jean |
 | Andelat (dandellac, andellac, dandellat) | 1 | 1656-10-18_saint-flour_demission_delmas-palhouzier |
 | Andelat (dandellac, dandelac, Andellac) | 1 | 1653-01-23_andelat_testament_roux |
 | Andelat (dandellac, dandellat ; paroisse) | 1 | 1656-02-21_saint-flour_subrogation_villemault-albepart |
 | Andelat (dandellac, dandollac, andellac) | 1 | 1651-12-06_andelat_donation_maury-sauvet |
 | Andelat (dandellat, andellat, andelat) | 1 | 1660-02-06_saint-flour_transaction_gozet-bastide |
+| Andelat (dandellat, dandelat) | 1 | 1633-02-11_saint-flour_vente_julhe-baille |
+| Andelat (dandellat, dandellac) | 1 | 1634-02-18_saint-flour_mariage_combes-prieghau |
 | Andelat (dandolen, dandeler, Dandelat) | 1 | 1632-11-07_saint-flour_vente_cendre-felis |
 | Andelat (l. 90, « d'Andelat ») | 1 | 1632-02-22_saint-flour_vente_melgho-viallard |
 | Andelat (lecture douteuse) | 1 | 1628-08-01_andelat_association_bourguin-blanc |
 | Andelat (lieu et paroisse) | 1 | 1660-05-01_saint-flour_echange_bougier-meiliot |
-| Andelat (paroisse) | 4 | 1626-09-01_andelat_obligation_admins-brugier, 1661-01-25_saint-flour_mariage_boyer-bonniol, 1665-02-07_saint-flour_mariage_trancher-yzabel, 1665-12-15_saint-flour_vente_cristal-crespoul |
+| Andelat (maison de [...]naut [Gorin?]) | 1 | 1633-02-01_andelat_mariage_jean-tronchier |
+| Andelat (paroisse ; cimetière de l'église d'Andelat, sépulture) | 1 | 1633-07-27_andelat_testament_sarrel |
+| Andelat (paroisse) | 5 | 1626-09-01_andelat_obligation_admins-brugier, 1634-11-21_saint-flour_vente_chadre-celier, 1661-01-25_saint-flour_mariage_boyer-bonniol, 1665-02-07_saint-flour_mariage_trancher-yzabel, 1665-12-15_saint-flour_vente_cristal-crespoul |
+| Andelat (paroisse, église et cimetière ; dandellal / dandellac / andellac / Dandelat) | 1 | 1633-12-17_saint-flour_testament_cristal |
 | Andelat (paroisse, église et cimetière) | 1 | 1662-07-02_saint-flour_testament_bastide-arman |
 | Andelat (seigneurie du sieur d'Andelat) | 1 | 1656-04-16_saint-flour_demission_sendoux-andelat |
 | Andelat (« dandellac », « d'andellac ») | 1 | 1654-11-03_andelat_desistement_avenens-fulhes |
 | Andelat (« dandellar », « dandellat ») | 1 | 1656-10-17_saint-flour_donation_palhouzier-farreyre |
+| Andelat (« dandellat », endos « dandelat ») | 1 | 1634-05-07_saint-flour_donation_chastang-fumat |
 | Andelat (« dandolat », lieu et paroisse) | 1 | 1656-12-27_saint-flour_transaction_roux-bousoure |
 | Andelat (église) | 1 | 1661-10-05_saint-flour_testament_boyer |
 | Andelat [?] | 6 | 1626-05-17_andelat_bail_teyssier-viallard, 1632-11-19_andelat_testament_tantal, 1652-02-10_saint-flour_echange_dommergue-pouhavre, 1659-01-11_saint-flour_vente_prohan-verrel, 1661-03-19_saint-flour_partage_cussac-maury, 1666-07-06_andelat_mariage_revel-jean |
-| Andelat [?] (paroisse) | 1 | 1626-05-17_andelat_bail_teyssier-viallard |
+| Andelat [?] (biffé dans l'endos : Dandelat) | 1 | 1633-09-11_saint-flour_mariage_bazol-tremhiere |
+| Andelat [?] (paroisse) | 2 | 1626-05-17_andelat_bail_teyssier-viallard, 1634-11-04_saint-flour_vente_liber |
 | Andelat [dandellat] | 1 | 1650-03-12_saint-flour_testament_merle-ingimbert |
 | Andelat[?] | 1 | 1665-09-21_saint-flour_vente_sauret-deloye |
 | Andelat[?] (paroisse, « dandelat[?] ») | 1 | 1658-09-21_saint-flour_mariage_baldissard-laurier |
 | Andelat[?] (« dandelar », l. 5 ; « d^iz andelar », l. 11 ; « andelar », l. 13) | 1 | 1628-05-21_saint-flour_transaction_vidal-nicolas |
 | Andellac [?] (Andelat ?) | 1 | 1656-02-23_saint-flour_vente_fraz-hugon |
+| Andellac? (Andelat ?) | 1 | 1634-01-29_saint-flour_bail_brassac-estiou |
 | Andilac[?] (paroisse) | 1 | 1658-05-15_saint-flour_mariage_mourgues-martin |
 | Anduze | 1 | 1654-08-20_saint-flour_vente_delcros-vollant |
 | Anglard (Anglards-de-Saint-Flour) | 1 | 1653-05-25_saint-flour_subrogation_imbert-delangouvents |
 | Anglard(s) (« danglard », lieu, paroisse et mandement royal ; probablement Anglards-de-Saint-Flour) | 1 | 1653-05-11_saint-flour_vente_roudil-mendre |
 | Anglard[?] | 1 | 1658-02-28_saint-flour_transaction_malbesaigne-charbonnier |
-| Anglards | 18 | 1632-09-11_saint-flour_titreclerical_attalec-nabou, 1650-07-11_saint-flour_vente_sugimbert-pelligier, 1650-10-09_saint-flour_licitation_jouve-boudet, 1650-12-30_saint-flour_vente_rouzeire-gillet, 1653-01-04_saint-flour_vente_tourrette-sauret, 1654-02-22_saint-flour_vente_chalvet-boudet, 1658-01-10_saint-flour_echange_albieuf-chauliaguet, 1658-12-16_saint-flour_vente_dejarques-berault, 1659-03-01_saint-flour_demission_delort-vedrines, 1662-09-03_saint-flour_donation_allegre-vedrines, 1663-05-26_saint-flour_obligation_trabuc-cairon, 1663-08-01_saint-flour_transaction_mathieu-delangouroux, 1663-11-10_saint-flour_cession_charbonnier-rancillac, 1664-01-12_saint-flour_vente_rabier-vidal, 1664-02-26_saint-flour_vente_crabut-cairoz, 1664-11-30_saint-flour_vente_palazon-blanchi, 1666-06-02_saint-flour_vente_bavate-lafoy, 1666-10-23_saint-flour_vente_baratte-lafoy |
+| Anglards | 20 | 1632-09-11_saint-flour_titreclerical_attalec-nabou, 1634-08-26_saint-flour_quittance_baratte-ebrard, 1634-11-20_saint-flour_quittance_gendre-barthomeuf, 1650-07-11_saint-flour_vente_sugimbert-pelligier, 1650-10-09_saint-flour_licitation_jouve-boudet, 1650-12-30_saint-flour_vente_rouzeire-gillet, 1653-01-04_saint-flour_vente_tourrette-sauret, 1654-02-22_saint-flour_vente_chalvet-boudet, 1658-01-10_saint-flour_echange_albieuf-chauliaguet, 1658-12-16_saint-flour_vente_dejarques-berault, 1659-03-01_saint-flour_demission_delort-vedrines, 1662-09-03_saint-flour_donation_allegre-vedrines, 1663-05-26_saint-flour_obligation_trabuc-cairon, 1663-08-01_saint-flour_transaction_mathieu-delangouroux, 1663-11-10_saint-flour_cession_charbonnier-rancillac, 1664-01-12_saint-flour_vente_rabier-vidal, 1664-02-26_saint-flour_vente_crabut-cairoz, 1664-11-30_saint-flour_vente_palazon-blanchi, 1666-06-02_saint-flour_vente_bavate-lafoy, 1666-10-23_saint-flour_vente_baratte-lafoy |
+| Anglards (-de-Saint-Flour) | 1 | 1634-10-21_saint-flour_testament_bical-maudre |
 | Anglards (Anglards-de-Saint-Flour ?) | 4 | 1651-10-28_saint-flour_mariage_joumbre-boyer, 1652-05-13_saint-flour_vente_castel-chanson, 1653-09-30_saint-flour_testament_galiot-marquis, 1654-02-23_saint-flour_quittance_sicaud-vougier |
 | Anglards (Anglards-de-Saint-Flour) | 10 | 1650-05-16_anglards_vente_girou-charmet, 1650-09-21_saint-flour_vente_boudet-maury, 1652-07-27_saint-flour_echange_boudet, 1653-02-00_saint-flour_vente_barthomeuf-chanlaguet, 1653-05-18_alleuze_vente_monier-chanson, 1658-11-03_saint-flour_demission_leyssedre-roudil, 1661-04-27_saint-flour_echange_roudil-benezit, 1662-11-23_saint-flour_cession_barriol-blanchy, 1664-04-26_saint-flour_donation_baratte-surrel, 1665-12-01_saint-flour_desistement_manson-solier |
 | Anglards (Anglards-de-Saint-Flour), mandement et paroisse | 1 | 1657-04-29_saint-flour_transaction_rochier-maury |
 | Anglards (Anglards-de-Saint-Flour), paroisse et mandement | 1 | 1662-10-28_saint-flour_echange_blanchy-lafon |
 | Anglards (Anglards-de-Saint-Flour), paroisse et mandement royal | 1 | 1663-11-10_saint-flour_transaction_lafon-charbonnier |
+| Anglards (Danglars, Danglard, Dauglard) | 1 | 1634-11-04_saint-flour_vente_crozet-vossen |
 | Anglards (anglarde[?], anglardz) | 1 | 1662-11-04_saint-flour_echange_fabre-buge |
 | Anglards (anglardz, d'anglardz) | 1 | 1661-05-05_saint-flour_vente_roudil-benezit |
 | Anglards (appartenances du lieu d'Anglards, paroisse de Coren) | 1 | 1660-04-26_saint-flour_vente_jacques-traverse |
@@ -199,7 +218,7 @@
 | Anglards (paroisse ; « danglarde ») | 1 | 1632-08-01_saint-flour_vente_esbrard-chaluet |
 | Anglards (paroisse et mandement) | 1 | 1665-05-18_saint-flour_vente_buge-blanchy |
 | Anglards (paroisse et église) | 1 | 1659-04-12_saint-flour_donation_crouzat |
-| Anglards (paroisse) | 5 | 1654-03-29_saint-flour_partage_spezolles, 1656-02-25_saint-flour_mariage_labroha-gillet, 1657-00-00_saint-flour_mariage_contarel-eschaubard, 1659-06-14_saint-flour_revente_vedrines-albepard, 1665-05-01_saint-flour_vente_vedrines-vigier |
+| Anglards (paroisse) | 6 | 1634-06-08_saint-flour_vente_albepar-vedrine, 1654-03-29_saint-flour_partage_spezolles, 1656-02-25_saint-flour_mariage_labroha-gillet, 1657-00-00_saint-flour_mariage_contarel-eschaubard, 1659-06-14_saint-flour_revente_vedrines-albepard, 1665-05-01_saint-flour_vente_vedrines-vigier |
 | Anglards (paroisse, mandement royal) | 1 | 1666-04-15_saint-flour_vente_roudil-blanchy |
 | Anglards (paroisse, « dangland^z ») | 1 | 1657-00-00_saint-flour_subrogation_tranchier-mirmande |
 | Anglards (« danglardz ») | 1 | 1660-06-05_saint-flour_echange_buge-delmas |
@@ -237,19 +256,21 @@
 | Aubax, paroisse de Mentières | 1 | 1664-03-09_saint-flour_bail_roux-sentheran |
 | Aubepeyre (paroisse de Bredon) | 1 | 1661-02-19_saint-flour_vente_soubrier-germany |
 | Aubert[?] | 1 | 1658-05-31_saint-flour_echange_sauret-chossy |
+| Auce[?] Solacz[?] (seigneurie ?) | 1 | 1633-05-09_andelat_bail_brugier-julhe |
 | Auglards[?] | 1 | 1651-04-02_saint-flour_vente_mauvy-gerauld |
 | Aujolles / Auzolles (lecture douteuse : [daujolles?], [Dauzolles?]) | 1 | 1659-09-06_saint-flour_testament_briger |
 | Aulhac | 1 | 1662-10-05_saint-flour_vente_boudre-balde |
 | Aulhac (?) | 1 | 1650-12-31_saint-flour_vente_boniol-masset |
 | Aulhac (daulhac), paroisse de Talizat | 1 | 1666-03-22_saint-flour_vente_ciborny-aldigier |
 | Aulhac (paroisse de Talizat) | 1 | 1609-01-20_andelat_mariage_farreyres-boudet |
+| Aulhac (terre, château et domaine) | 1 | 1638-06-30_saint-flour_partage_sauvat |
 | Aulhac (village des parties) | 1 | 1661-04-23_saint-flour_vente_colomb-borde |
 | Aulhac, paroisse de Tallezat | 1 | 1658-08-20_saint-flour_inventaire_delort-bechot |
 | Aurenghac [?] | 1 | 1652-02-24_saint-flour_transaction_vidal-parra |
 | Auriac | 3 | 1660-06-02_saint-flour_bail_ytual-fromen, 1661-11-22_saint-flour_vente_estival-malet, 1664-11-02_saint-flour_echange_bigot-pontsonaille |
 | Auriac (jardin, héritages vendus) | 1 | 1664-01-20_saint-flour_mariage_cahot-albuisson |
 | Auriac (paroisse de Faverolles) | 5 | 1656-05-24_saint-flour_subrogation_bigot, 1658-06-04_saint-flour_vente_espinal-albuisson, 1660-06-02_saint-flour_transaction_ythual-durand, 1662-11-02_saint-flour_retrait_estival-mallet, 1663-09-09_saint-flour_vente_bigot-ponthonaille |
-| Aurillac | 13 | 1626-12-17_saint-flour_transaction_fabry-alichaud, 1648-10-10_saint-flour_quittance_chabot-traversse, 1652-06-30_saint-flour_transaction_marchand-chauses, 1653-01-06_saint-flour_transaction_trabuc-sauret, 1653-02-24_saint-flour_inventaire_chanson-aujolet, 1655-05-23_saint-flour_transaction_yzabel-sentheraiz, 1658-09-24_saint-flour_vente_estival-rouchette, 1659-08-17_saint-flour_quittance_vidal-bossuge, 1660-06-16_saint-flour_transaction_seugrac-dubois, 1663-08-01_saint-flour_transaction_mathieu-delangouroux, 1664-11-20_saint-flour_partage_regimbalt-faucon, 1664-12-05_saint-flour_vente_vschaffolz-rispal, 1665-10-28_saint-flour_transaction_senetaire-galauba |
+| Aurillac | 14 | 1626-12-17_saint-flour_transaction_fabry-alichaud, 1644-02-13_saint-flour_vente_dufour-geraud, 1648-10-10_saint-flour_quittance_chabot-traversse, 1652-06-30_saint-flour_transaction_marchand-chauses, 1653-01-06_saint-flour_transaction_trabuc-sauret, 1653-02-24_saint-flour_inventaire_chanson-aujolet, 1655-05-23_saint-flour_transaction_yzabel-sentheraiz, 1658-09-24_saint-flour_vente_estival-rouchette, 1659-08-17_saint-flour_quittance_vidal-bossuge, 1660-06-16_saint-flour_transaction_seugrac-dubois, 1663-08-01_saint-flour_transaction_mathieu-delangouroux, 1664-11-20_saint-flour_partage_regimbalt-faucon, 1664-12-05_saint-flour_vente_vschaffolz-rispal, 1665-10-28_saint-flour_transaction_senetaire-galauba |
 | Aurillac (chancellerie) | 1 | 1657-04-08_saint-flour_transaction_rechalier-basset |
 | Aurillac (chancellerie, « dauvilhac ») | 1 | 1658-03-26_saint-flour_transaction_bechot-saintantony |
 | Aurillac (cour présidiale) | 1 | 1663-11-22_saint-flour_transaction_quinsat-grezes |
@@ -263,11 +284,13 @@
 | Aurillac [?] (siège présidial, Daurilh-ac) | 1 | 1657-10-18_tiviers_mariage_carmantrand-gendre |
 | Aurillac[?] | 1 | 1651-02-13_saint-flour_vente_bonduraud-delfieu |
 | Ausillac? (Aurillac ?) | 1 | 1666-10-01_saint-flour_testament_chinial-riou |
-| Auvergne | 11 | 1632-05-08_saint-flour_vente_treual-hisseire, 1651-04-02_saint-flour_vente_mauvy-gerauld, 1652-01-18_saint-flour_mariage_brassac-chevallier, 1652-01-24_saint-flour_donation_coutel, 1652-02-13_roffiac_mariage_fray-brassac, 1652-03-22_saint-flour_vente_solier-gilles, 1654-08-20_saint-flour_vente_delcros-vollant, 1656-06-00_saint-flour_quittance_boude-uchassol, 1656-06-28_saint-flour_demission_bo-condere, 1665-12-21_saint-flour_transaction_leroa-atalar, 1666-01-20_saint-flour_transaction_cussac-fontes |
+| Auvergne | 13 | 1632-05-08_saint-flour_vente_treual-hisseire, 1634-01-11_inconnu_bail_bouges-maolat, 1644-02-19_saint-flour_vente_geraud-trabuc, 1651-04-02_saint-flour_vente_mauvy-gerauld, 1652-01-18_saint-flour_mariage_brassac-chevallier, 1652-01-24_saint-flour_donation_coutel, 1652-02-13_roffiac_mariage_fray-brassac, 1652-03-22_saint-flour_vente_solier-gilles, 1654-08-20_saint-flour_vente_delcros-vollant, 1656-06-00_saint-flour_quittance_boude-uchassol, 1656-06-28_saint-flour_demission_bo-condere, 1665-12-21_saint-flour_transaction_leroa-atalar, 1666-01-20_saint-flour_transaction_cussac-fontes |
 | Auvergne ([d'Auvergne?], l. 23) | 1 | 1657-01-08_saint-flour_mariage_armand-bastide |
 | Auvergne (coutume) | 1 | 1664-01-14_saint-flour_mariage_bouffet-teilhard |
 | Auvergne (dauuergne) | 1 | 1654-02-15_mons_mariage_galdissard-uchassol |
-| Auvergne (sénéchaussée) | 5 | 1651-12-29_saint-flour_partage_pages-vidal, 1653-05-25_saint-flour_subrogation_imbert-delangouvents, 1657-11-00_saint-flour_transaction_dauche-montet, 1658-03-17_saint-flour_convention_boy-duvoyet, 1658-04-24_saint-flour_subrogation_basset-roudil |
+| Auvergne (sénéchal d') | 1 | 1633-05-08_saint-flour_donation_darles-dyot |
+| Auvergne (sénéchal d'Auvergne) | 1 | 1634-05-17_saint-flour_quittance_gibrat-mestre |
+| Auvergne (sénéchaussée) | 6 | 1634-05-07_saint-flour_donation_chastang-fumat, 1651-12-29_saint-flour_partage_pages-vidal, 1653-05-25_saint-flour_subrogation_imbert-delangouvents, 1657-11-00_saint-flour_transaction_dauche-montet, 1658-03-17_saint-flour_convention_boy-duvoyet, 1658-04-24_saint-flour_subrogation_basset-roudil |
 | Auviar (lieu, paroisse de Faverolles ; lectures dauuiar / dauviar, concurrente Auriac) | 1 | 1656-12-07_inconnu_vente_chassang-durand |
 | Auzolle | 4 | 1650-04-18_villedieu_revente_grezes-gibrat, 1650-04-18_villedieu_vente_goizet-gibrat, 1662-03-28_saint-flour_vente_aureille-malessaignes, 1665-04-09_saint-flour_mariage_fayon-chaugebeuf |
 | Auzolle (paroisse d'Alleuze) | 1 | 1665-03-24_saint-flour_echange_baccon-migoulle |
@@ -297,6 +320,7 @@
 | Bardon[?] (paroisse de Coltines) | 1 | 1662-04-20_saint-flour_bail_margerit-bertrand |
 | Bardoz [?] / Bardou [?] (lieu de Margerit, paroisse de Coltines) | 1 | 1652-07-00_saint-flour_echange_margerit-boudoz |
 | Bari | 1 | 1663-01-31_saint-flour_mariage_coucherie-chanson |
+| Baronnie de [Combron?] (l. 45, très douteux) | 1 | 1634-03-25_saint-flour_vente_maury-jailhe |
 | Barre foraine de Saint-Flour | 1 | 1661-00-00_saint-flour_partage_lassaigne-bonneval |
 | Barre[s?] (l. 62) | 1 | 1651-02-17_saint-flour_donation_odoul |
 | Barres (barres) | 1 | 1658-09-23_saint-flour_mariage_sauvel-sauret |
@@ -304,7 +328,7 @@
 | Barres[?] (paroisse d'Andelat) | 1 | 1650-01-22_roffiac_mariage_seunier-bastide |
 | Barret | 4 | 1659-11-03_andelat_donation_brezes, 1661-07-08_saint-flour_vente_achier-solier, 1661-07-20_andelat_testament_chastel-alboy, 1662-12-28_saint-flour_mariage_defondz-martin |
 | Barret (Barretz), paroisse d'Andelat | 1 | 1661-10-05_saint-flour_testament_boyer |
-| Barret (paroisse d'Andelat) | 1 | 1662-07-24_saint-flour_vente_martin-jean |
+| Barret (paroisse d'Andelat) | 2 | 1634-01-23_saint-flour_transport_delfour, 1662-07-24_saint-flour_vente_martin-jean |
 | Barret, paroisse d'Andelat | 1 | 1662-01-28_saint-flour_mariage_delmar-marty |
 | Barri (paroisse d'Alleuze) | 1 | 1658-09-24_saint-flour_vente_estival-rouchette |
 | Barry | 6 | 1658-07-04_saint-flour_vente_roux-chassang, 1659-05-11_saint-flour_quittance_bernard-bonniol, 1662-12-02_saint-flour_vente_giraldon-chanson, 1665-05-23_saint-flour_mariage_begne-barthet, 1666-05-02_saint-flour_subrogation_barthet-chauzon, 1666-06-14_saint-flour_vente_barthet |
@@ -320,6 +344,8 @@
 | Barry [ou Bavoy ?] (paroisse d'Alleuze) | 1 | 1659-12-20_saint-flour_vente_bonnol |
 | Barry du Pont (faubourg de Saint-Flour ?) | 1 | 1664-08-11_saint-flour_mariage_chadel-rolland |
 | Barry[?] (lieu de la ratifiante ; lu aussi Bary, Barrès) | 1 | 1654-12-02_saint-flour_ratification_gardelle-cussat |
+| Basouge? | 1 | 1634-01-29_saint-flour_bail_brassac-estiou |
+| Basse-Auvergne | 1 | 1633-08-23_saint-flour_mariage_mage-fuery |
 | Baudoy[?] (paroisse de Mentières) | 1 | 1659-05-05_saint-flour_vente_margerit-chastang |
 | Bavet | 1 | 1666-10-05_saint-flour_demission_albon-jean |
 | Bavez (lieu, lecture à confirmer) | 1 | 1659-03-15_saint-flour_echange_bouniol-gazes |
@@ -327,10 +353,13 @@
 | Bavy | 1 | 1659-01-12_alleuze_vente_chanson-mournac |
 | Bavy [lecture ; probablement Le Barry, Alleuze] | 1 | 1659-01-12_alleuze_vente_chanson-mournac |
 | Baymond [?] (lieu, endos Bazmond/Baymond) | 1 | 1661-03-19_saint-flour_partage_cussac-maury |
+| Baymund [?] / Geymon [?] (village, paroisse d'Andelat) | 1 | 1633-02-01_andelat_mariage_jean-tronchier |
 | Beaufort [?] (interligne l. 47, lieu ou personne) | 1 | 1653-12-28_saint-flour_vente_pontsavre-vidal |
 | Beaufort[?] | 1 | 1658-05-02_saint-flour_cession_lauriac-rolland |
 | Beaulieu | 2 | 1658-10-02_saint-flour_echange_daufeulhe-bonnet, 1665-12-29_saint-flour_vente_gaultier-daufeulhe |
+| Beaulieu (paroisse de Ruynes) | 1 | 1633-05-11_saint-flour_mariage_rouget-galvier |
 | Beauregard | 3 | 1661-04-27_saint-flour_echange_roudil-benezit, 1663-10-18_saint-flour_echange_chauliaguet-estival, 1665-08-30_saint-flour_mariage_page-delrieu |
+| Beauregard (appartenances de) | 1 | 1634-10-21_saint-flour_testament_bical-maudre |
 | Beauregard (appartenances du lieu de Beauregard) | 1 | 1661-05-05_saint-flour_vente_roudil-benezit |
 | Beauregard (boregard, beaurigard), paroisse de Ruynes | 1 | 1662-12-02_saint-flour_vente_chalvet-vedrines |
 | Beauregard (seigneurie de Jehan de Chazelles) | 1 | 1653-09-02_saint-flour_testament_chazelles-fraisse |
@@ -344,6 +373,7 @@
 | Bellinaix (seigneurie ; Bélinay, à Paulhac ? hypothèse) | 1 | 1656-05-16_saint-flour_quittance_colomb-belloy |
 | Bellinays (?) (Bélinay ?) | 1 | 1659-04-06_saint-flour_vente_chassang-dabladie |
 | Belmaya (château, châtellenie, seigneurie ; graphies Belmaye, Belmaio, Belmaie) | 1 | 1658-02-07_saint-flour_inventaire_bonafos-pademorgue |
+| Belvezes[?] (lieu, paroisse de Tiviers) | 1 | 1633-01-23_saint-flour_mariage_chapaneyre-lanne |
 | Belvezet | 2 | 1659-09-29_saint-flour_cession_laurier, 1664-11-24_saint-flour_vente_chargebeuf-mallessaigne |
 | Belvezet [?] (paroisse de Tiviers) | 1 | 1649-10-19_saint-flour_quittance_cussac-lauvie |
 | Bennac (paroisse de Lavastrie) | 1 | 1659-11-23_saint-flour_mariage_falgheyras-bossuge |
@@ -355,6 +385,8 @@
 | Bessejouette[?] | 1 | 1665-12-02_saint-flour_vente_coschet-fayon |
 | Besserette (paroisse foraine de Saint-Flour) | 1 | 1656-12-27_saint-flour_vente_fayon-odoul |
 | Besseyrettes | 1 | 1662-08-16_saint-flour_vente_descorolle-brugier |
+| Bessol (paroisse d'Alleuze) | 1 | 1634-05-06_saint-flour_vente_bachier-messonnier |
+| Bessolle (Bessol, Bessolles ?), paroisse d'Alauze | 1 | 1634-11-19_saint-flour_vente_vigier-missonier |
 | Bessols (paroisse d'Alleuze) | 1 | 1650-10-02_saint-flour_transaction_odoul-mallassaigne |
 | Bessolz (Bessols), paroisse d'Alleuze | 1 | 1662-12-29_saint-flour_mariage_trabut-chevallier |
 | Beynac [?] | 1 | 1666-03-06_saint-flour_mariage_bardoz-margidit |
@@ -408,6 +440,7 @@
 | Bonnepeuille (lieu, paroisse de Saint-Flour ; habitation des parties) | 1 | 1653-12-20_saint-flour_vente_vendier-chambaron |
 | Bonzergues / [Bouzergues?] (village, paroisse de Saint-Georges) | 1 | 1653-11-20_saint-flour_compromis_jourdy-fabry |
 | Borghedan? | 1 | 1660-05-09_saint-flour_vente_rouget-lheritier |
+| Bornoncles | 1 | 1634-09-03_saint-flour_obligation_cormoul-chalier |
 | Borry | 1 | 1657-08-26_borry_testament_barthet-chassang |
 | Bosc [?] | 1 | 1661-03-19_saint-flour_partage_cussac-maury |
 | Bosentes | 1 | 1666-01-15_saint-flour_vente_chastel-combes |
@@ -421,7 +454,7 @@
 | Boufilhoz (?) | 1 | 1662-10-15_saint-flour_vente_delmas |
 | Boulzac (Bolzac), paroisse de Talizat | 1 | 1648-06-14_saint-flour_vente_devauzesse-delrieu |
 | Bouradour[?] | 1 | 1666-01-27_alleuze_testament_daix |
-| Bourbonnais | 1 | 1654-06-25_saint-flour_vente_chaugelbuf-maury |
+| Bourbonnais | 2 | 1634-03-03_saint-flour_cession_delaire-chalier, 1654-06-25_saint-flour_vente_chaugelbuf-maury |
 | Bournoncles | 2 | 1651-09-06_saint-flour_transaction_valarchier-trabuc, 1660-07-25_saint-flour_vente_lebre-joune |
 | Bournoncles (lieu, paroisse et cure) | 1 | 1651-07-14_saint-flour_transaction_sanson-lebre |
 | Bouschet [?] (bouschet / bousseyt) | 1 | 1659-05-13_saint-flour_cession_eschallier-vigier |
@@ -433,6 +466,8 @@
 | Bouzac [?] | 1 | 1632-07-04_saint-flour_mariage_baille-chastel |
 | Bouzargues | 1 | 1664-05-21_saint-flour_transaction_uchassol-brassac |
 | Bouzat (paroisse de Talizat) | 1 | 1632-11-04_saint-flour_vente_delrieu-bonnafous |
+| Bouzat [?] (près Saint-Flour) | 1 | 1633-02-07_saint-flour_mariage_faulier-tissier |
+| Bouzat [?], près Saint-Flour (maison de Hugues Tissier) | 1 | 1633-02-07_saint-flour_mariage_faulier-tissier |
 | Bouzatz / Bozac, [forain?] de Saint-Flour | 1 | 1664-05-13_saint-flour_testament_tisset-vallette |
 | Bouzenteilhe (ou Bouzoneuilhe ; endos : Bouzenteille) | 1 | 1660-03-29_saint-flour_vente_chambaron-ferrand |
 | Bouzentelhe (vraisemblablement Bouzentès, identification déduite) | 1 | 1650-09-29_saint-flour_vente_fajon-sauret |
@@ -477,7 +512,7 @@
 | Brezons (seigneurie) | 1 | 1628-03-25_saint-flour_bail_aymeric-amilhe |
 | Brezons [?] (seigneurie du bailleur) | 1 | 1628-03-25_saint-flour_bail_aymeric-courin |
 | Brezons[?] (seigneurie du bailleur ?) | 1 | 1628-03-26_saint-flour_bail_aymeric-julhien |
-| Brioude | 12 | 1658-03-17_saint-flour_convention_boy-duvoyet, 1658-07-16_saint-flour_vente_benezet-brassalt, 1659-03-27_saint-flour_obligation_cussac-chaulhac, 1660-04-20_saint-flour_testament_valadier, 1660-04-28_saint-flour_echange_clatty-rolland, 1660-06-06_saint-flour_vente_rolland-chastang, 1662-01-19_saint-flour_vente_boyer-tassy, 1662-04-28_saint-flour_vente_fornal-bertrand, 1663-04-21_saint-flour_vente_chalvon-coutel, 1663-07-24_saint-flour_vente_salesses-roussilhe, 1664-03-15_saint-flour_transaction_bassa, 1666-05-01_saint-flour_partage_astier |
+| Brioude | 13 | 1634-10-02_saint-flour_transaction_saure, 1658-03-17_saint-flour_convention_boy-duvoyet, 1658-07-16_saint-flour_vente_benezet-brassalt, 1659-03-27_saint-flour_obligation_cussac-chaulhac, 1660-04-20_saint-flour_testament_valadier, 1660-04-28_saint-flour_echange_clatty-rolland, 1660-06-06_saint-flour_vente_rolland-chastang, 1662-01-19_saint-flour_vente_boyer-tassy, 1662-04-28_saint-flour_vente_fornal-bertrand, 1663-04-21_saint-flour_vente_chalvon-coutel, 1663-07-24_saint-flour_vente_salesses-roussilhe, 1664-03-15_saint-flour_transaction_bassa, 1666-05-01_saint-flour_partage_astier |
 | Brioude (mesure) | 1 | 1653-02-10_saint-flour_cession_barthe |
 | Brioude (élection) | 1 | 1659-07-02_saint-flour_mariage_durantz-chandorat |
 | Brioude [?] | 1 | 1664-04-18_saint-flour_vente_cissac-fouves |
@@ -487,11 +522,13 @@
 | Bronsot (champ) | 1 | 1663-12-13_saint-flour_vente_devaurs-chastel |
 | Broun / Brons (debroun, debrons), paroisse de Saint-Georges | 1 | 1652-04-11_saint-flour_vente_saignes-chauliaguet |
 | Brousoles[?] | 1 | 1662-09-03_saint-flour_donation_allegre-vedrines |
+| Brousses (château, seigneurie ; endos Brousse[s?]) | 1 | 1634-07-05_saint-flour_vente_lafargette-murat |
 | Broussolles | 1 | 1664-11-25_saint-flour_partage_chassang |
 | Broux[?] | 1 | 1653-03-03_saint-flour_vente_durand-gillet |
 | Brugeyre [?] (endos) | 1 | 1663-05-15_saint-flour_vente_hugon |
 | Brugilet (Brugilie), paroisse de Saint-Étienne-sur-Blesle | 1 | 1665-04-21_saint-flour_transaction_alboy-vaures |
 | Brus (?) | 1 | 1647-10-19_saint-flour_cession_biol-chastel |
+| Bu[iss]iere[?] / Bussyre[?] / Bousi[...][?] (seigneurie du bailleur) | 1 | 1634-01-14_saint-flour_bail_faury-fauret |
 | Bujol | 1 | 1661-06-27_saint-flour_echange_saignes-delcros |
 | Burlande (?) | 1 | 1664-07-29_saint-flour_vente_benezit-bertrand |
 | Bussac | 1 | 1663-08-27_saint-flour_transaction_pradal-gire |
@@ -499,12 +536,15 @@
 | Bussoz [?] (l. 4, peut-être « [du] Buisson », mandement) | 1 | 1654-09-20_alleuze_testament_chanson |
 | Buzolz [?] (seigneurie) | 1 | 1628-06-10_saint-flour_bail_aymier-sabuyrier |
 | Bélinay | 1 | 1659-02-12_saint-flour_vente_desparou-rouget |
+| Béziers (Languedoc) | 1 | 1633-06-10_saint-flour_vente_olliere-saintlagier |
 | Béziers (« [Bizere?] [en?] [Languedoc?] », endos « Bizieres ») | 1 | 1656-10-17_saint-flour_donation_palhouzier-farreyre |
 | C[...] (lieu d'habitation de Vidal de Lastic, illisible) | 1 | 1626-03-22_saint-flour_quittance_malessaigne-lastic |
 | C[...] (lieu d'habitation du vendeur, non lu) | 1 | 1654-11-06_saint-flour_vente_desfondz-boyer |
 | Cadix (« Royaume de Calix ») | 1 | 1666-10-01_saint-flour_donation_caniat-galvier |
 | Cajrée | 1 | 1666-10-04_saint-flour_vente_lastic-barthet |
+| Cammillea | 1 | 1634-01-04_saint-flour_desistement_sandoul-pontsavet |
 | Canarelle | 1 | 1661-11-16_saint-flour_vente_sauve-boude |
+| Canilhac[?] (marquisat) | 1 | 1644-02-13_saint-flour_vente_dufour-geraud |
 | Cantal (serge de Cantal) | 1 | 1657-10-10_saint-flour_testament_delort-moner |
 | Capp^au^[?] de Cay[?] | 1 | 1661-11-27_saint-flour_echange_chaulhaguet-filiol |
 | Cardelan[?] (l. 2) | 1 | 1666-02-06_saint-flour_vente_sestre-odoul |
@@ -530,13 +570,16 @@
 | Celoux | 1 | 1662-02-17_saint-flour_mariage_pastre-chapat |
 | Cezen [?] (paroisse ; Cézens ?) | 1 | 1662-11-09_saint-flour_mariage_pirou-bergoin |
 | Cezens | 3 | 1648-03-10_saint-flour_echange_brugier-chabot, 1666-02-27_saint-flour_echange_badeul-delchier, 1666-05-16_saint-flour_testament_marques-piron |
+| Cezens (Sezens), paroisse | 1 | 1633-12-24_saint-flour_vente_delpiron-bozona |
 | Cezens (église et paroisse) | 1 | 1654-09-01_saint-flour_vente_andrieu-giraldon |
 | Chabanes | 1 | 1663-04-21_saint-flour_vente_chalvon-coutel |
 | Chabeighol[?] | 1 | 1649-00-00_saint-flour_vente_mauy-mourgan |
+| Chaboulhac ([Charbrullac?]) | 1 | 1634-12-02_saint-flour_mariage_gastal-bonnol |
 | Chabrilhac (paroisse de Tiviers) | 1 | 1659-01-19_mentieres_mariage_eschallier-galdissard |
 | Chabrillac | 1 | 1654-08-24_saint-flour_quittance_peuch-gaillard |
 | Chabrillac (paroisse de [Ferrières?]) | 1 | 1662-02-16_saint-flour_mariage_astier-basset |
 | Chabrot[?] / Chabot (lieu du jardin) | 1 | 1652-04-13_saint-flour_vente_fontanide-hugon |
+| Chadellac (Chadelat) | 1 | 1634-12-02_saint-flour_mariage_gastal-bonnol |
 | Chagorze (paroisse de Saint-Flour) | 1 | 1656-08-20_saint-flour_mariage_rolland-cussac |
 | Chagourz / Chagourze (probablement Chagouze), favarie de Saint-Flour | 1 | 1661-06-09_saint-flour_testament_audouin-fajon |
 | Chagouze | 5 | 1662-08-16_saint-flour_vente_descorolle-brugier, 1663-05-15_saint-flour_vente_fayon-andrieu, 1665-05-14_saint-flour_vente_brugier-fayon, 1665-05-31_saint-flour_mariage_mournac-andrieu, 1665-08-09_saint-flour_testament_fayet |
@@ -547,10 +590,11 @@
 | Chalaguettes (Chalanguettes, Chalaguttes[?]) | 1 | 1657-10-30_saint-flour_vente_hugues-odoul |
 | Chalanac | 1 | 1658-04-02_saint-flour_vente_astaly-jourdy |
 | Chaliapte (champ, lecture douteuse) | 1 | 1659-03-15_saint-flour_echange_bouniol-gazes |
+| Chalier[s?] (Chaliers, paroisse) | 1 | 1634-07-05_saint-flour_vente_lafargette-murat |
 | Chaliers | 6 | 1653-05-11_saint-flour_vente_roudil-mendre, 1656-05-20_alleuze_mariage_catala-chanson, 1657-07-29_saint-flour_quittance_crouzat, 1665-02-16_saint-flour_mariage_galvier-delort, 1665-04-09_saint-flour_mariage_fayon-chaugebeuf, 1666-10-16_saint-flour_vente_catalat-jouve |
 | Chaliers (Challiers) | 2 | 1660-08-01_saint-flour_vente_pelegry-vigier, 1665-02-05_saint-flour_vente_crozat-rocquelaure |
 | Chaliers (paroisse) | 1 | 1656-11-19_saint-flour_vente_falvet-boulon |
-| Chalinargues | 4 | 1657-07-02_coltines_mariage_mas-cussac, 1659-12-22_saint-flour_donation_broche-regimbalt, 1659-12-22_saint-flour_testament_roche-hugon, 1663-07-24_saint-flour_vente_salesses-roussilhe |
+| Chalinargues | 5 | 1634-02-06_saint-flour_transaction_nozieres-espinouze, 1657-07-02_coltines_mariage_mas-cussac, 1659-12-22_saint-flour_donation_broche-regimbalt, 1659-12-22_saint-flour_testament_roche-hugon, 1663-07-24_saint-flour_vente_salesses-roussilhe |
 | Chalinargues (?) | 1 | 1647-10-19_saint-flour_cession_biol-chastel |
 | Chalinargues [?] (Chal[in?]argues) | 1 | 1626-04-21_saint-flour_vente_teschau |
 | Challes | 1 | 1666-01-09_inconnu_vente_chanson-conort |
@@ -573,11 +617,14 @@
 | Chamallieres / Chamalliers (Chamalières), paroisse de Lavastrie | 1 | 1653-01-25_saint-flour_vente_coudre-salvatge |
 | Chamallières | 1 | 1664-09-07_saint-flour_vente_mourgue-fion |
 | Chamallières (Chamallyeres / Chamallieres) | 1 | 1651-11-08_saint-flour_vente_boudet-chauzy |
+| Chamaraulx / Chamarault[?] (domaine ou village ?) | 1 | 1633-05-14_saint-flour_testament_badeul-morin |
 | Chamargue[?] | 1 | 1660-05-22_saint-flour_vente_sarron-dupre |
+| Chamb[...] (lieu d'origine des vendeurs, non identifié) | 1 | 1634-03-06_saint-flour_vente_breseyrousse-fabry |
 | Chambadnez / Chambonez[?] (exp. Chambonnet[?] / Chambonoy[?]) | 1 | 1658-04-02_saint-flour_vente_pantard |
 | Chambarnoy | 1 | 1665-08-09_saint-flour_vente_jury-aujolet |
 | Chambelon (jardin) | 1 | 1662-11-02_saint-flour_retrait_estival-mallet |
 | Chambernon (Chambernoz), paroisse de Neuvéglise | 1 | 1665-06-02_saint-flour_vente_combes-chanieres |
+| Chambernon (ou Chanbernon), paroisse de Neuvéglise | 1 | 1634-06-10_saint-flour_mariage_laussac-durand |
 | Chambernon (paroisse de Neuvéglise) | 3 | 1659-03-13_saint-flour_donation_beaufet-juery, 1659-09-18_saint-flour_transaction_durand-juery, 1665-02-14_saint-flour_vente_albert-juery |
 | Chambeyrac | 1 | 1648-05-31_saint-flour_vente_prady |
 | Chambeyrac (paroisse de Valuéjols) | 1 | 1660-06-00_saint-flour_vente_chalmete-julhe |
@@ -596,7 +643,9 @@
 | Champ de Vidal | 1 | 1662-11-04_saint-flour_echange_fabre-buge |
 | Champ de la [Motte?] | 1 | 1626-03-18_saint-flour_transaction_breton-delorme |
 | Champ del [Fayet?] | 1 | 1632-03-06_saint-flour_subrogation_bonnet |
+| Champ grand | 1 | 1634-05-20_saint-flour_vente_roche-anglade |
 | Champ grand (champ) | 1 | 1652-05-25_saint-flour_vente_lisset-cussac |
+| Champ[gaud?] (champ) | 1 | 1634-03-25_saint-flour_vente_maury-juniet |
 | Chanabar (champ) | 1 | 1662-02-06_saint-flour_mariage_julhe-bertrand |
 | Chanalie | 1 | 1664-04-17_saint-flour_bail_roumiol-teissedre |
 | Chananou[?] | 1 | 1653-03-03_saint-flour_vente_durand-gillet |
@@ -652,12 +701,13 @@
 | Chastain[?] | 1 | 1628-04-13_saint-flour_bail_cuspiac-symon |
 | Chasteauneuf (?) | 1 | 1665-11-01_saint-flour_vente_chomel-tailhand |
 | Chasteauvieulx (seigneurie) | 1 | 1663-09-01_saint-flour_testament_bonafos |
+| Chastel [?] (paroisse) | 1 | 1633-08-21_saint-flour_vente_alby-molegrens |
 | Chastel-sur-Murat | 1 | 1660-02-25_saint-flour_testament_chastang |
 | Chastel[...] | 1 | 1649-01-25_saint-flour_transaction_migne-hugon |
 | Chastelnau [?] | 1 | 1652-02-23_saint-flour_remission_pavva |
 | Chastrigneille (?) | 1 | 1666-01-26_saint-flour_mariage_rouffilhe-cussac |
 | Chaud[...] | 1 | 1651-12-16_saint-flour_vente_giraldon |
-| Chaudes-Aigues | 10 | 1647-09-17_saint-flour_testament_vernhe, 1647-11-09_saint-flour_apprentissage_pelletier-bourdiol, 1650-11-12_saint-flour_ratification_cayrou-dupre, 1659-04-15_saint-flour_echange_bonniol-colomb, 1663-03-20_saint-flour_echange_rispal-pautard, 1663-03-20_saint-flour_echange_rispal-pautard_b, 1663-05-20_saint-flour_vente_rispal-pautard, 1664-03-10_villedieu_donation_bouc, 1665-06-02_saint-flour_vente_combes-chanieres, 1666-09-21_saint-flour_vente_chauson-bechot |
+| Chaudes-Aigues | 11 | 1634-02-14_saint-flour_mariage_clavieres-aymeric, 1647-09-17_saint-flour_testament_vernhe, 1647-11-09_saint-flour_apprentissage_pelletier-bourdiol, 1650-11-12_saint-flour_ratification_cayrou-dupre, 1659-04-15_saint-flour_echange_bonniol-colomb, 1663-03-20_saint-flour_echange_rispal-pautard, 1663-03-20_saint-flour_echange_rispal-pautard_b, 1663-05-20_saint-flour_vente_rispal-pautard, 1664-03-10_villedieu_donation_bouc, 1665-06-02_saint-flour_vente_combes-chanieres, 1666-09-21_saint-flour_vente_chauson-bechot |
 | Chaudes-Aigues (Chaudesaigues) | 4 | 1653-10-20_saint-flour_testament_aymeric, 1656-08-11_saint-flour_subrogation_cussac-mathieu, 1658-04-02_saint-flour_vente_pantard, 1658-12-14_saint-flour_obligation_fabre |
 | Chaudes-Aigues (Chaudesaygues) | 2 | 1632-11-27_saint-flour_mariage_delhac-amat, 1658-05-27_saint-flour_vente_tafanel-combes |
 | Chaudes-Aigues (Chaudsaigues) | 1 | 1666-08-19_saint-flour_ratification_taliade |
@@ -669,6 +719,7 @@
 | Chaudesaigues | 15 | 1650-05-17_saint-flour_vente_fabre-chastang, 1650-12-31_saint-flour_echange_besson-fabre, 1656-06-00_saint-flour_vente_chabot-bechot, 1658-05-18_saint-flour_mariage_chazalledez-chauses, 1660-10-29_saint-flour_cession_gilles-thomel, 1660-10-29_saint-flour_cession_teilhard-parra, 1662-05-07_saint-flour_mariage_chanson-rion, 1664-01-06_saint-flour_mariage_bertrand-gautier, 1664-04-09_saint-flour_donation_dufour-coutel, 1664-07-19_saint-flour_vente_delort-pirsot, 1665-04-10_saint-flour_vente_bremon-tremoliere, 1665-08-09_saint-flour_vente_jury-aujolet, 1665-09-13_saint-flour_vente_bo, 1665-10-29_saint-flour_rente_sandrieu-chomel, 1666-10-04_saint-flour_vente_lastic-barthet |
 | Chaudesaigues (?) | 1 | 1666-01-26_saint-flour_mariage_rouffilhe-cussac |
 | Chaudesaigues (Chaudezaigues) | 2 | 1653-02-04_saint-flour_mariage_parroche-tisset, 1658-01-30_saint-flour_vente_neufeglize-galdissard |
+| Chaudesaigues (chaudesaiguez, [chaudesargues?]) | 1 | 1634-02-07_saint-flour_mariage_veissiere-aufolet |
 | Chaudesaigues (paroisse et ville) | 1 | 1664-03-28_saint-flour_vente_colomb-sadone |
 | Chaudesaigues[?] | 1 | 1660-05-22_saint-flour_vente_sarron-dupre |
 | Chaufrenolle [?] (l. 3, sens inconnu) | 1 | 1652-02-10_saint-flour_vente_boudet-chanson |
@@ -683,6 +734,7 @@
 | Chausse[?] (prieuré[?]) | 1 | 1651-04-02_saint-flour_vente_mauvy-gerauld |
 | Chaussine (lieu non identifié) | 1 | 1665-02-14_saint-flour_vente_cussac-doumergue |
 | Chaussines, paroisse de Lavastrie | 1 | 1665-04-11_saint-flour_vente_chanson-portefaix_b |
+| Chauvel[?] (seigneurie) | 1 | 1633-12-29_saint-flour_vente_chastel-sentheven |
 | Chauvet [?] / Crauvet [?], paroisse de Mentières | 1 | 1653-05-03_saint-flour_vente_maulhat-feraud |
 | Chauvisse[?] (« du Lieu Chauvisse[?] de Vastrier », l. 1-2 ; ou Chaurisse) | 1 | 1654-06-00_vastrier_transaction_bardon-brassac |
 | Chav[...] [?] | 1 | 1652-02-10_saint-flour_echange_dommergue-pouhavre |
@@ -695,6 +747,7 @@
 | Chavvet[?] (Roffiac) | 1 | 1665-07-11_roffiac_vente_sautheray-brassac |
 | Chazal (terre ou surnom, l. 2 et 7) | 1 | 1628-03-25_saint-flour_bail_champaignac-pachmolle |
 | Chazal[?] | 1 | 1628-04-13_saint-flour_bail_cuspiac-symon |
+| Chazaliers [?] (Chazalier) | 1 | 1633-09-11_saint-flour_mariage_bazol-tremhiere |
 | Chazalou (foraine[?] de Saint-Flour) | 1 | 1665-05-09_saint-flour_retrait_bastail-faugyrolles |
 | Chazaloux, favarie de Saint-Flour | 1 | 1661-06-09_saint-flour_testament_audouin-fajon |
 | Chazat / Chazet / Chazea (paroisse de Coren) | 1 | 1632-09-06_saint-flour_vente_corspoul-delaire |
@@ -707,11 +760,14 @@
 | Chazelles | 1 | 1665-07-12_saint-flour_vente_monet-broncy |
 | Chazelles (paroisse) | 1 | 1632-10-11_saint-flour_vente_curtil-nivelon |
 | Chazeloux | 1 | 1666-08-22_saint-flour_vente_fabry-trenchier |
-| Chazes | 2 | 1653-11-30_saint-flour_quittance_gibrat-lolier, 1664-07-27_saint-flour_vente_chossy-rechallier |
+| Chazes | 4 | 1633-06-02_saint-flour_vente_delayre-maury, 1633-10-04_saint-flour_ratification_chopy-delaire, 1653-11-30_saint-flour_quittance_gibrat-lolier, 1664-07-27_saint-flour_vente_chossy-rechallier |
 | Chazes (Les Chazes), paroisse de Coren | 1 | 1653-04-26_saint-flour_vente_chomel-eschalier |
+| Chazes (endos « des Chazes » ; corps [Gazis?], l. 5, 14 ; [Chazes?], l. 29-30) | 1 | 1634-02-19_saint-flour_echange_deleyre-simbes |
+| Chazes (paroisse de Coren) | 1 | 1634-12-09_saint-flour_vente_delaire-combe |
 | Chazren [?] (l. 27) | 1 | 1653-12-28_saint-flour_vente_pontsavre-vidal |
 | Chemin de Lande | 1 | 1661-01-16_saint-flour_echange_sibrac-fiou |
 | Cheminade (buge) | 1 | 1662-11-01_saint-flour_vente_franchier-ebrard |
+| Chenaulle / Canaulle [?] | 1 | 1634-02-04_saint-flour_quittance_domergue-juery |
 | Chenfolz (variante possible Chensolz), village des parties et des biens | 1 | 1652-04-13_saint-flour_vente_hugon |
 | Cheylade (chailade) | 1 | 1659-06-07_saint-flour_transaction_gillet-labroha |
 | Chey… (?) | 1 | 1662-10-15_saint-flour_vente_delmas |
@@ -737,6 +793,7 @@
 | Clermont | 8 | 1647-11-05_saint-flour_transaction_gillet-dherault, 1659-03-27_saint-flour_obligation_cussac-chaulhac, 1660-11-10_salhans_transaction_freval-fontes, 1662-12-18_saint-flour_vente_rochenoux-crozat, 1663-11-22_saint-flour_transaction_quinsat-grezes, 1664-07-09_saint-flour_vente_chappus-vairon, 1665-03-11_saint-flour_donation_bigot, 1665-09-05_saint-flour_transaction_dupuy-reginbalt |
 | Clermont (Cour des aides) | 1 | 1658-07-14_saint-flour_transaction_boude-rodel |
 | Clermont (diocèse) | 1 | 1666-01-15_saint-flour_vente_reynault-chavegne |
+| Clermont-Ferrand | 1 | 1634-02-04_saint-flour_quittance_domergue-juery |
 | Clermont-Ferrand (Clermon ferrand) | 1 | 1649-01-25_saint-flour_transaction_migne-hugon |
 | Clermont-Ferrand (Cour des aides) | 2 | 1651-07-18_saint-flour_transaction_teilhard-jarquin, 1654-08-00_saint-flour_transaction_bardoz-boussuge |
 | Clermont-Ferrand (cour des Aides) | 1 | 1660-00-00_saint-flour_sommation_audigier-nicolas |
@@ -749,7 +806,11 @@
 | Codet (?) | 1 | 1665-12-29_saint-flour_vente_giraldon-chavegre |
 | Codurs[?] (seigneurie) | 1 | 1652-05-02_saint-flour_vente_mauy-allegre |
 | Coffiac (lieu et paroisse) | 1 | 1654-11-29_saint-flour_vente_sainthevain-auzolle |
+| Coffiac? (Roffiac ?) | 1 | 1634-01-29_saint-flour_bail_brassac-estiou |
 | Coffiac[?] (paroisse ; Cussac ?) | 1 | 1666-07-09_saint-flour_vente_boussuge-trabuc |
+| Cognossac (Cougoussac ?), p. d'Andelat | 1 | 1633-05-09_andelat_bail_brugier-julhe |
+| Coguossac / Courgoussat (Courgoussac) | 1 | 1633-02-11_saint-flour_vente_julhe-baille |
+| Coguossac, paroisse d'Andelat | 1 | 1633-02-11_saint-flour_vente_julhe-baille_b |
 | Collines (Coltines, Cantal) | 1 | 1658-01-22_coltines_testament_cussac |
 | Collège de Saint-Flour (rue allant au Collège ; jardin du Collège) | 1 | 1626-10-05_saint-flour_bail_martin-bergoin |
 | Collégiale (Notre-Dame de Saint-Flour) | 1 | 1666-02-27_saint-flour_testament_pastre-nicolas |
@@ -757,7 +818,7 @@
 | Colmare? (ou Colinaire?) | 1 | 1660-02-15_saint-flour_vente_bonnefoy-jumeal |
 | Colombier (Petges)[?] | 1 | 1666-07-07_saint-flour_vente_missonnier-bruzit |
 | Coltine [?] (endos ; Coltines ?) | 1 | 1662-05-20_saint-flour_vente_fonomie-margarit |
-| Coltines | 80 | 1626-02-13_saint-flour_cession_domergue-chastel, 1632-08-31_saint-flour_vente_rogier-aymier, 1647-12-05_coltines_testament_lac, 1647-12-21_saint-flour_obligation_lac-tassy, 1648-02-19_saint-flour_vente_coutarel-grassald, 1648-03-02_saint-flour_quittance_boudon-senthorez, 1648-03-22_saint-flour_vente_chastang-corpout, 1650-04-12_saint-flour_vente_rioure-tassy, 1650-07-11_saint-flour_vente_sugimbert-pelligier, 1652-04-14_saint-flour_transaction_hugon-bauny, 1652-05-06_coltines_echange_crossoul-defoudz, 1652-05-17_saint-flour_cession_delrieu-tassy, 1652-05-17_saint-flour_cession_hugon-tassy, 1652-07-00_saint-flour_echange_margerit-boudoz, 1652-07-26_saint-flour_vente_chastang-andrieu, 1653-03-04_saint-flour_transaction_hugon-quatveul, 1653-11-15_saint-flour_transaction_cristal-hugoz, 1653-11-16_saint-flour_vente_rioure-hugoz, 1653-12-22_saint-flour_vente_rodier-bouttette, 1654-01-31_saint-flour_vente_delaire-charbonnier, 1654-02-14_saint-flour_mariage_reynaud-tourde, 1654-09-00_saint-flour_vente_chastang-defondz, 1654-09-00_saint-flour_vente_chaulz-hugon, 1654-12-19_saint-flour_transaction_delvieu-hugon, 1655-12-11_saint-flour_echange_hugon-calvel, 1656-01-18_saint-flour_vente_astorg-molinier, 1656-04-01_saint-flour_vente_boudon-combes, 1656-05-02_saint-flour_vente_moyne-molinier, 1656-11-29_saint-flour_vente_delrieu-reuel, 1657-03-00_inconnu_donation_langournes-hugon, 1657-05-31_coltines_donation_chastang, 1657-07-02_coltines_mariage_mas-cussac, 1657-10-30_saint-flour_vente_hugues-odoul, 1658-01-29_coltines_testament_delrieu-boudon, 1658-03-03_coltines_mariage_nicolas-bonnet, 1658-03-14_coltines_echange_hugon-nicolas, 1658-06-00_saint-flour_vente_andrieu-contie, 1658-06-18_coltines_donation_rouby-pelegry, 1658-07-04_saint-flour_vente_rous-mas, 1658-07-06_saint-flour_transaction_tassy-grives, 1658-07-07_saint-flour_mariage_bechot-aliadieres, 1658-08-19_saint-flour_cession_odoul-sauret, 1658-09-04_saint-flour_vente_moynie-vezin, 1659-02-22_saint-flour_partage_aymeric-odoul, 1659-05-05_saint-flour_vente_margerit-chastang, 1659-09-22_saint-flour_vente_bonnal-rolland, 1659-10-14_saint-flour_vente_tiouleyre-pelegrin, 1659-11-22_saint-flour_vente_combes-barres, 1659-11-29_saint-flour_vente_jean-lafaige, 1660-04-28_saint-flour_echange_clatty-rolland, 1660-06-06_saint-flour_vente_rolland-chastang, 1660-06-19_saint-flour_vente_chanson, 1660-06-23_coltines_vente_lac-rolland, 1660-06-23_coltines_vente_reuel-verdier, 1660-07-10_saint-flour_echange_beluze-margarit, 1661-07-14_saint-flour_echange_mas-bardon, 1662-01-19_saint-flour_vente_boyer-tassy, 1662-04-20_saint-flour_bail_margerit-bertrand, 1662-07-30_saint-flour_transaction_rispal-fiou, 1663-02-10_saint-flour_vente_hugon-pages, 1663-03-10_saint-flour_vente_chastang-crespoul, 1663-04-15_saint-flour_vente_mas-hugon, 1663-10-14_saint-flour_vente_surrel-mas, 1663-11-10_saint-flour_echange_tassy-gaudel, 1664-02-06_saint-flour_mariage_boudon-bonnaffe, 1664-02-23_saint-flour_mariage_delrieu-crespoul, 1664-06-15_saint-flour_echange_defondz-ruel, 1664-10-29_saint-flour_vente_quatruelx-tassy, 1664-12-05_saint-flour_vente_chassol-brassac, 1664-12-06_saint-flour_vente_chastang-lassy, 1664-12-08_saint-flour_vente_lac-bardon, 1665-03-28_saint-flour_echange_bruict-desfondz, 1665-03-31_saint-flour_echange_hugon-barreyre, 1665-05-07_saint-flour_vente_hugon-bardon, 1665-05-13_saint-flour_testament_saintheiry, 1665-06-28_saint-flour_vente_hugon-tassy, 1666-02-07_saint-flour_mariage_amat-serrohan, 1666-10-22_saint-flour_echange_crespone, 1666-10-28_saint-flour_echange_petit-andel, 1666-10-28_saint-flour_vente_andel-hugon |
+| Coltines | 81 | 1626-02-13_saint-flour_cession_domergue-chastel, 1632-08-31_saint-flour_vente_rogier-aymier, 1634-03-30_saint-flour_transaction_valarchier-dolmiere, 1647-12-05_coltines_testament_lac, 1647-12-21_saint-flour_obligation_lac-tassy, 1648-02-19_saint-flour_vente_coutarel-grassald, 1648-03-02_saint-flour_quittance_boudon-senthorez, 1648-03-22_saint-flour_vente_chastang-corpout, 1650-04-12_saint-flour_vente_rioure-tassy, 1650-07-11_saint-flour_vente_sugimbert-pelligier, 1652-04-14_saint-flour_transaction_hugon-bauny, 1652-05-06_coltines_echange_crossoul-defoudz, 1652-05-17_saint-flour_cession_delrieu-tassy, 1652-05-17_saint-flour_cession_hugon-tassy, 1652-07-00_saint-flour_echange_margerit-boudoz, 1652-07-26_saint-flour_vente_chastang-andrieu, 1653-03-04_saint-flour_transaction_hugon-quatveul, 1653-11-15_saint-flour_transaction_cristal-hugoz, 1653-11-16_saint-flour_vente_rioure-hugoz, 1653-12-22_saint-flour_vente_rodier-bouttette, 1654-01-31_saint-flour_vente_delaire-charbonnier, 1654-02-14_saint-flour_mariage_reynaud-tourde, 1654-09-00_saint-flour_vente_chastang-defondz, 1654-09-00_saint-flour_vente_chaulz-hugon, 1654-12-19_saint-flour_transaction_delvieu-hugon, 1655-12-11_saint-flour_echange_hugon-calvel, 1656-01-18_saint-flour_vente_astorg-molinier, 1656-04-01_saint-flour_vente_boudon-combes, 1656-05-02_saint-flour_vente_moyne-molinier, 1656-11-29_saint-flour_vente_delrieu-reuel, 1657-03-00_inconnu_donation_langournes-hugon, 1657-05-31_coltines_donation_chastang, 1657-07-02_coltines_mariage_mas-cussac, 1657-10-30_saint-flour_vente_hugues-odoul, 1658-01-29_coltines_testament_delrieu-boudon, 1658-03-03_coltines_mariage_nicolas-bonnet, 1658-03-14_coltines_echange_hugon-nicolas, 1658-06-00_saint-flour_vente_andrieu-contie, 1658-06-18_coltines_donation_rouby-pelegry, 1658-07-04_saint-flour_vente_rous-mas, 1658-07-06_saint-flour_transaction_tassy-grives, 1658-07-07_saint-flour_mariage_bechot-aliadieres, 1658-08-19_saint-flour_cession_odoul-sauret, 1658-09-04_saint-flour_vente_moynie-vezin, 1659-02-22_saint-flour_partage_aymeric-odoul, 1659-05-05_saint-flour_vente_margerit-chastang, 1659-09-22_saint-flour_vente_bonnal-rolland, 1659-10-14_saint-flour_vente_tiouleyre-pelegrin, 1659-11-22_saint-flour_vente_combes-barres, 1659-11-29_saint-flour_vente_jean-lafaige, 1660-04-28_saint-flour_echange_clatty-rolland, 1660-06-06_saint-flour_vente_rolland-chastang, 1660-06-19_saint-flour_vente_chanson, 1660-06-23_coltines_vente_lac-rolland, 1660-06-23_coltines_vente_reuel-verdier, 1660-07-10_saint-flour_echange_beluze-margarit, 1661-07-14_saint-flour_echange_mas-bardon, 1662-01-19_saint-flour_vente_boyer-tassy, 1662-04-20_saint-flour_bail_margerit-bertrand, 1662-07-30_saint-flour_transaction_rispal-fiou, 1663-02-10_saint-flour_vente_hugon-pages, 1663-03-10_saint-flour_vente_chastang-crespoul, 1663-04-15_saint-flour_vente_mas-hugon, 1663-10-14_saint-flour_vente_surrel-mas, 1663-11-10_saint-flour_echange_tassy-gaudel, 1664-02-06_saint-flour_mariage_boudon-bonnaffe, 1664-02-23_saint-flour_mariage_delrieu-crespoul, 1664-06-15_saint-flour_echange_defondz-ruel, 1664-10-29_saint-flour_vente_quatruelx-tassy, 1664-12-05_saint-flour_vente_chassol-brassac, 1664-12-06_saint-flour_vente_chastang-lassy, 1664-12-08_saint-flour_vente_lac-bardon, 1665-03-28_saint-flour_echange_bruict-desfondz, 1665-03-31_saint-flour_echange_hugon-barreyre, 1665-05-07_saint-flour_vente_hugon-bardon, 1665-05-13_saint-flour_testament_saintheiry, 1665-06-28_saint-flour_vente_hugon-tassy, 1666-02-07_saint-flour_mariage_amat-serrohan, 1666-10-22_saint-flour_echange_crespone, 1666-10-28_saint-flour_echange_petit-andel, 1666-10-28_saint-flour_vente_andel-hugon |
 | Coltines (?) | 3 | 1628-11-25_saint-flour_quittance_simyrol-desfontz, 1660-05-03_coltines_vente_costail-hugon, 1662-06-10_saint-flour_vente_reynaldy |
 | Coltines (?) — lu Soltuir / Soltuier / Coltinz | 1 | 1660-05-03_coltines_vente_costail-hugon |
 | Coltines (Cantal) | 1 | 1658-03-03_coltines_donation_vorze |
@@ -776,12 +837,14 @@
 | Coltines (paroisse ; maison Pelegry ; église) | 1 | 1658-06-18_coltines_donation_rouby-pelegry |
 | Coltines (paroisse des parties ; situation du pré) | 1 | 1658-04-15_saint-flour_echange_lafage-tiouleyre |
 | Coltines (paroisse des parties) | 1 | 1653-05-10_saint-flour_vente_rivore-mar |
-| Coltines (paroisse) | 11 | 1628-06-02_saint-flour_bail_bigot, 1653-09-07_saint-flour_transaction_hugon-favel, 1653-11-27_saint-flour_vente_dolz-mar, 1653-12-11_saint-flour_vente_fuvel-mas, 1653-12-25_saint-flour_quittance_berthier-julhien, 1654-04-01_saint-flour_vente_bros-bertier, 1654-05-09_saint-flour_echange_fabre-crespoul, 1654-08-00_saint-flour_transaction_bardoz-boussuge, 1654-10-31_saint-flour_vente_doly-mas, 1656-02-23_saint-flour_vente_fray-hugon, 1658-11-16_saint-flour_vente_baoreyre-odoul |
+| Coltines (paroisse du vendeur, endos ; [Coltines?] dans le corps : appartenances du pré, seigneurie, témoin) | 1 | 1633-12-21_saint-flour_vente_chapat-tassy |
+| Coltines (paroisse) | 12 | 1628-06-02_saint-flour_bail_bigot, 1633-05-21_saint-flour_vente_bouycher-tassy, 1653-09-07_saint-flour_transaction_hugon-favel, 1653-11-27_saint-flour_vente_dolz-mar, 1653-12-11_saint-flour_vente_fuvel-mas, 1653-12-25_saint-flour_quittance_berthier-julhien, 1654-04-01_saint-flour_vente_bros-bertier, 1654-05-09_saint-flour_echange_fabre-crespoul, 1654-08-00_saint-flour_transaction_bardoz-boussuge, 1654-10-31_saint-flour_vente_doly-mas, 1656-02-23_saint-flour_vente_fray-hugon, 1658-11-16_saint-flour_vente_baoreyre-odoul |
 | Coltines (résidence du vendeur ; net à l'endos, douteux l. 3) | 1 | 1658-05-08_saint-flour_vente_hugon-lassy |
 | Coltines (« Coltine », paroisse) | 1 | 1658-05-21_saint-flour_echange_tassy-barreyre |
 | Coltines (église paroissiale) | 1 | 1653-10-20_saint-flour_testament_aymeric |
 | Coltines [?] | 3 | 1652-05-06_coltines_echange_crossoul-defoudz, 1656-02-10_saint-flour_vente_fray-mollinier, 1660-01-11_saint-flour_vente_rispal-gerault |
 | Coltines [?] (Col[tines?]) | 1 | 1657-03-24_saint-flour_obligation_bastide-mabot |
+| Coltines [?] (l. 20, prieuré) | 1 | 1634-11-04_saint-flour_vente_bacon-sibial |
 | Coltines [?] (lu Coffines) | 1 | 1652-02-10_saint-flour_echange_dommergue-pouhavre |
 | Coltines [?] (« Coultines ») | 1 | 1632-08-01_saint-flour_vente_esbrard-chaluet |
 | Coltines, maison des constituants | 1 | 1658-03-03_coltines_mariage_nicolas-bonnet |
@@ -834,7 +897,9 @@
 | Communal (?) | 1 | 1665-10-27_saint-flour_vente_brezit-vaissiere |
 | Communauté des prêtres de Saint-Flour | 1 | 1655-11-10_saint-flour_vente_monet-combes |
 | Communay (Dauphiné) | 1 | 1652-05-12_inconnu_vente_broussard-maury |
+| Commung de la [...] [Monnau?] du seigneur évêque de Saint-Flour | 1 | 1634-11-01_saint-flour_donation_fayon-valarchier |
 | Congrégation des [Pénitents?] de Saint-Flour | 1 | 1657-04-25_saint-flour_testament_girion-combettes |
+| Conquelion[?] (surnom ou lieu-dit attaché au vendeur) | 1 | 1633-12-29_saint-flour_vente_chastel-sentheven |
 | Consbutye[?] (endos, non identifié) | 1 | 1665-12-15_saint-flour_vente_cristal-crespoul |
 | Conte (champ et commun) | 1 | 1656-07-01_saint-flour_echange_derames-chastang |
 | Coppiac | 1 | 1665-05-23_saint-flour_transaction_severgol-mossier |
@@ -843,21 +908,26 @@
 | Corbières (courbieres) | 1 | 1663-08-01_saint-flour_transaction_mathieu-delangouroux |
 | Cordeliers de Saint-Flour | 1 | 1666-05-30_saint-flour_testament_andrieu-chanson |
 | Cordesses (Cordesse), paroisse de Neuvéglise | 1 | 1657-03-31_saint-flour_quittance_seveyres-fazon |
-| Coren | 29 | 1626-08-09_saint-flour_quittance_chancegagnier-changeat, 1628-08-01_andelat_association_bourguin-blanc, 1632-01-22_saint-flour_mariage_missonnier-roudier, 1632-09-06_saint-flour_vente_corspoul-delaire, 1650-01-25_saint-flour_echange_fornial-maury, 1651-04-02_saint-flour_vente_mauvy-gerauld, 1653-01-16_saint-flour_vente_martin-cussac, 1653-11-14_coren_vente_seurgol-mossier, 1654-06-07_saint-flour_transaction_maury-chastang, 1656-01-17_saint-flour_mariage_sudre-suvrel, 1656-06-03_saint-flour_vente_miche-sibrogol, 1658-03-19_saint-flour_vente_rispal-bonafos, 1658-07-25_saint-flour_transaction_surrel, 1658-11-28_saint-flour_vente_sudre-alboy, 1659-09-29_saint-flour_cession_laurier, 1660-03-29_saint-flour_vente_chambaron-ferrand, 1660-12-11_saint-flour_vente_martin-suvert, 1662-02-16_saint-flour_mariage_astier-basset, 1663-04-12_saint-flour_mariage_bourgol-mossier, 1664-03-15_saint-flour_transaction_bassa, 1664-03-25_saint-flour_vente_soubeyroux-chastel, 1664-08-16_saint-flour_vente_allissar-sauvagel, 1665-01-22_saint-flour_mariage_missonnier-rouchez, 1665-12-31_saint-flour_cession_falgeyrac-montaigne, 1666-03-14_saint-flour_vente_soubeiroux-serugol, 1666-05-05_saint-flour_mariage_montaigne-bo, 1666-05-19_saint-flour_vente_manoy-brugeyre, 1666-06-02_saint-flour_vente_bavate-lafoy, 1666-09-19_saint-flour_vente_lollier-jesuites |
+| Coren | 34 | 1626-08-09_saint-flour_quittance_chancegagnier-changeat, 1628-08-01_andelat_association_bourguin-blanc, 1632-01-22_saint-flour_mariage_missonnier-roudier, 1632-09-06_saint-flour_vente_corspoul-delaire, 1633-05-19_tiviers_mariage_chaulhaguet-duteil, 1633-06-02_saint-flour_vente_delayre-maury, 1633-10-06_saint-flour_vente_apchier-aurillac, 1634-02-04_saint-flour_vente_fravau-chalvet, 1634-12-02_saint-flour_mariage_gastal-bonnol, 1650-01-25_saint-flour_echange_fornial-maury, 1651-04-02_saint-flour_vente_mauvy-gerauld, 1653-01-16_saint-flour_vente_martin-cussac, 1653-11-14_coren_vente_seurgol-mossier, 1654-06-07_saint-flour_transaction_maury-chastang, 1656-01-17_saint-flour_mariage_sudre-suvrel, 1656-06-03_saint-flour_vente_miche-sibrogol, 1658-03-19_saint-flour_vente_rispal-bonafos, 1658-07-25_saint-flour_transaction_surrel, 1658-11-28_saint-flour_vente_sudre-alboy, 1659-09-29_saint-flour_cession_laurier, 1660-03-29_saint-flour_vente_chambaron-ferrand, 1660-12-11_saint-flour_vente_martin-suvert, 1662-02-16_saint-flour_mariage_astier-basset, 1663-04-12_saint-flour_mariage_bourgol-mossier, 1664-03-15_saint-flour_transaction_bassa, 1664-03-25_saint-flour_vente_soubeyroux-chastel, 1664-08-16_saint-flour_vente_allissar-sauvagel, 1665-01-22_saint-flour_mariage_missonnier-rouchez, 1665-12-31_saint-flour_cession_falgeyrac-montaigne, 1666-03-14_saint-flour_vente_soubeiroux-serugol, 1666-05-05_saint-flour_mariage_montaigne-bo, 1666-05-19_saint-flour_vente_manoy-brugeyre, 1666-06-02_saint-flour_vente_bavate-lafoy, 1666-09-19_saint-flour_vente_lollier-jesuites |
 | Coren (Coren-les-Eaux, Cantal) | 1 | 1652-01-14_saint-flour_echange_galdissard-chalvet |
 | Coren (Corenz) | 1 | 1662-09-21_saint-flour_vente_alboy-eschallier |
 | Coren (Corenz, Coren), paroisse des parties ; seigneurie [baronnie?] | 1 | 1658-06-21_saint-flour_vente_firolle-rochallier |
 | Coren (Corenz, Corez) | 1 | 1665-04-21_saint-flour_vente_bassel-sourgol |
 | Coren (Corez, Corenz) | 1 | 1654-06-25_saint-flour_vente_chaugelbuf-maury |
 | Coren (Coureny, Coreny) | 1 | 1662-09-23_saint-flour_vente_basset-hugon |
+| Coren ([Couren?]) | 1 | 1633-10-04_saint-flour_ratification_chopy-delaire |
 | Coren (baronnie) | 1 | 1653-04-26_saint-flour_vente_chomel-eschalier |
 | Coren (cimetière de l'église) | 1 | 1664-04-26_saint-flour_donation_baratte-surrel |
 | Coren (corenz) | 1 | 1663-01-28_saint-flour_mariage_jean-jourdanne |
 | Coren (couren) | 1 | 1651-02-20_saint-flour_echange_freual-maury |
+| Coren (couren, Coren) | 1 | 1633-04-25_saint-flour_vente_crespoul-siuergol |
 | Coren (endos ; « les habitans dud. Coren ») | 1 | 1651-12-30_saint-flour_procuration_chaulhague-rome |
+| Coren (endos) | 1 | 1634-03-25_saint-flour_vente_gastel |
 | Coren (endos, [?]) | 1 | 1660-01-26_auzolles_mariage_maury-mighoulle |
 | Coren (justice, baronnie) | 1 | 1665-05-23_saint-flour_transaction_severgol-mossier |
 | Coren (lieu ; aujourd'hui Coren, Cantal) : résidence des parties et situation des biens | 1 | 1652-01-04_saint-flour_echange_galdissard-chalvet |
+| Coren (lieu et paroisse) | 1 | 1633-11-19_saint-flour_vente_pons-chastel |
+| Coren (paroisse ; [Corez/Corenz?] dans le corps) | 1 | 1634-12-09_saint-flour_vente_delaire-combe |
 | Coren (paroisse) | 1 | 1660-04-26_saint-flour_vente_jacques-traverse |
 | Coren (paroisse, baronnie) | 1 | 1652-05-12_inconnu_vente_broussard-maury |
 | Coren (paroisse, lecture douteuse) | 1 | 1651-06-18_saint-flour_echange_bouttelle |
@@ -866,11 +936,14 @@
 | Coren (église Saint-Pierre) | 1 | 1663-04-22_saint-flour_transaction_mossier-tranchier |
 | Coren [?] | 2 | 1660-02-25_saint-flour_testament_chastang, 1666-06-14_saint-flour_vente_montaigne-brivines |
 | Coren [?] (endos : habitants et acquéreur « du Coren[?] ») | 1 | 1651-12-30_saint-flour_vente_mossier-montaigne |
+| Coren[?] (bailliage) | 1 | 1634-11-20_saint-flour_quittance_gendre-barthomeuf |
 | Coren[s?] | 1 | 1626-02-13_saint-flour_cession_domergue-chastel |
 | Cormier [?] (lieu et paroisse du vendeur) | 1 | 1662-05-20_saint-flour_vente_fonomie-margarit |
 | Cornoncle [?] | 1 | 1665-03-23_saint-flour_vente_cassanel-andrieu |
+| Cortine[s?] (village, d'après l'endos) | 1 | 1634-03-13_saint-flour_echange_sibial-jolet |
 | Cortines | 1 | 1666-03-27_saint-flour_vente_pouhvillet-bergoin |
 | Cortines (Courtines) | 1 | 1664-03-01_saint-flour_desistement_poulverelle-andrieu |
+| Cortines / Courtines [?] (l. 4, 12, 18 ; endos [...]ourtines) | 1 | 1634-03-13_saint-flour_vente_jolet-sibial |
 | Cortinie | 1 | 1666-03-27_saint-flour_vente_pouhvillet-bergoin |
 | Cortinne [Courtines?] | 1 | 1666-03-16_saint-flour_vente_chapoulade-giraldon |
 | Cossiac / Coffiac / Toffiac [paroisse non identifiée] | 1 | 1652-02-10_saint-flour_vente_dommergue-sautherez |
@@ -880,6 +953,7 @@
 | Costechaude (champ, terroir de Fraissinet) | 1 | 1660-03-19_saint-flour_vente_sentherain |
 | Costeirac | 1 | 1658-11-06_saint-flour_echange_bougier-chauliaguet |
 | Costes Vieles [?] | 1 | 1662-08-16_saint-flour_vente_descorolle-brugier |
+| Couchin (château) | 1 | 1634-01-11_inconnu_bail_bouges-maolat |
 | Couchinon [?] | 1 | 1659-08-31_saint-flour_vente_aujolet-poulauvellon |
 | Couder [?] | 1 | 1628-06-24_saint-flour_bail_aymier-baile |
 | Couderc (lecture douteuse) | 1 | 1663-01-18_saint-flour_vente_astier-bardel |
@@ -909,6 +983,7 @@
 | Coupiac (seigneurie) | 1 | 1660-04-26_saint-flour_vente_jacques-traverse |
 | Coupiat [?] | 1 | 1651-02-20_saint-flour_echange_freual-maury |
 | Courchamp | 1 | 1653-03-15_saint-flour_ratification_fion-cussac |
+| Couren[?] (Coren ?), baronnie | 1 | 1633-02-11_saint-flour_vente_julhe-baille_b |
 | Couriz[?] de bré[?] (paroisse ; peut-être Coren) | 1 | 1664-11-11_saint-flour_vente_pirolle-lollier |
 | Cournasse [?] (Cornasse, endos ; village d'Albieuf) | 1 | 1658-01-10_saint-flour_echange_albieuf-chauliaguet |
 | Courtilles | 2 | 1658-06-06_saint-flour_testament_julhe, 1665-05-09_saint-flour_retrait_bastail-faugyrolles |
@@ -916,6 +991,7 @@
 | Courtines | 7 | 1656-09-25_saint-flour_vente_sours-galvier, 1659-02-01_saint-flour_vente_polvarelle-chapolat, 1660-05-18_saint-flour_vente_chappoulade-boudon, 1662-01-31_villedieu_mariage_bacou-trenchier, 1663-04-15_saint-flour_vente_combes-bergoin, 1663-09-02_saint-flour_vente_delaire-barrou, 1665-11-00_saint-flour_vente_richard-bergoin |
 | Courtines (?) | 1 | 1665-07-12_saint-flour_vente_chapoulade-jury |
 | Courtines (paroisse des Ternes) | 1 | 1658-12-29_saint-flour_vente_richard-poulverelles |
+| Courtines [?] (l. 5, 13, 18 ; endos Courtine[s?], l. 54) | 1 | 1634-11-04_saint-flour_vente_bacon-sibial |
 | Courzergue[?] / Courzergues / Couzergue | 1 | 1664-09-06_saint-flour_vente_couliadire-roudil |
 | Cousergues (Coussergues, Couzergues), paroisse de Saint-Georges | 1 | 1665-04-15_saint-flour_vente_roudil-viol |
 | Cousergues (paroisse de Saint-Georges) | 1 | 1662-02-18_saint-flour_mariage_cussac-vachier |
@@ -928,6 +1004,7 @@
 | Coutines [Coltines ?] | 1 | 1664-09-22_saint-flour_vente_chambaron-giraldon |
 | Coutinier[?] (ou Couturier, Courtinier), paroisse des Ternes | 1 | 1664-10-12_saint-flour_vente_chambaron-polverelles |
 | Coutz [?] (Contz, Couts ; lieu du vendeur, du curateur et de Gilibert, mandement et seigneurie) | 1 | 1653-12-11_saint-flour_vente_fuvel-mas |
+| Couuen ([Coren?]) | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
 | Couvers | 1 | 1665-10-22_saint-flour_vente_richard-andrieu |
 | Couzerg[?] | 1 | 1665-09-21_saint-flour_vente_sauret-deloye |
 | Couzergue / Couzergues, paroisse de Saint-Georges | 1 | 1660-06-24_saint-flour_vente_manoy-roudil |
@@ -942,6 +1019,7 @@
 | Croix de Montplo[?] | 1 | 1661-00-00_saint-flour_partage_lassaigne-bonneval |
 | Croix de [Sauvy?] (ou Saugy), lieu-dit du champ | 1 | 1653-07-08_saint-flour_vente_vayle-gaston |
 | Croix du [Mezes ?] (Saint-Flour) | 1 | 1665-02-03_saint-flour_mariage_vaylet-vivmarin |
+| Crosat (surnom ou lieu ?) | 1 | 1644-10-02_saint-flour_quittance_vidal-gastal |
 | Croux de Gounel (?) | 1 | 1664-07-29_saint-flour_vente_benezit-bertrand |
 | Crouzet | 1 | 1658-10-08_saint-flour_echange_boude-filhol |
 | Crouzet (Crozetz), paroisse des Ternes | 1 | 1650-12-31_saint-flour_vente_boniol-masset |
@@ -964,9 +1042,10 @@
 | Cuissenel [?] | 1 | 1665-08-11_saint-flour_vente_bichot-saintheiry |
 | Cumeaux? | 1 | 1652-03-00_saint-flour_testament_baldissard |
 | Cure de Saltuirs[?] | 1 | 1651-08-24_saint-flour_partage_riourt |
+| Cuspiac (Cospiac / Coppiat ?), seigneurie de Jean Contal | 1 | 1634-02-26_saint-flour_cession_contal |
 | Cuspiac (seigneurie) | 2 | 1628-04-22_saint-flour_bail_cust-mergue, 1628-05-26_saint-flour_donation_coutel |
 | Cuspiac [?] / Couspiac / Cousplac (seigneurie du bailleur ; métairie « de [...] de Cuspiac[?] » à Villedieu) | 1 | 1628-04-01_saint-flour_bail_cust-gniyez |
-| Cussac | 14 | 1648-03-07_saint-flour_vente_derames-chastel, 1655-05-01_saint-flour_subrogation_chevallier-devarnes, 1656-06-23_saint-flour_transaction_couderc-bo, 1656-11-14_saint-flour_transaction_albert-salvanhac, 1660-07-02_saint-flour_transaction_boudon-vachier, 1662-02-04_saint-flour_vente_sarrou-sagette, 1662-05-07_saint-flour_vente_gibrac-sarrou, 1662-11-08_saint-flour_revente_rispal-charreyre, 1663-10-24_saint-flour_vente_rispal-mirmande, 1664-02-23_saint-flour_mariage_bechot-defondz, 1665-09-13_saint-flour_vente_bo, 1665-12-12_saint-flour_subrogation_charbonnel-charreyre, 1665-12-29_saint-flour_vente_giraldon-chavegre, 1666-01-27_alleuze_testament_daix |
+| Cussac | 16 | 1644-02-13_saint-flour_vente_debrion-alboy, 1644-04-24_saint-flour_vente_sivry-boussuge, 1648-03-07_saint-flour_vente_derames-chastel, 1655-05-01_saint-flour_subrogation_chevallier-devarnes, 1656-06-23_saint-flour_transaction_couderc-bo, 1656-11-14_saint-flour_transaction_albert-salvanhac, 1660-07-02_saint-flour_transaction_boudon-vachier, 1662-02-04_saint-flour_vente_sarrou-sagette, 1662-05-07_saint-flour_vente_gibrac-sarrou, 1662-11-08_saint-flour_revente_rispal-charreyre, 1663-10-24_saint-flour_vente_rispal-mirmande, 1664-02-23_saint-flour_mariage_bechot-defondz, 1665-09-13_saint-flour_vente_bo, 1665-12-12_saint-flour_subrogation_charbonnel-charreyre, 1665-12-29_saint-flour_vente_giraldon-chavegre, 1666-01-27_alleuze_testament_daix |
 | Cussac (Cussat) | 1 | 1656-06-28_saint-flour_demission_bo-condere |
 | Cussac (chemin de Bouzentès à Cussac) | 1 | 1664-06-15_saint-flour_echange_estival-houre |
 | Cussac (chemin de Chambonez à Cussac) | 1 | 1658-04-02_saint-flour_vente_pantard |
@@ -982,12 +1061,15 @@
 | Cussaguet (paroisse de Saint-Georges) | 1 | 1653-03-19_saint-flour_vente_vidal-chazot |
 | Cussaltri [?] (endos) | 1 | 1665-08-11_saint-flour_vente_bichot-saintheiry |
 | Cussat (Cussac ?) | 1 | 1660-08-16_saint-flour_vente_bossuge-bo |
+| Cussat [?] | 1 | 1633-12-02_saint-flour_testament_galvier-vidal |
 | Cyuovet[?] & Calzue[?] | 1 | 1657-01-27_saint-flour_mariage_caston-castide |
 | Cézens | 1 | 1648-02-06_saint-flour_vente_valarchier-andrieu |
+| Dandolen[?] (Andelat ?), paroisse, l. 5 et 10 | 1 | 1634-03-25_saint-flour_vente_gastel |
 | Daubredefer[?] (terroir) | 1 | 1665-04-11_saint-flour_echange_fontes-vaissiere |
 | Dauphiné | 1 | 1651-06-14_rezallerie_donation_brassac-boutes |
 | Dauzac[?] | 1 | 1660-04-17_saint-flour_vente_froys-coutel |
 | Dauzan (« del dauzan »), paroisse de Paulhac | 1 | 1660-01-24_saint-flour_vente_richard-rolland |
+| Dauzan [?] | 1 | 1634-02-04_saint-flour_quittance_domergue-juery |
 | Dauzan[?] (paroisse de Paulhac) | 1 | 1661-04-27_saint-flour_echange_roudil-benezit |
 | Dauzat (daujaz, dauzat, dauzaz ; paroisse de [Paulhac ?]) | 1 | 1659-02-20_roffiac_mariage_gibrat-judy |
 | Del pradou (jardin, La Barge) | 1 | 1665-04-25_saint-flour_echange_ventuighol-souchari |
@@ -1009,6 +1091,7 @@
 | Dupuy / le Puy[?] (du Dupuy, dupuy), paroisse de Saint-Georges | 1 | 1651-07-01_saint-flour_vente_archer-maury |
 | Endoudre[?] (jardin à chanvre) | 1 | 1652-05-25_saint-flour_vente_ruvelle-chastel |
 | Entraygues (dentraigues) | 1 | 1654-11-04_saint-flour_mariage_barriol-petit |
+| Es [...] [Lauzel?] (pré) | 1 | 1633-10-22_saint-flour_vente_boyer-vieulx |
 | Espagne | 7 | 1650-03-12_saint-flour_testament_merle-ingimbert, 1659-05-11_saint-flour_vente_jeay-apcher, 1661-03-12_saint-flour_testament_baster, 1661-03-19_saint-flour_testament_bantuyol, 1661-11-16_saint-flour_vente_sauve-boude, 1662-10-09_saint-flour_testament_chastang-cayrou, 1663-09-30_saint-flour_vente_chappoulade-cosches |
 | Espagne ([en?] Espaigne) | 1 | 1654-10-00_saint-flour_testament_vachassol |
 | Espagne (despaigne, lecture probable) | 1 | 1660-10-00_saint-flour_testament_apchier |
@@ -1031,6 +1114,7 @@
 | Estubartes (destubartes, lecture à confirmer) | 1 | 1666-10-02_saint-flour_donation_reynaud-dupuy |
 | Estubartes (lieu) | 1 | 1666-09-30_saint-flour_subrogation_hugoz-destubartes |
 | Fachiam? / Faultriam? | 1 | 1665-09-21_saint-flour_vente_meylioi-jourlanche |
+| Fage[?] | 1 | 1634-06-25_saint-flour_vente_barthomeuf-dufour |
 | Fagenat | 1 | 1666-10-17_saint-flour_vente_larocque-salvaniac |
 | Faget (paroisse de Saint-Flour) | 1 | 1654-04-20_saint-flour_vente_andrieu-cussac |
 | Faget[?] | 1 | 1657-08-26_borry_testament_barthet-chassang |
@@ -1119,6 +1203,7 @@
 | Fontbonne (seigneurie d'Anthoine Pagues) | 1 | 1654-04-16_saint-flour_quittance_chaluet-senteraiz |
 | Fontbonne (seigneurie d'Antoine Pages) | 2 | 1651-03-14_saint-flour_vente_fournier-pages, 1660-05-20_saint-flour_testament_dufour |
 | Fontbonne (seigneurie du sieur Pages) | 1 | 1654-05-31_saint-flour_vente_rolland-pages |
+| Fontbonne [?] (fontbon[n]e) | 1 | 1644-09-29_saint-flour_vente_albuisson-tissier |
 | Fontbonnes | 3 | 1663-02-10_saint-flour_vente_serieys-tailliand, 1663-11-13_saint-flour_vente_chanson-bechot, 1664-06-15_saint-flour_echange_defondz-ruel |
 | Fontbonnes ([fontbrunes?] à l'endos) | 1 | 1661-03-25_saint-flour_vente_cayron-dupre |
 | Fontbonnes (paroisse de Lavastrie) | 2 | 1663-10-07_saint-flour_vente_cayron-dupre, 1664-05-10_saint-flour_donation_cayron-doumergue |
@@ -1132,7 +1217,10 @@
 | Fontes (paroisse d'Andelat) | 1 | 1663-05-15_saint-flour_transaction_rayat-yzabel |
 | Fontgieres | 1 | 1666-02-27_saint-flour_mariage_combes-boyer |
 | Fontgières (fontgieres) | 1 | 1660-06-09_saint-flour_vente_sauvet-marlhiac |
+| Fontgières [?] (Foutgières / Fougières), paroisse de Talizat | 1 | 1633-06-03_saint-flour_vente_vigier-aymeric |
+| Fontgueres (seigneurie) [?] | 1 | 1638-06-30_saint-flour_quittance_sauvat |
 | Fontguière[?] | 1 | 1658-05-31_saint-flour_echange_sauret-chossy |
+| Fontguère(s) | 1 | 1638-06-30_saint-flour_partage_sauvat |
 | Fontilles | 1 | 1663-12-22_saint-flour_vente_bresseyre-chanson |
 | Fontès (fontez), paroisse d'Andelat | 1 | 1658-07-13_saint-flour_donation_combes-mauly |
 | Formolière / Laformolier[?] (seigneurie / terroir) | 1 | 1666-05-06_saint-flour_echange_sabatier |
@@ -1142,14 +1230,17 @@
 | Fournels (paroisse, endos, lecture douteuse) | 1 | 1626-11-12_saint-flour_compromis_mauran-aymier |
 | Fournels en Gévaudan | 2 | 1659-12-22_saint-flour_donation_broche-regimbalt, 1659-12-22_saint-flour_testament_roche-hugon |
 | Fournol (seigneurie) | 1 | 1642-01-12_saint-flour_mariage_chandorat-aymerie |
-| Fournols | 5 | 1632-07-00_saint-flour_demission_jaber-aymier, 1632-08-31_saint-flour_vente_rogier-aymier, 1642-01-11_massiac_procuration_chandorat-aymeric, 1660-01-31_saint-flour_vente_maury, 1662-01-14_saint-flour_mariage_chalmete-marly |
+| Fournols | 6 | 1632-07-00_saint-flour_demission_jaber-aymier, 1632-08-31_saint-flour_vente_rogier-aymier, 1634-02-14_saint-flour_mariage_clavieres-aymeric, 1642-01-11_massiac_procuration_chandorat-aymeric, 1660-01-31_saint-flour_vente_maury, 1662-01-14_saint-flour_mariage_chalmete-marly |
 | Fournols (fournolz) | 1 | 1650-12-16_saint-flour_donation_tailhandier-molede |
 | Fournols (fournolz), paroisse | 3 | 1659-03-26_saint-flour_vente_taillandier-roslan, 1663-04-12_saint-flour_vente_sudre-boyer, 1664-02-21_saint-flour_mariage_rayne-lombard |
+| Fournols (fournolz, seigneurie de l'acquéreur) | 1 | 1634-03-27_saint-flour_vente_roux-aymeric |
 | Fournols (paroisse) | 2 | 1650-06-26_saint-flour_vente_tailhandier-bonnafos, 1659-06-04_saint-flour_vente_choffy-sauvet |
 | Fournols (parr. de fournolz) | 1 | 1656-12-13_saint-flour_vente_sudre-noclar |
+| Fournols (seigneurie) | 1 | 1633-06-03_saint-flour_vente_vigier-aymeric |
 | Fournols [?] | 2 | 1632-07-04_saint-flour_mariage_baille-chastel, 1666-04-12_saint-flour_obligation_mounier-aureille |
+| Fournols [?] (seigneurie) | 1 | 1634-10-02_saint-flour_transaction_saure |
 | Fournols[?] (parr. de fournolz) | 1 | 1658-05-31_saint-flour_echange_sauret-chossy |
-| Fournolz | 1 | 1650-02-02_saint-flour_vente_aymeric-marty |
+| Fournolz | 2 | 1634-09-04_saint-flour_prixfait_chaulhaguet-tardieu, 1650-02-02_saint-flour_vente_aymeric-marty |
 | Fournolz (paroisse ; Fournols ?) | 1 | 1661-01-25_saint-flour_mariage_boyer-bonniol |
 | Fournolz (seigneurie) | 1 | 1642-01-12_saint-flour_mariage_chandorat-aymerie |
 | Fournolz[?] | 1 | 1650-09-24_saint-flour_mariage_boyer-bauthet |
@@ -1187,6 +1278,7 @@
 | Fraissinet (fraissinet), foraine de Saint-Flour | 1 | 1664-02-17_saint-flour_vente_david-eschallier |
 | Fraissinet (fraissinet, fraissenet) | 1 | 1663-01-22_saint-flour_echange_teissedre-masset |
 | Fraissinet (fraissinet, fraissenet, froissenet, freissenet), paroisse foraine de Saint-Flour | 1 | 1664-03-09_saint-flour_bail_roux-sentheran |
+| Fraissinet (fraissinet, fraycinet), paroisse foraine de Saint-Flour | 1 | 1644-06-25_saint-flour_vente_bichot-sauvar |
 | Fraissinet (franchise [?] de Saint-Flour) | 1 | 1659-09-27_saint-flour_vente_pouneville-boutette |
 | Fraissinet (freissenet) | 1 | 1663-12-13_saint-flour_vente_devaurs-chastel |
 | Fraissinet (freissenet), foraine de Saint-Flour | 1 | 1658-07-25_saint-flour_obligation_pages-rouger |
@@ -1225,10 +1317,15 @@
 | Fressanges [fraissinges?] | 1 | 1663-07-14_saint-flour_vente_cauzac-dupre |
 | Fretbiz / Futbiz (Valuéjols) [?] | 1 | 1665-12-12_saint-flour_subrogation_charbonnel-charreyre |
 | Freyssinet | 2 | 1659-01-28_saint-flour_vente_domergue-gerauld, 1663-05-06_saint-flour_permission_masse-leyssedre |
+| Freyssinet (Fren[ss]inet[?]) | 1 | 1634-07-20_saint-flour_vente_desfondz-baudrongue |
+| Freyssinet (froissenet[?] ; endos : Freyssinet), paroisse de Saint-Flour — résidence de l'acheteur et situation du champ | 1 | 1633-12-29_saint-flour_vente_chastel-sentheven |
+| Freyssinet (paroisse de Saint-Flour) | 1 | 1633-08-14_saint-flour_transaction_crozat-fauteron |
 | Freyssinet [?] | 1 | 1626-03-30_saint-flour_bail_brugier-sauret |
+| Freyssinet [?] (endos, l. 42) | 1 | 1634-03-13_saint-flour_vente_jolet-sibial |
 | Fridefont (fridefong, fridefon[t?]) | 1 | 1651-06-06_saint-flour_vente_chauzes-cayssedre |
 | Fridieres [?] | 1 | 1632-07-04_saint-flour_mariage_baille-chastel |
 | Fridière | 1 | 1664-09-22_saint-flour_vente_besset-dupre |
+| Fridière (« Fridieure [?] », endos « Fridiere [?] »), paroisse [foraine?] de Saint-Flour | 1 | 1634-03-25_saint-flour_vente_maury-jailhe |
 | Fridou | 1 | 1658-08-20_saint-flour_inventaire_delort-bechot |
 | Fridou (seigneurie ou terre, lecture incertaine) | 1 | 1659-01-26_saint-flour_vente_roche-cussac |
 | Fridou (seigneurie) | 2 | 1660-04-26_saint-flour_vente_jacques-traverse, 1660-05-08_saint-flour_mariage_dupre-traverse |
@@ -1239,8 +1336,11 @@
 | Frouvoz? | 1 | 1651-04-00_saint-flour_vente_benezit-pages |
 | Frouzal [?] (seigneurie) | 1 | 1652-12-07_saint-flour_vente_delrieu-bonniol |
 | Frozet [?] (surnom ou lieu) | 1 | 1653-10-02_saint-flour_vente_ostmal-sauvet |
+| Frutgieres [?] / Frautgieres / Fontgieres (seigneurie) | 1 | 1634-10-02_saint-flour_transaction_saure |
 | Fréval | 3 | 1660-09-16_saint-flour_procuration_roquelaure-fontes, 1660-11-10_salhans_transaction_freval-fontes, 1660-11-13_saint-flour_transaction_roquelaure-fontes |
 | Gaimont (gaimont, Gaimon ; vraisemblablement Gaymont) | 1 | 1665-02-07_saint-flour_mariage_trancher-yzabel |
+| Galineyre | 1 | 1634-01-02_saint-flour_vente_sandou-jean |
+| Galmeiur | 1 | 1634-01-04_saint-flour_desistement_sandoul-pontsavet |
 | Galuze[?] (galuze, galeze, Galuz ; initiale G ou S), lieu de la paroisse de Valuéjols, non identifié | 1 | 1654-05-14_saint-flour_cession_rouget-faverge |
 | Garabit (garaby / [guarraby?]) | 1 | 1662-11-01_saint-flour_vente_franchier-ebrard |
 | Gardez[?] | 1 | 1651-08-24_saint-flour_partage_riourt |
@@ -1250,6 +1350,7 @@
 | Gassanides [?] | 1 | 1666-03-06_saint-flour_mariage_bardoz-margidit |
 | Gaymon / Gaymond (Andelat) | 1 | 1656-02-19_saint-flour_transaction_rolland-wanchier |
 | Gaymond | 1 | 1654-02-20_saint-flour_quittance_dumas-porchau |
+| Gaymond (guaymon, Guaymon, Gaymond) | 1 | 1633-02-01_andelat_mariage_tronchier-jean |
 | Gaymond (paroisse d'Andelat) | 2 | 1657-02-24_saint-flour_subrogation_tiouleyre-peschau, 1660-01-31_saint-flour_vente_maury |
 | Gaymond (paroisse de Roffiac) | 1 | 1662-07-30_saint-flour_transaction_rispal-fiou |
 | Gaymond (village) | 1 | 1654-12-31_saint-flour_vente_grezes-bastide |
@@ -1264,6 +1365,7 @@
 | Gorge [?] | 1 | 1628-06-24_saint-flour_bail_aymier-baile |
 | Gothilhon [?] | 1 | 1658-01-10_saint-flour_echange_albieuf-chauliaguet |
 | Goudon / Goudou | 1 | 1664-11-25_saint-flour_partage_chassang |
+| Gour [?] (le Gour) | 1 | 1634-11-04_saint-flour_vente_liber |
 | Gourdièges | 1 | 1663-12-29_saint-flour_transaction_daix-miramon |
 | Gourdièges (paroisse de Neuvéglise) | 1 | 1650-06-27_saint-flour_vente_parra-rolland |
 | Gourguit (champ et terre) | 1 | 1665-02-17_roffiac_mariage_vidal-parra |
@@ -1284,6 +1386,7 @@
 | Granulle [?] (paroisse) | 1 | 1660-06-09_saint-flour_mariage_caillandier-cussac |
 | Granval (granuail, Grantvail), paroisse de La Vastrie | 1 | 1653-01-14_saint-flour_vente_bordes-chanson |
 | Grenoble (diocèse) | 1 | 1651-06-14_rezallerie_donation_brassac-boutes |
+| Grezolz | 1 | 1634-02-14_saint-flour_mariage_clavieres-aymeric |
 | Grisolous | 1 | 1659-06-08_saint-flour_vente_monnier-pauc |
 | Grisols (Grisolz, Grizolz) | 1 | 1661-06-27_saint-flour_echange_saignes-delcros |
 | Grizols | 2 | 1648-03-29_saint-flour_testament_guillaume, 1658-06-06_saint-flour_testament_julhe |
@@ -1301,14 +1404,16 @@
 | Gévaudan [lecture peu nette] | 1 | 1659-02-23_saint-flour_vente_cheylard-fabre |
 | Haut pays d'Auvergne | 1 | 1665-09-05_saint-flour_transaction_dupuy-reginbalt |
 | Haut-Auvergne | 10 | 1653-06-16_saint-flour_partage_gaultier, 1654-07-26_saint-flour_mariage_monnier-brassac, 1656-04-07_saint-flour_transaction_mallespaignes-chomme, 1657-11-25_seriers_mariage_doumergue-chevallier, 1658-05-27_saint-flour_vente_tafanel-combes, 1658-08-04_saint-flour_mariage_brounet-polverelles, 1664-07-06_saint-flour_transaction_lastic-fargue, 1664-10-26_saint-flour_vente_southeyrain-apchier, 1666-04-26_saint-flour_vente_sabatier-apchier, 1672-12-10_saint-flour_requete_fauret-vedrines |
-| Haut-Auvergne (bailliage) | 3 | 1628-07-06_saint-flour_transaction_reynalt-chavanon, 1650-02-20_saint-flour_donation_mornac, 1664-09-14_roffiac_mariage_sautherain-mallet |
+| Haut-Auvergne (bailliage) | 4 | 1628-07-06_saint-flour_transaction_reynalt-chavanon, 1634-11-01_saint-flour_donation_fayon-valarchier, 1650-02-20_saint-flour_donation_mornac, 1664-09-14_roffiac_mariage_sautherain-mallet |
 | Haut-Auvergne (maréchaussée) | 1 | 1656-09-02_seriers_testament_pouer |
 | Haut-Auvergne (vibaillie) | 1 | 1652-05-12_saint-flour_vente_tailhand-bourgeze |
 | Haut-Auvergne (élection ?) | 1 | 1632-01-19_saint-flour_vente_trymbal-espinchal |
 | Haut-Pays d'Auvergne (bailliage) | 1 | 1626-03-13_saint-flour_protestation_cortel-vibert |
-| Haute-Auvergne | 13 | 1628-03-28_saint-flour_bail_cuelhmes-dufaure, 1632-01-19_saint-flour_mariage_rigault-albier, 1632-06-09_saint-flour_testament_durant-deubar, 1648-03-02_saint-flour_quittance_boudon-senthorez, 1652-06-30_saint-flour_transaction_marchand-chauses, 1653-04-01_saint-flour_vente_vispail-derames, 1656-11-18_saint-flour_donation_chazal-molinier, 1658-02-06_saint-flour_transaction_brassac-crabue, 1658-02-25_saint-flour_mariage_vigier-chevalier, 1658-03-03_coltines_mariage_nicolas-bonnet, 1664-01-06_saint-flour_mariage_bertrand-gautier, 1664-10-27_saint-flour_vente_molinier-chanson, 1665-11-15_voffrac_cession_gazel-veyssiere |
+| Haute-Auvergne | 15 | 1628-03-28_saint-flour_bail_cuelhmes-dufaure, 1632-01-19_saint-flour_mariage_rigault-albier, 1632-06-09_saint-flour_testament_durant-deubar, 1634-02-16_saint-flour_quittance_bastide-andrieu, 1634-09-04_saint-flour_prixfait_chaulhaguet-tardieu, 1648-03-02_saint-flour_quittance_boudon-senthorez, 1652-06-30_saint-flour_transaction_marchand-chauses, 1653-04-01_saint-flour_vente_vispail-derames, 1656-11-18_saint-flour_donation_chazal-molinier, 1658-02-06_saint-flour_transaction_brassac-crabue, 1658-02-25_saint-flour_mariage_vigier-chevalier, 1658-03-03_coltines_mariage_nicolas-bonnet, 1664-01-06_saint-flour_mariage_bertrand-gautier, 1664-10-27_saint-flour_vente_molinier-chanson, 1665-11-15_voffrac_cession_gazel-veyssiere |
 | Haute-Auvergne (bailliage de Saint-Flour) | 1 | 1658-12-16_saint-flour_quittance_malestaigne-richard |
-| Haute-Auvergne (bailliage) | 1 | 1628-05-26_saint-flour_donation_coutel |
+| Haute-Auvergne (bailliage) | 2 | 1628-05-26_saint-flour_donation_coutel, 1634-09-28_saint-flour_transaction_chanson-vaudeye |
+| Haute-Auvergne (sénéchaussée) | 1 | 1633-02-01_andelat_mariage_tronchier-jean |
+| Haute-Auvergne (Élection) | 1 | 1634-06-25_saint-flour_vente_barthomeuf-dufour |
 | Haute-Auvergne / Montagnes d'Auvergne | 1 | 1660-06-06_saint-flour_vente_rolland-chastang |
 | Haute-Auvergne [?] | 1 | 1662-09-23_saint-flour_vente_sauthiran-apcher |
 | Herbet[?] | 1 | 1653-03-03_saint-flour_vente_durand-gillet |
@@ -1328,6 +1433,7 @@
 | Issoire (élection) | 1 | 1665-03-28_saint-flour_vente_tafanel-jordin |
 | Jansanet [Jansenet / Jansanec ?] | 1 | 1665-04-25_saint-flour_donation_fieu-giraldy |
 | Jansenet [?] / Jausenet | 1 | 1652-03-20_saint-flour_vente_douhet-andrieu |
+| Jardin d[...] (nom du jardin vendu) | 1 | 1633-01-18_saint-flour_vente_crespon-cristal |
 | Jardin hault | 1 | 1658-09-15_saint-flour_mariage_vaylet-fernail |
 | Jarrige (chemin allant à) | 1 | 1662-03-18_saint-flour_vente_rispail |
 | Jarrouse[?] | 1 | 1659-12-04_saint-flour_vente_massebeau-rayrou |
@@ -1343,6 +1449,7 @@
 | Joux | 1 | 1666-01-27_alleuze_testament_daix |
 | Junial | 1 | 1662-02-27_saint-flour_vente_polverelles-pages |
 | Jussenet ? (Jaussenet) | 1 | 1656-06-01_saint-flour_quittance_gauvail-vouget |
+| Jussignac[?] (endos) | 1 | 1633-05-09_andelat_bail_brugier-julhe |
 | L[ort?] de Metge (jardin) | 1 | 1650-01-26_saint-flour_vente_colrat-sauret |
 | La Barge | 2 | 1659-03-22_saint-flour_donation_coucherie-teyssedre, 1659-09-06_saint-flour_testament_briger |
 | La Barge (?), paroisse d'Alleuze (?) | 1 | 1659-12-22_saint-flour_donation_broche-regimbalt |
@@ -1362,6 +1469,7 @@
 | La Besse | 1 | 1663-03-17_saint-flour_inventaire_grezes-bechot |
 | La Besseire (paroisse de Saint-Marc) | 1 | 1665-02-01_saint-flour_mariage_chanson-chaumeil |
 | La Besseyre | 1 | 1662-11-29_saint-flour_vente_missonnier-berault |
+| La Blancheire | 1 | 1633-02-28_saint-flour_vente_vigouroux-brassac |
 | La Blatyre (terroir, Montaigniaguet) | 1 | 1659-06-02_saint-flour_echange_buge-marchar |
 | La Borie | 1 | 1656-06-28_saint-flour_demission_bo-condere |
 | La Borie (La Borye), paroisse d'Andelat | 1 | 1626-03-08_saint-flour_apprentissage_padin-chastel |
@@ -1397,6 +1505,7 @@
 | La Chau (champ, Mentières) | 1 | 1660-01-06_saint-flour_mariage_martin-cussac |
 | La Chaumete (métairie) | 1 | 1665-12-29_saint-flour_vente_gaultier-daufeulhe |
 | La Chaumete[?] (La Chaumette, lieu ; paroisse de Neuvéglise) | 1 | 1660-10-29_saint-flour_donation_rispal-bechot |
+| La Chaumetonne | 1 | 1633-03-12_saint-flour_vente_montaniac-bessolz |
 | La Chaumette (paroisse de Neuvéglise) | 1 | 1662-03-18_saint-flour_vente_rispail |
 | La Chaumette (seigneurie) | 1 | 1665-02-14_saint-flour_vente_albert-juery |
 | La Chavagne del Gas | 1 | 1655-05-23_saint-flour_transaction_yzabel-sentheraiz |
@@ -1446,6 +1555,7 @@
 | La Glaue [La Glane ?] (paroisse de Mallet) | 1 | 1658-08-24_saint-flour_vente_couderc-durand |
 | La Goutelle (pré) | 1 | 1662-11-02_saint-flour_retrait_estival-mallet |
 | La Grade [?] (lieu-dit, terroir de Coutargues) | 1 | 1662-09-00_saint-flour_vente_saurel-combes |
+| La Grange | 1 | 1634-10-02_saint-flour_transaction_saure |
 | La Lande (pré) | 1 | 1665-02-16_roffiac_echange_parra-blondin |
 | La Longeyre (jardin à chanvre, Bozentes) | 1 | 1660-08-10_saint-flour_echange_mallessaignes-david |
 | La Loubeyre (Laloubeyre) | 1 | 1660-11-20_saint-flour_mariage_chausoz-montgial |
@@ -1478,6 +1588,7 @@
 | La Rochette (paroisse de Lavastrie) | 1 | 1660-06-27_saint-flour_transaction_parro-gastal |
 | La Rochière (La Rossière) | 1 | 1658-05-31_saint-flour_echange_sauret-chossy |
 | La Rompude | 1 | 1664-04-17_saint-flour_bail_roumiol-teissedre |
+| La Rossière (seigneurie) | 1 | 1634-10-02_saint-flour_transaction_saure |
 | La Roussière | 1 | 1665-10-25_saint-flour_mariage_vigier-chapoulle |
 | La Roussière (La roussiere) | 1 | 1664-02-21_saint-flour_mariage_rayne-lombard |
 | La Saignal [Fouie?] (pastural) | 1 | 1665-07-12_saint-flour_vente_chapoulade-jury |
@@ -1486,6 +1597,7 @@
 | La Salesse | 1 | 1664-08-16_saint-flour_vente_allissar-sauvagel |
 | La Sangbaye (champ) | 1 | 1663-04-21_saint-flour_vente_aurilhe-chanson |
 | La Sauzaude (vigne, terroir de Grandchamp) | 1 | 1650-11-20_saint-flour_vente_delaroche-cinqpar |
+| La Soigne [Douteme?] (pré) | 1 | 1633-03-12_saint-flour_vente_montaniac-bessolz |
 | La Ségalassière (Segalasserie[?], Segualiere), prieuré et paroisse | 1 | 1652-05-02_saint-flour_vente_mauy-allegre |
 | La Tappie (pastural, appartenances d'Andelat) | 1 | 1660-05-01_saint-flour_echange_bougier-meiliot |
 | La Trémolière | 2 | 1663-03-10_saint-flour_vente_lastic-albepart, 1666-08-22_saint-flour_vente_delort-delcros |
@@ -1520,12 +1632,14 @@
 | La Vedrine (par. Coren) | 1 | 1650-01-25_saint-flour_echange_fornial-maury |
 | La Vedrine [?] (par. Coren) | 1 | 1651-02-20_saint-flour_echange_freual-maury |
 | La Velle[?] | 1 | 1660-06-06_saint-flour_vente_doumergue-dupre |
+| La Vessière | 1 | 1638-06-30_saint-flour_partage_sauvat |
 | La Vibeyre | 1 | 1664-11-25_saint-flour_partage_chassang |
 | La Vie del bartassou | 1 | 1663-05-27_alleuze_mariage_ventughol-vedrines |
 | La Vigne (champ) | 1 | 1660-06-26_villedieu_testament_foutez-teyssedre |
 | La Violeyre / Vialeyre | 1 | 1664-11-25_saint-flour_partage_chassang |
 | La Volte (prieuré) | 3 | 1658-12-29_saint-flour_vente_richard-poulverelles, 1659-08-31_saint-flour_vente_aujolet-poulauvellon, 1663-09-02_saint-flour_vente_delaire-barrou |
 | La Vye allant de Coltines a [...] | 1 | 1656-04-01_saint-flour_vente_boudon-combes |
+| La [...] (lieu-dit du fonds, non lu) | 1 | 1633-03-21_saint-flour_vente_apchier-serret |
 | La [...], paroisse de Saint-Flour | 1 | 1653-07-06_saint-flour_mariage_ebrard-blanc |
 | La [Baffroue?] (l. 15, douteux) | 1 | 1654-09-29_saint-flour_vente_cussac-rial |
 | La [Barthassieri?] (bois vendu) | 1 | 1654-02-28_saint-flour_vente_pons-ventenghol |
@@ -1536,11 +1650,12 @@
 | La [Bougeyre?] | 1 | 1658-05-18_saint-flour_mariage_chazalledez-chauses |
 | La [Boutalhe ?] | 1 | 1659-02-19_saint-flour_echange_foraud-frenal |
 | La [Bouthe?] | 1 | 1651-11-06_saint-flour_vente_rouffe-roche |
+| La [Castelle?] dite de la [Bouygue?] (champ confront) | 1 | 1634-07-22_saint-flour_vente_vachier-rossignol |
 | La [Chau?] de [Remacheu?] | 1 | 1651-11-06_saint-flour_vente_rouffe-roche |
 | La [Chaun?] | 1 | 1660-05-09_saint-flour_echange_faurges-jarlier |
 | La [Chavagne?] de Saint-Flour | 1 | 1653-01-23_andelat_testament_roux |
 | La [Combe?] (pré) | 1 | 1650-02-02_saint-flour_vente_aymeric-marty |
-| La [Coste?] | 1 | 1665-12-13_vossiar_echange_chazalede-andrieu |
+| La [Coste?] | 2 | 1634-05-20_saint-flour_vente_roche-anglade, 1665-12-13_vossiar_echange_chazalede-andrieu |
 | La [Counisse?] (bois) | 1 | 1664-03-01_saint-flour_vente_barthomeuf-montel |
 | La [Croix?] de la gardie (champ) | 1 | 1653-02-17_saint-flour_vente_tisset-cussac |
 | La [Faigniolle?] (champ) | 1 | 1662-02-06_saint-flour_mariage_julhe-bertrand |
@@ -1598,6 +1713,7 @@
 | La tieure [?] autrement de la Bougeyre [?] (champ, Coltines) | 1 | 1664-12-06_saint-flour_vente_chastang-lassy |
 | La[...] / [Lau?] (paroisse de Neuvéglise) | 1 | 1632-01-21_saint-flour_mariage_chapsoulh-bossuge |
 | La[balle?] (faubourg de Saint-Flour) | 1 | 1628-09-27_saint-flour_bail_gaspard-costeprat |
+| La[fiesse?] (l. 8) | 1 | 1634-03-13_saint-flour_vente_jolet-sibial |
 | La[sforge ?] / la [Deuuzie ?] (lieu d'origine, non fixé) | 1 | 1659-05-11_saint-flour_testament_delchier |
 | La[thu?] [?] | 1 | 1656-01-17_saint-flour_mariage_sudre-suvrel |
 | Labarge | 1 | 1652-02-12_saint-flour_subrogation_folhe-chausy |
@@ -1616,6 +1732,7 @@
 | Labrugère | 1 | 1659-05-11_saint-flour_testament_delchier |
 | Labrugère [?] | 1 | 1663-05-05_saint-flour_vente_portal-destubartes |
 | Labuge (champ) | 1 | 1656-06-25_villedieu_mariage_bondoy-tissoil |
+| Lac (paroisse d'Ussel) | 1 | 1634-10-11_saint-flour_testament_joullio-julhi |
 | Lachambr[e?] (l. 8-9, lieu ou nom ?) | 1 | 1666-01-00_roffiac_vente_vrchassol-brassac |
 | Lachamp | 1 | 1664-02-20_saint-flour_mariage_lebre-combes |
 | Lachamp (lacham) | 1 | 1665-04-11_saint-flour_vente_jean-gizolme |
@@ -1641,6 +1758,7 @@
 | Lagarelle / Lagazelle (La Gazelle ?), paroisse d'Anglards | 1 | 1652-07-27_saint-flour_echange_boudet |
 | Lagarelle ? | 1 | 1656-06-01_saint-flour_quittance_gauvail-vouget |
 | Lagarelloune[?] | 1 | 1653-03-03_saint-flour_vente_durand-gillet |
+| Lagastre (paroisse, endos ; non identifiée) | 1 | 1634-05-13_saint-flour_echange_portefaix-dommergue |
 | Lagazelle (paroisse d'Anglards) | 1 | 1654-02-23_saint-flour_quittance_sicaud-vougier |
 | Lagenac (paroisse de la Neuvéglise) | 1 | 1656-11-14_saint-flour_transaction_albert-salvanhac |
 | Laghat (paroisse d'Alleuze ; lieu à identifier) | 1 | 1664-04-22_saint-flour_vente_tailhand-roux |
@@ -1665,7 +1783,9 @@
 | Lalatte (champ) | 1 | 1660-02-04_saint-flour_vente_chalvet-traverse |
 | Lalliance? | 1 | 1665-08-05_saint-flour_echange_trabuc-vigier |
 | Lamothe[?] | 1 | 1626-01-20_saint-flour_consentement_labro-charradon |
+| Lanaulle (Lanavelle à l'endos ; Lanau, Cantal ?) | 1 | 1633-09-29_saint-flour_echange_regimbal-bonhoure |
 | Lanavelle | 2 | 1654-04-14_saint-flour_echange_bouffre-chastang, 1660-01-04_saint-flour_cession_fleol-boudet |
+| Lanavelle [?] (lanauelle / lanavelle), lieu et paroisse | 1 | 1634-01-15_saint-flour_vente_regimbal-roussel |
 | Lanbouttes [?] (terroir) | 1 | 1628-06-24_saint-flour_bail_aymier-baile |
 | Landitue (paroisse d'Auzolles, illisible) | 1 | 1660-08-06_saint-flour_vente_guezes-chassang |
 | Lanfurglise[?] | 1 | 1665-11-04_saint-flour_transaction_veyghalory-foutes |
@@ -1681,7 +1801,7 @@
 | Langouroux | 1 | 1666-01-27_alleuze_testament_daix |
 | Langoyrou / Lagoyron (lu « [langouirou?] »), paroisse d'Alleuze | 1 | 1664-03-25_alleuze_testament_mallessaigne-vassal |
 | Langoyrou / Langloyrou / Langoirou (= Lagoyron, paroisse d'Alleuze) | 1 | 1664-04-01_saint-flour_vente_chanson-roux |
-| Languedoc | 13 | 1650-12-28_saint-flour_cession_teyssedre-bouget, 1652-05-25_saint-flour_vente_lisset-cussac, 1653-02-17_saint-flour_vente_tisset-cussac, 1653-03-28_saint-flour_vente_tesse-ambiele, 1653-10-16_saint-flour_cession_mosnier-madieu, 1661-03-12_saint-flour_testament_baster, 1661-10-29_saint-flour_vente_roux-pautard, 1662-05-07_saint-flour_mariage_chanson-rion, 1664-08-11_saint-flour_testament_coustillon-baloupiz, 1665-01-09_saint-flour_mariage_cailliaud-vaylet, 1665-04-25_saint-flour_vente_delorme-chirol, 1665-11-15_voffrac_cession_gazel-veyssiere, 1666-08-19_saint-flour_ratification_taliade |
+| Languedoc | 14 | 1634-09-04_saint-flour_prixfait_chaulhaguet-tardieu, 1650-12-28_saint-flour_cession_teyssedre-bouget, 1652-05-25_saint-flour_vente_lisset-cussac, 1653-02-17_saint-flour_vente_tisset-cussac, 1653-03-28_saint-flour_vente_tesse-ambiele, 1653-10-16_saint-flour_cession_mosnier-madieu, 1661-03-12_saint-flour_testament_baster, 1661-10-29_saint-flour_vente_roux-pautard, 1662-05-07_saint-flour_mariage_chanson-rion, 1664-08-11_saint-flour_testament_coustillon-baloupiz, 1665-01-09_saint-flour_mariage_cailliaud-vaylet, 1665-04-25_saint-flour_vente_delorme-chirol, 1665-11-15_voffrac_cession_gazel-veyssiere, 1666-08-19_saint-flour_ratification_taliade |
 | Languedoc ([razi?] du) | 1 | 1653-06-22_saint-flour_mariage_astier-noel |
 | Languedoc (province, destination) | 1 | 1660-10-06_saint-flour_testament_esteve |
 | Languedoc (serge) | 1 | 1665-01-29_saint-flour_mariage_barthomeuf-bonnet |
@@ -1694,6 +1814,7 @@
 | Lapeyre (paroisse de [Paulhac ?]) | 1 | 1659-02-20_roffiac_mariage_gibrat-judy |
 | Lapeyre (seigneurie) | 1 | 1658-02-07_saint-flour_inventaire_bonafos-pademorgue |
 | Lapeyrriel[?] (appartenances de la pièce) | 1 | 1652-04-01_saint-flour_vente_faigeolle-rouger |
+| Larbiquade [?] (champ) | 1 | 1634-11-04_saint-flour_vente_liber |
 | Larbre (champ) | 1 | 1661-11-22_saint-flour_vente_grenier-dupre |
 | Larchamp (champ, appartenances de Mazerac) | 1 | 1658-04-00_saint-flour_vente_meyhot-mallessaignes |
 | Larchier | 1 | 1662-10-15_saint-flour_partage_chanson |
@@ -1748,6 +1869,7 @@
 | Las verges [?] (terroir) | 1 | 1665-06-24_saint-flour_vente_berault-fayon |
 | Lasaigne (?) | 1 | 1666-03-25_tossiac_testament_inguimbert-aliadieres |
 | Lasaigne d.l brugeiras | 1 | 1648-04-11_saint-flour_renonciation_oradour-cayron |
+| Lasalle | 1 | 1633-12-02_saint-flour_testament_galvier-vidal |
 | Lascol | 1 | 1666-05-06_saint-flour_vente_gibrat-girand |
 | Lascols (Cussac) [?] | 1 | 1665-12-12_saint-flour_subrogation_charbonnel-charreyre |
 | Lascolz | 1 | 1659-01-28_saint-flour_vente_domergue-gerauld |
@@ -1771,6 +1893,7 @@
 | Lastic (Lastiq), lieu et paroisse | 1 | 1666-06-15_saint-flour_vente_durand-vayron |
 | Lastic (comté) | 1 | 1656-09-12_saint-flour_cession_larochefoucauld-pontran |
 | Lastic (paroisse ; « Lastiq ») | 1 | 1653-01-13_saint-flour_quittance_challier-boubolene |
+| Lastic (« lastic ») | 1 | 1634-05-07_saint-flour_donation_chastang-fumat |
 | Lastic [?] (Lasticq / Lastiq, paroisse) | 1 | 1657-10-18_tiviers_mariage_carmantrand-gendre |
 | Lastic [?] (Lastiq) | 1 | 1658-03-17_saint-flour_convention_boy-duvoyet |
 | Lastig (Lastic ?) | 1 | 1653-06-03_saint-flour_vente_chadollac-chastang |
@@ -1814,12 +1937,14 @@
 | Laugeyrou[?] | 1 | 1658-07-04_saint-flour_vente_roux-chassang |
 | Laugeyrous (paroisse de Talizat) | 1 | 1658-07-04_saint-flour_vente_rous-mas |
 | Laumb[?] | 1 | 1660-04-14_saint-flour_vente_chassang-faure |
+| Laumillea | 1 | 1634-01-04_saint-flour_desistement_sandoul-pontsavet |
 | Lauriac (seigneurie) | 1 | 1660-11-06_saint-flour_testament_miallet-bougier |
 | Laurie [?] | 1 | 1664-08-17_saint-flour_vente_bissoller-domergue |
 | Lauspradel [?] (pré) | 1 | 1652-08-05_saint-flour_vente_paulhard-fabry |
 | Lauviar [?] (lieu d'habitation des parents de l'épouse) | 1 | 1652-01-27_saint-flour_mariage_dufour-albuisson |
 | Lauvo[?] | 1 | 1653-03-03_saint-flour_vente_durand-gillet |
 | Lauzel [?] (Lauzet), paroisse de Mentières | 1 | 1653-05-03_saint-flour_vente_maulhat-feraud |
+| Lauzol | 1 | 1634-01-11_inconnu_bail_bouges-maolat |
 | Lavallade (p. 170, personne ou lieu ?) | 1 | 1653-09-29_saint-flour_donation_caillade-veynault |
 | Lavanac [?] | 1 | 1662-01-19_saint-flour_testament_blanchi-girion |
 | Lavanolle | 1 | 1661-11-27_saint-flour_echange_chaulhaguet-filiol |
@@ -1836,6 +1961,7 @@
 | Lavastrie (la vastrie) | 1 | 1659-09-10_inconnu_testament_chanson |
 | Lavastrie (paroisse) | 2 | 1654-03-02_saint-flour_vente_martial-cramon, 1664-05-10_saint-flour_donation_cayron-doumergue |
 | Lavastrie [?] (dela [vastrie?] / Vastrie) | 1 | 1652-02-10_saint-flour_vente_boudet-chanson |
+| Lavastrie [?] (la vastrie) | 1 | 1644-09-29_saint-flour_vente_albuisson-tissier |
 | Lavastrye[?] (Lavastrie ?) | 1 | 1652-06-08_villedieu_testament_missonnier |
 | Lavaurette | 1 | 1657-00-00_saint-flour_mariage_contarel-eschaubard |
 | Lavaysse ? (delauaysse) | 1 | 1656-06-01_saint-flour_quittance_gauvail-vouget |
@@ -1956,11 +2082,12 @@
 | Les Ternes (chemin, lecture incertaine) | 1 | 1660-07-11_saint-flour_vente_brezer-monnier |
 | Les Ternes (lieu et paroisse) | 1 | 1660-03-10_saint-flour_donation_cibial |
 | Les Ternes (paroisse et quartier) | 1 | 1648-07-14_saint-flour_obligation_cussac-lagoisson |
-| Les Ternes (paroisse) | 6 | 1632-01-19_saint-flour_vente_trymbal-espinchal, 1632-04-17_saint-flour_vente_treuer-pons, 1652-09-25_saint-flour_cession_bonafos-richard, 1658-03-26_saint-flour_transaction_bechot-saintantony, 1659-09-27_saint-flour_vente_pouneville-boutette, 1662-08-27_saint-flour_vente_chastang |
+| Les Ternes (paroisse) | 7 | 1632-01-19_saint-flour_vente_trymbal-espinchal, 1632-04-17_saint-flour_vente_treuer-pons, 1634-03-13_saint-flour_echange_sibial-jolet, 1652-09-25_saint-flour_cession_bonafos-richard, 1658-03-26_saint-flour_transaction_bechot-saintantony, 1659-09-27_saint-flour_vente_pouneville-boutette, 1662-08-27_saint-flour_vente_chastang |
 | Les Ternes (paroisse, seigneurie) | 1 | 1658-02-02_saint-flour_vente_gibrat-andrieu |
 | Les Ternes (paroisse, « Ter[nes?] », endos « Ternes ») | 1 | 1654-06-03_saint-flour_vente_borde-sauret |
 | Les Ternes [?] | 2 | 1650-12-31_saint-flour_desistement_masset-teissedre, 1664-03-10_villedieu_donation_bouc |
-| Les Ternes [?] (paroisse) | 1 | 1655-11-20_saint-flour_vente_bonnel-devaure |
+| Les Ternes [?] (paroisse) | 2 | 1633-04-09_saint-flour_vente_arnal-tissedre, 1655-11-20_saint-flour_vente_bonnel-devaure |
+| Les Ternes [?] (paroisse, l. 4) | 1 | 1634-03-13_saint-flour_vente_jolet-sibial |
 | Les Vibrazes | 1 | 1650-02-08_fayet_testament_barthomeuf-andrieu |
 | Les [Bouly?] | 1 | 1651-11-06_saint-flour_vente_rouffe-roche |
 | Les [Niouller?] (communal de Sieujac) | 1 | 1653-02-05_saint-flour_vente_cailhade-beaufort |
@@ -2012,6 +2139,7 @@
 | Ligonnes (seigneurie) | 1 | 1658-01-27_saint-flour_vente_ollier-delolme |
 | Ligonnez [?] (baronnie) | 1 | 1663-08-25_saint-flour_vente_clavilier-chauliaguet |
 | Limargues (lieu, paroisse de Talizat) | 1 | 1651-12-09_saint-flour_vente_detrauesse-delride |
+| Limousin | 1 | 1634-04-06_saint-flour_testament_dumas |
 | Limousin[?] (l. 40, lecture très douteuse) | 1 | 1632-02-11_saint-flour_mariage_vidal-boudet |
 | Liniargues [?] / Limargues (village, paroisse de Talizat) | 1 | 1632-06-19_saint-flour_vente_delrieu-detrassesse |
 | Lionzargue? | 1 | 1665-08-05_saint-flour_echange_trabuc-vigier |
@@ -2045,6 +2173,7 @@
 | Liozargues (liouzarguet | 1 | 1666-10-04_saint-flour_vente_bout-tronchere |
 | Liozargues (lu « liouzargues »), paroisse de Roffiac | 1 | 1665-01-27_saint-flour_donation_vailet-trabuc |
 | Liozargues (paroisse de Roffiac) | 3 | 1659-11-18_roffiac_vente_trabue-mallet, 1663-05-06_saint-flour_vente_chalanhac-chazaledes, 1666-07-16_roffiac_mariage_bourheyre-gazel |
+| Liozargues [?] (Lhuzargues, Liousargues), paroisse de Roffiac | 1 | 1633-09-11_saint-flour_mariage_bazol-tremhiere |
 | Liozargues, paroisse de Roffiac (maison du donateur) | 1 | 1666-07-16_roffiac_mariage_bourheyre-gazel |
 | Liozargues[?] / Liouzargues | 1 | 1653-05-17_saint-flour_compromis_boyer-polverelles |
 | Lissardon (champ) | 1 | 1666-03-06_saint-flour_vente_david-tisset |
@@ -2094,6 +2223,7 @@
 | Lou Creul[?] (champ baillé par Moreyre, l. 26) | 1 | 1658-03-14_saint-flour_echange_bardon-moreyre |
 | Lou Croc (?) | 1 | 1659-12-15_saint-flour_quittance_colomb-guimbal |
 | Lou Fourn (?) | 1 | 1659-12-15_saint-flour_quittance_colomb-guimbal |
+| Lou Jarrinade [?] (pré) | 1 | 1633-06-25_saint-flour_vente_bechassol |
 | Lou Lac (pastural, appartenances de la Trémolière) | 1 | 1665-05-25_saint-flour_vente_cussat-soumeuroux |
 | Lou Poumeyret [?] (champ) | 1 | 1652-02-10_saint-flour_vente_boudet-chanson |
 | Lou Pradellou (jardin) | 1 | 1650-01-29_saint-flour_echange_douhet-taillade |
@@ -2197,12 +2327,15 @@
 | Ma[z?]eras | 1 | 1665-09-29_saint-flour_testament_pouvert |
 | Maghonie[?] | 1 | 1659-09-22_saint-flour_inventaire_sauret |
 | Maignac | 1 | 1650-11-09_alleuze_mariage_chassang-auzolet |
+| Maison(s) [?] (Maison / Maisons / Mensat) | 1 | 1633-05-10_saint-flour_quittance_malassaigne-malet |
+| Maison[?] (lu « minsen », endos « [...]maison ») | 1 | 1634-11-27_saint-flour_vente_albaret-bonnes |
 | Maison[?] dAguilles[?] [Bernard?] (lieu de passation, Villedieu) | 1 | 1654-02-16_villedieu_mariage_rolland-vidal |
 | Maisonne[?] / Nasaut[?] (lieu de la grange) | 1 | 1665-11-04_saint-flour_transaction_veyghalory-foutes |
 | Maisons (paroisse de Vabres) | 1 | 1657-01-17_saint-flour_mariage_aurelle-chaumel |
 | Maisou...[?] | 1 | 1658-07-04_saint-flour_vente_roux-chassang |
 | Majevat [?] / Majevac (lieu du vendeur ; Mazerat ? Majorac ?) | 1 | 1653-12-28_saint-flour_vente_pontsavre-vidal |
 | Majrac | 1 | 1665-09-21_saint-flour_vente_meylioi-jourlanche |
+| Mala (maison et domaine) | 1 | 1638-06-30_saint-flour_partage_sauvat |
 | Mala (paroisse de Talizat) | 1 | 1661-07-20_andelat_testament_chastel-alboy |
 | Maladet | 1 | 1660-08-22_saint-flour_cession_vaysseyre-dobax |
 | Malbo | 1 | 1665-01-14_saint-flour_donation_polollion-fallie |
@@ -2211,7 +2344,9 @@
 | Malchier [?] (village des parties ; lectures concurrentes Malchiers, Malhier) | 1 | 1657-09-00_saint-flour_echange_boyer-delastre |
 | Malefargues (Malesfargue[re?], Mallefargue), paroisse des Ternes | 1 | 1632-04-17_saint-flour_vente_treuer-pons |
 | Malesfosses | 1 | 1666-08-19_saint-flour_ratification_taliade |
+| Malessaigne (Malessaigna, Mallessaigne) | 1 | 1633-04-09_saint-flour_vente_arnal-tissedre |
 | Malessaigne (paroisse des Ternes) | 1 | 1650-12-02_saint-flour_cession_bouget-besson |
+| Malessaigne [?] / Mallessagne (résidence du vendeur) | 1 | 1633-09-26_saint-flour_vente_avinal-roussel |
 | Malessaignes (paroisse des Ternes) | 1 | 1662-08-16_saint-flour_echange_giraldon-begon |
 | Malet | 2 | 1661-11-22_saint-flour_vente_estival-malet, 1663-09-01_saint-flour_traite_bondurand-hugon |
 | Malet (village probable, paroisse de Talizat ?) | 1 | 1628-03-25_saint-flour_bail_aymeric-dauze |
@@ -2231,15 +2366,19 @@
 | Mallet (Malet) | 1 | 1662-05-07_saint-flour_mariage_chanson-rion |
 | Mallet (chemin d'Auriac à Mallet, moulin de Mallet) | 1 | 1662-11-02_saint-flour_retrait_estival-mallet |
 | Mallet (lieu et paroisse) | 1 | 1651-03-05_saint-flour_vente_aymeric-brousse |
+| Mallet (lieu) | 1 | 1634-02-06_saint-flour_transaction_nozieres-espinouze |
 | Mallet (paroisse) | 1 | 1658-08-24_saint-flour_vente_couderc-durand |
 | Mallet (village, paroisse de Talizat) | 1 | 1656-04-01_saint-flour_vente_amat-bernuy |
 | Mallet / Malletz (chemin de Mallet à Faucyrolles) | 1 | 1664-11-02_saint-flour_echange_bigot-pontsonaille |
+| Mallevaire [?] / Malleveisse [?] | 1 | 1634-04-15_saint-flour_vente_rigal-bugo |
 | Malleyssaignes | 1 | 1665-06-02_saint-flour_vente_combes-chanieres |
 | Malte | 2 | 1660-11-06_saint-flour_declaration_miallet, 1660-11-06_saint-flour_testament_miallet-bougier |
 | Malzargues | 1 | 1663-09-02_saint-flour_mariage_chazal-mourier |
 | Mandaglize ? / Notre-Dame-Église ? (paroisse du futur) | 1 | 1652-01-28_andelat_mariage_boussuge-bastide |
 | Mandement (royal ?) | 1 | 1651-08-12_saint-flour_vente_cayrou-dupre |
 | Maneyrou[?] (autre nom du pré) | 1 | 1663-04-28_saint-flour_vente_sibrat-brassac |
+| Manhargues | 1 | 1634-02-24_saint-flour_bail_brugier-bastide |
+| Maniargues | 1 | 1634-02-24_saint-flour_bail_brugier-bastide |
 | Mansion [?] (Mausson / Maisonne ?) | 1 | 1626-12-08_saint-flour_bail_baldassard-attalier |
 | Mantières (seigneurie) | 1 | 1660-07-10_saint-flour_echange_beluze-margarit |
 | Maon [?] (serge de) | 1 | 1666-06-20_saint-flour_mariage_albaret-espezolles |
@@ -2256,6 +2395,7 @@
 | Marvejols (Maruejols) | 1 | 1652-05-20_saint-flour_mariage_delchar-tardieu |
 | Marzbal[?] | 1 | 1664-12-05_saint-flour_vente_vschaffolz-rispal |
 | Marzughe [?] | 1 | 1652-02-12_saint-flour_subrogation_foly-courchaire |
+| Mas[...] (Masson ? Maussou ?), paroisse de Vabres | 1 | 1633-03-10_saint-flour_vente_pons-gibrard |
 | Mas[...] (l. 8, « de la Mas[...] ») | 1 | 1652-04-22_saint-flour_quittance_vidal-brausse |
 | Maschot | 1 | 1665-06-14_saint-flour_vente_bonyblanc-hugon |
 | Massales [?] (quartier de ?) | 1 | 1626-03-29_saint-flour_obligation_chevalier-blanc |
@@ -2275,6 +2415,8 @@
 | Mau[...] (village, nom tronqué) | 1 | 1651-06-02_saint-flour_vente_vezin-vazeilles |
 | Maufarghes [?] | 1 | 1659-07-11_saint-flour_vente_saulheirou-bechot |
 | Maugeoit | 1 | 1662-02-27_saint-flour_vente_polverelles-pages |
+| Mauguat | 1 | 1634-01-04_saint-flour_desistement_sandoul-pontsavet |
+| Mauiargues | 1 | 1634-02-24_saint-flour_bail_brugier-bastide |
 | Mauriac (?) | 1 | 1649-07-17_saint-flour_quittance_gardelle-giraldon |
 | Mauriallez (endos : Mourielle / Mouriolle [?]) | 1 | 1658-09-17_saint-flour_vente_pages-rouget |
 | Maurines | 1 | 1664-03-10_villedieu_donation_bouc |
@@ -2296,7 +2438,7 @@
 | Mazerac (majerac) | 1 | 1664-02-04_saint-flour_vente_meyliac-bonafos |
 | Mazerac (village, paroisse de Roffiac) | 2 | 1661-03-03_saint-flour_vente_maury-apchier, 1661-03-03_saint-flour_vente_maury-apchier_b |
 | Mazeran [?] (Maz.rot, Mazerot, Mazerat) | 1 | 1660-12-21_saint-flour_vente_mezhot-marron |
-| Mazerat | 12 | 1651-01-28_saint-flour_partage_milhot-aurelle, 1654-03-26_saint-flour_demission_dommergue-mallet, 1654-04-30_saint-flour_transaction_dommergue-torche, 1654-09-27_saint-flour_vente_doumergue-bonhomme, 1659-03-09_saint-flour_vente_jourdy-girard, 1660-01-02_roffiac_testament_jean, 1660-01-11_saint-flour_vente_rispal-gerault, 1662-11-08_saint-flour_vente_tisset-david, 1663-03-17_saint-flour_inventaire_grezes-bechot, 1664-12-05_saint-flour_vente_chassol-brassac, 1664-12-28_roffiac_vente_aurelhe-mauvy, 1665-05-02_saint-flour_echange_cancal-rispal |
+| Mazerat | 15 | 1633-01-25_saint-flour_mariage_gibrat-alhadieres, 1634-01-02_saint-flour_vente_sandou-jean, 1634-01-04_saint-flour_desistement_sandoul-pontsavet, 1651-01-28_saint-flour_partage_milhot-aurelle, 1654-03-26_saint-flour_demission_dommergue-mallet, 1654-04-30_saint-flour_transaction_dommergue-torche, 1654-09-27_saint-flour_vente_doumergue-bonhomme, 1659-03-09_saint-flour_vente_jourdy-girard, 1660-01-02_roffiac_testament_jean, 1660-01-11_saint-flour_vente_rispal-gerault, 1662-11-08_saint-flour_vente_tisset-david, 1663-03-17_saint-flour_inventaire_grezes-bechot, 1664-12-05_saint-flour_vente_chassol-brassac, 1664-12-28_roffiac_vente_aurelhe-mauvy, 1665-05-02_saint-flour_echange_cancal-rispal |
 | Mazerat (Mazerrat, Mazera^t) | 1 | 1652-02-10_saint-flour_vente_dommergue-sautherez |
 | Mazerat (Mazérat, Roffiac) | 1 | 1664-05-21_saint-flour_transaction_uchassol-brassac |
 | Mazerat (mazi[r?]at) | 1 | 1666-05-08_saint-flour_demission_dommergue-yzabel |
@@ -2307,6 +2449,7 @@
 | Mazerat [?] (paroisse de Roffiac) | 1 | 1666-05-06_saint-flour_vente_gibrat-girand |
 | Mazerat, paroisse de [tossiac?] | 1 | 1662-02-14_saint-flour_mariage_sautherey-jean |
 | Mazerat[?] | 2 | 1626-02-13_saint-flour_cession_domergue-chastel, 1663-04-28_saint-flour_vente_sibrat-brassac |
+| Mazevat | 1 | 1634-01-04_saint-flour_desistement_sandoul-pontsavet |
 | Mazeyres | 1 | 1657-07-02_coltines_mariage_mas-cussac |
 | Maztrac (Mastrac) | 1 | 1665-10-31_saint-flour_mariage_missonnier-salvat |
 | Mazérat (mazerat, Mazerac) | 1 | 1662-04-30_saint-flour_vente_bonafos-brassac |
@@ -2318,12 +2461,15 @@
 | Mende | 1 | 1664-05-20_saint-flour_testament_rossignol-calliand |
 | Mende (diocèse, « Mande ») | 1 | 1665-12-01_saint-flour_desistement_manson-solier |
 | Mende (drap de Mende) | 1 | 1632-01-22_saint-flour_mariage_missonnier-roudier |
+| Mende[?] (drap gris de Mende) | 1 | 1633-02-01_andelat_mariage_tronchier-jean |
 | Menhieres [Mentières?] (paroisse) | 1 | 1656-11-04_saint-flour_vente_marliac-delmas |
+| Mensen [?] / Meysons [?] / Maisons [?] (village, paroisse de Vabres) | 1 | 1633-02-27_saint-flour_vente_tissier-debrun |
 | Menthieres (Mentières) | 1 | 1653-01-16_saint-flour_vente_martin-cussac |
+| Mentieres (Mentières) | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
 | Mentieres (seigneurie) | 1 | 1654-01-07_saint-flour_vente_galliardy-albessard |
 | Mentieres [?] | 1 | 1660-02-25_saint-flour_testament_chastang |
 | Mentiers (Mentières) | 1 | 1664-08-19_saint-flour_retrait_marliac-chalvet |
-| Mentières | 45 | 1626-03-30_saint-flour_bail_brugier-sauret, 1632-03-08_saint-flour_obligation_bonnet-guerin, 1650-11-08_saint-flour_obligation_ferrand-basset, 1653-02-15_saint-flour_mariage_eschallier-cebrousse, 1656-04-15_saint-flour_quittance_bonnet-verghe, 1657-00-00_saint-flour_subrogation_basset-roudil, 1657-03-00_saint-flour_echange_pascal-boyer, 1657-06-16_saint-flour_donation_farlin-laspre, 1657-07-25_saint-flour_demission_cussac-martin, 1658-01-07_saint-flour_vente_laspre-monnier, 1658-08-20_saint-flour_inventaire_delort-bechot, 1658-11-23_saint-flour_vente_marlhac-florand, 1659-01-19_mentieres_mariage_eschallier-galdissard, 1659-01-26_saint-flour_vente_roche-cussac, 1659-02-04_saint-flour_mariage_galdissard-eschallier, 1659-02-10_mentieres_quittance_jarlier-delaspre, 1659-03-27_saint-flour_obligation_cussac-chaulhac, 1659-04-06_saint-flour_vente_delaspre-chaulaguet, 1659-04-20_saint-flour_vente_marliac-roche, 1659-04-25_saint-flour_cession_brugeyre-cussac, 1659-05-05_saint-flour_vente_margerit-chastang, 1659-06-02_andelat_quittance_peschau, 1659-06-02_saint-flour_echange_buge-marchar, 1660-01-06_saint-flour_mariage_martin-cussac, 1661-10-15_saint-flour_vente_delaspre-trabuc, 1661-12-12_saint-flour_vente_boyer-astier, 1662-02-16_saint-flour_mariage_astier-basset, 1662-04-27_saint-flour_vente_bonnet-bastide, 1662-08-15_mentieres_testament_basset, 1662-09-23_saint-flour_vente_basset-hugon, 1662-12-13_saint-flour_vente_basset, 1663-02-05_saint-flour_mariage_ebrard-grenier, 1663-09-21_saint-flour_mariage_cussac-martin, 1663-10-20_saint-flour_vente_hugon-basset, 1663-12-16_saint-flour_testament_dufour-coulbe, 1664-03-09_saint-flour_bail_roux-sentheran, 1664-04-18_saint-flour_vente_cissac-fouves, 1665-03-17_saint-flour_vente_chauliac-jesuites, 1665-03-21_saint-flour_vente_vigier-jesuites, 1665-03-28_saint-flour_cession_aymar-cissar, 1665-04-12_saint-flour_vente_rubine-chaulhac, 1665-06-24_saint-flour_vente_masse-bastide, 1666-04-03_saint-flour_vente_vigier-sauvagol, 1666-06-05_saint-flour_vente_ferrand-roche, 1666-07-07_saint-flour_vente_missonnier-bruzit |
+| Mentières | 46 | 1626-03-30_saint-flour_bail_brugier-sauret, 1632-03-08_saint-flour_obligation_bonnet-guerin, 1634-06-25_saint-flour_vente_barthomeuf-dufour, 1650-11-08_saint-flour_obligation_ferrand-basset, 1653-02-15_saint-flour_mariage_eschallier-cebrousse, 1656-04-15_saint-flour_quittance_bonnet-verghe, 1657-00-00_saint-flour_subrogation_basset-roudil, 1657-03-00_saint-flour_echange_pascal-boyer, 1657-06-16_saint-flour_donation_farlin-laspre, 1657-07-25_saint-flour_demission_cussac-martin, 1658-01-07_saint-flour_vente_laspre-monnier, 1658-08-20_saint-flour_inventaire_delort-bechot, 1658-11-23_saint-flour_vente_marlhac-florand, 1659-01-19_mentieres_mariage_eschallier-galdissard, 1659-01-26_saint-flour_vente_roche-cussac, 1659-02-04_saint-flour_mariage_galdissard-eschallier, 1659-02-10_mentieres_quittance_jarlier-delaspre, 1659-03-27_saint-flour_obligation_cussac-chaulhac, 1659-04-06_saint-flour_vente_delaspre-chaulaguet, 1659-04-20_saint-flour_vente_marliac-roche, 1659-04-25_saint-flour_cession_brugeyre-cussac, 1659-05-05_saint-flour_vente_margerit-chastang, 1659-06-02_andelat_quittance_peschau, 1659-06-02_saint-flour_echange_buge-marchar, 1660-01-06_saint-flour_mariage_martin-cussac, 1661-10-15_saint-flour_vente_delaspre-trabuc, 1661-12-12_saint-flour_vente_boyer-astier, 1662-02-16_saint-flour_mariage_astier-basset, 1662-04-27_saint-flour_vente_bonnet-bastide, 1662-08-15_mentieres_testament_basset, 1662-09-23_saint-flour_vente_basset-hugon, 1662-12-13_saint-flour_vente_basset, 1663-02-05_saint-flour_mariage_ebrard-grenier, 1663-09-21_saint-flour_mariage_cussac-martin, 1663-10-20_saint-flour_vente_hugon-basset, 1663-12-16_saint-flour_testament_dufour-coulbe, 1664-03-09_saint-flour_bail_roux-sentheran, 1664-04-18_saint-flour_vente_cissac-fouves, 1665-03-17_saint-flour_vente_chauliac-jesuites, 1665-03-21_saint-flour_vente_vigier-jesuites, 1665-03-28_saint-flour_cession_aymar-cissar, 1665-04-12_saint-flour_vente_rubine-chaulhac, 1665-06-24_saint-flour_vente_masse-bastide, 1666-04-03_saint-flour_vente_vigier-sauvagol, 1666-06-05_saint-flour_vente_ferrand-roche, 1666-07-07_saint-flour_vente_missonnier-bruzit |
 | Mentières (Mantières, Mentieres) | 1 | 1653-05-17_saint-flour_cession_bucher-basset |
 | Mentières (Menthiere) | 1 | 1659-01-11_saint-flour_vente_pedechon-foraud |
 | Mentières (Menthieres) | 1 | 1665-05-25_saint-flour_echange_bonnet-veyre |
@@ -2348,7 +2494,8 @@
 | Mentières [?] (mentieres, Mentiere) | 1 | 1632-02-28_saint-flour_vente_bonnet-roudil |
 | Mentières [?] (paroisse de la venderesse) | 1 | 1658-04-20_saint-flour_vente_costrousse-chalvyer |
 | Mentières[?] (Mentieres / Menteiris) | 1 | 1657-01-20_saint-flour_mariage_marchiar-chalier |
-| Mentières[?] (paroisse) | 1 | 1656-00-00_saint-flour_vente_basset |
+| Mentières[?] (paroisse de Montamat) | 1 | 1634-11-20_saint-flour_quittance_gendre-barthomeuf |
+| Mentières[?] (paroisse) | 2 | 1634-05-20_saint-flour_vente_roche-anglade, 1656-00-00_saint-flour_vente_basset |
 | Mercoeur[?] (paroisse) | 1 | 1665-11-24_saint-flour_vente_larochette-destubartes |
 | Mercoeure[?] (paroisse) | 1 | 1664-11-06_saint-flour_vente_delaroche-portail |
 | Mercœur | 1 | 1659-06-22_saint-flour_vente_ollivier-hugon |
@@ -2359,6 +2506,7 @@
 | Mesrau[?] / Mes[...] (résidence de l'acquéreur) | 1 | 1652-04-13_saint-flour_vente_fontanide-hugon |
 | Messols [?] (paroisse de Talizat) | 1 | 1658-07-04_saint-flour_vente_rous-mas |
 | Meulhe grande (meule du moulin) | 1 | 1654-06-25_saint-flour_vente_bastid-andrieu |
+| Meulin | 1 | 1634-01-04_saint-flour_desistement_sandoul-pontsavet |
 | Meyne [?] | 1 | 1666-04-12_saint-flour_testament_chargenaire |
 | Meynial (chemin de Cortinie au Meynial) | 1 | 1666-03-27_saint-flour_vente_pouhvillet-bergoin |
 | Meyrolles (lecture douteuse : Veyrolles / Deyrolles) | 1 | 1662-06-03_saint-flour_echange_jouve-delort |
@@ -2369,6 +2517,7 @@
 | Mirabel | 1 | 1659-05-11_saint-flour_vente_jeay-apcher |
 | Missoyrie (?) | 1 | 1664-07-29_saint-flour_vente_benezit-bertrand |
 | Mo[ns?] (l. 17) | 1 | 1652-12-16_inconnu_testament_gauthier |
+| Mo[u?]vigne | 1 | 1638-06-30_saint-flour_partage_sauvat |
 | Moissac (paroisse) | 1 | 1653-08-12_saint-flour_vente_cussac-defondz |
 | Moissac Lesglize | 1 | 1650-03-12_saint-flour_testament_merle-ingimbert |
 | Moissac [?] (Moissa[c?]) | 1 | 1658-06-02_saint-flour_vente_mauranin-margerit |
@@ -2383,6 +2532,7 @@
 | Mona / Mone (paroisse de Roffiac, lecture douteuse) | 1 | 1660-05-17_saint-flour_vente_esteve-chevallier |
 | Mona [?] (lieu des parties ; Mons, paroisse de Roffiac ?) | 1 | 1657-08-27_roffiac_transaction_uchassol-fontes |
 | Mona [ou Mons], paroisse de Roffiac | 1 | 1658-03-20_saint-flour_revente_juery-rolland |
+| Monchamp (Montchamp) | 1 | 1633-05-08_saint-flour_donation_darles-dyot |
 | Mone | 1 | 1664-11-29_saint-flour_bail_rolland-esthie |
 | Mone[?], paroisse d'Alleuze | 1 | 1652-05-13_saint-flour_vente_gastail-chanson |
 | Mongon | 1 | 1662-02-27_saint-flour_vente_polverelles-pages |
@@ -2398,6 +2548,7 @@
 | Mons (lieu, paroisse de Saint-Georges) | 1 | 1653-03-16_saint-flour_echange_delort-fornal |
 | Mons (par. Roffiac) | 1 | 1654-04-30_saint-flour_vente_crabier |
 | Mons (paroisse d'Oradour) | 1 | 1650-06-15_saint-flour_testament_durand |
+| Mons (paroisse de Roffiac ; « [mons?] » au corps, « Mons » à l'endos) | 1 | 1634-04-19_saint-flour_transaction_trabuc-vigasol |
 | Mons (paroisse de Roffiac ?) | 1 | 1658-01-05_saint-flour_echange_rolland-gibrat |
 | Mons (paroisse de Roffiac) | 47 | 1632-12-03_saint-flour_vente_sugelles-gibrat, 1649-03-27_inconnu_echange_rolland, 1650-01-22_roffiac_mariage_seunier-bastide, 1650-07-01_roffiac_mariage_rolland-mallet, 1650-12-05_roffiac_vente_bolland-gibrat, 1654-02-15_mons_mariage_galdissard-uchassol, 1655-05-18_saint-flour_testament_blondin-gibrac, 1658-01-07_saint-flour_echange_uchafol-estienne, 1658-04-13_saint-flour_desistement_apchier-julhe, 1658-05-03_roffiac_sommation_aurelle-rolland, 1658-05-27_saint-flour_subrogation_bougier-fontes, 1658-10-14_saint-flour_vente_uchafol-bergoin, 1659-06-23_saint-flour_vente_estieu-rolland, 1659-07-05_saint-flour_mariage_seimen-rolland, 1659-10-01_roffiac_testament_estieu-daurs, 1659-11-07_roffiac_vente_rolland-brugier, 1660-02-02_roffiac_mariage_parra-rolland, 1660-02-04_roffiac_mariage_mallet-fontes, 1660-02-05_roffiac_mariage_malet-parra, 1660-06-15_roffiac_vente_fontes-uchafol, 1660-07-01_roffiac_vente_uchassol-saintheiry, 1660-07-18_saint-flour_vente_peutgere-montgial, 1660-10-06_saint-flour_testament_esteve, 1661-11-12_saint-flour_echange_grande-sirmay, 1662-01-24_saint-flour_donation_dechassol-jordin, 1662-02-19_roffiac_testament_vissol, 1662-03-08_roffiac_vente_cornetz-gibrat, 1662-04-19_saint-flour_revente_aurelle-vezasol, 1662-05-23_roffiac_mariage_david-cussac, 1662-11-11_saint-flour_vente_rolland-sibrac, 1663-02-06_roffiac_mariage_cussac-uchassol, 1663-04-08_roffiac_vente_cruuz-mallet, 1663-10-17_saint-flour_vente_sirvain-saintheiry, 1663-11-20_saint-flour_desistement_esteve-david, 1663-12-08_saint-flour_vente_roquelaure-mallet, 1664-01-10_saint-flour_echange_baldissard-sirvain, 1664-03-14_saint-flour_vente_baldissard-brassac, 1664-03-17_saint-flour_donation_fontes, 1664-11-14_saint-flour_vente_rolland-cubrinz, 1664-12-10_saint-flour_vente_chassol-brassac, 1665-01-03_saint-flour_vente_rolland-malet, 1665-02-17_roffiac_mariage_vidal-parra, 1665-04-11_saint-flour_echange_fontes-vaissiere, 1665-05-13_saint-flour_testament_saintheiry, 1665-09-22_saint-flour_vente_rolland-juery, 1666-01-20_saint-flour_transaction_cussac-fontes, 1666-02-27_saint-flour_echange_sevenes-fontes |
 | Mons (paroisse de Saint-Georges) | 3 | 1654-07-22_saint-flour_subrogation_delort-delaroche, 1661-03-00_saint-flour_vente_delort-delaroche, 1662-04-28_saint-flour_vente_fornal-bertrand |
@@ -2425,12 +2576,14 @@
 | Montagnes d'Auvergne (bailliage) | 3 | 1626-03-12_saint-flour_transaction_fayet-brassac, 1650-11-09_alleuze_mariage_chassang-auzolet, 1654-02-16_villedieu_mariage_rolland-vidal |
 | Montagnes du haut Auvergne | 1 | 1650-09-24_saint-flour_mariage_boyer-bauthet |
 | Montagniac | 1 | 1666-06-05_saint-flour_vente_ferrand-roche |
+| Montaguets[?] | 1 | 1634-06-25_saint-flour_vente_barthomeuf-dufour |
 | Montagui[?] / Montagu (paroisse de Villedieu) | 1 | 1650-09-25_saint-flour_vente_bonnault-fontz |
 | Montagut | 1 | 1665-05-31_saint-flour_mariage_mournac-andrieu |
 | Montaigmagne [?] (Montaignagne / Montagnague), paroisse de Mentières | 1 | 1653-05-03_saint-flour_vente_maulhat-feraud |
 | Montaignac (Moutaignac) | 1 | 1657-01-20_saint-flour_mariage_marchiar-chalier |
 | Montaignac (paroisse de Mentières) | 1 | 1659-01-19_mentieres_mariage_eschallier-galdissard |
 | Montaignac, diocèse d'« Adgen », Languedoc (sic) | 1 | 1663-09-09_saint-flour_vente_bigot-ponthonaille |
+| Montaignague[?] | 1 | 1634-06-25_saint-flour_vente_barthomeuf-dufour |
 | Montaignaguet | 1 | 1661-01-15_montaignaguet_mariage_crabier-baldissard |
 | Montaignaguet (paroisse de Mentières) | 2 | 1658-11-23_saint-flour_vente_marlhac-florand, 1659-02-04_saint-flour_mariage_galdissard-eschallier |
 | Montaignaguet, paroisse de Mentières | 1 | 1658-08-20_saint-flour_inventaire_delort-bechot |
@@ -2443,6 +2596,8 @@
 | Montaigniaguet | 1 | 1659-06-02_saint-flour_echange_buge-marchar |
 | Montaigut (Montaigut-en-Combraille ? identification non certaine) | 1 | 1652-01-24_saint-flour_donation_coutel |
 | Montaigut-le-Blanc[?] (« del montegut le blanc ») | 1 | 1655-06-14_saint-flour_donation_bonafos-pademorgue |
+| Montamal[?] | 1 | 1634-06-25_saint-flour_vente_barthomeuf-dufour |
+| Montamat | 1 | 1634-11-20_saint-flour_quittance_gendre-barthomeuf |
 | Montaniaguet / Montag[n?]iaguet / Montanhaguet (Montagnaguet ?) | 1 | 1656-11-04_saint-flour_vente_marliac-delmas |
 | Montbouz / Monbuz (lieu-dit, confronts ; jardin appelé de Montbouz) | 1 | 1654-05-26_saint-flour_vente_martial-missonnier |
 | Montchalin[?] | 1 | 1651-07-10_saint-flour_vente_lyssandre-rouget |
@@ -2452,6 +2607,7 @@
 | Montchamp (Montchan), commanderie | 1 | 1658-11-16_saint-flour_rente_roussilhe-benezit |
 | Montchamp (chemin du Piroz à …) | 1 | 1663-05-01_saint-flour_echange_chauliaguet-albiuf |
 | Montchamp (commanderie) | 2 | 1654-10-28_saint-flour_vente_rigault-deramis, 1663-10-24_saint-flour_vente_rispal-mirmande |
+| Montchamp (paroisse ; « montchamps » dans l'endos) | 1 | 1633-12-14_saint-flour_vente_mercier-aymeric |
 | Montchamp (paroisse) | 1 | 1665-12-29_saint-flour_vente_gaultier-daufeulhe |
 | Montchamp (« montchan », paroisse) | 1 | 1626-11-04_saint-flour_compromis_desauret-cinqfougeran |
 | Montchamp[?] (muntchamp, lieu et paroisse) | 1 | 1626-07-01_saint-flour_bail_aymeric-mestre |
@@ -2460,16 +2616,19 @@
 | Montfau[?] | 1 | 1658-02-28_saint-flour_transaction_malbesaigne-charbonnier |
 | Montferrand | 2 | 1648-02-19_saint-flour_vente_coutarel-grassald, 1665-03-20_saint-flour_donation_david-combes |
 | Montferrand (juges-consuls des marchands) | 1 | 1626-08-31_saint-flour_compromis_berault-bestel |
+| Montferrand (« Montferrant », siège des juges du [consulat?] [des marchans?]) | 1 | 1634-04-19_saint-flour_transaction_trabuc-vigasol |
 | Montferrand [?] (cour de soumission) | 1 | 1659-07-31_saint-flour_vente_bonafos-chanliague |
 | Montge[?] | 1 | 1651-08-24_saint-flour_partage_riourt |
 | Montgiuers [?] | 1 | 1666-05-08_saint-flour_vente_bertrand-bonnet |
 | Montgon | 3 | 1664-06-16_saint-flour_testament_sauret-boudet, 1664-08-17_saint-flour_transaction_challier-boyer, 1665-03-17_saint-flour_vente_chauliac-jesuites |
 | Montgon (lu « Motgon », identification non assurée) | 1 | 1665-06-24_saint-flour_vente_masse-bastide |
 | Montgon (seigneurie) | 1 | 1652-05-12_inconnu_vente_broussard-maury |
+| Montgon (terre et baronnie) | 1 | 1634-08-31_saint-flour_cession_chaulhaguet-vayron |
 | Montgon [?] | 1 | 1658-06-27_saint-flour_vente_roche-golvain |
 | Montlerq (seigneurie) | 1 | 1664-10-17_saint-flour_echange_bougier |
 | Montlong | 2 | 1664-07-19_saint-flour_vente_delort-pirsot, 1666-10-04_saint-flour_vente_lastic-barthet |
 | Montlong (herbages) | 1 | 1664-02-24_saint-flour_mariage_delort-gibrat |
+| Montluc (appartenances, seigneurie) | 1 | 1634-04-15_saint-flour_vente_rigal-bugo |
 | Montluzos | 1 | 1654-05-03_saint-flour_transaction_chanson |
 | Montmeyrolz[?] | 1 | 1657-01-22_saint-flour_mariage_berault-charreyre |
 | Montpellier | 2 | 1653-10-16_saint-flour_cession_mosnier-madieu, 1662-05-07_saint-flour_mariage_chanson-rion |
@@ -2480,7 +2639,9 @@
 | Montsalvy | 1 | 1665-10-28_saint-flour_transaction_senetaire-galauba |
 | Montsuc | 1 | 1662-02-07_saint-flour_echange_sabatier-souchayre |
 | Montsuc[?] (paroisse de Soulages) | 1 | 1659-06-22_saint-flour_vente_ollivier-hugon |
+| Montvalat | 1 | 1638-06-30_saint-flour_partage_sauvat |
 | Montvallat | 2 | 1650-02-02_saint-flour_vente_aymeric-marty, 1650-04-21_saint-flour_vente_sarguin-brassac |
+| Moreuf / Moreul [?] | 1 | 1634-08-26_saint-flour_quittance_baratte-ebrard |
 | Morgadeyrou? | 1 | 1651-04-00_saint-flour_vente_benezit-pages |
 | Morle (le Morle) | 1 | 1654-08-06_saint-flour_donation_portal |
 | Morle [Merle ?] | 1 | 1662-11-07_saint-flour_vente_portal-rolland |
@@ -2503,11 +2664,13 @@
 | Moulin du Petit-[Pré?] (Saint-Flour) | 1 | 1653-06-16_saint-flour_partage_gaultier |
 | Moulins de Laubre | 1 | 1666-05-29_saint-flour_vente_larocque-salvanhac |
 | Moun [?] | 1 | 1656-01-09_saint-flour_mariage_delort-bouchier |
+| Mounan [?] (lieu ou personne) | 1 | 1644-02-13_saint-flour_vente_debrion-alboy |
 | Mounde[?] | 1 | 1661-11-19_saint-flour_echange_gibrat-cussac |
 | Mour / Moun (Mons ?), paroisse de Roffiac | 1 | 1660-12-02_saint-flour_transaction_parra-rolland |
 | Mour [?] (Mons ?), paroisse de Roffiac | 1 | 1658-01-05_saint-flour_echange_rolland-uchassol |
 | Mour [?] (Mours / Mons), village de la paroisse de Roffiac | 1 | 1656-04-03_saint-flour_subrogation_ceomes-rolland |
 | Moure (paroisse [Roffiac?]) | 1 | 1656-12-22_saint-flour_transaction_crespoul-crestail |
+| Mouret / [Mourets?] (paroisse de Chalinargues) | 1 | 1634-02-06_saint-flour_transaction_nozieres-espinouze |
 | Mouret, paroisse de Chalinargues | 1 | 1663-07-24_saint-flour_vente_salesses-roussilhe |
 | Mouri[?] | 1 | 1653-03-03_saint-flour_vente_durand-gillet |
 | Mours [?] / Mons (lieu de l'acte, domicile de Parra) | 1 | 1665-02-17_mons_vente_blondin-parra |
@@ -2516,9 +2679,11 @@
 | Moutaignargues / Moutaignarguet (biffé) | 1 | 1653-02-15_saint-flour_mariage_eschallier-cebrousse |
 | Mozac | 1 | 1673-04-12_riom_mariage_dupont-chabrol |
 | Mozun[?] | 1 | 1653-03-03_saint-flour_vente_durand-gillet |
+| Mufflis | 1 | 1634-01-04_saint-flour_desistement_sandoul-pontsavet |
+| Muntaignac[?] / montaguat[?] (Montagnac ?) | 1 | 1634-05-20_saint-flour_vente_roche-anglade |
 | Mur-de-Barrez (« mur de barrez », « mur de barretz ») | 1 | 1656-12-03_saint-flour_donation_bouger-bertrand |
 | Mur-de-[Barrez?] | 1 | 1652-05-12_saint-flour_vente_tailhand-bourgeze |
-| Murat | 49 | 1626-04-21_saint-flour_vente_teschau, 1628-02-26_saint-flour_bail_durand-chaste, 1628-03-25_saint-flour_bail_aymeric-couriu, 1647-07-17_saint-flour_apprentissage_lapeyre-guanil, 1648-09-15_saint-flour_donation_recodere-teyssedre, 1649-12-06_inconnu_echange_volland-cornez, 1650-02-10_saint-flour_vente_chastel-sauret, 1650-11-20_saint-flour_vente_delaroche-cinqpar, 1652-02-24_saint-flour_transaction_vidal-parra, 1652-05-17_saint-flour_vente_pages-lassy, 1653-02-10_saint-flour_mariage_roudier-mourgue, 1654-05-03_saint-flour_transaction_chanson, 1656-01-18_saint-flour_vente_astorg-molinier, 1656-03-13_saint-flour_echange_girard-chastel, 1656-06-00_saint-flour_vente_chabot-bechot, 1657-06-23_saint-flour_transaction_brugier-desheyrac, 1658-01-22_coltines_testament_cussac, 1658-04-09_saint-flour_transaction_hugon-volland, 1658-10-14_saint-flour_vente_uchafol-bergoin, 1659-01-04_saint-flour_donation_chastel, 1659-02-22_saint-flour_echange_odoul-bastide, 1659-03-01_saint-flour_demission_delort-vedrines, 1659-03-14_saint-flour_vente_herault-fouchier, 1659-06-23_saint-flour_vente_estieu-rolland, 1659-07-05_saint-flour_mariage_seimen-rolland, 1660-02-04_roffiac_mariage_mallet-fontes, 1660-02-25_saint-flour_testament_chastang, 1660-03-06_saint-flour_donation_fontanier-recoudier, 1660-03-31_saint-flour_partage_bastide-cueyspoul, 1660-04-17_saint-flour_vente_froys-coutel, 1661-10-29_saint-flour_cession_roux-boudon, 1661-11-12_saint-flour_echange_grande-sirmay, 1662-01-25_saint-flour_vente_caucal-rouget, 1662-02-24_saint-flour_vente_coutavel-mallet, 1662-06-17_saint-flour_vente_mollinier-dupre, 1662-09-11_saint-flour_testament_blanchy, 1662-10-09_saint-flour_vente_delmas-malet, 1663-03-20_saint-flour_echange_rispal-pautard, 1663-04-08_roffiac_vente_cruuz-mallet, 1663-04-25_saint-flour_mariage_vezis-teilhard, 1663-08-01_saint-flour_transaction_mathieu-delangouroux, 1663-11-25_saint-flour_testament_teilhard, 1664-07-19_saint-flour_vente_delort-pirsot, 1664-07-26_saint-flour_transaction_vidal-roudier, 1665-02-16_roffiac_echange_parra-blondin, 1665-02-17_roffiac_mariage_vidal-parra, 1665-04-18_saint-flour_vente_jouy-david, 1665-08-09_saint-flour_vente_jury-aujolet, 1665-10-27_saint-flour_donation_boudier-salesses |
+| Murat | 50 | 1626-04-21_saint-flour_vente_teschau, 1628-02-26_saint-flour_bail_durand-chaste, 1628-03-25_saint-flour_bail_aymeric-couriu, 1634-01-02_saint-flour_vente_sandou-jean, 1647-07-17_saint-flour_apprentissage_lapeyre-guanil, 1648-09-15_saint-flour_donation_recodere-teyssedre, 1649-12-06_inconnu_echange_volland-cornez, 1650-02-10_saint-flour_vente_chastel-sauret, 1650-11-20_saint-flour_vente_delaroche-cinqpar, 1652-02-24_saint-flour_transaction_vidal-parra, 1652-05-17_saint-flour_vente_pages-lassy, 1653-02-10_saint-flour_mariage_roudier-mourgue, 1654-05-03_saint-flour_transaction_chanson, 1656-01-18_saint-flour_vente_astorg-molinier, 1656-03-13_saint-flour_echange_girard-chastel, 1656-06-00_saint-flour_vente_chabot-bechot, 1657-06-23_saint-flour_transaction_brugier-desheyrac, 1658-01-22_coltines_testament_cussac, 1658-04-09_saint-flour_transaction_hugon-volland, 1658-10-14_saint-flour_vente_uchafol-bergoin, 1659-01-04_saint-flour_donation_chastel, 1659-02-22_saint-flour_echange_odoul-bastide, 1659-03-01_saint-flour_demission_delort-vedrines, 1659-03-14_saint-flour_vente_herault-fouchier, 1659-06-23_saint-flour_vente_estieu-rolland, 1659-07-05_saint-flour_mariage_seimen-rolland, 1660-02-04_roffiac_mariage_mallet-fontes, 1660-02-25_saint-flour_testament_chastang, 1660-03-06_saint-flour_donation_fontanier-recoudier, 1660-03-31_saint-flour_partage_bastide-cueyspoul, 1660-04-17_saint-flour_vente_froys-coutel, 1661-10-29_saint-flour_cession_roux-boudon, 1661-11-12_saint-flour_echange_grande-sirmay, 1662-01-25_saint-flour_vente_caucal-rouget, 1662-02-24_saint-flour_vente_coutavel-mallet, 1662-06-17_saint-flour_vente_mollinier-dupre, 1662-09-11_saint-flour_testament_blanchy, 1662-10-09_saint-flour_vente_delmas-malet, 1663-03-20_saint-flour_echange_rispal-pautard, 1663-04-08_roffiac_vente_cruuz-mallet, 1663-04-25_saint-flour_mariage_vezis-teilhard, 1663-08-01_saint-flour_transaction_mathieu-delangouroux, 1663-11-25_saint-flour_testament_teilhard, 1664-07-19_saint-flour_vente_delort-pirsot, 1664-07-26_saint-flour_transaction_vidal-roudier, 1665-02-16_roffiac_echange_parra-blondin, 1665-02-17_roffiac_mariage_vidal-parra, 1665-04-18_saint-flour_vente_jouy-david, 1665-08-09_saint-flour_vente_jury-aujolet, 1665-10-27_saint-flour_donation_boudier-salesses |
 | Murat ([siège royal?]) | 1 | 1661-11-22_saint-flour_vente_grenier-dupre |
 | Murat (chemin de Chassanittes à Murat ; rue de Toulz vers Murat) | 1 | 1654-11-04_saint-flour_vente_souvel-mas |
 | Murat (chemin de Murat à Saint-Flour) | 1 | 1652-02-23_saint-flour_remission_pavva |
@@ -2529,7 +2694,7 @@
 | Murat (ville et vicomté) | 3 | 1657-07-16_saint-flour_transaction_rodel-correilh, 1658-02-03_siviers_mariage_chanson-ventughol, 1659-04-12_saint-flour_donation_crouzat |
 | Murat (ville et vicomté, juge ordinaire royal) | 1 | 1660-06-02_saint-flour_transaction_ythual-durand |
 | Murat (ville et vicomté, justice ordinaire royale) | 1 | 1663-11-10_saint-flour_transaction_lafon-charbonnier |
-| Murat [?] | 2 | 1628-06-10_saint-flour_bail_aymier-sabuyrier, 1665-12-12_saint-flour_subrogation_charbonnel-charreyre |
+| Murat [?] | 3 | 1628-06-10_saint-flour_bail_aymier-sabuyrier, 1633-06-25_saint-flour_vente_bechassol, 1665-12-12_saint-flour_subrogation_charbonnel-charreyre |
 | Murat, couvent des religieuses de Sainte-Catherine de Sienne | 1 | 1661-02-25_saint-flour_testament_rigault |
 | Murat[...] (l. 139) | 1 | 1660-11-14_saint-flour_mariage_brives-brugier |
 | Murat[?] | 1 | 1651-12-16_saint-flour_vente_giraldon |
@@ -2555,7 +2720,7 @@
 | Neufvegleze [?] (Neuvéglise ?) | 1 | 1662-11-08_saint-flour_revente_rispal-charreyre |
 | Neuv[...] | 1 | 1661-07-22_alleuze_testament_gardelle |
 | Neuville-sur-Ain | 1 | 1666-10-01_saint-flour_testament_chinial-riou |
-| Neuvéglise | 51 | 1632-01-19_saint-flour_mariage_rigault-albier, 1632-01-21_saint-flour_mariage_chapsoulh-bossuge, 1632-09-13_saint-flour_donation_fouchier-boussuge, 1647-12-06_saint-flour_vente_combes-bonniol, 1648-04-05_saint-flour_quittance_amat-vayssier, 1649-02-00_saint-flour_transaction_gatier-durand, 1650-06-27_saint-flour_vente_parra-rolland, 1650-12-02_saint-flour_cession_bouget-besson, 1650-12-31_saint-flour_echange_besson-fabre, 1651-04-19_saint-flour_quittance_dupre-bonnol, 1651-06-03_saint-flour_vente_brissolles-chastang, 1651-12-16_saint-flour_vente_giraldon, 1657-03-00_inconnu_donation_langournes-hugon, 1657-03-19_saint-flour_subrogation_bonnault-canilhac, 1657-03-31_saint-flour_quittance_seveyres-fazon, 1657-11-25_seriers_mariage_doumergue-chevallier, 1658-01-03_roffiac_mariage_battide-fayon, 1658-02-25_saint-flour_mariage_gardolle-colomb, 1659-03-13_saint-flour_donation_beaufet-juery, 1659-04-15_saint-flour_echange_bonniol-colomb, 1659-09-18_saint-flour_transaction_durand-juery, 1659-10-09_saint-flour_testament_bouniol, 1659-12-15_saint-flour_quittance_colomb-guimbal, 1660-03-13_saint-flour_vente_doumergue-bechot, 1661-01-15_saint-flour_mariage_alboy-pellegrin, 1661-06-09_saint-flour_testament_audouin-fajon, 1661-10-29_saint-flour_vente_roux-pautard_b, 1661-11-08_saint-flour_echange_dupre-chastang, 1662-03-18_saint-flour_vente_rispail, 1662-03-22_saint-flour_ratification_barriol-brousse, 1662-05-20_saint-flour_vente_boniol-salvanhac, 1662-06-02_saint-flour_echange_ussel-boucheyre, 1662-09-17_saint-flour_vente_bo-aujolet, 1662-10-14_saint-flour_vente_daude-bonniol, 1663-03-20_saint-flour_echange_rispal-pautard, 1663-03-20_saint-flour_echange_rispal-pautard_b, 1663-04-10_saint-flour_vente_hermen-dupre, 1663-05-20_saint-flour_vente_rispal-pautard, 1663-06-11_saint-flour_vente_delrieu-besson, 1663-11-13_saint-flour_vente_chanson-bechot, 1664-02-29_saint-flour_vente_fauyrolles-fabry, 1664-10-26_saint-flour_vente_brugeire-tissier, 1664-11-29_saint-flour_vente_bonniol-teissel, 1664-11-29_saint-flour_vente_bonniol-teissel_b, 1664-11-29_saint-flour_vente_bonniol-teissel_c, 1665-04-10_saint-flour_vente_bremon-tremoliere, 1665-06-02_saint-flour_vente_combes-chanieres, 1665-08-09_saint-flour_vente_jury-aujolet, 1666-05-29_saint-flour_vente_larocque-salvanhac, 1666-06-03_saint-flour_transaction_canhac-amat, 1666-09-21_saint-flour_vente_chauson-bechot |
+| Neuvéglise | 54 | 1632-01-19_saint-flour_mariage_rigault-albier, 1632-01-21_saint-flour_mariage_chapsoulh-bossuge, 1632-09-13_saint-flour_donation_fouchier-boussuge, 1633-01-25_saint-flour_mariage_gibrat-alhadieres, 1633-05-28_saint-flour_vente_perillier, 1634-06-10_saint-flour_mariage_laussac-durand, 1647-12-06_saint-flour_vente_combes-bonniol, 1648-04-05_saint-flour_quittance_amat-vayssier, 1649-02-00_saint-flour_transaction_gatier-durand, 1650-06-27_saint-flour_vente_parra-rolland, 1650-12-02_saint-flour_cession_bouget-besson, 1650-12-31_saint-flour_echange_besson-fabre, 1651-04-19_saint-flour_quittance_dupre-bonnol, 1651-06-03_saint-flour_vente_brissolles-chastang, 1651-12-16_saint-flour_vente_giraldon, 1657-03-00_inconnu_donation_langournes-hugon, 1657-03-19_saint-flour_subrogation_bonnault-canilhac, 1657-03-31_saint-flour_quittance_seveyres-fazon, 1657-11-25_seriers_mariage_doumergue-chevallier, 1658-01-03_roffiac_mariage_battide-fayon, 1658-02-25_saint-flour_mariage_gardolle-colomb, 1659-03-13_saint-flour_donation_beaufet-juery, 1659-04-15_saint-flour_echange_bonniol-colomb, 1659-09-18_saint-flour_transaction_durand-juery, 1659-10-09_saint-flour_testament_bouniol, 1659-12-15_saint-flour_quittance_colomb-guimbal, 1660-03-13_saint-flour_vente_doumergue-bechot, 1661-01-15_saint-flour_mariage_alboy-pellegrin, 1661-06-09_saint-flour_testament_audouin-fajon, 1661-10-29_saint-flour_vente_roux-pautard_b, 1661-11-08_saint-flour_echange_dupre-chastang, 1662-03-18_saint-flour_vente_rispail, 1662-03-22_saint-flour_ratification_barriol-brousse, 1662-05-20_saint-flour_vente_boniol-salvanhac, 1662-06-02_saint-flour_echange_ussel-boucheyre, 1662-09-17_saint-flour_vente_bo-aujolet, 1662-10-14_saint-flour_vente_daude-bonniol, 1663-03-20_saint-flour_echange_rispal-pautard, 1663-03-20_saint-flour_echange_rispal-pautard_b, 1663-04-10_saint-flour_vente_hermen-dupre, 1663-05-20_saint-flour_vente_rispal-pautard, 1663-06-11_saint-flour_vente_delrieu-besson, 1663-11-13_saint-flour_vente_chanson-bechot, 1664-02-29_saint-flour_vente_fauyrolles-fabry, 1664-10-26_saint-flour_vente_brugeire-tissier, 1664-11-29_saint-flour_vente_bonniol-teissel, 1664-11-29_saint-flour_vente_bonniol-teissel_b, 1664-11-29_saint-flour_vente_bonniol-teissel_c, 1665-04-10_saint-flour_vente_bremon-tremoliere, 1665-06-02_saint-flour_vente_combes-chanieres, 1665-08-09_saint-flour_vente_jury-aujolet, 1666-05-29_saint-flour_vente_larocque-salvanhac, 1666-06-03_saint-flour_transaction_canhac-amat, 1666-09-21_saint-flour_vente_chauson-bechot |
 | Neuvéglise (Neufeglize) | 4 | 1659-12-27_saint-flour_vente_auzadour-tissier, 1665-02-14_saint-flour_vente_albert-juery, 1665-11-21_saint-flour_donation_pignol-hebrarde, 1666-10-17_saint-flour_vente_larocque-salvaniac |
 | Neuvéglise (Neufeglize, Neufueglize) | 1 | 1665-10-24_saint-flour_vente_gastal-fayron |
 | Neuvéglise (Neufeglize[?]) | 1 | 1666-07-09_saint-flour_vente_boussuge-trabuc |
@@ -2569,6 +2734,7 @@
 | Neuvéglise (Neuveglise), paroisse | 1 | 1654-05-30_saint-flour_cession_valadier-bonniol |
 | Neuvéglise (Neuveglize) | 1 | 1651-04-30_saint-flour_vente_bonniol-castagnade |
 | Neuvéglise ([Neufueglize?]) | 1 | 1657-04-12_saint-flour_mariage_gallyer-barriol |
+| Neuvéglise ([Nueuglize?]) | 1 | 1633-11-13_saint-flour_testament_boucher |
 | Neuvéglise (neufeglize) | 1 | 1661-09-18_saint-flour_transaction_albert-chastang |
 | Neuvéglise (neufseglize) | 1 | 1665-02-14_saint-flour_vente_bichot-guimbalt |
 | Neuvéglise (neufueglize, Neufueglize) | 1 | 1658-04-02_saint-flour_vente_pantard |
@@ -2594,7 +2760,7 @@
 | Notre-Dame de[fridieres?] (chemin sortant de la porte de la Planchette) | 1 | 1664-01-22_saint-flour_vente_vigaud-lauriac |
 | Notre-Dame du Viallard | 1 | 1662-06-03_saint-flour_echange_jouve-delort |
 | Nou[...] | 1 | 1663-09-02_saint-flour_echange_chanson |
-| Nouvialle | 4 | 1659-02-20_roffiac_mariage_gibrat-judy, 1662-07-23_saint-flour_vente_canhac-chazaledes, 1662-12-06_saint-flour_vente_chaulmette-roux, 1666-10-07_saint-flour_demission_bo-vispal |
+| Nouvialle | 5 | 1644-06-25_saint-flour_vente_bichot-sauvar, 1659-02-20_roffiac_mariage_gibrat-judy, 1662-07-23_saint-flour_vente_canhac-chazaledes, 1662-12-06_saint-flour_vente_chaulmette-roux, 1666-10-07_saint-flour_demission_bo-vispal |
 | Nouvialle (Nauuialle) | 2 | 1662-04-15_saint-flour_echange_dauzolle-rouget, 1662-12-15_saint-flour_vente_pages-soubre |
 | Nouvialle (Nauuialle), paroisse de Valuéjols | 1 | 1656-05-20_saint-flour_vente_rispal-rouget |
 | Nouvialle (Nauvialle) | 2 | 1659-09-22_saint-flour_inventaire_sauret, 1665-01-20_saint-flour_transaction_pages-vissal |
@@ -2621,6 +2787,7 @@
 | Nîmes (ras de Nîmes) | 1 | 1661-02-14_saint-flour_mariage_chastel-hugon |
 | Nîmes (raze de Nîmes) | 1 | 1656-10-07_saint-flour_mariage_bo-rouget |
 | Nîmes (serge de) | 1 | 1632-02-21_saint-flour_mariage_brissede-pons |
+| Oblanhac[?] | 1 | 1633-05-09_andelat_bail_brugier-julhe |
 | Obresse [?] | 1 | 1661-03-19_saint-flour_partage_cussac-maury |
 | Olagne [?] (dOlagna / dolagne) | 1 | 1660-06-09_saint-flour_mariage_caillandier-cussac |
 | Olcau[?] (paroisse ?) | 1 | 1661-11-27_saint-flour_echange_chaulhaguet-filiol |
@@ -2654,6 +2821,7 @@
 | Paris (Châtelet) | 1 | 1664-06-16_saint-flour_testament_sauret-boudet |
 | Paris (Cour de Parlement) | 1 | 1658-09-28_saint-flour_cession_duvoyet-boy |
 | Paris (Parlement) | 2 | 1626-08-31_saint-flour_compromis_berault-bestel, 1672-12-10_saint-flour_requete_fauret-vedrines |
+| Paris (camelot de Paris) | 1 | 1633-05-19_tiviers_mariage_chaulhaguet-duteil |
 | Paris (parlement) | 3 | 1626-03-13_saint-flour_protestation_cortel-vibert, 1658-08-20_saint-flour_inventaire_delort-bechot, 1665-10-28_saint-flour_transaction_senetaire-galauba |
 | Paris (robe de Paris) | 1 | 1653-02-18_saint-flour_mariage_commond-mallessaignes |
 | Paris (robe « de paris ») | 1 | 1666-02-10_la-fagholle_mariage_rigault-gendre |
@@ -2661,11 +2829,12 @@
 | Parlement de Paris | 3 | 1653-03-03_saint-flour_vente_durand-gillet, 1653-03-03_saint-flour_vente_durand-gillet_b, 1660-04-26_saint-flour_vente_bonnet-chauliaguet |
 | Parrec (lecture douteuse) | 1 | 1666-03-14_saint-flour_vente_soubeiroux-serugol |
 | Patevol[?] / patvo[c?] / patvo[l?] (paroisse d'Andelat) | 1 | 1666-02-04_saint-flour_cession_maury-rubene |
+| Patras (patras), paroisse d'Andelat | 1 | 1633-04-25_saint-flour_vente_crespoul-siuergol |
 | Patron [?] (« depatron ») | 1 | 1651-06-09_saint-flour_cession_chossy-boudoy |
 | Patros (paroisse d'Andelat) | 1 | 1657-06-16_andelat_donation_boutoule-gault |
 | Patrou [?] (Patroui, Patroux), paroisse d'Andelat | 1 | 1660-11-00_saint-flour_testament_anvielle-compaing |
 | Patroux | 1 | 1666-06-08_andelat_testament_auveille-bastide |
-| Paulhac | 30 | 1632-10-26_saint-flour_testament_bechot, 1648-04-05_saint-flour_quittance_amat-vayssier, 1652-07-17_saint-flour_vente_chazalledes-dausfilhe, 1652-08-05_saint-flour_vente_paulhard-fabry, 1653-05-25_saint-flour_subrogation_imbert-delangouvents, 1653-12-22_saint-flour_vente_rodier-bouttette, 1658-03-19_saint-flour_vente_rispal-bonafos, 1658-05-13_saint-flour_vente_bonnafos-rispal, 1658-12-29_saint-flour_vente_richard-poulverelles, 1659-02-12_saint-flour_vente_desparou-rouget, 1659-02-20_paulhac_donation_chambon, 1660-01-21_saint-flour_donation_nouzeyres-pages, 1660-06-11_saint-flour_vente_juery-gibrat, 1661-02-19_saint-flour_vente_soubrier-germany, 1661-04-27_saint-flour_echange_roudil-benezit, 1661-06-11_saint-flour_vente_bousquet-nozieres, 1661-09-02_saint-flour_testament_uchassol-charbonnel, 1661-11-24_saint-flour_vente_charbonnel-faulcon, 1662-01-26_saint-flour_vente_rispal-dabladie, 1662-12-04_saint-flour_vente_delpeuch-faulcon, 1663-01-06_saint-flour_vente_volland-chastel, 1663-02-06_saint-flour_mariage_combes-daunya, 1664-01-15_saint-flour_vente_boudon, 1664-01-19_saint-flour_vente_boudon, 1664-02-09_saint-flour_vente_pichot-nozeyres, 1664-03-02_saint-flour_subrogation_rouvel-charbonnel, 1664-05-01_saint-flour_echange_boudon-badeul, 1664-10-17_saint-flour_echange_bougier, 1665-12-12_saint-flour_subrogation_charbonnel-charreyre, 1666-01-05_saint-flour_vente_charbonnel-cibiel |
+| Paulhac | 34 | 1632-10-26_saint-flour_testament_bechot, 1633-01-28_saint-flour_mariage_cammel-jarlier, 1633-12-13_saint-flour_testament_chazal, 1634-10-21_saint-flour_testament_bical-maudre, 1634-11-04_saint-flour_vente_bacon-sibial, 1648-04-05_saint-flour_quittance_amat-vayssier, 1652-07-17_saint-flour_vente_chazalledes-dausfilhe, 1652-08-05_saint-flour_vente_paulhard-fabry, 1653-05-25_saint-flour_subrogation_imbert-delangouvents, 1653-12-22_saint-flour_vente_rodier-bouttette, 1658-03-19_saint-flour_vente_rispal-bonafos, 1658-05-13_saint-flour_vente_bonnafos-rispal, 1658-12-29_saint-flour_vente_richard-poulverelles, 1659-02-12_saint-flour_vente_desparou-rouget, 1659-02-20_paulhac_donation_chambon, 1660-01-21_saint-flour_donation_nouzeyres-pages, 1660-06-11_saint-flour_vente_juery-gibrat, 1661-02-19_saint-flour_vente_soubrier-germany, 1661-04-27_saint-flour_echange_roudil-benezit, 1661-06-11_saint-flour_vente_bousquet-nozieres, 1661-09-02_saint-flour_testament_uchassol-charbonnel, 1661-11-24_saint-flour_vente_charbonnel-faulcon, 1662-01-26_saint-flour_vente_rispal-dabladie, 1662-12-04_saint-flour_vente_delpeuch-faulcon, 1663-01-06_saint-flour_vente_volland-chastel, 1663-02-06_saint-flour_mariage_combes-daunya, 1664-01-15_saint-flour_vente_boudon, 1664-01-19_saint-flour_vente_boudon, 1664-02-09_saint-flour_vente_pichot-nozeyres, 1664-03-02_saint-flour_subrogation_rouvel-charbonnel, 1664-05-01_saint-flour_echange_boudon-badeul, 1664-10-17_saint-flour_echange_bougier, 1665-12-12_saint-flour_subrogation_charbonnel-charreyre, 1666-01-05_saint-flour_vente_charbonnel-cibiel |
 | Paulhac (?) | 1 | 1659-04-06_saint-flour_vente_chassang-dabladie |
 | Paulhac (Paulhiac) | 1 | 1664-01-19_saint-flour_vente_caucal-rouget |
 | Paulhac ([paulhac?] / paulhiac) | 1 | 1657-12-21_saint-flour_mariage_delrieu-charbonnel |
@@ -2680,7 +2849,7 @@
 | Paulhac (« paulhac ») | 1 | 1660-10-19_saint-flour_vente_tissard-boudon |
 | Paulhac (« paulhat ») | 1 | 1660-01-24_saint-flour_vente_richard-rolland |
 | Paulhac ? | 1 | 1656-06-01_saint-flour_quittance_gauvail-vouget |
-| Paulhac [?] | 1 | 1649-07-25_saint-flour_cession_charbonel-vigauld |
+| Paulhac [?] | 2 | 1634-02-04_saint-flour_quittance_domergue-juery, 1649-07-25_saint-flour_cession_charbonel-vigauld |
 | Paulhac? | 1 | 1661-04-02_saint-flour_vente_rispal-caylar |
 | Paulhac[?] | 1 | 1660-04-17_saint-flour_vente_froys-coutel |
 | Paulhac[?] (paulhac, [St?] [paulhan?]), paroisse des parties et du témoin Pierre Marly | 1 | 1654-05-24_saint-flour_transaction_marly |
@@ -2700,7 +2869,9 @@
 | Peirollade / Peyrolade (seigneurie de Bechot) | 1 | 1658-02-26_saint-flour_ratification_vendrie-bechot |
 | Pelan [?] (autre nom du champ ?) | 1 | 1654-08-25_saint-flour_vente_maury-delaroche |
 | Pelger (pelger), paroisse de Saint-Georges, lieu des deux prés | 1 | 1652-03-10_saint-flour_echange_chabot-vachier |
+| Pelgues [?] (paroisse de Saint-Georges) | 1 | 1634-05-06_saint-flour_vente_bachier-messonnier |
 | Penthièvre (duché) | 1 | 1658-02-07_saint-flour_inventaire_bonafos-pademorgue |
+| Perrusse du Merle (lecture concurrente) | 1 | 1633-01-25_saint-flour_vente_bonesset-aymeric |
 | Petger (lecture incertaine) | 1 | 1660-07-11_saint-flour_vente_brezer-monnier |
 | Petges | 1 | 1666-07-07_saint-flour_vente_missonnier-bruzit |
 | Petges (paroisse de Saint-Georges) | 1 | 1660-07-02_saint-flour_transaction_boudon-vachier |
@@ -2739,8 +2910,9 @@
 | Pierrefitte[?] | 1 | 1651-04-02_saint-flour_vente_mauvy-gerauld |
 | Pierrefort | 4 | 1648-05-26_saint-flour_mariage_monnier-houon, 1657-06-11_saint-flour_cession_charreyre-lhoume, 1663-04-12_saint-flour_mariage_bourgol-mossier, 1663-12-29_saint-flour_transaction_daix-miramon |
 | Pierrefort (terre, baronnie, bailliage et châtellenie) | 1 | 1656-06-02_saint-flour_transaction_claviere-bican |
-| Pierrefort [?] | 2 | 1626-06-29_saint-flour_quittance_clauie-polissier, 1662-07-18_saint-flour_vente_rolland-lapierre |
+| Pierrefort [?] | 3 | 1626-06-29_saint-flour_quittance_clauie-polissier, 1633-04-09_saint-flour_vente_arnal-tissedre, 1662-07-18_saint-flour_vente_rolland-lapierre |
 | Pierregros, paroisse d'Alleuze | 1 | 1650-05-14_saint-flour_mariage_jouvenhe-aujolet |
+| Pigneogues [?] / Pinquergues / [Pigneuguen?] | 1 | 1634-03-21_saint-flour_vente_gorce-andrieu |
 | Pinchesgues [?] (ou Pinchesques), paroisse d'Alleuze | 1 | 1651-11-00_saint-flour_vente_andrieu-gibiac |
 | Pinergues [?] (pinergues / prinergues, village, paroisse d'Alleuze) | 1 | 1664-04-14_saint-flour_vente_andrieu-fayon |
 | Pinhergues (paroisse d'Alleuze ; graphies pinhergues, pinherguiez) | 1 | 1650-11-09_alleuze_mariage_chassang-auzolet |
@@ -2764,6 +2936,8 @@
 | Ponsfrolles[?] | 1 | 1650-07-02_saint-flour_mariage_eschallier-monnier |
 | Pont d'[Eliuis?] | 1 | 1656-07-01_saint-flour_echange_derames-chastang |
 | Pont de Lebriu [?] (Pont Delebriu / Breliu / Lerin ; relais de poste) | 1 | 1657-10-18_tiviers_mariage_carmantrand-gendre |
+| Pouges[?] (seigneurie) | 1 | 1634-06-25_saint-flour_vente_barthomeuf-dufour |
+| Pouleuvres[?] | 1 | 1634-06-25_saint-flour_vente_barthomeuf-dufour |
 | Pouzarol | 1 | 1662-02-27_saint-flour_vente_polverelles-pages |
 | Pradal / le Pradal (lieu, appartenances) | 1 | 1660-08-30_saint-flour_vente_monier-bonnet |
 | Pradamar[?] | 1 | 1653-03-03_saint-flour_vente_durand-gillet |
@@ -2776,6 +2950,7 @@
 | Pranon[?] | 1 | 1628-04-13_saint-flour_bail_cuspiac-symon |
 | Prat Brand[?] | 1 | 1653-03-03_saint-flour_vente_durand-gillet |
 | Prat Grand (pré et champ, Andelat) | 1 | 1664-02-23_saint-flour_vente_sauret-bertrand |
+| Prat Gros ([Pratgrou?], Patteru ?) | 1 | 1634-09-24_saint-flour_vente_crespel-bertin |
 | Prat Long | 1 | 1653-03-03_saint-flour_vente_durand-gillet |
 | Prat Pomier (champ, Barry) | 1 | 1656-03-31_saint-flour_ratification_gaudelle-chanson |
 | Prat Redon | 1 | 1662-02-27_saint-flour_vente_polverelles-pages |
@@ -2799,6 +2974,7 @@
 | Raunatt ([Rannalle?] à l'endos), paroisse de Valuéjols | 1 | 1653-11-15_saint-flour_vente_combes-rouget |
 | Ravel [?] | 1 | 1650-01-26_saint-flour_vente_colrat-sauret |
 | Ravias | 1 | 1659-07-27_saint-flour_vente_vidal-estival |
+| Rebeyre ? / Ribeyre ? (lu [Rbeyre?], [Rebeyre ville?]) | 1 | 1644-01-18_saint-flour_vente_david-sauvet |
 | Rebeyrevieille (Rebeyrevielle) | 1 | 1666-01-16_saint-flour_mariage_coutel-chauzy |
 | Recairolles [?] / Recarolles [?] | 1 | 1632-08-01_saint-flour_vente_esbrard-chaluet |
 | Recluz [?] | 1 | 1658-07-15_saint-flour_testament_delort |
@@ -2811,6 +2987,7 @@
 | Relat (endos) | 1 | 1653-10-20_alleuze_testament_boniol |
 | Remoure[?] (commun du lieu de Coltines ?) | 1 | 1652-07-26_saint-flour_vente_chastang-andrieu |
 | Renaulle (?) | 1 | 1665-07-12_saint-flour_vente_chapoulade-jury |
+| Ressentiou[?] | 1 | 1633-05-09_andelat_bail_brugier-julhe |
 | Restoy[?] / Restorg (paroisse de Saint-Georges) | 1 | 1660-06-29_saint-flour_vente_missonnier-berault |
 | Revollee [?] | 1 | 1632-04-17_saint-flour_revente_eschaubard |
 | Reyrolles | 1 | 1665-02-16_saint-flour_mariage_galvier-delort |
@@ -2826,6 +3003,7 @@
 | Ribettes ([riuettes?], ribettes) | 1 | 1661-12-12_saint-flour_vente_combe-boe |
 | Ribeyre Bouquet bas | 1 | 1666-05-01_saint-flour_partage_astier |
 | Ribeyre Bouquet haute | 1 | 1666-05-01_saint-flour_partage_astier |
+| Ribeyre-Vieille (ribeire vill, Ribeyre vieille) | 1 | 1634-03-09_saint-flour_vente_bondon-tissot |
 | Ribeyreuille / Ribeyreueille (paroisse de Villedieu) | 1 | 1656-03-13_saint-flour_echange_girard-chastel |
 | Ribeyreveille (Ribeyrouielle, Arbeyreveille) | 1 | 1660-05-17_saint-flour_vente_esteve-chevallier |
 | Ribeyrevieille | 3 | 1654-03-16_saint-flour_demission_daude-estiene, 1660-03-16_saint-flour_testament_fromen-sentherain, 1660-05-09_saint-flour_vente_rouget-lheritier |
@@ -2849,7 +3027,7 @@
 | Ribz[?] | 1 | 1651-08-24_saint-flour_partage_riourt |
 | Rieuz [?] (paroisse de Roffiac) | 1 | 1662-05-01_saint-flour_vente_cristal-sarrazin |
 | Rigamilhouse[?] (champ ; exp. rigomisouffe[?]) | 1 | 1658-04-02_saint-flour_vente_pantard |
-| Riom | 29 | 1609-01-20_andelat_mariage_farreyres-boudet, 1648-03-07_saint-flour_transaction_tranchier-sudre, 1650-06-01_saint-flour_mariage_albuisson-chalvet, 1650-11-08_saint-flour_obligation_ferrand-basset, 1653-02-25_roffiac_mariage_cussac-uchassol, 1657-07-29_saint-flour_quittance_crouzat, 1658-06-16_saint-flour_quittance_jarlier-cellarier, 1658-08-20_saint-flour_inventaire_delort-bechot, 1658-09-04_saint-flour_vente_moynie-vezin, 1658-11-18_saint-flour_donation_gaultier, 1659-03-27_saint-flour_obligation_cussac-chaulhac, 1659-12-15_saint-flour_quittance_colomb-guimbal, 1660-03-05_saint-flour_donation_sauor-tremolhol, 1660-06-19_saint-flour_donation_artis-maulhac, 1662-03-04_saint-flour_transaction_delmas, 1662-09-23_saint-flour_vente_basset-hugon, 1662-11-21_saint-flour_donation_delmas-albepart, 1663-04-22_saint-flour_transaction_mossier-tranchier, 1663-05-15_saint-flour_transaction_rayat-yzabel, 1663-08-01_saint-flour_transaction_mathieu-delangouroux, 1664-03-15_saint-flour_transaction_bassa, 1664-08-17_saint-flour_transaction_challier-boyer, 1664-11-29_saint-flour_bail_rolland-esthie, 1665-03-20_saint-flour_donation_david-combes, 1665-08-01_saint-flour_mariage_brugeirolles-chanson, 1665-09-05_saint-flour_transaction_dupuy-reginbalt, 1666-01-20_saint-flour_transaction_cussac-fontes, 1666-05-01_saint-flour_partage_astier, 1673-04-12_riom_mariage_dupont-chabrol |
+| Riom | 30 | 1609-01-20_andelat_mariage_farreyres-boudet, 1634-01-04_saint-flour_desistement_sandoul-pontsavet, 1648-03-07_saint-flour_transaction_tranchier-sudre, 1650-06-01_saint-flour_mariage_albuisson-chalvet, 1650-11-08_saint-flour_obligation_ferrand-basset, 1653-02-25_roffiac_mariage_cussac-uchassol, 1657-07-29_saint-flour_quittance_crouzat, 1658-06-16_saint-flour_quittance_jarlier-cellarier, 1658-08-20_saint-flour_inventaire_delort-bechot, 1658-09-04_saint-flour_vente_moynie-vezin, 1658-11-18_saint-flour_donation_gaultier, 1659-03-27_saint-flour_obligation_cussac-chaulhac, 1659-12-15_saint-flour_quittance_colomb-guimbal, 1660-03-05_saint-flour_donation_sauor-tremolhol, 1660-06-19_saint-flour_donation_artis-maulhac, 1662-03-04_saint-flour_transaction_delmas, 1662-09-23_saint-flour_vente_basset-hugon, 1662-11-21_saint-flour_donation_delmas-albepart, 1663-04-22_saint-flour_transaction_mossier-tranchier, 1663-05-15_saint-flour_transaction_rayat-yzabel, 1663-08-01_saint-flour_transaction_mathieu-delangouroux, 1664-03-15_saint-flour_transaction_bassa, 1664-08-17_saint-flour_transaction_challier-boyer, 1664-11-29_saint-flour_bail_rolland-esthie, 1665-03-20_saint-flour_donation_david-combes, 1665-08-01_saint-flour_mariage_brugeirolles-chanson, 1665-09-05_saint-flour_transaction_dupuy-reginbalt, 1666-01-20_saint-flour_transaction_cussac-fontes, 1666-05-01_saint-flour_partage_astier, 1673-04-12_riom_mariage_dupont-chabrol |
 | Riom (chancellerie) | 1 | 1660-07-02_saint-flour_transaction_boudon-vachier |
 | Riom (rion ; présidial, greffe des insinuations) | 1 | 1654-02-15_mons_mariage_galdissard-uchassol |
 | Riom (siège du sénéchal d'Auvergne) | 2 | 1657-11-10_saint-flour_transaction_cristal-crespoul, 1662-02-11_saint-flour_desistement_aureilhe-david |
@@ -2865,7 +3043,7 @@
 | Riom [?] (sénéchaussée d'Auvergne) | 1 | 1662-11-08_saint-flour_revente_rispal-charreyre |
 | Riom — siège présidial d'Auvergne | 1 | 1654-11-03_andelat_desistement_avenens-fulhes |
 | Riom-ès-Montagnes (paroisse) | 1 | 1656-02-25_saint-flour_mariage_labroha-gillet |
-| Riom[?] | 1 | 1664-11-11_saint-flour_vente_pirolle-lollier |
+| Riom[?] | 2 | 1633-02-01_andelat_mariage_tronchier-jean, 1664-11-11_saint-flour_vente_pirolle-lollier |
 | Riom[?] (sénéchaussée d'Auvergne) | 1 | 1658-01-06_saint-flour_quittance_foulhe-vesasol |
 | Riouzargues (Liozargues, commune de Roffiac) | 1 | 1662-12-30_saint-flour_vente_crespoul-cristal |
 | Rissargues (village, paroisse de Talizat) | 1 | 1654-06-15_saint-flour_vente_aymerit-sauve |
@@ -2897,7 +3075,7 @@
 | Roches (endos : Madame de Roches) | 1 | 1656-05-07_saint-flour_echange_jonchieres-roche |
 | Rochier [?] | 1 | 1661-03-19_saint-flour_partage_cussac-maury |
 | Rodez (diocèse) | 1 | 1663-11-07_saint-flour_vente_fabre-aujolet |
-| Roffiac | 223 | 0000-00-00_saint-flour_vente_chauva-chasal, 1648-01-30_roffiac_mariage_mallet-brassac, 1648-08-30_saint-flour_vente_guizer-gazel, 1648-08-30_saint-flour_vente_marby-filhol, 1649-03-27_inconnu_echange_rolland, 1649-12-04_saint-flour_vente_fontes-gralher, 1649-12-06_inconnu_echange_volland-cornez, 1650-01-22_roffiac_mariage_seunier-bastide, 1650-07-01_roffiac_mariage_rolland-mallet, 1650-12-05_roffiac_vente_bolland-gibrat, 1651-06-29_saint-flour_vente_chabot-boude, 1652-04-06_saint-flour_vente_chopy-saumade, 1652-04-21_saint-flour_testament_bardon-amadieu, 1652-05-25_saint-flour_vente_lisset-cussac, 1653-01-06_saint-flour_transaction_trabuc-sauret, 1653-01-07_saint-flour_vente_trabuc-fabry, 1653-02-17_saint-flour_vente_tisset-cussac, 1653-02-25_roffiac_mariage_cussac-uchassol, 1653-06-07_saint-flour_vente_belet-crespoul, 1653-10-25_saint-flour_vente_bastide-cristal, 1653-11-28_roffiac_mariage_delmas-mallet, 1654-02-15_roffiac_mariage_malle-aurelle, 1654-03-09_saint-flour_vente_forgeac-malle, 1654-03-26_saint-flour_demission_dommergue-mallet, 1654-04-30_saint-flour_transaction_dommergue-torche, 1654-04-30_saint-flour_vente_crabier, 1654-05-14_saint-flour_vente_sentivay-semez, 1654-09-27_saint-flour_vente_doumergue-bonhomme, 1654-10-00_saint-flour_testament_vachassol, 1655-05-23_saint-flour_transaction_yzabel-sentheraiz, 1656-06-14_saint-flour_ratification_tassy-lanes, 1656-11-26_saint-flour_quittance_cussac-nouzeyre, 1657-02-20_roffiac_testament_delolme-vautherin, 1657-11-17_saint-flour_mariage_filhol-mallet, 1657-12-21_saint-flour_mariage_delrieu-charbonnel, 1658-01-03_roffiac_mariage_battide-fayon, 1658-01-06_roffiac_testament_chevallier-mallet, 1658-01-06_saint-flour_quittance_foulhe-vesasol, 1658-01-15_saint-flour_vente_gazel-parra, 1658-02-06_saint-flour_transaction_brassac-crabue, 1658-02-09_roffiac_mariage_blondy-parra, 1658-02-26_saint-flour_mariage_jean-bastide, 1658-03-00_roffiac_echange_blondin-cristal, 1658-03-20_saint-flour_revente_juery-rolland, 1658-04-13_saint-flour_desistement_apchier-julhe, 1658-05-03_roffiac_sommation_aurelle-rolland, 1658-05-27_saint-flour_subrogation_bougier-fontes, 1658-07-07_saint-flour_mariage_bechot-aliadieres, 1658-08-04_saint-flour_mariage_brounet-polverelles, 1658-10-08_saint-flour_echange_boude-filhol, 1658-10-08_saint-flour_quittance_boude-filhol, 1658-10-14_saint-flour_vente_uchafol-bergoin, 1658-10-22_roffiac_vente_marly-brugier, 1658-11-07_saint-flour_vente_rouches-bechot, 1658-12-07_saint-flour_vente_jean-bressolles, 1659-01-28_saint-flour_vente_domergue-gerauld, 1659-02-08_saint-flour_partage_mallet-rolland, 1659-02-17_saint-flour_echange_malet-filhol, 1659-02-20_roffiac_mariage_gibrat-judy, 1659-03-09_saint-flour_vente_jourdy-girard, 1659-04-27_saint-flour_vente_mallet-chauliaguet, 1659-05-11_saint-flour_vente_jeay-apcher, 1659-05-31_roffiac_testament_sottavie-delmas, 1659-06-00_saint-flour_cession_fontes-cussac, 1659-06-16_saint-flour_vente_gardret-chanson, 1659-06-23_saint-flour_vente_estieu-rolland, 1659-07-05_saint-flour_mariage_seimen-rolland, 1659-07-27_saint-flour_vente_mary-regimbalt, 1659-08-31_saint-flour_vente_aujolet-poulauvellon, 1659-10-01_roffiac_testament_estieu-daurs, 1659-10-01_roffiac_vente_cussac-fontes, 1659-11-07_roffiac_vente_rolland-brugier, 1659-11-18_roffiac_vente_trabue-mallet, 1659-12-06_roffiac_vente_rolland-brassac, 1660-01-02_roffiac_testament_jean, 1660-01-11_saint-flour_vente_rispal-gerault, 1660-01-24_saint-flour_vente_richard-rolland, 1660-01-31_saint-flour_vente_maury, 1660-02-02_roffiac_mariage_parra-rolland, 1660-02-04_roffiac_mariage_mallet-fontes, 1660-02-05_roffiac_mariage_malet-parra, 1660-03-25_saint-flour_donation_aubiole-cussac, 1660-03-31_saint-flour_partage_bastide-cueyspoul, 1660-05-17_saint-flour_vente_esteve-chevallier, 1660-06-15_roffiac_vente_fontes-uchafol, 1660-06-16_saint-flour_transaction_seugrac-dubois, 1660-07-01_roffiac_vente_uchassol-saintheiry, 1660-07-18_saint-flour_vente_peutgere-montgial, 1660-09-16_saint-flour_procuration_roquelaure-fontes, 1660-10-00_saint-flour_testament_apchier, 1660-11-06_saint-flour_declaration_miallet, 1660-12-02_saint-flour_transaction_parra-rolland, 1660-12-16_roffiac_vente_vidal-crespoul, 1661-01-16_saint-flour_echange_sibrac-fiou, 1661-01-16_saint-flour_mariage_rolland-cussac, 1661-01-29_saint-flour_vente_galdissard-seutheren, 1661-02-19_fayet_mariage_chanson-eschallier, 1661-02-20_saint-flour_vente_blanchier-brassac, 1661-02-27_saint-flour_partage_gibrat, 1661-03-01_saint-flour_mariage_vaisseyre-aurelle, 1661-03-03_saint-flour_vente_maury-apchier, 1661-03-03_saint-flour_vente_maury-apchier_b, 1661-03-05_saint-flour_mariage_chausoz-aurelle, 1661-07-07_saint-flour_donation_uchassol, 1661-07-14_saint-flour_echange_mas-bardon, 1661-10-05_saint-flour_vente_bastide-brassac, 1661-11-05_saint-flour_donation_brassac, 1661-11-12_saint-flour_echange_grande-sirmay, 1661-11-14_saint-flour_vente_mallet-mallet, 1662-01-24_saint-flour_donation_dechassol-jordin, 1662-02-11_saint-flour_echange_fabry-tisset, 1662-02-19_roffiac_testament_vissol, 1662-02-24_saint-flour_vente_coutavel-mallet, 1662-02-27_saint-flour_vente_polverelles-pages, 1662-03-08_roffiac_vente_cornetz-gibrat, 1662-03-22_saint-flour_echange_crespoul-cristal, 1662-04-19_saint-flour_revente_aurelle-vezasol, 1662-04-30_saint-flour_vente_bonafos-brassac, 1662-05-01_saint-flour_echange_teissedre-mallessaignes, 1662-05-01_saint-flour_vente_cristal-sarrazin, 1662-05-23_roffiac_mariage_david-cussac, 1662-06-01_saint-flour_vente_felhol-rolland, 1662-06-03_saint-flour_vente_pages-combes, 1662-07-23_saint-flour_vente_canhac-chazaledes, 1662-07-30_saint-flour_transaction_rispal-fiou, 1662-10-09_saint-flour_testament_chastang-cayrou, 1662-10-09_saint-flour_vente_delmas-malet, 1662-11-08_saint-flour_vente_tisset-david, 1662-11-11_saint-flour_vente_rolland-sibrac, 1662-12-03_saint-flour_echange_cussac-mallet, 1662-12-28_saint-flour_mariage_defondz-martin, 1662-12-30_saint-flour_vente_crespoul-cristal, 1663-01-15_saint-flour_vente_sauret-chazaledes, 1663-01-28_saint-flour_mariage_costes-eschallier, 1663-02-06_roffiac_mariage_cussac-uchassol, 1663-03-00_roffiac_transaction_rispal-rolland, 1663-03-11_saint-flour_vente_gibrat-cristal, 1663-03-20_saint-flour_echange_rispal-pautard, 1663-03-20_saint-flour_echange_rispal-pautard_b, 1663-04-01_saint-flour_partage_rolland-mallessaignes, 1663-04-08_roffiac_vente_cruuz-mallet, 1663-04-28_saint-flour_vente_sibrat-brassac, 1663-05-06_saint-flour_vente_chalanhac-chazaledes, 1663-05-19_saint-flour_vente_bonnal-crespoul, 1663-05-19_saint-flour_vente_delmas-mallet, 1663-05-20_saint-flour_vente_rispal-pautard, 1663-06-11_saint-flour_vente_uchassol-rispal, 1663-06-20_saint-flour_vente_uchassol-brassac, 1663-10-17_saint-flour_vente_sirvain-saintheiry, 1663-10-18_saint-flour_donation_chappoulade, 1663-11-19_saint-flour_cession_charbonnier-trabuc, 1663-11-20_saint-flour_desistement_esteve-david, 1663-11-25_saint-flour_testament_teilhard, 1663-11-28_saint-flour_mariage_vigier-bechot, 1663-12-02_saint-flour_vente_sensac-chazaledes, 1663-12-08_saint-flour_vente_roquelaure-mallet, 1664-01-10_saint-flour_echange_baldissard-sirvain, 1664-02-17_roffiac_mariage_cussac-saumade, 1664-02-23_saint-flour_mariage_delrieu-crespoul, 1664-03-11_saint-flour_vente_viallard-veissiere, 1664-03-14_saint-flour_vente_baldissard-brassac, 1664-03-17_saint-flour_donation_fontes, 1664-05-06_roffiac_testament_filhol-saintheiry, 1664-05-17_saint-flour_subrogation_brassac-martin, 1664-05-21_saint-flour_transaction_uchassol-brassac, 1664-07-16_saint-flour_vente_boussuge-vaissiere, 1664-08-11_saint-flour_echange_chassol-sermez, 1664-08-31_saint-flour_vente_crespoul-brassac, 1664-09-14_roffiac_mariage_sautherain-mallet, 1664-09-17_saint-flour_vente_brassac, 1664-10-27_saint-flour_vente_mallet, 1664-11-14_saint-flour_vente_rolland-cubrinz, 1664-11-21_saint-flour_vente_chilman-malet, 1664-11-30_saint-flour_vente_chanson-mallet, 1664-12-05_saint-flour_vente_chassol-brassac, 1664-12-05_saint-flour_vente_vschaffolz-rispal, 1664-12-08_saint-flour_vente_lac-bardon, 1664-12-10_saint-flour_vente_chassol-brassac, 1665-00-00_saint-flour_vente_vigier-trabuc, 1665-01-03_saint-flour_vente_rolland-malet, 1665-01-20_saint-flour_vente_cristal-brassac, 1665-01-27_saint-flour_donation_vailet-trabuc, 1665-02-05_saint-flour_vente_bazel-chazalede, 1665-02-17_roffiac_mariage_vidal-parra, 1665-02-28_saint-flour_vente_vidal-brassac, 1665-03-12_saint-flour_vente_chassol-dubois, 1665-03-12_saint-flour_vente_delmas-albepard, 1665-04-11_saint-flour_echange_fontes-vaissiere, 1665-04-25_saint-flour_vente_delorme-chirol, 1665-05-02_saint-flour_echange_cancal-rispal, 1665-05-13_saint-flour_testament_saintheiry, 1665-07-11_roffiac_vente_sautheray-brassac, 1665-09-21_saint-flour_vente_sauret-deloye, 1665-09-22_saint-flour_vente_rolland-juery, 1665-10-25_saint-flour_echange_cormily-vechafol, 1665-10-31_saint-flour_mariage_missonnier-salvat, 1665-11-02_saint-flour_mariage_bechot-rougier, 1665-11-21_saint-flour_vente_sautheyrac-dubois, 1665-11-29_vedrenat_mariage_malet-malet, 1666-01-00_roffiac_vente_vrchassol-brassac, 1666-01-01_roffiac_mariage_david-vachal, 1666-01-20_saint-flour_transaction_cussac-fontes, 1666-02-10_saint-flour_vente_sauret, 1666-02-20_saint-flour_vente_chassol-fontes, 1666-02-27_saint-flour_echange_sevenes-fontes, 1666-03-20_saint-flour_vente_vchassol-parra, 1666-03-27_saint-flour_vente_jean-maury, 1666-04-12_saint-flour_obligation_mounier-aureille, 1666-05-06_saint-flour_vente_gibrat-girand, 1666-05-20_roffiac_transaction_culhiere-gazel, 1666-05-29_saint-flour_transaction_gibrat-rolland, 1666-06-01_roffiac_testament_gibrat, 1666-06-01_saint-flour_vente_gibrat-rolland, 1666-07-10_saint-flour_vente_rioz-crespoul, 1666-07-11_saint-flour_vente_rispal-bichot, 1666-07-16_roffiac_mariage_bourheyre-gazel, 1666-07-25_saint-flour_ratification_bonnal-bardon, 1666-08-16_saint-flour_subrogation_rouget-tronchere, 1666-08-25_saint-flour_subrogation_brassac-tronchere, 1666-09-05_saint-flour_vente_polverelles-froment, 1666-09-19_saint-flour_vente_gazal-fromen, 1666-10-22_saint-flour_echange_crespone, 1666-10-23_saint-flour_obligation_crespoul-vidal |
+| Roffiac | 233 | 0000-00-00_saint-flour_vente_chauva-chasal, 1633-01-25_saint-flour_mariage_gibrat-alhadieres, 1633-02-28_saint-flour_vente_vigouroux-brassac, 1633-09-11_saint-flour_mariage_bazol-tremhiere, 1633-10-20_saint-flour_vente_cussac-hebrard, 1633-11-13_saint-flour_testament_boucher, 1633-11-13_saint-flour_testament_rouchea, 1634-01-04_saint-flour_desistement_sandoul-pontsavet, 1634-02-01_saint-flour_vente_gibrat-rolland, 1634-05-01_saint-flour_transaction_cussat-filhol, 1634-05-01_saint-flour_vente_cussac-filhol, 1648-01-30_roffiac_mariage_mallet-brassac, 1648-08-30_saint-flour_vente_guizer-gazel, 1648-08-30_saint-flour_vente_marby-filhol, 1649-03-27_inconnu_echange_rolland, 1649-12-04_saint-flour_vente_fontes-gralher, 1649-12-06_inconnu_echange_volland-cornez, 1650-01-22_roffiac_mariage_seunier-bastide, 1650-07-01_roffiac_mariage_rolland-mallet, 1650-12-05_roffiac_vente_bolland-gibrat, 1651-06-29_saint-flour_vente_chabot-boude, 1652-04-06_saint-flour_vente_chopy-saumade, 1652-04-21_saint-flour_testament_bardon-amadieu, 1652-05-25_saint-flour_vente_lisset-cussac, 1653-01-06_saint-flour_transaction_trabuc-sauret, 1653-01-07_saint-flour_vente_trabuc-fabry, 1653-02-17_saint-flour_vente_tisset-cussac, 1653-02-25_roffiac_mariage_cussac-uchassol, 1653-06-07_saint-flour_vente_belet-crespoul, 1653-10-25_saint-flour_vente_bastide-cristal, 1653-11-28_roffiac_mariage_delmas-mallet, 1654-02-15_roffiac_mariage_malle-aurelle, 1654-03-09_saint-flour_vente_forgeac-malle, 1654-03-26_saint-flour_demission_dommergue-mallet, 1654-04-30_saint-flour_transaction_dommergue-torche, 1654-04-30_saint-flour_vente_crabier, 1654-05-14_saint-flour_vente_sentivay-semez, 1654-09-27_saint-flour_vente_doumergue-bonhomme, 1654-10-00_saint-flour_testament_vachassol, 1655-05-23_saint-flour_transaction_yzabel-sentheraiz, 1656-06-14_saint-flour_ratification_tassy-lanes, 1656-11-26_saint-flour_quittance_cussac-nouzeyre, 1657-02-20_roffiac_testament_delolme-vautherin, 1657-11-17_saint-flour_mariage_filhol-mallet, 1657-12-21_saint-flour_mariage_delrieu-charbonnel, 1658-01-03_roffiac_mariage_battide-fayon, 1658-01-06_roffiac_testament_chevallier-mallet, 1658-01-06_saint-flour_quittance_foulhe-vesasol, 1658-01-15_saint-flour_vente_gazel-parra, 1658-02-06_saint-flour_transaction_brassac-crabue, 1658-02-09_roffiac_mariage_blondy-parra, 1658-02-26_saint-flour_mariage_jean-bastide, 1658-03-00_roffiac_echange_blondin-cristal, 1658-03-20_saint-flour_revente_juery-rolland, 1658-04-13_saint-flour_desistement_apchier-julhe, 1658-05-03_roffiac_sommation_aurelle-rolland, 1658-05-27_saint-flour_subrogation_bougier-fontes, 1658-07-07_saint-flour_mariage_bechot-aliadieres, 1658-08-04_saint-flour_mariage_brounet-polverelles, 1658-10-08_saint-flour_echange_boude-filhol, 1658-10-08_saint-flour_quittance_boude-filhol, 1658-10-14_saint-flour_vente_uchafol-bergoin, 1658-10-22_roffiac_vente_marly-brugier, 1658-11-07_saint-flour_vente_rouches-bechot, 1658-12-07_saint-flour_vente_jean-bressolles, 1659-01-28_saint-flour_vente_domergue-gerauld, 1659-02-08_saint-flour_partage_mallet-rolland, 1659-02-17_saint-flour_echange_malet-filhol, 1659-02-20_roffiac_mariage_gibrat-judy, 1659-03-09_saint-flour_vente_jourdy-girard, 1659-04-27_saint-flour_vente_mallet-chauliaguet, 1659-05-11_saint-flour_vente_jeay-apcher, 1659-05-31_roffiac_testament_sottavie-delmas, 1659-06-00_saint-flour_cession_fontes-cussac, 1659-06-16_saint-flour_vente_gardret-chanson, 1659-06-23_saint-flour_vente_estieu-rolland, 1659-07-05_saint-flour_mariage_seimen-rolland, 1659-07-27_saint-flour_vente_mary-regimbalt, 1659-08-31_saint-flour_vente_aujolet-poulauvellon, 1659-10-01_roffiac_testament_estieu-daurs, 1659-10-01_roffiac_vente_cussac-fontes, 1659-11-07_roffiac_vente_rolland-brugier, 1659-11-18_roffiac_vente_trabue-mallet, 1659-12-06_roffiac_vente_rolland-brassac, 1660-01-02_roffiac_testament_jean, 1660-01-11_saint-flour_vente_rispal-gerault, 1660-01-24_saint-flour_vente_richard-rolland, 1660-01-31_saint-flour_vente_maury, 1660-02-02_roffiac_mariage_parra-rolland, 1660-02-04_roffiac_mariage_mallet-fontes, 1660-02-05_roffiac_mariage_malet-parra, 1660-03-25_saint-flour_donation_aubiole-cussac, 1660-03-31_saint-flour_partage_bastide-cueyspoul, 1660-05-17_saint-flour_vente_esteve-chevallier, 1660-06-15_roffiac_vente_fontes-uchafol, 1660-06-16_saint-flour_transaction_seugrac-dubois, 1660-07-01_roffiac_vente_uchassol-saintheiry, 1660-07-18_saint-flour_vente_peutgere-montgial, 1660-09-16_saint-flour_procuration_roquelaure-fontes, 1660-10-00_saint-flour_testament_apchier, 1660-11-06_saint-flour_declaration_miallet, 1660-12-02_saint-flour_transaction_parra-rolland, 1660-12-16_roffiac_vente_vidal-crespoul, 1661-01-16_saint-flour_echange_sibrac-fiou, 1661-01-16_saint-flour_mariage_rolland-cussac, 1661-01-29_saint-flour_vente_galdissard-seutheren, 1661-02-19_fayet_mariage_chanson-eschallier, 1661-02-20_saint-flour_vente_blanchier-brassac, 1661-02-27_saint-flour_partage_gibrat, 1661-03-01_saint-flour_mariage_vaisseyre-aurelle, 1661-03-03_saint-flour_vente_maury-apchier, 1661-03-03_saint-flour_vente_maury-apchier_b, 1661-03-05_saint-flour_mariage_chausoz-aurelle, 1661-07-07_saint-flour_donation_uchassol, 1661-07-14_saint-flour_echange_mas-bardon, 1661-10-05_saint-flour_vente_bastide-brassac, 1661-11-05_saint-flour_donation_brassac, 1661-11-12_saint-flour_echange_grande-sirmay, 1661-11-14_saint-flour_vente_mallet-mallet, 1662-01-24_saint-flour_donation_dechassol-jordin, 1662-02-11_saint-flour_echange_fabry-tisset, 1662-02-19_roffiac_testament_vissol, 1662-02-24_saint-flour_vente_coutavel-mallet, 1662-02-27_saint-flour_vente_polverelles-pages, 1662-03-08_roffiac_vente_cornetz-gibrat, 1662-03-22_saint-flour_echange_crespoul-cristal, 1662-04-19_saint-flour_revente_aurelle-vezasol, 1662-04-30_saint-flour_vente_bonafos-brassac, 1662-05-01_saint-flour_echange_teissedre-mallessaignes, 1662-05-01_saint-flour_vente_cristal-sarrazin, 1662-05-23_roffiac_mariage_david-cussac, 1662-06-01_saint-flour_vente_felhol-rolland, 1662-06-03_saint-flour_vente_pages-combes, 1662-07-23_saint-flour_vente_canhac-chazaledes, 1662-07-30_saint-flour_transaction_rispal-fiou, 1662-10-09_saint-flour_testament_chastang-cayrou, 1662-10-09_saint-flour_vente_delmas-malet, 1662-11-08_saint-flour_vente_tisset-david, 1662-11-11_saint-flour_vente_rolland-sibrac, 1662-12-03_saint-flour_echange_cussac-mallet, 1662-12-28_saint-flour_mariage_defondz-martin, 1662-12-30_saint-flour_vente_crespoul-cristal, 1663-01-15_saint-flour_vente_sauret-chazaledes, 1663-01-28_saint-flour_mariage_costes-eschallier, 1663-02-06_roffiac_mariage_cussac-uchassol, 1663-03-00_roffiac_transaction_rispal-rolland, 1663-03-11_saint-flour_vente_gibrat-cristal, 1663-03-20_saint-flour_echange_rispal-pautard, 1663-03-20_saint-flour_echange_rispal-pautard_b, 1663-04-01_saint-flour_partage_rolland-mallessaignes, 1663-04-08_roffiac_vente_cruuz-mallet, 1663-04-28_saint-flour_vente_sibrat-brassac, 1663-05-06_saint-flour_vente_chalanhac-chazaledes, 1663-05-19_saint-flour_vente_bonnal-crespoul, 1663-05-19_saint-flour_vente_delmas-mallet, 1663-05-20_saint-flour_vente_rispal-pautard, 1663-06-11_saint-flour_vente_uchassol-rispal, 1663-06-20_saint-flour_vente_uchassol-brassac, 1663-10-17_saint-flour_vente_sirvain-saintheiry, 1663-10-18_saint-flour_donation_chappoulade, 1663-11-19_saint-flour_cession_charbonnier-trabuc, 1663-11-20_saint-flour_desistement_esteve-david, 1663-11-25_saint-flour_testament_teilhard, 1663-11-28_saint-flour_mariage_vigier-bechot, 1663-12-02_saint-flour_vente_sensac-chazaledes, 1663-12-08_saint-flour_vente_roquelaure-mallet, 1664-01-10_saint-flour_echange_baldissard-sirvain, 1664-02-17_roffiac_mariage_cussac-saumade, 1664-02-23_saint-flour_mariage_delrieu-crespoul, 1664-03-11_saint-flour_vente_viallard-veissiere, 1664-03-14_saint-flour_vente_baldissard-brassac, 1664-03-17_saint-flour_donation_fontes, 1664-05-06_roffiac_testament_filhol-saintheiry, 1664-05-17_saint-flour_subrogation_brassac-martin, 1664-05-21_saint-flour_transaction_uchassol-brassac, 1664-07-16_saint-flour_vente_boussuge-vaissiere, 1664-08-11_saint-flour_echange_chassol-sermez, 1664-08-31_saint-flour_vente_crespoul-brassac, 1664-09-14_roffiac_mariage_sautherain-mallet, 1664-09-17_saint-flour_vente_brassac, 1664-10-27_saint-flour_vente_mallet, 1664-11-14_saint-flour_vente_rolland-cubrinz, 1664-11-21_saint-flour_vente_chilman-malet, 1664-11-30_saint-flour_vente_chanson-mallet, 1664-12-05_saint-flour_vente_chassol-brassac, 1664-12-05_saint-flour_vente_vschaffolz-rispal, 1664-12-08_saint-flour_vente_lac-bardon, 1664-12-10_saint-flour_vente_chassol-brassac, 1665-00-00_saint-flour_vente_vigier-trabuc, 1665-01-03_saint-flour_vente_rolland-malet, 1665-01-20_saint-flour_vente_cristal-brassac, 1665-01-27_saint-flour_donation_vailet-trabuc, 1665-02-05_saint-flour_vente_bazel-chazalede, 1665-02-17_roffiac_mariage_vidal-parra, 1665-02-28_saint-flour_vente_vidal-brassac, 1665-03-12_saint-flour_vente_chassol-dubois, 1665-03-12_saint-flour_vente_delmas-albepard, 1665-04-11_saint-flour_echange_fontes-vaissiere, 1665-04-25_saint-flour_vente_delorme-chirol, 1665-05-02_saint-flour_echange_cancal-rispal, 1665-05-13_saint-flour_testament_saintheiry, 1665-07-11_roffiac_vente_sautheray-brassac, 1665-09-21_saint-flour_vente_sauret-deloye, 1665-09-22_saint-flour_vente_rolland-juery, 1665-10-25_saint-flour_echange_cormily-vechafol, 1665-10-31_saint-flour_mariage_missonnier-salvat, 1665-11-02_saint-flour_mariage_bechot-rougier, 1665-11-21_saint-flour_vente_sautheyrac-dubois, 1665-11-29_vedrenat_mariage_malet-malet, 1666-01-00_roffiac_vente_vrchassol-brassac, 1666-01-01_roffiac_mariage_david-vachal, 1666-01-20_saint-flour_transaction_cussac-fontes, 1666-02-10_saint-flour_vente_sauret, 1666-02-20_saint-flour_vente_chassol-fontes, 1666-02-27_saint-flour_echange_sevenes-fontes, 1666-03-20_saint-flour_vente_vchassol-parra, 1666-03-27_saint-flour_vente_jean-maury, 1666-04-12_saint-flour_obligation_mounier-aureille, 1666-05-06_saint-flour_vente_gibrat-girand, 1666-05-20_roffiac_transaction_culhiere-gazel, 1666-05-29_saint-flour_transaction_gibrat-rolland, 1666-06-01_roffiac_testament_gibrat, 1666-06-01_saint-flour_vente_gibrat-rolland, 1666-07-10_saint-flour_vente_rioz-crespoul, 1666-07-11_saint-flour_vente_rispal-bichot, 1666-07-16_roffiac_mariage_bourheyre-gazel, 1666-07-25_saint-flour_ratification_bonnal-bardon, 1666-08-16_saint-flour_subrogation_rouget-tronchere, 1666-08-25_saint-flour_subrogation_brassac-tronchere, 1666-09-05_saint-flour_vente_polverelles-froment, 1666-09-19_saint-flour_vente_gazal-fromen, 1666-10-22_saint-flour_echange_crespone, 1666-10-23_saint-flour_obligation_crespoul-vidal |
 | Roffiac (Roffiar) | 1 | 1654-02-15_roffiac_mariage_malle-aurelle |
 | Roffiac (Roffiat dans la copie) | 1 | 1651-00-00_saint-flour_vente_boyssolles |
 | Roffiac (Roffiat) | 1 | 1651-01-28_saint-flour_partage_milhot-aurelle |
@@ -2922,13 +3100,14 @@
 | Roffiac (paroisse ; terre et baronnie) | 1 | 1663-11-18_saint-flour_vente_souchier-parra |
 | Roffiac (paroisse ; église, lieu des honneurs funèbres) | 1 | 1660-10-06_saint-flour_testament_esteve |
 | Roffiac (paroisse des parties et du témoin Fabre) | 1 | 1655-05-18_saint-flour_transaction_vautheran-cussac |
-| Roffiac (paroisse) | 12 | 1653-06-24_saint-flour_compromis_gozet-saumade, 1653-10-26_saint-flour_echange_crespoul-cristal, 1656-02-19_saint-flour_transaction_aurelle-vechassol, 1656-03-08_saint-flour_vente_polverelles-chirol, 1656-04-03_saint-flour_subrogation_ceomes-rolland, 1658-01-05_saint-flour_echange_rolland-uchassol, 1658-04-25_saint-flour_vente_mallet, 1660-10-29_saint-flour_donation_rispal-bechot, 1661-06-12_saint-flour_vente_mallet-teissedre, 1664-03-13_saint-flour_vente_rolland-baccou, 1665-06-14_saint-flour_vente_mallet-chevallier, 1666-10-04_saint-flour_vente_bout-tronchere |
+| Roffiac (paroisse) | 13 | 1633-01-18_saint-flour_vente_crespon-cristal, 1653-06-24_saint-flour_compromis_gozet-saumade, 1653-10-26_saint-flour_echange_crespoul-cristal, 1656-02-19_saint-flour_transaction_aurelle-vechassol, 1656-03-08_saint-flour_vente_polverelles-chirol, 1656-04-03_saint-flour_subrogation_ceomes-rolland, 1658-01-05_saint-flour_echange_rolland-uchassol, 1658-04-25_saint-flour_vente_mallet, 1660-10-29_saint-flour_donation_rispal-bechot, 1661-06-12_saint-flour_vente_mallet-teissedre, 1664-03-13_saint-flour_vente_rolland-baccou, 1665-06-14_saint-flour_vente_mallet-chevallier, 1666-10-04_saint-flour_vente_bout-tronchere |
 | Roffiac (paroisse, baronnie [?]) | 1 | 1661-12-09_saint-flour_vente_polverelles-chirol |
 | Roffiac (paroisse, cimetière et église) | 1 | 1661-06-14_saint-flour_testament_saumade-chopy |
 | Roffiac (place publique) | 2 | 1658-05-03_roffiac_sommation_aurelle-rolland, 1659-11-07_roffiac_vente_rolland-brugier |
 | Roffiac (place publique, château) | 1 | 1658-10-22_roffiac_vente_marly-brugier |
 | Roffiac (roffiac) | 1 | 1654-03-14_saint-flour_vente_bastide-nouzeyres |
 | Roffiac (roffiat) | 1 | 1654-02-15_mons_mariage_galdissard-uchassol |
+| Roffiac (seigneurie et paroisse) | 1 | 1634-04-19_saint-flour_transaction_trabuc-vigasol |
 | Roffiac (seigneurie, baronnie) | 1 | 1663-03-17_saint-flour_inventaire_grezes-bechot |
 | Roffiac (terre et baronnie) | 4 | 1658-04-13_saint-flour_vente_rabue-mouliarac, 1658-10-16_saint-flour_vente_raymond-fabry, 1665-02-16_roffiac_echange_parra-blondin, 1666-06-29_saint-flour_subrogation_gibrat-jury |
 | Roffiac (terre, seigneurie et baronnie ; paroisse) | 1 | 1664-01-26_saint-flour_vente_yzabel-dubois |
@@ -2942,7 +3121,7 @@
 | Roffiac (église et cimetière) | 1 | 1661-10-07_roffiac_testament_rolland-cussac |
 | Roffiac (église, cimetière, autel Notre-Dame du Saint-Rosaire) | 1 | 1659-10-01_roffiac_testament_estieu-daurs |
 | Roffiac (église, curé et obiers) | 1 | 1665-05-11_saint-flour_testament_vidal-parra |
-| Roffiac [?] | 7 | 1657-08-27_roffiac_transaction_uchassol-fontes, 1658-01-05_saint-flour_echange_rolland-gibrat, 1658-01-07_saint-flour_echange_uchafol-estienne, 1659-12-13_saint-flour_testament_rolland-faluet, 1664-02-02_saint-flour_vente_bonnal-vidal, 1666-01-00_roffiac_vente_vrchassol-brassac, 1666-02-10_la-fagholle_mariage_rigault-gendre |
+| Roffiac [?] | 9 | 1633-06-25_saint-flour_vente_bechassol, 1634-02-04_saint-flour_quittance_domergue-juery, 1657-08-27_roffiac_transaction_uchassol-fontes, 1658-01-05_saint-flour_echange_rolland-gibrat, 1658-01-07_saint-flour_echange_uchafol-estienne, 1659-12-13_saint-flour_testament_rolland-faluet, 1664-02-02_saint-flour_vente_bonnal-vidal, 1666-01-00_roffiac_vente_vrchassol-brassac, 1666-02-10_la-fagholle_mariage_rigault-gendre |
 | Roffiac [?] (lu « [Coffiar?] » ; identification par recoupement, voir Notes) | 1 | 1652-02-13_roffiac_mariage_fray-brassac |
 | Roffiac [?] (ou Rossiac) | 1 | 1653-11-30_saint-flour_transaction_verdier-mallet |
 | Roffiac [?] (paroisse d'un ou des témoins, l. 49) | 1 | 1653-05-31_saint-flour_vente_rouvi-baille |
@@ -2950,6 +3129,7 @@
 | Roffiac [?] (paroisse) | 3 | 1653-07-13_saint-flour_vente_gibrac-gomez, 1657-09-09_saint-flour_partage_filiol-gazard, 1662-09-00_saint-flour_vente_saurel-combes |
 | Roffiac [?] (rofiac) | 1 | 1659-10-05_saint-flour_donation_cussac |
 | Roffiac [?] (terre et seigneurie, justice ordinaire, paroisse, place publique) | 1 | 1657-08-27_roffiac_transaction_uchassol-fontes |
+| Roffiac [?] / Rossiac | 1 | 1634-01-28_saint-flour_echange_crespel-vibert |
 | Roffiac[?] | 8 | 1626-02-13_saint-flour_cession_domergue-chastel, 1648-10-11_saint-flour_quittance_giboa, 1654-05-31_saint-flour_vente_rolland-pages, 1658-05-02_saint-flour_cession_lauriac-rolland, 1658-07-04_saint-flour_vente_roux-chassang, 1661-06-11_saint-flour_vente_bousquet-nozieres, 1662-02-02_saint-flour_mariage_senhar-montgial, 1666-02-00_saint-flour_bail_bronsy-monchiavar |
 | Roffiac[?] (lieu exact de passation non lu) | 1 | 1656-09-23_roffiac_testament_crespon-bertheiras |
 | Roffiac[?] (ou Rossiac) | 1 | 1656-12-22_saint-flour_vente_prophan-brassac |
@@ -2987,6 +3167,7 @@
 | Rouffiac (Roffiac) | 2 | 1656-02-19_saint-flour_transaction_rolland-wanchier, 1663-01-16_saint-flour_echange_chirol-poulverelles |
 | Roumailh (Roumailhe, Roumaille, [Roumailler?] à l'endos), paroisse de Valuéjols | 1 | 1653-11-15_saint-flour_vente_vigassol-pages |
 | Roussilhon [?] | 1 | 1626-08-09_saint-flour_quittance_chancegagnier-changeat |
+| Roussilhou | 1 | 1633-12-02_saint-flour_testament_galvier-vidal |
 | Rouyre (?), village | 1 | 1665-10-27_saint-flour_vente_brezit-vaissiere |
 | Rouzagues / Rouzaques (lieu de la paroisse de Roffiac ?, lecture douteuse, non identifié) | 1 | 1660-10-06_saint-flour_testament_esteve |
 | Rouzargues [?] (endos : Rousargues) | 1 | 1655-03-03_saint-flour_transaction_trabuc-aureilhe |
@@ -3017,6 +3198,7 @@
 | Ruisseau delaroche | 1 | 1658-01-27_saint-flour_vente_devaluy-ollier |
 | Ruynes | 4 | 1658-07-21_saint-flour_echange_jouve-borel, 1662-11-04_saint-flour_vente_vidal-coupion, 1663-08-05_saint-flour_vente_feulhet-chanson, 1666-08-06_saint-flour_transaction_hugon-chavanie |
 | Ruynes (?) | 1 | 1662-10-15_saint-flour_vente_delmas |
+| Ruynes (Ruines ; Ruynes-en-Margeride) | 1 | 1633-05-11_saint-flour_mariage_rouget-galvier |
 | Ruynes (Ruines) | 1 | 1665-06-14_saint-flour_vente_bonyblanc-hugon |
 | Ruynes (Ruinez ; Ruynes-en-Margeride) | 1 | 1661-06-12_inconnu_mariage_desalut-chauliaguet |
 | Ruynes (Ruynes-en-Margeride ; foraine de) | 1 | 1663-05-01_saint-flour_echange_chauliaguet-albiuf |
@@ -3027,8 +3209,10 @@
 | Rézentières | 2 | 1662-01-14_saint-flour_mariage_chalmete-marly, 1664-06-12_saint-flour_testament_chalmette-mathieu |
 | Rézentières (Rezenteres) | 1 | 1659-09-22_saint-flour_inventaire_sauret |
 | Rézentières (Rezentieres) | 1 | 1660-06-09_saint-flour_vente_sauvet-marlhiac |
+| Rézentières (Rizentieres) | 1 | 1633-06-03_saint-flour_vente_vigier-aymeric |
 | Rézentières (chemin de Rezantieres a talleizat) | 1 | 1658-05-25_saint-flour_vente_bertrand-debrons |
 | Rézentières (resantieres, rezantieres, rezentieres) | 1 | 1664-02-21_saint-flour_mariage_rayne-lombard |
+| Rézentières (resentiera) | 1 | 1634-04-15_saint-flour_vente_rigal-bugo |
 | Rézentières (rezantieres, rezentieres) | 1 | 1659-03-26_saint-flour_vente_taillandier-roslan |
 | Rézentières (rezentieres) | 1 | 1656-12-13_saint-flour_vente_sudre-noclar |
 | S. Doradour (?), paroisse | 1 | 1665-10-27_saint-flour_vente_brezit-vaissiere |
@@ -3036,6 +3220,7 @@
 | S. Jail / S.t Jail (Saint-Gal en Gévaudan ?) | 1 | 1662-10-15_saint-flour_vente_delmas |
 | S. [Battiffoi?] (l. 6, incertain) | 1 | 1628-01-19_saint-flour_bail_vimpin-vossel |
 | S. [Mierhe?] (juridiction) | 1 | 1660-07-02_saint-flour_transaction_boudon-vachier |
+| S.t G[nertz?] (seigneurie de Geraud ; Gnertz / Guetz / Geniez ?) | 1 | 1644-02-13_saint-flour_vente_dufour-geraud |
 | S.t Mar[e?] (paroisse) | 1 | 1666-09-30_saint-flour_vente_pitiot-chaulhiac |
 | S.t [Camarguen?] (destination du chemin) | 1 | 1653-03-19_saint-flour_vente_vidal-chazot |
 | S.t [George?] (Saint-Georges ?) | 1 | 1656-04-07_saint-flour_transaction_mallespaignes-chomme |
@@ -3043,6 +3228,7 @@
 | S.t [Margal?] (quittance, sens incertain) | 1 | 1656-01-18_saint-flour_vente_astorg-molinier |
 | S.t [Pal?] (paroisse du testateur, non identifiée) | 1 | 1654-04-11_saint-flour_testament_carrer-aspre |
 | S.t [Tail?] / S.t [Taïe?] (paroisse de l'acquéreur) | 1 | 1658-03-07_saint-flour_vente_delolme-delmar |
+| S^r [Rones?] / [Seriers?] (paroisse du vendeur, l. 5, 55) | 1 | 1634-11-04_saint-flour_vente_bacon-sibial |
 | S^t Vrcerin [?] (paroisse ; Saint-Urcize ? conjecture) | 1 | 1657-01-29_bosfaultz_donation_vidal-chastel |
 | S^t [...] | 1 | 1660-03-25_saint-flour_donation_ambrols-baldissard |
 | S^t [...] (l. 38, non lu) | 1 | 1658-04-00_saint-flour_vente_pirolle-chalbre |
@@ -3079,6 +3265,7 @@
 | Saillans (sailhans, saillans) | 1 | 1665-04-11_saint-flour_echange_fontes-vaissiere |
 | Saillans (seigneurie) | 1 | 1665-11-28_saint-flour_vente_boudoz-bardoz |
 | Saillans (terre et seigneurie ; graphies Sallientz, salliantz, saillantz) | 1 | 1663-11-25_saint-flour_testament_teilhard |
+| Saillans (« Saillans », endos « [Saillens?] »), village de la paroisse d'Andelat | 1 | 1634-05-07_saint-flour_donation_chastang-fumat |
 | Saillans (« Salhans », seigneurie) | 1 | 1654-11-14_saint-flour_vente_pages-rouget |
 | Saillans[?] | 1 | 1660-09-16_saint-flour_procuration_roquelaure-fontes |
 | Saillians (métairie) | 1 | 1665-01-21_saint-flour_mariage_delort-sauret |
@@ -3093,8 +3280,10 @@
 | Saint [Vrge ?] (lieu et paroisse ; probablement Saint-Urcize, Cantal) | 1 | 1628-06-13_saint-flour_bail_huguet-bodinne |
 | Saint-Amans | 1 | 1660-02-04_saint-flour_vente_chalvet-traverse |
 | Saint-Amant en Basse-Auvergne (St amant au Bas auvergne) | 1 | 1654-12-00_saint-flour_mariage_mallessagne-missonnier |
+| Saint-Amant-Roche-Savine | 1 | 1633-08-23_saint-flour_mariage_mage-fuery |
 | Saint-André [?] | 1 | 1653-09-23_saint-flour_vente_chastre-gastal |
 | Saint-Austremoine (paroisse) | 1 | 1652-03-00_saint-flour_testament_baldissard |
+| Saint-Bonnet-de-Forez (St bonnet de forez) | 1 | 1633-12-17_saint-flour_testament_cristal |
 | Saint-Chély | 2 | 1658-05-18_saint-flour_mariage_chazalledez-chauses, 1662-07-19_saint-flour_donation_giriou-souchier |
 | Saint-Chély (Gévaudan) | 1 | 1662-06-17_saint-flour_testament_portefaix-fajon |
 | Saint-Chély (St Chely) | 1 | 1657-09-09_saint-flour_mariage_tuffery-vedrines |
@@ -3105,14 +3294,16 @@
 | Saint-Cirgues (paroisse) | 1 | 1663-12-12_saint-flour_vente_mosnier-bonnet |
 | Saint-Cirgues [?] | 1 | 1666-02-23_saint-flour_bail_bechot-chaptard |
 | Saint-Didier-Le [Fort?] (seigneurie) | 1 | 1656-09-12_saint-flour_cession_larochefoucauld-pontran |
-| Saint-Flour | 2628 | 1609-01-20_andelat_mariage_farreyres-boudet, 1624-11-19_saint-georges_vente_murat-celleyre, 1625-01-00_saint-flour_echange_murat-mourguet, 1626-00-00_saint-flour_declaration_duteil-chalier, 1626-01-17_saint-flour_consentement_delaroche, 1626-01-20_saint-flour_consentement_labro-charradon, 1626-01-26_saint-flour_quittance_bouzye-bergol, 1626-02-00_saint-flour_prixfait_bandre-amargier, 1626-02-13_saint-flour_cession_domergue-chastel, 1626-02-15_saint-flour_bail_sauret-lassu, 1626-02-15_saint-flour_bail_sauret-vergette, 1626-02-17_saint-flour_bail_baldissard-vigeral, 1626-03-04_saint-flour_quittance_jurdy-desauret, 1626-03-08_saint-flour_apprentissage_padin-chastel, 1626-03-08_saint-flour_partage_tyssedre, 1626-03-12_saint-flour_engagement_andrieu-vossier, 1626-03-12_saint-flour_louage_juge-dolly, 1626-03-12_saint-flour_transaction_fayet-brassac, 1626-03-13_saint-flour_protestation_cortel-vibert, 1626-03-18_saint-flour_transaction_breton-delorme, 1626-03-22_saint-flour_bail_fabre-fayet, 1626-03-22_saint-flour_prixfait_rymbal-cavallier, 1626-03-22_saint-flour_quittance_malessaigne-lastic, 1626-03-25_saint-flour_bail_chevalier-gotty, 1626-03-25_saint-flour_bail_gotty-bizet, 1626-03-26_saint-flour_bail_defaure-bondy, 1626-03-29_saint-flour_obligation_chevalier-blanc, 1626-03-30_saint-flour_bail_brugier-sauret, 1626-04-20_saint-flour_vente_vossier-eymard, 1626-04-21_saint-flour_vente_teschau, 1626-04-26_saint-flour_quittance_fabre-tessier, 1626-05-01_saint-flour_partage_aymier-bonnefon, 1626-05-02_saint-flour_transaction_contel-sauret, 1626-05-03_saint-flour_bail_allizard-vargni, 1626-05-07_saint-flour_renouvellement_brotin-bassal, 1626-05-08_saint-flour_bail_boyer-malet, 1626-05-28_saint-flour_compromis_fabry-devanes, 1626-06-08_saint-flour_bail_bische-nicolas, 1626-06-08_saint-flour_bail_falgat-thomas, 1626-06-19_saint-flour_transaction_deffreualz-alboy, 1626-06-21_saint-flour_bail_vignal-alegre, 1626-06-29_saint-flour_quittance_clauie-polissier, 1626-07-01_saint-flour_bail_aymeric-mestre, 1626-07-04_saint-flour_bail_duteil-chalier, 1626-07-04_saint-flour_quittance_olivier-vandre, 1626-07-12_saint-flour_obligation_vaultier-sauret, 1626-07-20_saint-flour_bail_esprit-benezit, 1626-07-25_saint-flour_bail_fayet-molye, 1626-08-03_saint-flour_bail_vidal-garnier, 1626-08-09_saint-flour_quittance_chancegagnier-changeat, 1626-08-14_saint-flour_sommation_faure, 1626-08-31_saint-flour_compromis_berault-bestel, 1626-09-00_saint-flour_deliberation_desrouel-gazal, 1626-09-20_saint-flour_association_mareschal-vmell, 1626-09-21_saint-flour_obligation_roux-vendre, 1626-09-22_vendeze_rente_armand-aymier, 1626-10-05_saint-flour_bail_martin-bergoin, 1626-10-06_saint-flour_bail_espinasse-garsbert, 1626-10-06_saint-flour_bail_gaultier-fournier, 1626-10-07_saint-flour_prixfait_brozet-chaullier, 1626-10-11_saint-flour_accord_cellerier-sabrie, 1626-10-13_saint-flour_bail_juery-taleyrat, 1626-10-20_saint-flour_bail_cellerier-taliziat, 1626-10-22_saint-flour_obligation_chatard-andrieu, 1626-10-25_saint-flour_bail_redinier-volland, 1626-10-25_saint-flour_quittance_teulier-gineste, 1626-10-27_saint-flour_convention_bertrand-chapuis, 1626-10-30_saint-flour_declaration_beyre-traverse, 1626-11-02_saint-flour_bail_armand-rigmard, 1626-11-04_saint-flour_compromis_desauret-cinqfougeran, 1626-11-07_saint-flour_bail_maurice-feulgier, 1626-11-08_saint-flour_quittance_anglade-chansy, 1626-11-09_saint-flour_bail_valet-malet, 1626-11-12_saint-flour_bail_barthomieu-vidal, 1626-11-12_saint-flour_cession_pons-reynaldy, 1626-11-12_saint-flour_compromis_mauran-aymier, 1626-11-14_saint-flour_cession_pons-reynaldy, 1626-11-15_saint-flour_desistement_vergete-chambaron, 1626-11-18_saint-flour_obligation_moyne, 1626-11-26_saint-flour_bail_dubois-bergonzat, 1626-11-26_saint-flour_procuration_jarguin-merzault, 1626-11-26_saint-flour_transaction_itier-allier, 1626-12-13_saint-flour_quittance_vertier-bassal, 1626-12-14_saint-flour_quittance_bessiere-gerauld, 1626-12-15_saint-flour_bail_meynier-combe, 1626-12-17_saint-flour_transaction_fabry-alichaud, 1626-12-20_saint-flour_bail_lachau-vendre, 1626-12-29_saint-flour_bail_aymier-pollin, 1626-12-30_saint-flour_bail_dommergue-tourte, 1628-01-08_saint-flour_testament_desrabre-maury, 1628-01-14_saint-flour_testament_lafon-couprat, 1628-01-19_saint-flour_bail_vimpin-vossel, 1628-02-15_saint-flour_bail_armand-vinchebourg, 1628-02-16_saint-flour_bail_dolly-jourdan, 1628-02-20_saint-flour_louage_regimbalt-boudon, 1628-02-20_saint-flour_offres_vergnol-bigne, 1628-02-23_saint-flour_bail_corbeuyre-anglade, 1628-02-24_saint-flour_bail_valarguier-jun, 1628-02-25_saint-flour_bail_mary-durand, 1628-02-26_saint-flour_bail_durand-chaste, 1628-03-23_saint-flour_bail_vergne, 1628-03-24_saint-flour_transaction_valarchier-mauran, 1628-03-25_saint-flour_bail_aymeric-amilhe, 1628-03-25_saint-flour_bail_aymeric-bigui, 1628-03-25_saint-flour_bail_aymeric-borrel, 1628-03-25_saint-flour_bail_aymeric-courin, 1628-03-25_saint-flour_bail_aymeric-couriu, 1628-03-25_saint-flour_bail_aymeric-dauze, 1628-03-25_saint-flour_bail_aymeric-malet, 1628-03-25_saint-flour_bail_champaignac-pachmolle, 1628-03-26_saint-flour_bail_aymeric-gotty, 1628-03-26_saint-flour_bail_aymeric-julhien, 1628-03-28_saint-flour_bail_cuelhmes-dufaure, 1628-04-01_saint-flour_bail_cust-gniyez, 1628-04-13_saint-flour_bail_cuspiac-symon, 1628-04-19_saint-flour_cession_chavillier-berger, 1628-05-08_saint-flour_bail_vossier-jehan, 1628-05-09_saint-flour_quittance_bonder-amargier, 1628-05-21_saint-flour_transaction_vidal-nicolas, 1628-05-26_saint-flour_donation_coutel, 1628-06-02_saint-flour_bail_bigot, 1628-06-03_saint-flour_bail_vlerssy-malle, 1628-06-04_saint-flour_bail_chotty-bigot, 1628-06-07_saint-flour_bail_jehan-prolatier, 1628-06-08_saint-flour_bail_chotty-masse, 1628-06-10_saint-flour_bail_aymier-sabuyrier, 1628-06-13_saint-flour_bail_huguet-bodinne, 1628-06-24_saint-flour_bail_aymier-baile, 1628-06-24_saint-flour_bail_aymier-dolom, 1628-06-24_saint-flour_bail_aymier-tyssier, 1628-06-25_saint-flour_bail_aubert-girard, 1628-06-25_saint-flour_rente_bugier-tibut, 1628-07-01_saint-flour_bail_cruzetin-bertier, 1628-07-04_saint-flour_bail_aymier-bonnenfant, 1628-07-06_saint-flour_transaction_reynalt-chavanon, 1628-07-07_saint-flour_bail_vergier-chastang, 1628-07-07_saint-flour_quittance_valgot-jourdan, 1628-07-09_saint-flour_quittance_hebrard-jehan, 1628-07-17_saint-flour_bail_sauret-chastang, 1628-07-31_saint-flour_obligation_chassy-montpeyrat, 1628-08-20_saint-flour_bail_berthier-mathieu, 1628-08-20_saint-flour_vente_gualdi-saurier, 1628-09-20_saint-flour_transaction_champclaux-delbin, 1628-09-22_saint-flour_bail_ballard-bessyre, 1628-09-27_saint-flour_bail_gaspard-costeprat, 1628-10-07_saint-flour_bail_trigault-ballerusse, 1628-10-09_saint-flour_bail_boudre-laurie, 1628-10-12_saint-flour_contrat_aymeric-chaptard, 1628-10-17_saint-flour_declaration_meynier, 1628-10-19_saint-flour_quittance_pelo-farges, 1628-10-31_saint-flour_bail_dutheil-vendel, 1628-11-15_saint-flour_bail_balaguier-gautier, 1628-11-17_saint-flour_bail_chanlhaguet-baldissard, 1628-11-19_saint-flour_obligation_vendit-landy, 1628-11-20_saint-flour_bail_aymier-despeyre, 1628-11-30_saint-flour_bail_cantel, 1628-12-02_saint-flour_diminution_champclaux-puyoy, 1628-12-04_saint-flour_vente_jersaux-sibert, 1628-12-09_saint-flour_autre_rolland-rabu, 1628-12-09_saint-flour_bail_dufaud-combes, 1628-12-22_saint-flour_bail_conte-hugon, 1632-01-07_saint-flour_remission_desaunet-bardol, 1632-01-11_saint-flour_mariage_veissiere-sicard, 1632-01-19_saint-flour_mariage_rigault-albier, 1632-01-19_saint-flour_vente_trymbal-espinchal, 1632-01-21_saint-flour_mariage_chapsoulh-bossuge, 1632-01-22_saint-flour_mariage_missonnier-roudier, 1632-01-31_saint-flour_vente_missonnier-hirle, 1632-02-01_saint-flour_mariage_jurjon-chabanier, 1632-02-08_saint-flour_mariage_dufour-chassang, 1632-02-11_saint-flour_mariage_vidal-boudet, 1632-02-14_saint-flour_vente_tissier-malet, 1632-02-21_saint-flour_mariage_brissede-pons, 1632-02-22_saint-flour_vente_melgho-viallard, 1632-02-28_saint-flour_vente_bonnet-roudil, 1632-03-03_saint-flour_vente_juillet-busseyre, 1632-03-03_saint-flour_vente_pages, 1632-03-05_saint-flour_vente_tissier-soulier, 1632-03-06_saint-flour_subrogation_bonnet, 1632-03-08_saint-flour_obligation_bonnet-guerin, 1632-03-14_saint-flour_transaction_delaire-combe, 1632-03-21_saint-flour_vente_missonnier-boucye, 1632-03-23_saint-flour_ratification_rouchier-julhes, 1632-04-13_saint-flour_mariage_trabuc-rigaud, 1632-04-16_saint-flour_vente_chanson-bechot, 1632-04-17_saint-flour_revente_eschaubard, 1632-04-17_saint-flour_vente_treuer-pons, 1632-05-02_saint-flour_mariage_chapoulle-reynal, 1632-05-05_saint-flour_mariage_aussel-andrieu, 1632-05-08_saint-flour_vente_treual-hisseire, 1632-05-10_saint-flour_vente_sauret-bastide, 1632-06-09_saint-flour_testament_durant-deubar, 1632-06-19_saint-flour_vente_delrieu-detrassesse, 1632-07-00_saint-flour_demission_jaber-aymier, 1632-07-04_saint-flour_mariage_baille-chastel, 1632-07-04_saint-flour_vente_costerousse-combe, 1632-07-06_saint-flour_vente_rispal-brugier, 1632-08-01_saint-flour_vente_esbrard-chaluet, 1632-08-31_saint-flour_vente_rogier-aymier, 1632-09-02_saint-flour_mariage_mousset-valche, 1632-09-06_saint-flour_vente_corspoul-delaire, 1632-09-10_saint-flour_testament_fayet-fayon, 1632-09-11_saint-flour_titreclerical_attalec-nabou, 1632-09-13_saint-flour_donation_fouchier-boussuge, 1632-09-23_saint-flour_mariage_roudil-coutel, 1632-10-09_saint-flour_partage_gualdissard-alboy, 1632-10-11_saint-flour_testament_regimbal, 1632-10-11_saint-flour_vente_chastel-fauret, 1632-10-11_saint-flour_vente_curtil-nivelon, 1632-10-21_saint-flour_vente_chastel-fauret, 1632-10-26_saint-flour_testament_bechot, 1632-11-04_saint-flour_vente_delrieu-bonnafous, 1632-11-06_saint-flour_testament_pallisse-pages, 1632-11-07_saint-flour_vente_cendre-felis, 1632-11-16_saint-flour_vente_trinchier-aymeric, 1632-11-19_andelat_testament_tantal, 1632-11-25_saint-flour_mariage_chalme-bergein, 1632-11-25_saint-flour_mariage_molinie-chazal, 1632-11-27_saint-flour_mariage_delhac-amat, 1632-11-29_saint-flour_vente_nougier-grassal, 1632-12-03_andelat_donation_dalzon-vendre, 1632-12-03_saint-flour_vente_sugelles-gibrat, 1632-12-08_saint-flour_vente_amat-salvan, 1632-12-22_saint-flour_vente_guilhaume-lissier, 1632-12-24_saint-flour_vente_delolme-delolme, 1632-12-31_saint-flour_vente_amat-sauret, 1641-00-00_saint-flour_testament_durand, 1642-01-11_massiac_procuration_chandorat-aymeric, 1642-01-12_saint-flour_mariage_chandorat-aymerie, 1647-07-17_saint-flour_apprentissage_lapeyre-guanil, 1647-08-26_saint-flour_cession_lanes-alboy, 1647-09-16_saint-flour_bail_chauliaguet-esbrard, 1647-09-17_saint-flour_testament_vernhe, 1647-09-18_saint-flour_testament_couderc-banes, 1647-10-19_saint-flour_cession_biol-chastel, 1647-10-20_saint-flour_bail_chabot-bastide, 1647-10-23_saint-flour_obligation_cussac-boisson, 1647-11-02_saint-flour_mariage_monier-autin, 1647-11-05_saint-flour_transaction_gillet-dherault, 1647-11-06_saint-flour_bail_roze-pages, 1647-11-09_saint-flour_apprentissage_pelletier-bourdiol, 1647-11-13_saint-flour_quittance_beuzit-costes, 1647-11-17_saint-flour_bail_rouger-attalin, 1647-11-17_saint-flour_quittance_rouger-attalin, 1647-12-06_saint-flour_vente_combes-bonniol, 1647-12-15_saint-flour_quittance_baldissard-apchier, 1647-12-21_saint-flour_obligation_lac-tassy, 1648-01-00_saint-flour_testament_sahoure-peuilleu, 1648-01-01_saint-flour_obligation_berhot-mallet, 1648-01-25_saint-flour_vente_salvan-rolland, 1648-01-30_roffiac_mariage_mallet-brassac, 1648-02-06_saint-flour_demission_audoin-aussel, 1648-02-06_saint-flour_vente_valarchier-andrieu, 1648-02-19_saint-flour_vente_coutarel-grassald, 1648-02-23_saint-flour_mariage_dinasse-roche, 1648-03-02_saint-flour_quittance_boudon-senthorez, 1648-03-07_saint-flour_transaction_tranchier-sudre, 1648-03-07_saint-flour_vente_derames-chastel, 1648-03-10_saint-flour_echange_brugier-chabot, 1648-03-12_saint-flour_obligation_delmas-chazaledes, 1648-03-22_saint-flour_vente_chastang-corpout, 1648-03-29_saint-flour_testament_guillaume, 1648-03-30_saint-flour_bail_aymeric-messonnier, 1648-04-05_saint-flour_quittance_amat-vayssier, 1648-04-11_saint-flour_renonciation_oradour-cayron, 1648-05-06_saint-flour_testament_bertier, 1648-05-26_saint-flour_mariage_monnier-houon, 1648-05-31_saint-flour_vente_prady, 1648-06-13_saint-flour_donation_benezit, 1648-06-14_saint-flour_vente_devauzesse-delrieu, 1648-06-20_saint-flour_vente_juery-bonnet, 1648-07-14_saint-flour_obligation_cussac-lagoisson, 1648-07-14_saint-flour_vente_rougier-culhevrier, 1648-07-21_saint-flour_quittance_vidal-ferrand, 1648-08-06_saint-flour_vente_lacrussol-rebeard, 1648-08-11_saint-flour_bail_challier-juery, 1648-08-14_saint-flour_obligation_lavergne-petit, 1648-08-30_saint-flour_vente_guizer-gazel, 1648-08-30_saint-flour_vente_marby-filhol, 1648-09-15_saint-flour_donation_recodere-teyssedre, 1648-09-16_saint-flour_donation_rolland-boudon, 1648-10-10_saint-flour_quittance_chabot-traversse, 1648-10-11_saint-flour_quittance_giboa, 1648-10-13_saint-flour_vente_travesse-chauliaguet, 1648-11-17_saint-flour_vente_martin-estival, 1648-11-26_saint-flour_mariage_chastang-couderc, 1649-00-00_saint-flour_autre_inconnu, 1649-00-00_saint-flour_vente_bouyssou-fugeard, 1649-00-00_saint-flour_vente_inconnu, 1649-00-00_saint-flour_vente_mauy-mourgan, 1649-01-19_saint-flour_vente_rongier, 1649-01-25_saint-flour_transaction_migne-hugon, 1649-01-26_saint-flour_transaction_dubois-pages, 1649-02-00_saint-flour_transaction_gatier-durand, 1649-04-17_saint-flour_mariage_pelligri-rigimbalt, 1649-05-24_saint-flour_bail_inbert-severgol, 1649-06-15_saint-flour_partage_bonnet, 1649-07-17_saint-flour_quittance_gardelle-giraldon, 1649-07-25_saint-flour_cession_charbonel-vigauld, 1649-08-01_saint-flour_quittance_crozat-dupre, 1649-09-25_saint-flour_vente_chapoulhe-chambon, 1649-10-19_saint-flour_quittance_cussac-lauvie, 1649-11-21_saint-flour_bail_palisse-odoul, 1649-11-26_saint-flour_vente_lancz-chatonnier, 1649-12-04_saint-flour_vente_fontes-gralher, 1649-12-06_inconnu_echange_volland-cornez, 1650-00-00_saint-flour_vente_chastel-sauret, 1650-01-11_saint-flour_vente_gibrac-doumergue, 1650-01-19_saint-flour_mariage_allegre-mollinier, 1650-01-22_saint-flour_vente_thiral-sauret, 1650-01-25_saint-flour_echange_fornial-maury, 1650-01-26_saint-flour_vente_colrat-sauret, 1650-01-26_saint-flour_vente_doumergue-dupre, 1650-01-29_saint-flour_echange_douhet-taillade, 1650-02-02_saint-flour_vente_aymeric-marty, 1650-02-03_saint-flour_vente_crozet-delbelmon, 1650-02-06_saint-flour_donation_bondurand-delcros, 1650-02-08_fayet_testament_barthomeuf-andrieu, 1650-02-10_saint-flour_vente_chastel-sauret, 1650-02-11_saint-flour_vente_chauliaguet-caillaud, 1650-02-13_saint-flour_vente_dorhe-mourgue, 1650-02-20_saint-flour_donation_mornac, 1650-03-06_saint-flour_quittance_chalier-teyssedre, 1650-03-12_saint-flour_testament_merle-ingimbert, 1650-03-13_saint-flour_vente_chastel-fayon, 1650-03-18_saint-flour_vente_vigier, 1650-04-12_saint-flour_vente_rioure-tassy, 1650-04-18_villedieu_revente_grezes-gibrat, 1650-04-18_villedieu_vente_goizet-gibrat, 1650-04-21_saint-flour_vente_sarguin-brassac, 1650-05-07_saint-flour_vente_gibrat-chabot, 1650-05-14_saint-flour_mariage_jouvenhe-aujolet, 1650-05-16_anglards_vente_girou-charmet, 1650-05-17_saint-flour_vente_fabre-chastang, 1650-05-18_saint-flour_transaction_bastide-sauvaige, 1650-05-26_anglards_vente_combettes-jouve, 1650-06-01_saint-flour_mariage_albuisson-chalvet, 1650-06-06_saint-flour_vente_seurgol-mauri, 1650-06-13_saint-flour_transaction_ausole-tassaul, 1650-06-15_saint-flour_testament_durand, 1650-06-23_saint-flour_vente_sauret-mornac, 1650-06-26_saint-flour_vente_boucher-berthon, 1650-06-26_saint-flour_vente_tailhandier-bonnafos, 1650-06-27_saint-flour_vente_parra-rolland, 1650-07-01_roffiac_mariage_rolland-mallet, 1650-07-02_saint-flour_mariage_eschallier-monnier, 1650-07-09_saint-flour_vente_dupre-vidal, 1650-07-11_saint-flour_vente_sugimbert-pelligier, 1650-07-13_saint-flour_quittance_vidal-aussel, 1650-09-15_saint-flour_vente_marty-brassac, 1650-09-16_saint-flour_testament_bouger, 1650-09-21_saint-flour_vente_boudet-maury, 1650-09-24_saint-flour_mariage_boyer-bauthet, 1650-09-25_saint-flour_donation_avisir-sourhier, 1650-09-25_saint-flour_quittance_gillet-aymeric, 1650-09-25_saint-flour_vente_bonnault-fontz, 1650-09-27_saint-flour_vente_berthier-farges, 1650-09-29_saint-flour_vente_fajon-sauret, 1650-10-01_saint-flour_transaction_gendre-pages, 1650-10-02_saint-flour_transaction_odoul-mallassaigne, 1650-10-08_saint-flour_obligation_boudal-bevauld, 1650-10-09_saint-flour_licitation_jouve-boudet, 1650-10-09_saint-flour_obligation_prevost-apchier, 1650-10-15_saint-flour_testament_teillade, 1650-11-05_saint-flour_vente_alboy-bualet, 1650-11-08_saint-flour_obligation_ferrand-basset, 1650-11-12_saint-flour_ratification_cayrou-dupre, 1650-11-20_saint-flour_vente_delaroche-cinqpar, 1650-11-25_saint-flour_cession_bastide-regimbalt, 1650-11-26_saint-flour_transaction_chastel-fontz, 1650-11-28_saint-flour_quittance_vidal-rouger, 1650-12-02_saint-flour_cession_bouget-besson, 1650-12-02_saint-flour_cession_foulz, 1650-12-05_roffiac_vente_bolland-gibrat, 1650-12-27_saint-flour_vente_bonnet-chavergne, 1650-12-28_saint-flour_cession_teyssedre-bouget, 1650-12-30_saint-flour_vente_rouzeire-gillet, 1650-12-31_saint-flour_desistement_masset-teissedre, 1650-12-31_saint-flour_echange_besson-fabre, 1650-12-31_saint-flour_vente_boniol-masset, 1651-00-00_saint-flour_quittance_galdessard-mavienzol, 1651-00-00_saint-flour_vente_boyssolles, 1651-00-00_saint-flour_vente_faurail-rouzeyres, 1651-00-00_saint-flour_vente_maurizart-vergne, 1651-01-00_saint-flour_transaction_guerin-castaing, 1651-01-06_saint-flour_vente_chavergne-chastang, 1651-01-12_saint-flour_mariage_coulzie-bastide, 1651-01-16_saint-flour_vente_maulhac-chauvet, 1651-01-28_saint-flour_partage_milhot-aurelle, 1651-01-29_saint-flour_testament_vouge, 1651-02-00_saint-flour_obligation_sauvaige-blanc, 1651-02-00_saint-flour_vente_missonnier-vezin, 1651-02-05_saint-flour_obligation_fajon-andrieu, 1651-02-12_saint-flour_vente_mallessaigues-sauret, 1651-02-13_saint-flour_vente_bonduraud-delfieu, 1651-02-17_saint-flour_donation_odoul, 1651-02-17_villedieu_mariage_andrieu-chastel, 1651-02-20_saint-flour_echange_freual-maury, 1651-03-03_saint-flour_vente_malleschaignes-parra, 1651-03-05_saint-flour_vente_aymeric-brousse, 1651-03-06_saint-flour_vente_langenagre-boude, 1651-03-06_saint-flour_vente_sentherain-vouget, 1651-03-06_saint-flour_vente_volland-chantal, 1651-03-14_saint-flour_vente_fournier-pages, 1651-03-18_saint-flour_obligation_fajon-monier, 1651-03-23_saint-flour_testament_mollinier-baulme, 1651-03-24_saint-flour_testament_allezay, 1651-03-26_saint-flour_vente_mollinier-lebre, 1651-03-30_saint-flour_testament_chapavayre, 1651-04-00_saint-flour_vente_benezit-pages, 1651-04-00_saint-flour_vente_coutel-gibrat, 1651-04-01_saint-flour_vente_marly, 1651-04-02_saint-flour_vente_mauvy-gerauld, 1651-04-10_saint-flour_vente_brassac-uchassol, 1651-04-19_saint-flour_quittance_dupre-bonnol, 1651-04-19_saint-flour_vente_chanson-bechot, 1651-04-30_saint-flour_vente_bonniol-castagnade, 1651-05-01_saint-flour_obligation_mallespaigne-boussuge, 1651-05-06_saint-flour_echange_aurelle-mourat, 1651-05-13_saint-flour_echange_chastang-cusset, 1651-05-18_saint-flour_vente_andrieu-volland, 1651-05-20_saint-flour_vente_mighoulle-froment, 1651-06-00_saint-flour_autre_vedr-saint-pierre, 1651-06-02_saint-flour_vente_vezin-vazeilles, 1651-06-03_saint-flour_vente_brissolles-chastang, 1651-06-06_saint-flour_vente_chauzes-cayssedre, 1651-06-09_saint-flour_cession_chossy-boudoy, 1651-06-14_rezallerie_donation_brassac-boutes, 1651-06-16_saint-flour_rente_pignol-boubolane, 1651-06-17_saint-flour_vente_vazieu-boullette, 1651-06-18_saint-flour_echange_bouttelle, 1651-06-25_saint-flour_vente_audouin-matthaugier, 1651-06-29_saint-flour_vente_chabot-boude, 1651-07-00_saint-flour_vente_chanson-berthon, 1651-07-01_saint-flour_vente_archer-maury, 1651-07-09_saint-flour_obligation_bouget-chaulhiac, 1651-07-10_saint-flour_vente_lyssandre-rouget, 1651-07-14_saint-flour_transaction_sanson-lebre, 1651-07-18_saint-flour_transaction_teilhard-jarquin, 1651-08-04_saint-flour_mariage_vessiere-tisset, 1651-08-12_saint-flour_vente_cayrou-dupre, 1651-08-19_saint-flour_cession_caulle, 1651-08-24_saint-flour_partage_riourt, 1651-08-26_saint-flour_testament_fayon, 1651-08-28_saint-flour_vente_nouvel-boudoy, 1651-08-29_saint-flour_mariage_soubier-gibrac, 1651-08-30_saint-flour_vente_mariengol-chalvet, 1651-09-06_saint-flour_testament_rigault, 1651-09-06_saint-flour_transaction_valarchier-trabuc, 1651-09-14_saint-flour_testament_chadel, 1651-09-14_saint-flour_testament_chamerle, 1651-09-22_saint-flour_transaction_chauliaguet, 1651-10-28_saint-flour_mariage_joumbre-boyer, 1651-10-30_saint-flour_testament_vert-soullier, 1651-11-00_saint-flour_testament_dechausse, 1651-11-00_saint-flour_vente_andrieu-gibiac, 1651-11-06_saint-flour_vente_rouffe-roche, 1651-11-08_saint-flour_vente_boudet-chauzy, 1651-11-18_saint-flour_vente_alboy-chalier, 1651-12-05_saint-flour_vente_caillade-bourzette, 1651-12-06_andelat_donation_maury-sauvet, 1651-12-09_saint-flour_quittance_segur-gozier, 1651-12-09_saint-flour_vente_detrauesse-delride, 1651-12-09_saint-flour_vente_jean-margarit, 1651-12-16_saint-flour_vente_giraldon, 1651-12-21_saint-flour_association_vidal-chalvet, 1651-12-23_saint-flour_testament_doumergue, 1651-12-23_saint-flour_testament_pages-dubourd, 1651-12-26_saint-flour_testament_beraud, 1651-12-26_saint-flour_testament_pouzin, 1651-12-27_saint-flour_testament_boyer, 1651-12-29_saint-flour_partage_pages-vidal, 1651-12-30_saint-flour_procuration_chaulhague-rome, 1651-12-30_saint-flour_transaction_bouffe-rolland, 1651-12-30_saint-flour_vente_mossier-montaigne, 1652-01-04_saint-flour_echange_galdissard-chalvet, 1652-01-06_saint-flour_demission_rolland-bessiere, 1652-01-10_saint-flour_mariage_delort-pons, 1652-01-10_saint-flour_transaction_marignon-vidal, 1652-01-12_saint-flour_testament_eschallier, 1652-01-12_saint-flour_vente_cosches-chauliaguet, 1652-01-14_saint-flour_echange_galdissard-chalvet, 1652-01-18_saint-flour_mariage_brassac-chevallier, 1652-01-24_saint-flour_donation_coutel, 1652-01-27_saint-flour_mariage_dufour-albuisson, 1652-01-28_andelat_mariage_boussuge-bastide, 1652-01-31_saint-flour_vente_chauvi-barrou, 1652-02-10_saint-flour_echange_dommergue-pouhavre, 1652-02-10_saint-flour_vente_boudet-chanson, 1652-02-10_saint-flour_vente_dommergue-sautherez, 1652-02-12_saint-flour_subrogation_folhe-chausy, 1652-02-12_saint-flour_subrogation_foly-courchaire, 1652-02-20_saint-flour_cession_douhet, 1652-02-23_saint-flour_remission_pavva, 1652-02-24_saint-flour_cession_reynal-vidal, 1652-02-24_saint-flour_transaction_vidal-parra, 1652-02-26_saint-flour_vente_alboy, 1652-03-00_saint-flour_testament_baldissard, 1652-03-05_saint-flour_vente_daby-boudon, 1652-03-05_saint-flour_vente_mallessaigne-chauliaguet, 1652-03-08_saint-flour_vente_combettes-vendre, 1652-03-10_saint-flour_echange_chabot-vachier, 1652-03-17_saint-flour_vente_chastel-crozat, 1652-03-18_saint-flour_vente_chavagnac-baldissard, 1652-03-20_saint-flour_vente_douhet-andrieu, 1652-03-22_saint-flour_vente_solier-gilles, 1652-03-26_villedieu_cession_david-lisset, 1652-03-29_saint-flour_testament_cusset-brundroz, 1652-04-01_saint-flour_testament_armand, 1652-04-01_saint-flour_vente_faigeolle-rouger, 1652-04-04_saint-flour_procuration_bouslhuge-roux, 1652-04-06_saint-flour_vente_chopy-saumade, 1652-04-11_saint-flour_vente_saignes-chauliaguet, 1652-04-13_saint-flour_vente_chauson, 1652-04-13_saint-flour_vente_domergue-dupuy, 1652-04-13_saint-flour_vente_fontanide-hugon, 1652-04-13_saint-flour_vente_hugon, 1652-04-14_saint-flour_mariage_rochier-lassy, 1652-04-14_saint-flour_transaction_hugon-bauny, 1652-04-18_saint-flour_vente_coutel-brausse, 1652-04-20_saint-flour_accord_bousse-boudet, 1652-04-21_saint-flour_testament_bardon-amadieu, 1652-04-21_saint-flour_testament_veginbalt, 1652-04-22_saint-flour_quittance_vidal-brausse, 1652-04-26_saint-flour_cession_cosset-mallessaigne, 1652-04-27_saint-flour_vente_chevallier-garson, 1652-04-28_saint-flour_obligation_chanson, 1652-04-30_saint-flour_cession_challier-auzolle, 1652-05-02_saint-flour_vente_mauy-allegre, 1652-05-06_coltines_echange_crossoul-defoudz, 1652-05-12_saint-flour_vente_tailhand-bourgeze, 1652-05-13_saint-flour_vente_castel-chanson, 1652-05-13_saint-flour_vente_gastail-chanson, 1652-05-17_saint-flour_cession_delrieu-tassy, 1652-05-17_saint-flour_cession_hugon-tassy, 1652-05-17_saint-flour_vente_pages-lassy, 1652-05-20_saint-flour_mariage_delchar-tardieu, 1652-05-23_saint-flour_vente_boissolier-rolland, 1652-05-25_saint-flour_vente_lisset-cussac, 1652-05-25_saint-flour_vente_ruvelle-chastel, 1652-05-29_saint-flour_echange_poursain-hugon, 1652-06-00_saint-flour_echange_chazot-vidal, 1652-06-00_saint-flour_vente_sauvagne-bardon, 1652-06-08_villedieu_testament_missonnier, 1652-06-09_saint-flour_quittance_boux-paulhiac, 1652-06-10_saint-flour_echange_chazot-vidal, 1652-06-16_saint-flour_vente_borchette-portefaix, 1652-06-24_villedieu_vente_missonnier, 1652-06-30_saint-flour_transaction_marchand-chauses, 1652-07-00_saint-flour_echange_margerit-boudoz, 1652-07-01_saint-flour_quittance_blanc, 1652-07-06_saint-flour_transaction_rolland-bourzet, 1652-07-17_saint-flour_vente_chazalledes-dausfilhe, 1652-07-18_saint-flour_testament_rappoz, 1652-07-20_saint-flour_ratification_dommergue-dupuy, 1652-07-24_saint-flour_vente_boudoz-durand, 1652-07-26_saint-flour_vente_chastang-andrieu, 1652-07-27_saint-flour_echange_boudet, 1652-08-05_saint-flour_vente_paulhard-fabry, 1652-08-31_saint-flour_cession_detraussez-dufour, 1652-09-14_saint-flour_mariage_piguiol-dussac, 1652-09-14_saint-flour_vente_chaubard-chastre, 1652-09-16_saint-flour_vente_champanhac-volp, 1652-09-17_saint-flour_vente_rigault-herault, 1652-09-25_saint-flour_cession_bonafos-richard, 1652-09-26_saint-flour_donation_chappoulle, 1652-09-28_saint-flour_transaction_crioullier-mauron, 1652-09-29_saint-flour_vente_sauvet-bouchez, 1652-10-07_saint-flour_partage_coutel-malbec, 1652-12-07_saint-flour_vente_delrieu-bonniol, 1653-01-03_saint-flour_donation_maurilhiar, 1653-01-04_saint-flour_vente_tourrette-sauret, 1653-01-06_saint-flour_transaction_trabuc-sauret, 1653-01-07_saint-flour_vente_trabuc-fabry, 1653-01-12_saint-flour_echange_jolie-andrieu, 1653-01-13_saint-flour_quittance_challier-boubolene, 1653-01-14_saint-flour_echange_goussier-rolland, 1653-01-14_saint-flour_vente_andrieu-solie, 1653-01-14_saint-flour_vente_barthomieuf-jomarte, 1653-01-14_saint-flour_vente_bordes-chanson, 1653-01-16_saint-flour_vente_martin-cussac, 1653-01-22_saint-flour_vente_chausse-devarnes, 1653-01-23_andelat_testament_roux, 1653-01-23_saint-flour_transaction_saignes-gillet, 1653-01-25_saint-flour_vente_coudre-salvatge, 1653-01-26_saint-flour_vente_cibial-sauret, 1653-02-00_saint-flour_vente_barthomeuf-chanlaguet, 1653-02-00_saint-flour_vente_roger-eschallier, 1653-02-01_saint-flour_vente_quatveulx-pelegry, 1653-02-03_saint-flour_vente_bressolles-rolland, 1653-02-04_saint-flour_mariage_parroche-tisset, 1653-02-05_saint-flour_vente_cailhade-beaufort, 1653-02-05_saint-flour_vente_canilhac-bourdiol, 1653-02-08_saint-flour_vente_viallard-mavron, 1653-02-09_saint-flour_subrogation_galdessard-mallet, 1653-02-10_saint-flour_cession_barthe, 1653-02-10_saint-flour_vente_armand-chomie, 1653-02-11_saint-flour_mariage_reynault-vazler, 1653-02-11_saint-flour_vente_bouy-galand, 1653-02-14_saint-flour_donation_chaumeil-sauve, 1653-02-15_saint-flour_mariage_eschallier-cebrousse, 1653-02-17_saint-flour_vente_tisset-cussac, 1653-02-18_saint-flour_mariage_commond-mallessaignes, 1653-02-22_saint-flour_mariage_siccard-montgial, 1653-02-23_saint-flour_testament_chanson, 1653-02-24_saint-flour_inventaire_chanson-aujolet, 1653-02-25_roffiac_mariage_cussac-uchassol, 1653-03-03_saint-flour_vente_caucal-rouget, 1653-03-03_saint-flour_vente_durand-gillet, 1653-03-03_saint-flour_vente_durand-gillet_b, 1653-03-04_saint-flour_transaction_hugon-quatveul, 1653-03-15_saint-flour_ratification_fion-cussac, 1653-03-15_saint-flour_vente_estival-david, 1653-03-16_saint-flour_echange_delort-fornal, 1653-03-18_saint-flour_vente_bardon-hugon, 1653-03-19_saint-flour_vente_vidal-chazot, 1653-03-20_saint-flour_vente_bagail-mallet, 1653-03-22_saint-flour_echange_chadellac-maulhac, 1653-03-22_saint-flour_vente_audieu-pomi, 1653-03-22_saint-flour_vente_chadellac-maurchar, 1653-03-22_saint-flour_vente_chastre-bechot, 1653-03-23_saint-flour_transaction_souchier-sauvaige, 1653-03-28_saint-flour_vente_tesse-ambiele, 1653-03-29_saint-flour_vente_doumergue, 1653-03-31_saint-flour_vente_jean-combettes, 1653-04-01_saint-flour_vente_derames-missonnier, 1653-04-01_saint-flour_vente_frougoux-jean, 1653-04-01_saint-flour_vente_vispail-derames, 1653-04-05_saint-flour_vente_dufaure-chauliaguet, 1653-04-06_saint-flour_testament_mollinier, 1653-04-08_saint-flour_bail_aujolet-chanson, 1653-04-08_saint-flour_cession_ambiele-chastang, 1653-04-08_saint-flour_vente_buge-delrieu, 1653-04-08_saint-flour_vente_gaudelle-solier, 1653-04-15_saint-flour_testament_dufour, 1653-04-17_saint-flour_revente_devarnes-aujolet, 1653-04-19_saint-flour_echange_andrieu, 1653-04-19_saint-flour_vente_dion-ferrand, 1653-04-22_saint-flour_mariage_dufour-vaur, 1653-04-26_saint-flour_vente_chomel-eschalier, 1653-04-26_saint-flour_vente_lamere-vigault, 1653-04-26_saint-flour_vente_mauly, 1653-04-27_saint-flour_vente_bonnet-bernard, 1653-04-29_saint-flour_echange_assonnier-grezes, 1653-04-30_saint-flour_transaction_nauthonnier-brassac, 1653-05-01_saint-flour_convention_volland-uchassol, 1653-05-01_saint-flour_echange_sauret-gibrat, 1653-05-01_saint-flour_vente_gibrat-sauret, 1653-05-02_saint-flour_donation_solie-boudon, 1653-05-02_saint-flour_vente_rodsoller-vedringhol, 1653-05-03_saint-flour_vente_maulhat-feraud, 1653-05-03_saint-flour_vente_vaurilhac-bonnafos, 1653-05-04_saint-flour_vente_mauly-vaurs, 1653-05-10_saint-flour_vente_rivore-mar, 1653-05-11_saint-flour_vente_roudil-mendre, 1653-05-11_saint-flour_vente_vidal-chazot, 1653-05-13_saint-flour_vente_chabert-fabry, 1653-05-17_saint-flour_cession_bucher-basset, 1653-05-17_saint-flour_compromis_boyer-polverelles, 1653-05-17_saint-flour_vente_combes-rouget, 1653-05-18_alleuze_vente_monier-chanson, 1653-05-18_vibrezac_partage_chanson-vedrines, 1653-05-25_saint-flour_subrogation_imbert-delangouvents, 1653-05-28_saint-flour_vente_vaylet-gaston, 1653-05-31_saint-flour_vente_rouvi-baille, 1653-06-02_saint-flour_vente_cibial-rouget, 1653-06-03_saint-flour_vente_chadollac-chastang, 1653-06-06_saint-flour_ratification_daude-dupre, 1653-06-07_saint-flour_vente_belet-crespoul, 1653-06-14_saint-flour_vente_mirhe-vidal, 1653-06-16_saint-flour_partage_gaultier, 1653-06-21_saint-flour_vente_chambon-faulat, 1653-06-22_saint-flour_mariage_astier-noel, 1653-06-23_saint-flour_subrogation_vidal-albaree, 1653-06-24_saint-flour_compromis_gozet-saumade, 1653-06-29_saint-flour_vente_mallet-bergier, 1653-07-01_saint-flour_transaction_maroz-ouvrier, 1653-07-02_saint-flour_vente_jean-noailles, 1653-07-05_saint-flour_cession_chauliaguet-biller, 1653-07-06_saint-flour_mariage_ebrard-blanc, 1653-07-08_saint-flour_vente_vayle-gaston, 1653-07-13_saint-flour_vente_gibrac-gomez, 1653-07-17_saint-flour_vente_reynault-gaston, 1653-07-22_saint-flour_cession_colrat-vergne, 1653-07-25_saint-flour_testament_falgiere, 1653-07-27_saint-flour_mariage_teyssedre-pignol, 1653-07-28_saint-flour_sommation_missonnier-alboy, 1653-08-12_saint-flour_vente_cussac-defondz, 1653-08-16_saint-flour_vente_boudie-ferrand, 1653-09-00_saint-flour_mariage_bechot-chaulhaguet, 1653-09-02_saint-flour_testament_chazelles-fraisse, 1653-09-03_saint-flour_transaction_chassang-fajoz, 1653-09-07_saint-flour_transaction_hugon-favel, 1653-09-18_saint-flour_testament_ferrand, 1653-09-20_saint-flour_transaction_chassang-pages, 1653-09-20_saint-flour_transaction_fajon-delmar, 1653-09-20_saint-flour_vente_salnaz-rolland, 1653-09-23_saint-flour_vente_chastre-gastal, 1653-09-29_saint-flour_testament_pages, 1653-09-29_saint-flour_vente_defoudz-bugier, 1653-09-30_saint-flour_testament_galiot-marquis, 1653-10-02_saint-flour_testament_maurelhiar, 1653-10-02_saint-flour_vente_ostmal-sauvet, 1653-10-05_saint-flour_declaration_rouget-vidal, 1653-10-06_saint-flour_transaction_boutonh-mosle, 1653-10-14_saint-flour_vente_riourde, 1653-10-16_saint-flour_cession_mosnier-madieu, 1653-10-18_saint-flour_vente_solier-daix, 1653-10-20_saint-flour_mariage_borel-mollinier, 1653-10-20_saint-flour_testament_aymeric, 1653-10-25_saint-flour_vente_bastide-cristal, 1653-10-26_saint-flour_echange_crespoul-cristal, 1653-10-28_saint-flour_vente_fabre-vayron, 1653-11-02_saint-flour_mariage_lolier-durand, 1653-11-09_saint-flour_vente_cathala-bechot, 1653-11-14_coren_vente_seurgol-mossier, 1653-11-15_saint-flour_transaction_cristal-hugoz, 1653-11-15_saint-flour_vente_combes-rouget, 1653-11-15_saint-flour_vente_louvo-chauvejon, 1653-11-15_saint-flour_vente_vigassol-pages, 1653-11-16_saint-flour_vente_rioure-hugoz, 1653-11-20_saint-flour_compromis_jourdy-fabry, 1653-11-27_saint-flour_vente_dolz-mar, 1653-11-28_roffiac_mariage_delmas-mallet, 1653-11-30_saint-flour_quittance_gibrat-lolier, 1653-11-30_saint-flour_transaction_verdier-mallet, 1653-12-00_saint-flour_vente_fray-mas, 1653-12-09_saint-flour_quittance_desauve-beaufilz, 1653-12-11_saint-flour_vente_fuvel-mas, 1653-12-17_saint-flour_rente_sauvet-tours, 1653-12-20_saint-flour_vente_vendier-chambaron, 1653-12-21_saint-flour_subrogation_langenaire-rigault, 1653-12-22_saint-flour_vente_rodier-bouttette, 1653-12-25_saint-flour_quittance_berthier-julhien, 1653-12-28_saint-flour_vente_pontsavre-vidal, 1654-01-02_saint-flour_mariage_chalier-fontes, 1654-01-02_saint-flour_testament_mirmande, 1654-01-04_saint-flour_vente_daud-devaux, 1654-01-06_saint-flour_quittance_chezolles, 1654-01-07_saint-flour_vente_galliardy-albessard, 1654-01-10_saint-flour_desistement_bussolles-chastang, 1654-01-12_saint-flour_quittance_boudil-ferrand, 1654-01-15_saint-flour_transaction_buge-delrieu, 1654-01-17_saint-flour_mariage_pellouz-falgeyrac, 1654-01-26_saint-flour_mariage_ferauze-aussel, 1654-01-27_saint-flour_mariage_tissandier-cailliandre, 1654-01-29_saint-flour_donation_sauvet, 1654-01-29_saint-flour_mariage_odoul-metgue, 1654-01-31_saint-flour_vente_delaire-charbonnier, 1654-02-01_villedieu_vente_monnier-chassang, 1654-02-04_saint-flour_vente_fontes-teissedre, 1654-02-05_saint-flour_compromis_alloy-bertrand, 1654-02-07_saint-flour_mariage_galand-nauthonnier, 1654-02-09_saint-flour_mariage_vassond-courchaud, 1654-02-10_alleuze_mariage_mosnier-meyhoulle, 1654-02-13_saint-flour_transaction_crozat-boudier, 1654-02-14_saint-flour_mariage_reynaud-tourde, 1654-02-15_roffiac_mariage_malle-aurelle, 1654-02-16_villedieu_mariage_rolland-vidal, 1654-02-20_saint-flour_quittance_dumas-porchau, 1654-02-20_saint-flour_vente_chalvet-boudet, 1654-02-21_saint-flour_testament_teyssedre-chazalledez, 1654-02-22_saint-flour_vente_chalvet-boudet, 1654-02-23_saint-flour_quittance_sicaud-vougier, 1654-02-28_saint-flour_vente_pons-ventenghol, 1654-03-01_fraissenet_testament_nouzeiroe-beche, 1654-03-01_saint-flour_vente_gibrat-marly, 1654-03-02_saint-flour_quittance_odoul, 1654-03-02_saint-flour_vente_martial-cramon, 1654-03-09_saint-flour_vente_forgeac-malle, 1654-03-12_saint-flour_vente_lessedre-grassalt, 1654-03-14_saint-flour_echange_malleshargues-vidal, 1654-03-14_saint-flour_vente_bastide-nouzeyres, 1654-03-14_saint-flour_vente_jourdy-richard, 1654-03-16_saint-flour_demission_daude-estiene, 1654-03-20_saint-flour_vente_mallessaigne-fayon, 1654-03-22_saint-flour_desistement_martin-broz, 1654-03-26_saint-flour_demission_dommergue-mallet, 1654-03-29_saint-flour_partage_spezolles, 1654-03-30_saint-flour_testament_vispal-couderc, 1654-04-01_saint-flour_vente_bros-bertier, 1654-04-02_saint-flour_vente_bonnault-papavin, 1654-04-10_saint-flour_quittance_rolland-bergier, 1654-04-11_saint-flour_testament_carrer-aspre, 1654-04-14_saint-flour_echange_bouffre-chastang, 1654-04-16_saint-flour_quittance_chaluet-senteraiz, 1654-04-16_saint-flour_transaction_david-estienne, 1654-04-20_saint-flour_vente_andrieu-cussac, 1654-04-25_saint-flour_vente_durhard-caueal, 1654-04-30_saint-flour_mariage_chassang-rigault, 1654-04-30_saint-flour_transaction_dommergue-torche, 1654-04-30_saint-flour_vente_crabier, 1654-05-03_saint-flour_demission_estienne-tissot, 1654-05-03_saint-flour_transaction_chanson, 1654-05-05_saint-flour_mariage_rouget-nauthonie, 1654-05-06_saint-flour_vente_gibrat-severin, 1654-05-09_saint-flour_desistement_reynalt-gaston, 1654-05-09_saint-flour_echange_fabre-crespoul, 1654-05-09_saint-flour_vente_fabre-crespoul, 1654-05-14_saint-flour_cession_rouget-faverge, 1654-05-14_saint-flour_mariage_nauthonie-delmas, 1654-05-14_saint-flour_vente_sentivay-semez, 1654-05-17_saint-flour_mariage_ber-delolme, 1654-05-20_saint-flour_vente_lar-boymetton, 1654-05-20_saint-flour_vente_mallessaigne-grezes, 1654-05-24_saint-flour_transaction_marly, 1654-05-26_saint-flour_vente_martial-missonnier, 1654-05-30_saint-flour_cession_valadier-bonniol, 1654-05-31_saint-flour_vente_rolland-pages, 1654-06-00_saint-flour_vente_chappoulle-antheraiq, 1654-06-03_saint-flour_renonciation_bardon, 1654-06-03_saint-flour_vente_borde-sauret, 1654-06-06_saint-flour_vente_cosserand, 1654-06-06_saint-flour_vente_cosserand_b, 1654-06-07_saint-flour_transaction_maury-chastang, 1654-06-11_fraissenet_testament_gibrat-beyot, 1654-06-12_fraissenet_vente_gibrat-rouget, 1654-06-13_saint-flour_vente_chanson-cussac, 1654-06-15_saint-flour_vente_aymerit-sauve, 1654-06-20_saint-flour_vente_faluchon-bremon, 1654-06-24_saint-flour_vente_rol-jouve, 1654-06-25_saint-flour_vente_bastid-andrieu, 1654-06-25_saint-flour_vente_chaugelbuf-maury, 1654-06-25_saint-flour_vente_gardelle-delolme, 1654-06-28_saint-flour_vente_courette-sauret, 1654-07-02_saint-flour_echange_combettes-vondel, 1654-07-05_saint-flour_vente_jourdes-albaret, 1654-07-06_saint-flour_echange_chanson-teyssedre, 1654-07-06_saint-flour_testament_petit-mallissaignes, 1654-07-12_saint-flour_vente_chauliaguet-lalieure, 1654-07-17_saint-flour_ratification_sentheray-mallet, 1654-07-18_saint-flour_obligation_pouget-faure, 1654-07-18_saint-flour_vente_pouget-faure, 1654-07-19_saint-flour_echange_chanson-monnier, 1654-07-19_saint-flour_vente_chavallier-chastang, 1654-07-22_saint-flour_subrogation_delort-delaroche, 1654-07-26_saint-flour_mariage_monnier-brassac, 1654-07-29_saint-flour_echange_chauliagne-chabot, 1654-08-00_saint-flour_transaction_bardoz-boussuge, 1654-08-02_saint-flour_mariage_mallessaignes-vigier, 1654-08-06_saint-flour_donation_portal, 1654-08-20_saint-flour_vente_delcros-vollant, 1654-08-24_saint-flour_quittance_peuch-gaillard, 1654-08-25_saint-flour_vente_maury-delaroche, 1654-08-28_saint-flour_testament_aussel, 1654-09-00_saint-flour_vente_chastang-defondz, 1654-09-00_saint-flour_vente_chaulz-hugon, 1654-09-01_saint-flour_vente_andrieu-giraldon, 1654-09-16_andelat_testament_sauvet-chalmette, 1654-09-20_alleuze_testament_chanson, 1654-09-21_saint-flour_vente_estival, 1654-09-27_saint-flour_vente_doumergue-bonhomme, 1654-09-28_saint-flour_vente_vavonnes-pagez, 1654-09-29_saint-flour_vente_cussac-rial, 1654-10-00_saint-flour_testament_vachassol, 1654-10-14_saint-flour_vente_maury-comte, 1654-10-15_saint-flour_mariage_pages-chappoulle, 1654-10-24_saint-flour_mariage_albarie-majre, 1654-10-28_saint-flour_vente_rigault-deramis, 1654-10-30_saint-flour_quittance_viallard-apchier, 1654-10-31_saint-flour_vente_doly-mas, 1654-11-00_saint-flour_subrogation_fendouze-chalmette, 1654-11-04_saint-flour_mariage_barriol-petit, 1654-11-04_saint-flour_vente_souvel-mas, 1654-11-06_saint-flour_vente_desfondz-boyer, 1654-11-07_saint-flour_testament_chaluet-berault, 1654-11-12_saint-flour_vente_chevallier-laroque, 1654-11-14_saint-flour_vente_pages-rouget, 1654-11-15_saint-flour_echange_rouget-estival, 1654-11-21_saint-flour_vente_daund-devaurs, 1654-11-29_saint-flour_quittance_gibrat-houra, 1654-11-29_saint-flour_vente_sainthevain-auzolle, 1654-12-00_saint-flour_mariage_mallessagne-missonnier, 1654-12-02_saint-flour_ratification_gardelle-cussat, 1654-12-19_saint-flour_transaction_delvieu-hugon, 1654-12-21_saint-flour_vente_gardelle-bussat, 1654-12-28_saint-flour_vente_guimbal-bouniol, 1654-12-29_saint-flour_vente_cosches-segui, 1654-12-30_saint-flour_testament_commond-mallessaigne, 1654-12-31_saint-flour_vente_grezes-bastide, 1655-00-00_saint-flour_vente_bardon-bugo, 1655-03-03_saint-flour_transaction_trabuc-aureilhe, 1655-04-24_saint-flour_vente_fabre-vachassol, 1655-05-01_saint-flour_subrogation_chevallier-devarnes, 1655-05-09_saint-flour_demission_orcer-tisse, 1655-05-16_saint-flour_mariage_delaspre-sostrousse, 1655-05-18_saint-flour_testament_blondin-gibrac, 1655-05-18_saint-flour_transaction_vautheran-cussac, 1655-05-23_saint-flour_transaction_yzabel-sentheraiz, 1655-05-25_saint-flour_subrogation_vezis-brousse, 1655-06-14_saint-flour_donation_bonafos-pademorgue, 1655-09-14_saint-flour_obligation_massebeau-pourrat, 1655-10-00_saint-flour_mariage_vidal-rossignol, 1655-11-00_saint-flour_vente_chastang-dupre, 1655-11-00_saint-flour_vente_combes-chomel, 1655-11-00_saint-flour_vente_mas, 1655-11-10_saint-flour_vente_jourdes-courtavel, 1655-11-10_saint-flour_vente_monet-combes, 1655-11-20_saint-flour_vente_bonnel-devaure, 1655-11-20_saint-flour_vente_fournier-chastang, 1655-12-05_saint-flour_quittance_brassac-parra, 1655-12-11_saint-flour_echange_hugon-calvel, 1656-00-00_saint-flour_mariage_piron-tremoliere, 1656-00-00_saint-flour_vente_basset, 1656-01-08_saint-flour_cession_david-prat, 1656-01-09_saint-flour_mariage_delort-bouchier, 1656-01-16_saint-flour_demission_fayon, 1656-01-17_saint-flour_mariage_sudre-suvrel, 1656-01-18_saint-flour_vente_astorg-molinier, 1656-01-19_allanche_testament_rigault, 1656-01-20_saint-flour_mariage_odoul-chambaroz, 1656-01-31_saint-flour_mariage_gauthevaz-chastre, 1656-02-10_saint-flour_vente_fray-mollinier, 1656-02-17_saint-flour_mariage_pulse-assalmi, 1656-02-19_saint-flour_mariage_mouzeyres-bonhomme, 1656-02-19_saint-flour_transaction_aurelle-vechassol, 1656-02-19_saint-flour_transaction_rolland-wanchier, 1656-02-19_saint-flour_vente_dolmeyre-odoul, 1656-02-20_saint-flour_mariage_fages-chastang, 1656-02-21_saint-flour_subrogation_villemault-albepart, 1656-02-23_saint-flour_vente_fray-hugon, 1656-02-23_saint-flour_vente_fraz-hugon, 1656-02-25_saint-flour_mariage_labroha-gillet, 1656-03-04_saint-flour_cession_caillandre-devames, 1656-03-08_saint-flour_vente_polverelles-chirol, 1656-03-11_saint-flour_transaction_hugon-grezer, 1656-03-13_saint-flour_echange_girard-chastel, 1656-03-13_saint-flour_vente_sauvaige-boudon, 1656-03-25_saint-flour_vente_marliac-debrou, 1656-03-29_saint-flour_vente_gaudelle-missonnier, 1656-03-31_saint-flour_donation_rongier-beaufilz, 1656-03-31_saint-flour_ratification_gaudelle-chanson, 1656-04-01_saint-flour_vente_amat-bernuy, 1656-04-03_saint-flour_subrogation_ceomes-rolland, 1656-04-06_saint-flour_transaction_rouzeyres, 1656-04-07_saint-flour_transaction_mallespaignes-chomme, 1656-04-08_saint-flour_vente_deramis-fauret, 1656-04-09_saint-flour_testament_gazard-vouger, 1656-04-15_saint-flour_quittance_bonnet-verghe, 1656-04-16_saint-flour_demission_sendoux-andelat, 1656-04-17_saint-flour_echange_boyer-bonnol, 1656-04-28_saint-flour_vente_alliadier-regimbalt, 1656-05-01_tanavelle_vente_boude-faure, 1656-05-02_saint-flour_vente_moyne-molinier, 1656-05-03_saint-flour_vente_bressolles-chanson, 1656-05-13_saint-flour_vente_pezat-devig, 1656-05-16_saint-flour_quittance_colomb-belloy, 1656-05-16_saint-flour_subrogation_jourdy-chanuel, 1656-05-17_saint-flour_echange_salvatge-chassang, 1656-05-18_saint-flour_mariage_bonniol-gilbert, 1656-05-20_alleuze_mariage_catala-chanson, 1656-05-20_saint-flour_vente_rispal-rouget, 1656-05-24_saint-flour_subrogation_bigot, 1656-05-27_saint-flour_vente_vachassol-cussat, 1656-06-00_saint-flour_quittance_boude-uchassol, 1656-06-00_saint-flour_vente_chabot-bechot, 1656-06-01_saint-flour_quittance_gauvail-vouget, 1656-06-02_saint-flour_transaction_claviere-bican, 1656-06-03_saint-flour_vente_miche-sibrogol, 1656-06-14_saint-flour_echange_salgues-hugon, 1656-06-14_saint-flour_ratification_tassy-lanes, 1656-06-15_villedieu_cession_chastel-devaux, 1656-06-23_saint-flour_subrogation_vossier-charbonnier, 1656-06-23_saint-flour_transaction_couderc-bo, 1656-06-25_villedieu_mariage_bondoy-tissoil, 1656-06-28_saint-flour_demission_bo-condere, 1656-07-00_saint-flour_echange_basset, 1656-07-00_saint-flour_mariage_chaluet-costerousse, 1656-07-00_saint-flour_testament_baldissard, 1656-07-01_saint-flour_echange_derames-chastang, 1656-07-09_saint-flour_mariage_estival-chaulhaguet, 1656-07-15_saint-flour_mariage_galdissard-dufour, 1656-08-00_saint-flour_codicille_aussel, 1656-08-04_saint-flour_testament_gauil, 1656-08-08_saint-flour_testament_odoul, 1656-08-11_saint-flour_subrogation_cussac-mathieu, 1656-08-20_saint-flour_mariage_rolland-cussac, 1656-08-26_saint-flour_mariage_bertrand-roche, 1656-08-26_saint-flour_mariage_mirmande-rochadde, 1656-09-02_seriers_testament_pouer, 1656-09-10_saint-flour_testament_aussel, 1656-09-12_saint-flour_cession_larochefoucauld-pontran, 1656-09-13_saint-flour_testament_bray-cussat, 1656-09-25_saint-flour_vente_sours-galvier, 1656-09-29_saint-flour_transaction_bouchard-chauliaguet, 1656-09-30_saint-flour_donation_bertrand, 1656-10-02_saint-flour_testament_bouzher, 1656-10-07_saint-flour_mariage_bo-rouget, 1656-10-07_saint-flour_mariage_combes-vallat, 1656-10-09_saint-flour_testament_apchier, 1656-10-13_saint-flour_inventaire_berthier-johanny, 1656-10-15_saint-flour_transaction_rol, 1656-10-17_saint-flour_donation_palhouzier-farreyre, 1656-10-18_saint-flour_demission_delmas-palhouzier, 1656-11-01_saint-flour_subrogation_albaret-basset, 1656-11-04_saint-flour_vente_marliac-delmas, 1656-11-05_saint-flour_vente_jonnenoux-pastre, 1656-11-08_saint-flour_mariage_sion-malhessaignes, 1656-11-14_saint-flour_transaction_albert-salvanhac, 1656-11-15_saint-flour_vente_chaldoreille-durand, 1656-11-15_saint-flour_vente_chevallier-lacombe, 1656-11-18_saint-flour_donation_chazal-molinier, 1656-11-19_saint-flour_mariage_galdissard-varron, 1656-11-19_saint-flour_testament_combes-polmeiller, 1656-11-19_saint-flour_vente_falvet-boulon, 1656-11-20_saint-flour_vente_bougeyre-rochier, 1656-11-20_saint-flour_vente_monnier, 1656-11-23_saint-flour_desistement_missonnier-monnier, 1656-11-26_saint-flour_quittance_cussac-nouzeyre, 1656-11-29_saint-flour_vente_delrieu-reuel, 1656-12-03_saint-flour_donation_bouger-bertrand, 1656-12-13_saint-flour_testament_cuzelle-rouget, 1656-12-13_saint-flour_vente_sudre-noclar, 1656-12-21_saint-flour_testament_bechot-dupre, 1656-12-22_saint-flour_vente_prophan-brassac, 1656-12-23_saint-flour_vente_solie-roussel, 1656-12-24_saint-flour_vente_vezin-chauliaguet, 1656-12-27_saint-flour_transaction_roux-bousoure, 1656-12-27_saint-flour_vente_fayon-odoul, 1656-12-28_saint-flour_mariage_mounier-boyer, 1656-12-28_saint-flour_vente_odoul-sauvaige, 1656-12-29_saint-flour_testament_nautomier, 1656-12-31_saint-flour_mariage_benedict-debrun, 1657-00-00_saint-flour_mariage_contarel-eschaubard, 1657-00-00_saint-flour_quittance_chevallier-boudon, 1657-00-00_saint-flour_subrogation_basset-roudil, 1657-00-00_saint-flour_subrogation_tranchier-mirmande, 1657-01-00_saint-flour_mariage_hugon-broha, 1657-01-08_saint-flour_mariage_armand-bastide, 1657-01-08_saint-flour_sommation_audigier-bonnet, 1657-01-17_saint-flour_mariage_aurelle-chaumel, 1657-01-22_saint-flour_mariage_berault-charreyre, 1657-01-23_saint-flour_demission_julhien, 1657-01-27_saint-flour_mariage_caston-castide, 1657-02-04_saint-flour_donation_champaignac-missonnier, 1657-02-05_saint-flour_mariage_brousy-fauret, 1657-02-06_saint-flour_testament_chaluet-juery, 1657-02-09_saint-flour_mariage_bergoin-vedrines, 1657-02-09_saint-flour_mariage_courmarie-bechot, 1657-02-14_saint-flour_mariage_chappoulle-rigault, 1657-02-17_saint-flour_demission_crespont-gaint, 1657-02-24_saint-flour_subrogation_tiouleyre-peschau, 1657-03-00_saint-flour_echange_pascal-boyer, 1657-03-05_saint-flour_testament_malzoni, 1657-03-07_saint-flour_testament_malet-vastonnet, 1657-03-08_saint-flour_testament_bonal-culhiere, 1657-03-19_saint-flour_subrogation_bonnault-canilhac, 1657-03-20_saint-flour_testament_aumergnoz, 1657-03-24_saint-flour_obligation_bastide-mabot, 1657-03-24_saint-flour_transaction_blanc, 1657-03-28_saint-flour_echange_alboy-gibrat, 1657-03-31_saint-flour_quittance_seveyres-fazon, 1657-04-08_saint-flour_mariage_vachier-bonnol, 1657-04-08_saint-flour_transaction_rechalier-basset, 1657-04-12_saint-flour_mariage_gallyer-barriol, 1657-04-16_saint-flour_transaction_bouchard-chauliaguet, 1657-04-21_saint-flour_quittance_julhien-vazieu, 1657-04-23_saint-flour_mariage_ferrand-chapoulade, 1657-04-25_saint-flour_testament_girion-combettes, 1657-04-29_saint-flour_transaction_rochier-maury, 1657-05-15_saint-flour_quittance_mallet-caurail, 1657-05-24_saint-flour_transaction_mauvy-mossier, 1657-05-25_saint-flour_testament_chazot, 1657-05-30_saint-flour_quittance_rolland-alboy, 1657-05-31_coltines_donation_chastang, 1657-06-08_saint-flour_testament_giroux, 1657-06-10_saint-flour_partage_vaysseyre-chapoulle, 1657-06-10_saint-flour_testament_gendre-vahon, 1657-06-11_saint-flour_cession_charreyre-lhoume, 1657-06-16_andelat_donation_boutoule-gault, 1657-06-16_saint-flour_donation_farlin-laspre, 1657-06-18_saint-flour_vente_chaudesaigues-coutel, 1657-06-21_saint-flour_retrait_cathalan-gillet, 1657-06-23_saint-flour_transaction_brugier-desheyrac, 1657-07-02_coltines_mariage_mas-cussac, 1657-07-02_saint-flour_transaction_combes-vidal, 1657-07-07_saint-flour_testament_cussac-massy, 1657-07-16_saint-flour_transaction_rodel-correilh, 1657-07-22_saint-flour_transaction_mallesaigne-portal, 1657-07-25_saint-flour_demission_cussac-martin, 1657-07-29_saint-flour_quittance_crouzat, 1657-08-26_borry_testament_barthet-chassang, 1657-09-00_saint-flour_echange_boyer-delastre, 1657-09-00_saint-flour_testament_meunier-cazot, 1657-09-07_saint-flour_testament_dufour, 1657-09-08_saint-flour_echange_thourrette-daude, 1657-09-09_saint-flour_mariage_tuffery-vedrines, 1657-09-22_saint-flour_vente_abatud-clavieres, 1657-10-00_saint-flour_testament_durand-malzonne, 1657-10-06_saint-flour_demission_charbonnier-meudre, 1657-10-06_saint-flour_mariage_david-mauranne, 1657-10-10_saint-flour_testament_delort-moner, 1657-10-14_saint-flour_testament_nicolas-sautheron, 1657-10-16_saint-flour_mariage_roux-reynaldy, 1657-10-30_saint-flour_vente_hugues-odoul, 1657-11-00_saint-flour_transaction_dauche-montet, 1657-11-10_saint-flour_transaction_cristal-crespoul, 1657-11-11_saint-flour_mariage_faure-marques, 1657-11-17_saint-flour_mariage_filhol-mallet, 1657-11-17_saint-flour_mariage_sauvet-jean, 1657-11-18_saint-flour_mariage_feytheraz-frezol, 1657-11-24_saint-flour_echange_chanson, 1657-11-24_saint-flour_testament_rolland, 1657-11-25_seriers_mariage_doumergue-chevallier, 1657-12-00_saint-flour_transaction_grassalt-chevallier, 1657-12-02_saint-flour_vente_fontanier-charbonnier, 1657-12-09_saint-flour_vente_jarlier-celarier, 1657-12-12_saint-flour_vente_rispal-bonafos, 1657-12-16_saint-flour_vente_leyssiedre-jourdy, 1657-12-20_saint-flour_testament_boudon-sauvaige, 1657-12-21_saint-flour_mariage_delrieu-charbonnel, 1657-12-21_saint-flour_testament_meindre-aicuard, 1657-12-26_saint-flour_requete_verge-sourzat, 1657-12-27_saint-flour_mariage_mazamblard-mauvy, 1658-00-00_saint-flour_testament_bergoin-mirmande, 1658-01-03_roffiac_mariage_battide-fayon, 1658-01-05_saint-flour_echange_rolland-gibrat, 1658-01-05_saint-flour_echange_rolland-uchassol, 1658-01-06_roffiac_testament_chevallier-mallet, 1658-01-06_saint-flour_quittance_foulhe-vesasol, 1658-01-06_saint-flour_subrogation_fayon, 1658-01-07_saint-flour_echange_uchafol-estienne, 1658-01-07_saint-flour_mariage_chapauaze-missonnier, 1658-01-07_saint-flour_mariage_pelegry-passenau, 1658-01-07_saint-flour_vente_laspre-monnier, 1658-01-10_saint-flour_echange_albieuf-chauliaguet, 1658-01-12_saint-flour_vente_santzenay-bechot, 1658-01-15_saint-flour_quittance_attalec-cussac, 1658-01-15_saint-flour_vente_gazel-parra, 1658-01-19_saint-flour_vente_grezes-eschallier, 1658-01-27_saint-flour_demission_salvage-vedrines, 1658-01-27_saint-flour_vente_devaluy-ollier, 1658-01-27_saint-flour_vente_ollier-delolme, 1658-01-30_saint-flour_vente_neufeglize-galdissard, 1658-02-03_siviers_mariage_chanson-ventughol, 1658-02-06_saint-flour_transaction_brassac-crabue, 1658-02-07_saint-flour_inventaire_bonafos-pademorgue, 1658-02-13_saint-flour_vente_sauron-jean, 1658-02-18_saint-flour_vente_mallessaigne-hoteldieu, 1658-02-24_saint-flour_testament_boyer, 1658-02-25_saint-flour_mariage_gardolle-colomb, 1658-02-25_saint-flour_mariage_vigier-chevalier, 1658-02-26_saint-flour_mariage_jean-bastide, 1658-02-26_saint-flour_ratification_vendrie-bechot, 1658-02-28_saint-flour_transaction_malbesaigne-charbonnier, 1658-03-00_saint-flour_mariage_paesse-masset, 1658-03-03_coltines_donation_vorze, 1658-03-03_coltines_mariage_nicolas-bonnet, 1658-03-07_saint-flour_vente_ballas-dupre, 1658-03-07_saint-flour_vente_delolme-delmar, 1658-03-14_coltines_echange_hugon-nicolas, 1658-03-14_saint-flour_echange_bardon-moreyre, 1658-03-17_saint-flour_cession_aurelle-chassang, 1658-03-17_saint-flour_convention_boy-duvoyet, 1658-03-17_saint-flour_echange_chadel-rougier, 1658-03-18_saint-flour_ratification_coutarel-chausson, 1658-03-19_saint-flour_vente_rispal-bonafos, 1658-03-20_saint-flour_revente_juery-rolland, 1658-03-24_saint-flour_echange_chassaigne-boudil, 1658-03-26_saint-flour_testament_bussac-nostas, 1658-03-26_saint-flour_transaction_bechot-saintantony, 1658-03-28_saint-flour_quittance_blanchy-caguot, 1658-04-00_saint-flour_cession_crozat-jouve, 1658-04-00_saint-flour_vente_meyhot-mallessaignes, 1658-04-00_saint-flour_vente_vaissiere-fabry, 1658-04-01_saint-flour_transaction_cussac-chausse, 1658-04-02_saint-flour_donation_roche-bondurand, 1658-04-02_saint-flour_vente_astaly-jourdy, 1658-04-02_saint-flour_vente_pantard, 1658-04-08_saint-flour_vente_fizol, 1658-04-09_saint-flour_transaction_hugon-volland, 1658-04-10_saint-flour_echange_alboy-pirolle, 1658-04-13_saint-flour_desistement_apchier-julhe, 1658-04-13_saint-flour_vente_rabue-mouliarac, 1658-04-15_saint-flour_echange_lafage-tiouleyre, 1658-04-20_saint-flour_vente_combes-deloire, 1658-04-20_saint-flour_vente_costrousse-chalvyer, 1658-04-24_saint-flour_subrogation_basset-roudil, 1658-04-25_saint-flour_vente_mallet, 1658-04-30_saint-flour_donation_hugon, 1658-05-00_saint-flour_vente_bleyle-portail, 1658-05-02_saint-flour_cession_lauriac-rolland, 1658-05-02_saint-flour_testament_boyer, 1658-05-03_roffiac_sommation_aurelle-rolland, 1658-05-08_saint-flour_vente_hugon-lassy, 1658-05-13_saint-flour_vente_bonnafos-rispal, 1658-05-15_saint-flour_mariage_mourgues-martin, 1658-05-18_saint-flour_mariage_chambaron-delmas, 1658-05-18_saint-flour_mariage_chambaron-delmas_b, 1658-05-18_saint-flour_mariage_chazalledez-chauses, 1658-05-18_saint-flour_vente_chaluet-charlotes, 1658-05-19_saint-flour_mariage_archier-brassac, 1658-05-21_saint-flour_echange_tassy-barreyre, 1658-05-25_saint-flour_testament_rigault, 1658-05-25_saint-flour_vente_bertrand-debrons, 1658-05-27_saint-flour_subrogation_bougier-fontes, 1658-05-27_saint-flour_vente_tafanel-combes, 1658-05-31_saint-flour_echange_sauret-chossy, 1658-06-00_saint-flour_donation_giraldon-durand, 1658-06-00_saint-flour_vente_andrieu-contie, 1658-06-02_saint-flour_subrogation_bonafos-jourdy, 1658-06-02_saint-flour_testament_giraldon-durand, 1658-06-02_saint-flour_vente_mauranin-margerit, 1658-06-04_saint-flour_vente_espinal-albuisson, 1658-06-06_saint-flour_testament_julhe, 1658-06-08_saint-flour_donation_duviallard-fontes, 1658-06-16_saint-flour_quittance_jarlier-cellarier, 1658-06-23_saint-flour_mariage_chausse-fourcharie, 1658-06-23_saint-flour_testament_culhiere, 1658-06-24_saint-flour_vente_gibrat-rouget, 1658-06-27_saint-flour_vente_roche-golvain, 1658-06-29_saint-flour_vente_lallandier-noslac, 1658-06-29_saint-flour_vente_maurane-hugon, 1658-07-03_saint-flour_testament_challier, 1658-07-04_saint-flour_vente_rous-mas, 1658-07-04_saint-flour_vente_roux-chassang, 1658-07-06_saint-flour_transaction_tassy-grives, 1658-07-06_saint-flour_vente_chanson, 1658-07-06_saint-flour_vente_sauvaie-rouget, 1658-07-07_saint-flour_mariage_bechot-aliadieres, 1658-07-10_saint-flour_testament_barnier-vidal, 1658-07-10_saint-flour_vente_chanson-bonafos, 1658-07-13_saint-flour_donation_combes-mauly, 1658-07-15_saint-flour_testament_delort, 1658-07-16_saint-flour_vente_benezet-brassalt, 1658-07-21_saint-flour_echange_jouve-borel, 1658-07-21_saint-flour_mariage_alboy-benezit, 1658-07-25_saint-flour_obligation_pages-rouger, 1658-07-25_saint-flour_transaction_surrel, 1658-07-26_saint-flour_vente_sombes-pages, 1658-07-28_saint-flour_mariage_lavergne-loussert, 1658-07-28_saint-flour_testament_veyle, 1658-07-29_saint-flour_donation_andrieu-fontes, 1658-08-04_saint-flour_demission_juery-chanson, 1658-08-04_saint-flour_mariage_brounet-polverelles, 1658-08-05_saint-flour_testament_gendre-rahon, 1658-08-13_saint-flour_testament_blau-trenchier, 1658-08-18_saint-flour_donation_masset-chinaze, 1658-08-19_saint-flour_cession_odoul-sauret, 1658-08-20_saint-flour_inventaire_delort-bechot, 1658-08-24_saint-flour_vente_couderc-durand, 1658-08-25_saint-flour_echange_roubeyre-bavreyre, 1658-09-04_saint-flour_vente_moynie-vezin, 1658-09-09_saint-flour_vente_lhoure-chauliaguet, 1658-09-09_saint-flour_vente_thoure-chauliaguet, 1658-09-15_saint-flour_mariage_vaylet-fernail, 1658-09-17_saint-flour_vente_pages-rouget, 1658-09-17_saint-flour_vente_vigier-pages, 1658-09-21_saint-flour_mariage_baldissard-laurier, 1658-09-21_saint-flour_mariage_laurier-galdissard, 1658-09-22_saint-flour_testament_delcros-andrieu, 1658-09-23_saint-flour_mariage_sauvel-sauret, 1658-09-24_saint-flour_vente_estival-rouchette, 1658-09-25_saint-flour_vente_delrieu-david, 1658-09-28_saint-flour_cession_duvoyet-boy, 1658-09-29_saint-flour_donation_jacques-berhot, 1658-09-29_saint-flour_transaction_delort-berthot, 1658-10-02_saint-flour_echange_daufeulhe-bonnet, 1658-10-02_saint-flour_echange_daufeulhe-hugon, 1658-10-08_saint-flour_echange_boude-filhol, 1658-10-08_saint-flour_quittance_boude-filhol, 1658-10-10_saint-flour_mariage_pagez-reghade, 1658-10-14_saint-flour_vente_uchafol-bergoin, 1658-10-16_saint-flour_vente_raymond-fabry, 1658-10-18_saint-flour_transaction_mallessaignes-beaufilz, 1658-10-22_roffiac_vente_marly-brugier, 1658-10-26_saint-flour_testament_brousse-apchier, 1658-10-27_saint-flour_demission_vedrines-bonnet, 1658-10-29_saint-flour_vente_cochinie, 1658-11-03_saint-flour_demission_leyssedre-roudil, 1658-11-06_saint-flour_echange_bougier-chauliaguet, 1658-11-07_saint-flour_testament_reynalt-boudon, 1658-11-07_saint-flour_vente_rouches-bechot, 1658-11-10_saint-flour_bail_monnier-vedrines, 1658-11-16_saint-flour_mariage_daunis-rouget, 1658-11-16_saint-flour_rente_roussilhe-benezit, 1658-11-16_saint-flour_vente_baoreyre-odoul, 1658-11-18_saint-flour_donation_gaultier, 1658-11-23_saint-flour_vente_marlhac-florand, 1658-11-25_saint-flour_vente_solier-jourdy, 1658-11-28_saint-flour_vente_sudre-alboy, 1658-11-30_saint-flour_vente_albuisson, 1658-12-07_saint-flour_vente_jean-bressolles, 1658-12-11_saint-flour_vente_serieys-rolland, 1658-12-14_saint-flour_obligation_fabre, 1658-12-16_saint-flour_quittance_malestaigne-richard, 1658-12-16_saint-flour_vente_dejarques-berault, 1658-12-18_saint-flour_vente_lamerie-chauliaguet, 1658-12-24_saint-flour_vente_brousse, 1658-12-29_saint-flour_vente_richard-poulverelles, 1659-00-00_saint-flour_donation_odoul, 1659-00-00_saint-flour_vente_broche-hugon, 1659-01-04_saint-flour_donation_chastel, 1659-01-04_saint-flour_echange_chauliaguet-clavilyer, 1659-01-11_saint-flour_vente_pedechon-foraud, 1659-01-11_saint-flour_vente_prohan-verrel, 1659-01-12_alleuze_vente_chanson-mournac, 1659-01-12_saint-flour_vente_valdissard-fabry, 1659-01-14_saint-flour_vente_boyer-barthomeuf, 1659-01-19_mentieres_mariage_eschallier-galdissard, 1659-01-19_saint-flour_mariage_chappelle-sarrazin, 1659-01-22_andelat_donation_roux-alboy, 1659-01-26_saint-flour_vente_roche-cussac, 1659-01-28_saint-flour_vente_domergue-gerauld, 1659-02-01_saint-flour_obligation_chazal-meinier, 1659-02-02_saint-flour_vente_brol-eschallier, 1659-02-02_saint-flour_vente_chastang-cussac, 1659-02-04_saint-flour_mariage_galdissard-eschallier, 1659-02-05_saint-flour_rente_saumade-polverelles, 1659-02-06_saint-flour_vente_vandal-juery, 1659-02-08_saint-flour_partage_mallet-rolland, 1659-02-10_mentieres_quittance_jarlier-delaspre, 1659-02-10_saint-flour_echange_chabot-jurry, 1659-02-10_saint-flour_subrogation_suvert-bechot, 1659-02-11_saint-flour_testament_chirol, 1659-02-12_saint-flour_vente_desparou-rouget, 1659-02-17_saint-flour_echange_malet-filhol, 1659-02-18_saint-flour_echange_monnier-mirmande, 1659-02-19_saint-flour_echange_foraud-frenal, 1659-02-20_paulhac_donation_chambon, 1659-02-20_roffiac_mariage_gibrat-judy, 1659-02-22_saint-flour_echange_odoul-bastide, 1659-02-22_saint-flour_mariage_faure-grezes, 1659-02-22_saint-flour_partage_aymeric-odoul, 1659-02-23_saint-flour_vente_cheylard-fabre, 1659-02-25_saint-flour_mariage_mounier-leyssandre, 1659-02-27_saint-flour_vente_buge-chauliaguet, 1659-03-01_saint-flour_demission_delort-vedrines, 1659-03-01_saint-flour_vente_esteve-margerit, 1659-03-08_saint-flour_vente_chastang-maury, 1659-03-09_saint-flour_vente_jourdy-girard, 1659-03-13_saint-flour_donation_beaufet-juery, 1659-03-14_saint-flour_vente_herault-fouchier, 1659-03-15_saint-flour_echange_bouniol-gazes, 1659-03-18_saint-flour_testament_rouchez, 1659-03-22_saint-flour_donation_coucherie-teyssedre, 1659-03-22_saint-flour_mariage_chastang-jarlyer, 1659-03-22_saint-flour_vente_valdissard-fabry, 1659-03-23_saint-flour_vente_andrieu-boysseyre, 1659-03-23_saint-flour_vente_bleyle-delmas, 1659-03-24_saint-flour_vente_talizat-vedrines, 1659-03-26_saint-flour_vente_taillandier-roslan, 1659-03-27_saint-flour_obligation_cussac-chaulhac, 1659-03-28_saint-flour_vente_charreyre-mirmande, 1659-03-31_saint-flour_ratification_fayon-boudon, 1659-04-00_saint-flour_vente_raymond-fabry, 1659-04-00_saint-flour_vente_roux, 1659-04-01_saint-flour_vente_vicard, 1659-04-06_saint-flour_vente_chassang-dabladie, 1659-04-06_saint-flour_vente_delaspre-chaulaguet, 1659-04-12_saint-flour_donation_crouzat, 1659-04-15_saint-flour_echange_bonniol-colomb, 1659-04-20_saint-flour_vente_marliac-roche, 1659-04-25_saint-flour_cession_brugeyre-cussac, 1659-04-27_saint-flour_vente_mallet-chauliaguet, 1659-05-01_saint-flour_vente_apchier-sarrazin, 1659-05-05_saint-flour_vente_margerit-chastang, 1659-05-06_saint-flour_vente_andrieu-cesserdre, 1659-05-06_saint-flour_vente_merle-traverse, 1659-05-10_saint-flour_obligation_girard, 1659-05-11_saint-flour_echange_sauvet-david, 1659-05-11_saint-flour_quittance_bernard-bonniol, 1659-05-11_saint-flour_testament_delchier, 1659-05-11_saint-flour_vente_jeay-apcher, 1659-05-13_saint-flour_cession_eschallier-vigier, 1659-05-14_saint-flour_donation_foulto-vigier, 1659-05-24_saint-flour_vente_sentheren-brassac, 1659-05-31_roffiac_testament_sottavie-delmas, 1659-05-31_saint-flour_vente_valarcher-parra, 1659-06-00_saint-flour_cession_fontes-cussac, 1659-06-02_saint-flour_echange_buge-marchar, 1659-06-04_saint-flour_vente_choffy-sauvet, 1659-06-05_saint-flour_donation_soulhier-boudon, 1659-06-05_saint-flour_echange_fareyre-siomy, 1659-06-05_saint-flour_partage_vedrines-mirmande, 1659-06-05_saint-flour_testament_devanier, 1659-06-07_saint-flour_transaction_gillet-labroha, 1659-06-08_saint-flour_transaction_crespoul-cristal, 1659-06-08_saint-flour_vente_begon-bechot, 1659-06-08_saint-flour_vente_monnier-pauc, 1659-06-14_saint-flour_revente_vedrines-albepard, 1659-06-16_saint-flour_vente_gardret-chanson, 1659-06-22_saint-flour_vente_ollivier-hugon, 1659-06-23_saint-flour_vente_estieu-rolland, 1659-06-23_saint-flour_vente_mournat-bonniol, 1659-07-00_saint-flour_echange_fabry-raymond, 1659-07-02_saint-flour_mariage_durantz-chandorat, 1659-07-02_saint-flour_transaction_fabre-bossuge, 1659-07-05_saint-flour_mariage_seimen-rolland, 1659-07-05_saint-flour_vente_chavergne-chauliaguet, 1659-07-11_saint-flour_vente_saulheirou-bechot, 1659-07-18_saint-flour_mariage_merle-combes, 1659-07-27_saint-flour_vente_mary-regimbalt, 1659-07-27_saint-flour_vente_vidal-estival, 1659-07-31_saint-flour_donation_rigault, 1659-07-31_saint-flour_vente_bonafos-chanliague, 1659-08-00_saint-flour_mariage_reynalt-alladier, 1659-08-06_saint-flour_vente_andrieu-rochier, 1659-08-17_saint-flour_quittance_vidal-bossuge, 1659-08-18_saint-flour_testament_grezes, 1659-08-24_villedieu_testament_jouve, 1659-08-31_saint-flour_vente_aujolet-poulauvellon, 1659-09-02_saint-flour_mariage_chaumel-fazes, 1659-09-06_saint-flour_testament_briger, 1659-09-08_saint-flour_testament_chauliaguet-chabot, 1659-09-10_inconnu_testament_chanson, 1659-09-10_villedieu_inventaire_chavallier-tisset, 1659-09-18_saint-flour_testament_rey-callizat, 1659-09-18_saint-flour_testament_tissier-broussy, 1659-09-18_saint-flour_transaction_durand-juery, 1659-09-22_saint-flour_inventaire_sauret, 1659-09-22_saint-flour_testament_orchier, 1659-09-22_saint-flour_vente_bonnal-rolland, 1659-09-26_saint-flour_testament_blanc, 1659-09-27_saint-flour_vente_pouneville-boutette, 1659-09-29_saint-flour_cession_laurier, 1659-10-01_roffiac_testament_estieu-daurs, 1659-10-03_saint-flour_vente_coutarel-delmas, 1659-10-05_saint-flour_donation_cussac, 1659-10-08_saint-flour_obligation_hugon-broche, 1659-10-09_saint-flour_testament_bouniol, 1659-10-12_villedieu_mariage_gastail-daude, 1659-10-14_saint-flour_vente_tiouleyre-pelegrin, 1659-10-19_saint-flour_testament_dulac, 1659-10-25_saint-flour_vente_couderc-mounier, 1659-11-03_andelat_donation_brezes, 1659-11-07_roffiac_vente_rolland-brugier, 1659-11-09_saint-flour_vente_boussuge-mollinier, 1659-11-13_saint-flour_vente_carrier-chastang, 1659-11-15_saint-flour_mariage_hugon-juery, 1659-11-16_saint-flour_mariage_fazes-barthomeuf, 1659-11-16_saint-flour_vente_barthet, 1659-11-18_roffiac_vente_trabue-mallet, 1659-11-18_saint-flour_mariage_chastang-rol, 1659-11-20_saint-flour_testament_esbrard, 1659-11-22_saint-flour_vente_combes-barres, 1659-11-23_saint-flour_mariage_falgheyras-bossuge, 1659-11-29_saint-flour_vente_bonniol-rolland, 1659-11-29_saint-flour_vente_jean-lafaige, 1659-12-04_saint-flour_vente_massebeau-rayrou, 1659-12-06_roffiac_vente_rolland-brassac, 1659-12-08_saint-flour_cession_sauret, 1659-12-13_saint-flour_mariage_coiffier-fabre, 1659-12-13_saint-flour_testament_rolland-faluet, 1659-12-15_saint-flour_quittance_colomb-guimbal, 1659-12-16_saint-flour_donation_bechot-sauret, 1659-12-20_saint-flour_vente_bonnol, 1659-12-22_saint-flour_donation_broche-regimbalt, 1659-12-22_saint-flour_testament_roche-hugon, 1659-12-27_saint-flour_vente_auzadour-tissier, 1659-12-29_saint-flour_vente_barthet, 1660-00-00_saint-flour_mariage_bardolle-falgeyrac, 1660-00-00_saint-flour_sommation_audigier-nicolas, 1660-01-00_saint-flour_convention_mourgue-saintjolles, 1660-01-02_roffiac_testament_jean, 1660-01-04_saint-flour_cession_fleol-boudet, 1660-01-04_saint-flour_donation_rossene-hugon, 1660-01-06_saint-flour_mariage_martin-cussac, 1660-01-10_saint-flour_vente_albepart-daufeulhe, 1660-01-10_saint-flour_vente_lanie-avrilee, 1660-01-11_saint-flour_vente_rispal-gerault, 1660-01-16_saint-flour_donation_maraygue, 1660-01-17_saint-flour_vente_clautrier-chauliaguet, 1660-01-21_saint-flour_donation_nouzeyres-pages, 1660-01-23_saint-flour_donation_roussene-charbonnier, 1660-01-24_saint-flour_sommation_parra-boudet, 1660-01-24_saint-flour_vente_richard-rolland, 1660-01-26_auzolles_mariage_maury-mighoulle, 1660-01-30_saint-flour_testament_cathalla-trenchier, 1660-01-31_saint-flour_mariage_eschallier-montgial, 1660-01-31_saint-flour_vente_maury, 1660-02-00_saint-flour_testament_grandet, 1660-02-03_saint-flour_vente_brous-jouvente, 1660-02-04_roffiac_mariage_mallet-fontes, 1660-02-04_saint-flour_donation_boudet-auriac, 1660-02-04_saint-flour_vente_chalvet-traverse, 1660-02-04_saint-flour_vente_fayon-rongier, 1660-02-06_saint-flour_transaction_gozet-bastide, 1660-02-07_saint-flour_mariage_bonnel-lager, 1660-02-10_saint-flour_mariage_portal-baldissard, 1660-02-10_villedieu_mariage_berhot-couchaire, 1660-02-13_saint-flour_partage_chassang-rol, 1660-02-13_saint-flour_quittance_soucher, 1660-02-13_villedieu_testament_david-jouve, 1660-02-14_saint-flour_echange_chauliaguet-sauret, 1660-02-14_saint-flour_vente_fromen-chastel, 1660-02-15_saint-flour_vente_bonnefoy-jumeal, 1660-02-15_saint-flour_vente_sauret-chauliaguet, 1660-02-18_saint-flour_mariage_chargebeuf-chalier, 1660-02-20_saint-flour_vente_grizet-suvvel, 1660-02-21_saint-flour_vente_cristal-odoul, 1660-02-25_saint-flour_testament_chastang, 1660-03-00_saint-flour_testament_grassalt, 1660-03-05_saint-flour_donation_sauor-tremolhol, 1660-03-06_saint-flour_donation_fontanier-recoudier, 1660-03-10_saint-flour_donation_cibial, 1660-03-11_saint-flour_testament_roux, 1660-03-12_saint-flour_testament_bazard-rouget, 1660-03-13_saint-flour_vente_doumergue-bechot, 1660-03-16_saint-flour_testament_fromen-sentherain, 1660-03-19_saint-flour_vente_sentherain, 1660-03-23_saint-flour_vente_juery-talhand, 1660-03-24_saint-flour_testament_challier-pissauj, 1660-03-25_saint-flour_donation_ambrols-baldissard, 1660-03-25_saint-flour_donation_aubiole-cussac, 1660-03-27_saint-flour_donation_faucon-passanau, 1660-03-29_saint-flour_vente_chambaron-ferrand, 1660-03-30_saint-flour_vente_roussel-chirol, 1660-03-31_saint-flour_partage_bastide-cueyspoul, 1660-03-31_saint-flour_vente_reynault-jordin, 1660-04-00_saint-flour_vente_chanson, 1660-04-04_saint-flour_testament_fontes, 1660-04-10_saint-flour_mariage_castide-meylieu, 1660-04-10_saint-flour_testament_chasbel, 1660-04-14_saint-flour_vente_blanche-rolland, 1660-04-14_saint-flour_vente_chassang-faure, 1660-04-17_saint-flour_vente_froys-coutel, 1660-04-17_saint-flour_vente_gardelle-couzhavie, 1660-04-20_saint-flour_testament_valadier, 1660-04-20_saint-flour_vente_chanson, 1660-04-24_saint-flour_vente_rouget-boudon, 1660-04-25_saint-flour_bail_chanson-rouva, 1660-04-26_saint-flour_vente_bonnet-chauliaguet, 1660-04-26_saint-flour_vente_jacques-traverse, 1660-04-28_saint-flour_echange_clatty-rolland, 1660-05-01_saint-flour_mariage_rossignol-taillande, 1660-05-01_saint-flour_vente_migne-bougier, 1660-05-08_saint-flour_mariage_dupre-traverse, 1660-05-08_saint-flour_vente_charreyre-esserand, 1660-05-09_saint-flour_echange_faurges-jarlier, 1660-05-09_saint-flour_vente_rouget-lheritier, 1660-05-15_saint-flour_vente_couzarie-chanson, 1660-05-15_saint-flour_vente_pellegrin-bechot, 1660-05-17_saint-flour_vente_esteve-chevallier, 1660-05-18_saint-flour_donation_chavanier, 1660-05-18_saint-flour_vente_chappoulade-boudon, 1660-05-19_saint-flour_donation_chabanier, 1660-05-20_saint-flour_testament_dufour, 1660-05-22_saint-flour_vente_sarron-dupre, 1660-05-23_saint-flour_vente_boussolles-sauvet, 1660-05-26_saint-flour_testament_bener-chanson, 1660-05-28_saint-flour_mariage_bertrand-sauvat, 1660-05-29_saint-flour_bail_vidal-rouve, 1660-06-00_saint-flour_vente_chalmete-julhe, 1660-06-02_saint-flour_bail_ytual-fromen, 1660-06-02_saint-flour_transaction_ythual-durand, 1660-06-02_saint-flour_vente_chassat-chastrac, 1660-06-05_saint-flour_echange_buge-delmas, 1660-06-06_saint-flour_vente_doumergue-dupre, 1660-06-06_saint-flour_vente_rolland-chastang, 1660-06-09_saint-flour_mariage_caillandier-cussac, 1660-06-09_saint-flour_vente_sauvet-marlhiac, 1660-06-11_saint-flour_vente_juery-gibrat, 1660-06-14_saint-flour_testament_cochespy, 1660-06-15_saint-flour_vente_chappus-patissoulx, 1660-06-16_saint-flour_transaction_seugrac-dubois, 1660-06-17_saint-flour_donation_vezin, 1660-06-18_saint-flour_vente_crozatier-delolme, 1660-06-19_saint-flour_donation_artis-maulhac, 1660-06-19_saint-flour_vente_chanson, 1660-06-19_saint-flour_vente_pages, 1660-06-20_saint-flour_vente_albaret-ygonnet, 1660-06-24_saint-flour_vente_manoy-roudil, 1660-06-27_saint-flour_transaction_parro-gastal, 1660-06-29_saint-flour_vente_missonnier-berault, 1660-07-01_roffiac_vente_uchassol-saintheiry, 1660-07-02_saint-flour_transaction_boudon-vachier, 1660-07-04_villedieu_testament_bastare, 1660-07-10_saint-flour_echange_beluze-margarit, 1660-07-11_saint-flour_vente_brezer-monnier, 1660-07-18_saint-flour_vente_peutgere-montgial, 1660-07-25_saint-flour_vente_lebre-joune, 1660-08-01_saint-flour_vente_pelegry-vigier, 1660-08-02_saint-flour_mariage_brassac-brugon, 1660-08-10_saint-flour_echange_mallessaignes-david, 1660-08-12_saint-flour_vente_solie-charreyre, 1660-08-16_saint-flour_vente_bossuge-bo, 1660-08-22_saint-flour_cession_vaysseyre-dobax, 1660-08-22_saint-flour_mariage_aujolet-rossignol, 1660-08-22_saint-flour_mariage_blanc-pignol, 1660-08-27_saint-flour_mariage_brassac-chastang, 1660-08-30_saint-flour_vente_monier-bonnet, 1660-09-05_saint-flour_echange_mallessaignes-fajon, 1660-09-16_saint-flour_procuration_roquelaure-fontes, 1660-09-17_saint-flour_testament_rossene-bonnet, 1660-09-18_saint-flour_testament_barthet, 1660-09-19_saint-flour_vente_cordes, 1660-09-21_la-brousse_testament_maury, 1660-09-27_saint-flour_testament_farreyre, 1660-09-29_saint-flour_testament_broncy-tissier, 1660-09-30_saint-flour_vente_chapus-batiffolier, 1660-10-00_saint-flour_testament_apchier, 1660-10-04_saint-flour_vente_molinier-maury, 1660-10-16_saint-flour_vente_andrieu-rolland, 1660-10-17_saint-flour_vente_mar-roulergue, 1660-10-18_saint-flour_donation_brol-chassang, 1660-10-19_saint-flour_vente_tissard-boudon, 1660-10-20_saint-flour_testament_palisse-bourdon, 1660-10-23_saint-flour_mariage_mazel-rossignol, 1660-10-23_saint-flour_vente_bardon-odoul, 1660-10-29_saint-flour_cession_gilles-thomel, 1660-10-29_saint-flour_cession_teilhard-parra, 1660-10-29_saint-flour_donation_rispal-bechot, 1660-11-03_saint-flour_testament_boudon-pelissier, 1660-11-06_saint-flour_declaration_miallet, 1660-11-10_salhans_transaction_freval-fontes, 1660-11-13_saint-flour_transaction_roquelaure-fontes, 1660-11-14_saint-flour_vente_polverelles, 1660-11-20_saint-flour_mariage_chausoz-montgial, 1660-11-21_saint-flour_mariage_chassoulle-mollinier, 1660-11-22_saint-flour_donation_missonnier-counord, 1660-12-04_saint-flour_ratification_aguet-delort, 1660-12-11_saint-flour_vente_martin-suvert, 1660-12-18_saint-flour_subrogation_mollinier-chanson, 1660-12-21_saint-flour_vente_mezhot-marron, 1660-12-29_alleuze_testament_barthet-chanson, 1661-00-00_saint-flour_echange_bertoi-brunel, 1661-00-00_saint-flour_partage_lassaigne-bonneval, 1661-01-04_saint-flour_vente_caumeilhand-boyer, 1661-01-08_saint-flour_mariage_gastal-blanchier, 1661-01-15_montaignaguet_mariage_crabier-baldissard, 1661-01-15_saint-flour_mariage_alboy-pellegrin, 1661-01-16_saint-flour_echange_sibrac-fiou, 1661-01-16_saint-flour_mariage_rolland-cussac, 1661-01-17_saint-flour_demission_gardelle-chanson, 1661-01-20_saint-flour_vente_doumergue-bechot, 1661-01-22_saint-flour_mariage_chastel-alezar, 1661-01-25_saint-flour_mariage_boyer-bonniol, 1661-01-29_saint-flour_vente_galdissard-seutheren, 1661-02-01_saint-flour_mariage_chassany-asalbert, 1661-02-01_saint-flour_testament_reguibal-vidal, 1661-02-04_saint-flour_donation_traverse-benezit, 1661-02-04_saint-flour_vente_besseyre-david, 1661-02-12_saint-flour_testament_daude, 1661-02-13_saint-flour_vente_bourgier-arzalier, 1661-02-14_saint-flour_mariage_chastel-hugon, 1661-02-16_saint-flour_mariage_jarlier-surrel, 1661-02-18_saint-flour_testament_lisset, 1661-02-18_saint-flour_vente_coutel-bertrand, 1661-02-19_fayet_mariage_chanson-eschallier, 1661-02-19_saint-flour_vente_soubrier-germany, 1661-02-20_saint-flour_vente_blanchier-brassac, 1661-02-22_saint-flour_echange_missonnier-grezes, 1661-02-22_villedieu_testament_dapond, 1661-02-24_saint-flour_mariage_prat-pauc, 1661-02-25_saint-flour_testament_rigault, 1661-02-25_saint-flour_vente_coucharie-chanson, 1661-02-26_saint-flour_vente_cayrou-cayron, 1661-02-27_saint-flour_partage_gibrat, 1661-03-00_saint-flour_vente_cathalan, 1661-03-00_saint-flour_vente_chappoulle-soucher, 1661-03-00_saint-flour_vente_delort-delaroche, 1661-03-01_saint-flour_mariage_vaisseyre-aurelle, 1661-03-03_saint-flour_vente_maury-apchier, 1661-03-03_saint-flour_vente_maury-apchier_b, 1661-03-04_saint-flour_testament_rossignol, 1661-03-05_saint-flour_mariage_chausoz-aurelle, 1661-03-06_saint-flour_vente_bonniol-rolland, 1661-03-07_saint-flour_testament_raul, 1661-03-12_saint-flour_testament_baster, 1661-03-14_saint-flour_testament_herault-lacoste, 1661-03-15_saint-flour_testament_boyer-boudon, 1661-03-19_saint-flour_partage_cussac-maury, 1661-03-19_saint-flour_testament_bantuyol, 1661-03-20_saint-flour_vente_dorpheulle-baldissard, 1661-03-20_saint-flour_vente_sentherain-bechot, 1661-03-22_saint-flour_vente_delort-delaroche, 1661-03-25_saint-flour_vente_cayron-dupre, 1661-03-26_saint-flour_echange_defondz-bavoyre, 1661-03-26_saint-flour_vente_garon-cancal, 1661-03-28_saint-flour_echange_grezes, 1661-04-02_saint-flour_echange_fucal-alissard, 1661-04-02_saint-flour_vente_rispal-caylar, 1661-04-07_saint-flour_testament_basset, 1661-04-13_villedieu_testament_rolland, 1661-04-21_saint-flour_testament_gendre-dehauvet, 1661-04-23_saint-flour_vente_colomb-borde, 1661-04-26_saint-flour_vente_richard-coutel, 1661-04-27_saint-flour_echange_roudil-benezit, 1661-04-29_saint-flour_testament_bagues, 1661-05-00_saint-flour_donation_charrier-vidalene, 1661-05-05_saint-flour_vente_bestier-cathalan, 1661-05-05_saint-flour_vente_roudil-benezit, 1661-05-14_saint-flour_vente_bastail-cayron, 1661-05-15_saint-flour_mariage_roux-marthe, 1661-05-22_saint-flour_mariage_roche-deschaptz, 1661-05-23_saint-flour_echange_hugon-barreyre, 1661-05-26_liouzargues_mariage_cussac-fromens, 1661-05-26_saint-flour_vente_bertrand-lafaige, 1661-05-28_saint-flour_vente_clavillier-chanson, 1661-06-03_saint-flour_testament_chalvet-seghalory, 1661-06-09_saint-flour_testament_audouin-fajon, 1661-06-11_saint-flour_vente_bousquet-nozieres, 1661-06-12_saint-flour_vente_mallet-teissedre, 1661-06-19_saint-flour_vente_bousseyre-seguy, 1661-06-23_saint-flour_testament_chastang-vigier, 1661-06-27_saint-flour_echange_saignes-delcros, 1661-07-02_saint-flour_vente_rispal-bechot, 1661-07-07_saint-flour_donation_uchassol, 1661-07-07_saint-flour_testament_maurin-bourrel, 1661-07-08_saint-flour_vente_achier-solier, 1661-07-08_saint-flour_vente_achier-solier_b, 1661-07-14_saint-flour_echange_mas-bardon, 1661-07-15_saint-flour_testament_sauvet, 1661-07-17_saint-flour_vente_bardon-david, 1661-07-20_andelat_testament_chastel-alboy, 1661-07-22_alleuze_testament_gardelle, 1661-08-03_saint-flour_testament_herault-champelaux, 1661-08-06_saint-flour_testament_deltort-teller, 1661-08-06_saint-flour_vente_brassac-lavergne, 1661-08-13_saint-flour_codicille_chalvet-seghalory, 1661-08-13_saint-flour_donation_talezar, 1661-08-28_saint-flour_mariage_chaulhac-meyliot, 1661-08-30_saint-flour_testament_levat, 1661-09-02_saint-flour_testament_chalui, 1661-09-02_saint-flour_testament_uchassol-charbonnel, 1661-09-07_saint-flour_testament_colrac, 1661-09-08_saint-flour_testament_charreyre, 1661-09-08_saint-flour_vente_richard-chappoulade, 1661-09-12_saint-flour_testament_sudre-rouget, 1661-09-18_saint-flour_echange_coutel-roudil, 1661-09-18_saint-flour_subrogation_apchier-auvergne, 1661-09-18_saint-flour_transaction_albert-chastang, 1661-09-23_saint-flour_echange_franchier-crozat, 1661-09-25_saint-flour_vente_franchier-crozat, 1661-09-26_saint-flour_testament_mallessaigne, 1661-10-00_saint-flour_testament_solier, 1661-10-01_villedieu_testament_david, 1661-10-05_saint-flour_testament_boyer, 1661-10-05_saint-flour_vente_bastide-brassac, 1661-10-07_roffiac_testament_rolland-cussac, 1661-10-08_saint-flour_vente_falhet-chaulhaguet, 1661-10-15_saint-flour_vente_delaspre-trabuc, 1661-10-16_saint-flour_vente_bosseyre-bechot, 1661-10-21_saint-flour_testament_sentherain-eschalier, 1661-10-29_saint-flour_cession_roux-boudon, 1661-10-29_saint-flour_vente_roux-pautard, 1661-10-29_saint-flour_vente_roux-pautard_b, 1661-11-00_alleuze_donation_andrieu, 1661-11-05_saint-flour_donation_brassac, 1661-11-08_saint-flour_echange_dupre-chastang, 1661-11-11_saint-flour_donation_anequin, 1661-11-11_saint-flour_vente_chazaledes-deleph, 1661-11-12_saint-flour_echange_grande-sirmay, 1661-11-14_saint-flour_vente_mallet-mallet, 1661-11-16_saint-flour_vente_sauve-boude, 1661-11-19_saint-flour_echange_gibrat-cussac, 1661-11-22_saint-flour_vente_estival-malet, 1661-11-22_saint-flour_vente_grenier-dupre, 1661-11-24_saint-flour_vente_charbonnel-faulcon, 1661-11-27_saint-flour_echange_chaulhaguet-filiol, 1661-12-04_saint-flour_donation_delaroche, 1661-12-09_saint-flour_vente_polverelles-chirol, 1661-12-12_saint-flour_vente_boyer-astier, 1661-12-12_saint-flour_vente_combe-boe, 1661-12-27_saint-flour_testament_pages, 1661-12-28_saint-flour_echange_chambaret-costes, 1662-01-04_saint-flour_testament_bellengueuille-blanchi, 1662-01-14_saint-flour_mariage_chalmete-marly, 1662-01-14_saint-flour_vente_cussac-david, 1662-01-16_saint-flour_cession_albuisson, 1662-01-19_saint-flour_mariage_eschallier-masset, 1662-01-19_saint-flour_testament_baldissard, 1662-01-19_saint-flour_testament_blanchi-girion, 1662-01-19_saint-flour_vente_boyer-tassy, 1662-01-22_saint-flour_vente_bruzie-mourthe, 1662-01-23_saint-flour_cession_lacombe-chalvet, 1662-01-24_saint-flour_donation_dechassol-jordin, 1662-01-25_saint-flour_testament_passanan-vidal, 1662-01-25_saint-flour_vente_caucal-rouget, 1662-01-26_saint-flour_vente_rispal-dabladie, 1662-01-28_saint-flour_mariage_delmar-marty, 1662-01-31_villedieu_mariage_bacou-trenchier, 1662-02-02_saint-flour_mariage_senhar-montgial, 1662-02-04_saint-flour_vente_sarrou-sagette, 1662-02-05_saint-flour_echange_saignes-delcros, 1662-02-06_saint-flour_bail_faucon-badeulh, 1662-02-06_saint-flour_donation_teyrat-pelegry, 1662-02-06_saint-flour_mariage_julhe-bertrand, 1662-02-07_saint-flour_echange_sabatier-souchayre, 1662-02-11_saint-flour_desistement_aureilhe-david, 1662-02-11_saint-flour_echange_fabry-tisset, 1662-02-13_saint-flour_mariage_rocher-chapoulade, 1662-02-14_saint-flour_mariage_sautherey-jean, 1662-02-14_saint-flour_obligation_vidal-rouget, 1662-02-14_saint-flour_quittance_vidal-rouget, 1662-02-16_saint-flour_mariage_astier-basset, 1662-02-17_saint-flour_mariage_pastre-chapat, 1662-02-18_saint-flour_mariage_cussac-vachier, 1662-02-18_saint-flour_vente_amadieu-rouget, 1662-02-19_roffiac_testament_vissol, 1662-02-21_villedieu_mariage_rappond-rolland, 1662-02-22_villedieu_mariage_fajon-tisset, 1662-02-24_saint-flour_vente_coutavel-mallet, 1662-02-27_saint-flour_vente_polverelles-pages, 1662-03-02_saint-flour_vente_auquier-chazalede, 1662-03-04_saint-flour_transaction_delmas, 1662-03-08_saint-flour_garantie_rodde-salesses, 1662-03-08_saint-flour_obligation_salesses-rodde, 1662-03-11_saint-flour_testament_detrauesse, 1662-03-12_saint-flour_echange_maury-eschalier, 1662-03-18_saint-flour_vente_rispail, 1662-03-22_saint-flour_echange_crespoul-cristal, 1662-03-22_saint-flour_ratification_barriol-brousse, 1662-03-28_saint-flour_vente_aureille-malessaignes, 1662-04-11_saint-flour_ratification_barthet, 1662-04-15_saint-flour_echange_dauzolle-rouget, 1662-04-17_saint-flour_vente_trenac, 1662-04-19_saint-flour_revente_aurelle-vezasol, 1662-04-20_saint-flour_bail_margerit-bertrand, 1662-04-22_saint-flour_vente_chanson, 1662-04-25_saint-flour_vente_odoul-fabri, 1662-04-27_saint-flour_vente_bonnet-bastide, 1662-04-28_saint-flour_vente_fornal-bertrand, 1662-04-30_saint-flour_vente_bonafos-brassac, 1662-05-01_saint-flour_echange_teissedre-mallessaignes, 1662-05-01_saint-flour_vente_cristal-sarrazin, 1662-05-01_saint-flour_vente_fajon-chaugnazes, 1662-05-03_saint-flour_mariage_galdissard-pignol, 1662-05-07_saint-flour_mariage_chanson-rion, 1662-05-07_saint-flour_vente_chouvette-jouve, 1662-05-07_saint-flour_vente_gibrac-sarrou, 1662-05-14_saint-flour_vente_vijtail-ollivier, 1662-05-20_saint-flour_mariage_fontes-bonnet, 1662-05-20_saint-flour_vente_boniol-salvanhac, 1662-05-20_saint-flour_vente_fonomie-margarit, 1662-05-22_saint-flour_mariage_boudon-roche, 1662-05-23_roffiac_mariage_david-cussac, 1662-05-29_saint-flour_vente_maury-savel, 1662-06-01_saint-flour_vente_allegre-molinier, 1662-06-01_saint-flour_vente_felhol-rolland, 1662-06-02_saint-flour_echange_ussel-boucheyre, 1662-06-03_saint-flour_echange_jouve-delort, 1662-06-03_saint-flour_testament_chabot-lastic, 1662-06-03_saint-flour_vente_pages-combes, 1662-06-06_saint-flour_vente_jaquet, 1662-06-08_saint-flour_donation_boisseyre-pignol, 1662-06-10_saint-flour_vente_reynaldy, 1662-06-12_saint-flour_testament_jaquet, 1662-06-14_saint-flour_donation_teissedre, 1662-06-17_saint-flour_testament_portefaix-fajon, 1662-06-17_saint-flour_vente_mollinier-dupre, 1662-06-18_villedieu_testament_fajon-rispal, 1662-06-24_saint-flour_mariage_taillard-costirac, 1662-07-01_saint-flour_vente_grisson-mousset, 1662-07-02_saint-flour_testament_bastide-arman, 1662-07-04_saint-flour_mariage_chirol-charloton, 1662-07-07_saint-flour_donation_andrieu, 1662-07-18_saint-flour_vente_rolland-lapierre, 1662-07-19_saint-flour_donation_giriou-souchier, 1662-07-19_saint-flour_mariage_delaroche-gillet, 1662-07-23_saint-flour_vente_canhac-chazaledes, 1662-07-30_saint-flour_transaction_rispal-fiou, 1662-07-31_saint-flour_testament_pages-vidal, 1662-08-05_saint-flour_testament_gibrat-dobax, 1662-08-07_saint-flour_donation_aureilhe-estachon, 1662-08-08_saint-flour_mariage_mollinier-chaulet, 1662-08-15_mentieres_testament_basset, 1662-08-16_saint-flour_echange_giraldon-begon, 1662-08-16_saint-flour_vente_descorolle-brugier, 1662-08-27_saint-flour_vente_chastang, 1662-08-27_saint-flour_vente_grisson-salvanhac, 1662-09-00_saint-flour_vente_saurel-combes, 1662-09-03_saint-flour_donation_allegre-vedrines, 1662-09-11_saint-flour_inventaire_blanchy, 1662-09-11_saint-flour_testament_blanchy, 1662-09-17_saint-flour_vente_bo-aujolet, 1662-09-20_saint-flour_testament_benezet-pages, 1662-09-21_saint-flour_vente_alboy-eschallier, 1662-09-23_saint-flour_vente_basset-hugon, 1662-09-23_saint-flour_vente_sauthiran-apcher, 1662-09-25_saint-flour_vente_pechau-durand, 1662-10-05_saint-flour_vente_boudre-balde, 1662-10-07_saint-flour_donation_julhe, 1662-10-08_saint-flour_vente_galdissard-maury, 1662-10-09_saint-flour_testament_chastang-cayrou, 1662-10-09_saint-flour_vente_alboy-eschallier, 1662-10-09_saint-flour_vente_delmas-malet, 1662-10-09_saint-flour_vente_hugon, 1662-10-10_saint-flour_mariage_julhe-achalme, 1662-10-14_saint-flour_vente_bonniol-daude, 1662-10-14_saint-flour_vente_daude-bonniol, 1662-10-15_saint-flour_partage_chanson, 1662-10-15_saint-flour_vente_delmas, 1662-10-15_saint-flour_vente_gastal-ventinghol, 1662-10-18_saint-flour_vente_chalier, 1662-10-18_saint-flour_vente_pelegrin-barthomeuf, 1662-10-28_saint-flour_echange_blanchy-lafon, 1662-10-30_saint-flour_vente_boyer-pages, 1662-11-01_saint-flour_vente_franchier-ebrard, 1662-11-02_saint-flour_retrait_estival-mallet, 1662-11-04_saint-flour_echange_fabre-buge, 1662-11-04_saint-flour_vente_vidal-coupion, 1662-11-06_saint-flour_vente_fabri-vallette, 1662-11-07_saint-flour_vente_portal-rolland, 1662-11-08_saint-flour_revente_rispal-charreyre, 1662-11-08_saint-flour_vente_sobrat-chassang, 1662-11-08_saint-flour_vente_tisset-david, 1662-11-09_saint-flour_mariage_pirou-bergoin, 1662-11-09_saint-flour_vente_rolland-chauliaguet, 1662-11-10_saint-flour_mariage_crozat-malessaigne, 1662-11-11_saint-flour_vente_rolland-sibrac, 1662-11-18_saint-flour_vente_barthet-chauses, 1662-11-18_saint-flour_vente_peires-rouget, 1662-11-19_saint-flour_echange_mallessaignes-rispail, 1662-11-21_saint-flour_donation_delmas-albepart, 1662-11-23_saint-flour_cession_barriol-blanchy, 1662-11-29_saint-flour_vente_missonnier-berault, 1662-11-30_saint-flour_donation_daude-esteve, 1662-12-02_saint-flour_echange_giraldon-chanson, 1662-12-02_saint-flour_vente_chalvet-vedrines, 1662-12-02_saint-flour_vente_giraldon-chanson, 1662-12-02_saint-flour_vente_parra-charreyre, 1662-12-03_saint-flour_echange_cussac-mallet, 1662-12-04_saint-flour_vente_delpeuch-faulcon, 1662-12-06_saint-flour_vente_chaulmette-roux, 1662-12-13_saint-flour_mariage_aujolet-falgeyrac, 1662-12-13_saint-flour_vente_basset, 1662-12-15_saint-flour_vente_pages-soubre, 1662-12-18_saint-flour_vente_rochenoux-crozat, 1662-12-28_saint-flour_mariage_defondz-martin, 1662-12-28_saint-flour_vente_bigot-lafage, 1662-12-29_saint-flour_mariage_trabut-chevallier, 1662-12-30_saint-flour_vente_crespoul-cristal, 1663-01-02_saint-flour_vente_sauret-chazaledes, 1663-01-06_saint-flour_vente_siruen-pons, 1663-01-06_saint-flour_vente_volland-chastel, 1663-01-09_saint-flour_vente_gibrat-rigaud, 1663-01-11_saint-flour_vente_chauliaguet-meyre, 1663-01-15_saint-flour_vente_sauret-chazaledes, 1663-01-16_saint-flour_echange_chirol-poulverelles, 1663-01-18_saint-flour_vente_astier-bardel, 1663-01-22_saint-flour_echange_teissedre-masset, 1663-01-26_saint-flour_mariage_meiliot-jourdanne, 1663-01-27_saint-flour_vente_eschallier-vrol, 1663-01-27_saint-flour_vente_estival-chauliaguet, 1663-01-28_saint-flour_mariage_costes-eschallier, 1663-01-28_saint-flour_mariage_jean-jourdanne, 1663-01-29_saint-flour_testament_parroche, 1663-01-31_saint-flour_mariage_coucherie-chanson, 1663-02-00_saint-flour_donation_martinon-lafoy, 1663-02-05_saint-flour_mariage_ebrard-grenier, 1663-02-06_roffiac_mariage_cussac-uchassol, 1663-02-06_saint-flour_mariage_combes-daunya, 1663-02-10_saint-flour_vente_hugon-pages, 1663-02-10_saint-flour_vente_serieys-tailliand, 1663-02-26_saint-flour_vente_jouve-chastel, 1663-03-02_saint-flour_testament_rigaud, 1663-03-02_saint-flour_transaction_anequin-chazaledes, 1663-03-08_saint-flour_donation_bagues-delort, 1663-03-10_saint-flour_vente_chastang-crespoul, 1663-03-11_saint-flour_vente_gibrat-cristal, 1663-03-17_saint-flour_inventaire_grezes-bechot, 1663-03-17_saint-flour_vente_bacou-cayrou, 1663-03-17_saint-flour_vente_suffar-monnier, 1663-03-20_saint-flour_echange_rispal-pautard, 1663-03-20_saint-flour_echange_rispal-pautard_b, 1663-03-22_saint-flour_testament_molinier, 1663-03-23_saint-flour_testament_gendre, 1663-04-01_saint-flour_partage_rolland-mallessaignes, 1663-04-04_saint-flour_vente_uchassol-cussac, 1663-04-07_saint-flour_echange_ventughol, 1663-04-08_saint-flour_vente_ventughol-bechot, 1663-04-10_saint-flour_vente_hermen-dupre, 1663-04-12_saint-flour_mariage_bourgol-mossier, 1663-04-12_saint-flour_vente_sudre-boyer, 1663-04-13_saint-flour_donation_rougier, 1663-04-15_saint-flour_vente_combes-bergoin, 1663-04-15_saint-flour_vente_mas-hugon, 1663-04-19_saint-flour_donation_passanau-pellegry, 1663-04-21_saint-flour_vente_aurilhe-chanson, 1663-04-21_saint-flour_vente_chalvon-coutel, 1663-04-22_saint-flour_transaction_mossier-tranchier, 1663-04-23_saint-flour_obligation_champaniac-delrhieu, 1663-04-25_saint-flour_mariage_vezis-teilhard, 1663-04-28_saint-flour_vente_sibrat-brassac, 1663-05-01_saint-flour_echange_chauliaguet-albiuf, 1663-05-03_saint-flour_echange_sauvet-estival, 1663-05-03_saint-flour_vente_chanson, 1663-05-05_saint-flour_vente_portal-destubartes, 1663-05-06_saint-flour_permission_masse-leyssedre, 1663-05-06_saint-flour_testament_riou, 1663-05-06_saint-flour_vente_chalanhac-chazaledes, 1663-05-08_saint-flour_transaction_regimbalt-berault, 1663-05-13_saint-flour_vente_charreyre-crozat, 1663-05-15_saint-flour_transaction_rayat-yzabel, 1663-05-15_saint-flour_vente_fayon-andrieu, 1663-05-15_saint-flour_vente_hugon, 1663-05-19_saint-flour_vente_bonnal-crespoul, 1663-05-19_saint-flour_vente_delmas-mallet, 1663-05-19_saint-flour_vente_juery-charbonnel, 1663-05-20_saint-flour_vente_rispal-pautard, 1663-05-26_saint-flour_donation_alboy, 1663-05-26_saint-flour_obligation_trabuc-cairon, 1663-05-27_alleuze_mariage_ventughol-vedrines, 1663-06-00_saint-flour_vente_brassac-jaquin, 1663-06-05_saint-flour_vente_castel-boudon, 1663-06-06_saint-flour_vente_bo-nouzeyres, 1663-06-11_saint-flour_vente_delrieu-besson, 1663-06-11_saint-flour_vente_uchassol-rispal, 1663-06-12_saint-flour_vente_lacombe-delort, 1663-06-19_saint-flour_vente_nicolas-boudet, 1663-06-20_saint-flour_vente_uchassol-brassac, 1663-06-28_saint-flour_donation_anglade-lespine, 1663-06-28_saint-flour_vente_solie-gransac, 1663-07-01_saint-flour_donation_ventughol-chappoulle, 1663-07-04_saint-flour_vente_bonnet-judry, 1663-07-07_alleuze_testament_ventughol-bregier, 1663-07-14_saint-flour_vente_cauzac-dupre, 1663-07-15_saint-flour_donation_chanson-barthet, 1663-07-18_saint-flour_donation_chastel, 1663-07-19_saint-flour_mariage_roux-delort, 1663-07-19_saint-flour_testament_talizac, 1663-07-24_saint-flour_vente_salesses-roussilhe, 1663-07-30_alleuze_testament_gardelle-delolme, 1663-08-01_saint-flour_transaction_mathieu-delangouroux, 1663-08-05_saint-flour_vente_feulhet-chanson, 1663-08-14_saint-flour_mariage_cassy-rousson, 1663-08-19_saint-flour_testament_mendre-lerolle, 1663-08-25_saint-flour_vente_clavilier-chauliaguet, 1663-08-27_saint-flour_transaction_pradal-gire, 1663-09-01_saint-flour_testament_bonafos, 1663-09-01_saint-flour_traite_bondurand-hugon, 1663-09-02_saint-flour_echange_chanson, 1663-09-02_saint-flour_mariage_chazal-mourier, 1663-09-02_saint-flour_vente_chanson, 1663-09-02_saint-flour_vente_delaire-barrou, 1663-09-04_saint-flour_testament_delangounez-hugon, 1663-09-09_saint-flour_vente_bigot-ponthonaille, 1663-09-15_saint-flour_testament_vidal, 1663-09-17_saint-flour_donation_rouget, 1663-09-21_saint-flour_mariage_cussac-martin, 1663-09-21_saint-flour_vente_chappoulade-bechot, 1663-09-30_saint-flour_vente_chappoulade-cosches, 1663-10-07_saint-flour_vente_cayron-dupre, 1663-10-14_saint-flour_vente_surrel-mas, 1663-10-17_saint-flour_vente_sirvain-saintheiry, 1663-10-18_saint-flour_donation_chappoulade, 1663-10-18_saint-flour_echange_chauliaguet-estival, 1663-10-18_saint-flour_transaction_roudel-basse, 1663-10-20_saint-flour_vente_hugon-basset, 1663-10-24_saint-flour_vente_rispal-mirmande, 1663-10-30_saint-flour_mariage_mendre-varle, 1663-11-02_saint-flour_donation_juery-molinier, 1663-11-04_saint-flour_mariage_bonnenfan-chalvet, 1663-11-07_saint-flour_vente_brugier-chassang, 1663-11-07_saint-flour_vente_fabre-aujolet, 1663-11-10_saint-flour_cession_charbonnier-rancillac, 1663-11-10_saint-flour_echange_tassy-gaudel, 1663-11-10_saint-flour_transaction_lafon-charbonnier, 1663-11-11_saint-flour_vente_chappoulade-delrieu, 1663-11-13_saint-flour_vente_chanson-bechot, 1663-11-14_saint-flour_testament_sauret, 1663-11-18_saint-flour_vente_souchier-parra, 1663-11-19_saint-flour_cession_charbonnier-trabuc, 1663-11-20_saint-flour_desistement_esteve-david, 1663-11-21_saint-flour_echange_monnier-mirmande, 1663-11-22_saint-flour_transaction_quinsat-grezes, 1663-11-25_saint-flour_testament_teilhard, 1663-11-28_saint-flour_mariage_mounier-chavreyre, 1663-11-28_saint-flour_mariage_vigier-bechot, 1663-12-02_saint-flour_vente_moureyre-ebrard, 1663-12-02_saint-flour_vente_sensac-chazaledes, 1663-12-08_saint-flour_vente_roquelaure-mallet, 1663-12-09_saint-flour_vente_bechot-dupre, 1663-12-09_saint-flour_vente_laurier-hugon, 1663-12-12_saint-flour_vente_mosnier-bonnet, 1663-12-13_saint-flour_vente_devaurs-chastel, 1663-12-16_saint-flour_testament_dufour-coulbe, 1663-12-22_saint-flour_vente_bresseyre-chanson, 1663-12-27_saint-flour_mariage_molle-monnier, 1663-12-28_saint-flour_vente_tafanel-bonniol, 1663-12-29_saint-flour_mariage_blanquet-missonnier, 1663-12-29_saint-flour_transaction_daix-miramon, 1664-01-01_saint-flour_vente_debrons, 1664-01-06_saint-flour_mariage_bertrand-gautier, 1664-01-10_saint-flour_echange_baldissard-sirvain, 1664-01-12_saint-flour_vente_rabier-vidal, 1664-01-13_saint-flour_mariage_deleros-roux, 1664-01-14_saint-flour_mariage_bouffet-teilhard, 1664-01-15_saint-flour_vente_boudon, 1664-01-19_saint-flour_vente_boudon, 1664-01-19_saint-flour_vente_caucal-rouget, 1664-01-20_saint-flour_mariage_cahot-albuisson, 1664-01-20_saint-flour_vente_ballat-fabry, 1664-01-22_saint-flour_vente_vigaud-lauriac, 1664-01-23_saint-flour_donation_rouget-bressolles, 1664-01-26_saint-flour_vente_chanson, 1664-01-26_saint-flour_vente_yzabel-dubois, 1664-02-02_saint-flour_donation_bouschet-nauthonnier, 1664-02-02_saint-flour_vente_bonnal-vidal, 1664-02-04_saint-flour_vente_meyliac-bonafos, 1664-02-06_saint-flour_donation_mallessaigne-fenal, 1664-02-06_saint-flour_mariage_boudon-bonnaffe, 1664-02-06_saint-flour_mariage_marthomeuf-albos, 1664-02-09_saint-flour_mariage_jourde-chappoulle, 1664-02-09_saint-flour_vente_pichot-nozeyres, 1664-02-10_saint-flour_vente_mariol-mouchiarac, 1664-02-16_saint-flour_mariage_guyon-teissedre, 1664-02-16_saint-flour_mariage_revel-combe, 1664-02-17_roffiac_mariage_cussac-saumade, 1664-02-17_saint-flour_vente_david-eschallier, 1664-02-20_saint-flour_mariage_lebre-combes, 1664-02-21_saint-flour_mariage_rayne-lombard, 1664-02-23_saint-flour_mariage_bechot-defondz, 1664-02-23_saint-flour_mariage_delrieu-crespoul, 1664-02-23_saint-flour_vente_sauret-bertrand, 1664-02-24_saint-flour_mariage_delort-gibrat, 1664-02-26_saint-flour_mariage_bonnet-lombard, 1664-02-26_saint-flour_vente_crabut-cairoz, 1664-02-28_saint-flour_demission_rolland, 1664-02-29_saint-flour_vente_fauyrolles-fabry, 1664-03-01_saint-flour_desistement_poulverelle-andrieu, 1664-03-01_saint-flour_vente_barthomeuf-montel, 1664-03-02_saint-flour_subrogation_rouvel-charbonnel, 1664-03-09_saint-flour_bail_roux-sentheran, 1664-03-09_saint-flour_vente_monnier-brousse, 1664-03-10_villedieu_donation_bouc, 1664-03-11_saint-flour_vente_viallard-veissiere, 1664-03-13_saint-flour_vente_rolland-baccou, 1664-03-14_saint-flour_vente_baldissard-brassac, 1664-03-15_saint-flour_transaction_bassa, 1664-03-17_saint-flour_donation_fontes, 1664-03-19_saint-flour_vente_challier-moureyre, 1664-03-20_saint-flour_testament_rougier, 1664-03-21_saint-flour_donation_bibrat, 1664-03-25_alleuze_testament_mallessaigne-vassal, 1664-03-25_saint-flour_vente_soubeyroux-chastel, 1664-03-28_saint-flour_vente_colomb-sadone, 1664-04-01_saint-flour_vente_chanson-roux, 1664-04-09_saint-flour_donation_dufour-coutel, 1664-04-14_saint-flour_testament_chassang, 1664-04-14_saint-flour_vente_andrieu-fayon, 1664-04-17_saint-flour_bail_roumiol-teissedre, 1664-04-18_saint-flour_vente_cissac-fouves, 1664-04-22_saint-flour_vente_tailhand-roux, 1664-04-23_saint-flour_vente_rousset-fabry, 1664-04-26_saint-flour_donation_baratte-surrel, 1664-04-29_saint-flour_protestation_bendre-chalvet, 1664-05-01_saint-flour_echange_boudon-badeul, 1664-05-01_saint-flour_revente_molinier-grezes, 1664-05-03_saint-flour_mariage_fajon-desalut, 1664-05-06_roffiac_testament_filhol-saintheiry, 1664-05-07_saint-flour_testament_anequin-mollinier, 1664-05-10_saint-flour_donation_cayron-doumergue, 1664-05-13_saint-flour_testament_tisset-vallette, 1664-05-17_saint-flour_subrogation_brassac-martin, 1664-05-20_saint-flour_testament_rossignol-calliand, 1664-05-20_saint-flour_vente_aureille-monnier, 1664-05-21_saint-flour_transaction_uchassol-brassac, 1664-05-26_saint-flour_testament_missonnier, 1664-06-03_saint-flour_vente_marlhiac-garand, 1664-06-12_saint-flour_testament_chalmette-mathieu, 1664-06-13_seriers_echange_gorsse-andrieu, 1664-06-15_saint-flour_echange_defondz-ruel, 1664-06-15_saint-flour_echange_estival-houre, 1664-06-16_saint-flour_testament_sauret-boudet, 1664-06-16_saint-flour_vente_padoul-rodde, 1664-06-22_saint-flour_echange_leynat-estival, 1664-07-06_saint-flour_transaction_lastic-fargue, 1664-07-09_saint-flour_vente_chappus-vairon, 1664-07-16_saint-flour_vente_boussuge-vaissiere, 1664-07-19_saint-flour_vente_delort-pirsot, 1664-07-26_saint-flour_transaction_vidal-roudier, 1664-07-27_saint-flour_vente_chossy-rechallier, 1664-07-29_saint-flour_vente_benezit-bertrand, 1664-08-09_saint-flour_vente_tezin-luillier, 1664-08-11_saint-flour_echange_chassol-sermez, 1664-08-11_saint-flour_mariage_chadel-rolland, 1664-08-11_saint-flour_testament_coustillon-baloupiz, 1664-08-12_saint-flour_testament_detrausse, 1664-08-16_saint-flour_vente_allissar-sauvagel, 1664-08-17_saint-flour_transaction_challier-boyer, 1664-08-17_saint-flour_vente_ayme-lollier, 1664-08-17_saint-flour_vente_bissoller-domergue, 1664-08-19_saint-flour_retrait_marliac-chalvet, 1664-08-20_saint-flour_testament_fontes-gendre, 1664-08-31_saint-flour_vente_crespoul-brassac, 1664-09-06_saint-flour_vente_couliadire-roudil, 1664-09-07_saint-flour_vente_mourgue-fion, 1664-09-13_saint-flour_echange_hugon-vivel, 1664-09-14_roffiac_mariage_sautherain-mallet, 1664-09-14_saint-flour_vente_maury-rouget, 1664-09-17_saint-flour_vente_brassac, 1664-09-22_saint-flour_vente_besset-dupre, 1664-09-22_saint-flour_vente_chambaron-giraldon, 1664-10-00_saint-flour_revente_savrazy-apchier, 1664-10-04_saint-flour_echange_sauvet-attalin, 1664-10-04_saint-flour_vente_david-sauret, 1664-10-12_saint-flour_revente_vedrines-chanson, 1664-10-12_saint-flour_vente_chambaron-polverelles, 1664-10-12_saint-flour_vente_malle-fizol, 1664-10-17_saint-flour_echange_bougier, 1664-10-20_saint-flour_donation_bonnet-bleuzit, 1664-10-20_saint-flour_testament_detrausse, 1664-10-21_saint-flour_vente_valarchier-regimbalt, 1664-10-26_saint-flour_vente_brugeire-tissier, 1664-10-26_saint-flour_vente_southeyrain-apchier, 1664-10-27_saint-flour_vente_mallet, 1664-10-27_saint-flour_vente_molinier-chanson, 1664-10-29_saint-flour_vente_quatruelx-tassy, 1664-10-31_saint-flour_vente_bayle-fabri, 1664-11-02_saint-flour_echange_bigot-pontsonaille, 1664-11-05_saint-flour_vente_travesse-vezin, 1664-11-06_saint-flour_vente_delaroche-portail, 1664-11-07_saint-flour_donation_pigou, 1664-11-07_saint-flour_vente_reynaldy-lapierre, 1664-11-11_saint-flour_transaction_tassaud, 1664-11-11_saint-flour_vente_pirolle-lollier, 1664-11-14_saint-flour_vente_rolland-cubrinz, 1664-11-16_saint-flour_echange_cussac-monier, 1664-11-18_saint-flour_testament_bonnault, 1664-11-20_saint-flour_partage_regimbalt-faucon, 1664-11-21_saint-flour_vente_chilman-malet, 1664-11-22_andelat_testament_delmas, 1664-11-22_saint-flour_mariage_gautheron-bussollier, 1664-11-24_saint-flour_vente_chargebeuf-mallessaigne, 1664-11-25_saint-flour_partage_chassang, 1664-11-28_saint-flour_quittance_chauzon-barthet, 1664-11-29_saint-flour_bail_rolland-esthie, 1664-11-29_saint-flour_vente_bonniol-teissel, 1664-11-29_saint-flour_vente_bonniol-teissel_b, 1664-11-29_saint-flour_vente_bonniol-teissel_c, 1664-11-30_saint-flour_vente_chanson-mallet, 1664-11-30_saint-flour_vente_palazon-blanchi, 1664-12-05_saint-flour_vente_chassol-brassac, 1664-12-05_saint-flour_vente_vschaffolz-rispal, 1664-12-06_saint-flour_vente_chastang-lassy, 1664-12-08_saint-flour_vente_lac-bardon, 1664-12-10_saint-flour_vente_chassol-brassac, 1664-12-13_saint-flour_vente_franchier-jouve, 1664-12-14_saint-flour_echange_santheranne-berthe, 1664-12-28_roffiac_vente_aurelhe-mauvy, 1664-12-31_saint-flour_vente_mauvy-fromen, 1665-00-00_saint-flour_mariage_belet-meynier, 1665-00-00_saint-flour_vente_vigier-trabuc, 1665-01-00_alleuze_testament_mournac-fabre, 1665-01-01_saint-flour_mariage_chadelat-guezes, 1665-01-03_saint-flour_vente_rolland-malet, 1665-01-04_saint-flour_vente_chauson-bouchet, 1665-01-09_saint-flour_mariage_cailliaud-vaylet, 1665-01-12_saint-flour_donation_grenier-vezis, 1665-01-12_saint-flour_testament_gilbert-bonniol, 1665-01-14_saint-flour_donation_polollion-fallie, 1665-01-16_saint-flour_vente_boudon-salvaige, 1665-01-17_saint-flour_mariage_portail-pages, 1665-01-20_saint-flour_transaction_pages-vissal, 1665-01-20_saint-flour_vente_cristal-brassac, 1665-01-21_saint-flour_mariage_delort-sauret, 1665-01-22_saint-flour_mariage_missonnier-rouchez, 1665-01-27_saint-flour_donation_vailet-trabuc, 1665-01-29_saint-flour_mariage_barthomeuf-bonnet, 1665-02-01_saint-flour_mariage_chanson-chaumeil, 1665-02-01_villedieu_mariage_tisset-vedrines, 1665-02-02_saint-flour_mariage_mallet-mallet, 1665-02-03_saint-flour_mariage_vaylet-vivmarin, 1665-02-04_saint-flour_vente_cussac-monnier, 1665-02-05_saint-flour_vente_bazel-chazalede, 1665-02-05_saint-flour_vente_crozat-rocquelaure, 1665-02-06_saint-flour_mariage_jouve-castel, 1665-02-07_saint-flour_mariage_combes-chargebeuf, 1665-02-07_saint-flour_mariage_delrieu-cussac, 1665-02-07_saint-flour_mariage_trancher-yzabel, 1665-02-14_saint-flour_vente_albert-juery, 1665-02-14_saint-flour_vente_bichot-guimbalt, 1665-02-14_saint-flour_vente_cussac-doumergue, 1665-02-16_roffiac_echange_parra-blondin, 1665-02-16_saint-flour_mariage_galvier-delort, 1665-02-17_roffiac_mariage_vidal-parra, 1665-02-17_saint-flour_vente_regimbalt-charreyre, 1665-02-24_saint-flour_echange_roux-coussarie, 1665-02-24_saint-flour_quittance_dominergue-barthomeuf, 1665-02-28_saint-flour_vente_vidal-brassac, 1665-03-01_saint-flour_vente_andrieu-tisset, 1665-03-01_saint-flour_vente_mial-tisset, 1665-03-04_saint-flour_vente_pons-trinsie, 1665-03-06_saint-flour_donation_mallet-delvoi, 1665-03-06_saint-flour_vente_delaspre-fontes, 1665-03-07_saint-flour_vente_regimbalt-teissedre, 1665-03-11_saint-flour_donation_bigot, 1665-03-12_saint-flour_vente_chassol-dubois, 1665-03-12_saint-flour_vente_delmas-albepard, 1665-03-16_saint-flour_vente_bastail-teissedre, 1665-03-17_saint-flour_vente_chauliac-jesuites, 1665-03-18_saint-flour_vente_gillet-bertrand, 1665-03-19_saint-flour_vente_chandon-pare, 1665-03-20_saint-flour_donation_david-combes, 1665-03-21_saint-flour_vente_vigier-jesuites, 1665-03-22_saint-flour_vente_chassang, 1665-03-23_saint-flour_vente_cassanel-andrieu, 1665-03-24_saint-flour_echange_baccon-migoulle, 1665-03-28_saint-flour_cession_aymar-cissar, 1665-03-28_saint-flour_echange_bruict-desfondz, 1665-03-28_saint-flour_quittance_bongeyre-chanliague, 1665-03-28_saint-flour_vente_albaret-sabattier, 1665-03-28_saint-flour_vente_chassang-chanson, 1665-03-28_saint-flour_vente_tafanel-jordin, 1665-03-31_saint-flour_echange_hugon-barreyre, 1665-04-09_saint-flour_mariage_fayon-chaugebeuf, 1665-04-10_saint-flour_vente_bremon-tremoliere, 1665-04-11_saint-flour_cession_chanson, 1665-04-11_saint-flour_echange_fontes-vaissiere, 1665-04-11_saint-flour_vente_chanson-portefaix, 1665-04-11_saint-flour_vente_chanson-portefaix_b, 1665-04-11_saint-flour_vente_jean-gizolme, 1665-04-12_saint-flour_vente_marchan-teyssedre, 1665-04-12_saint-flour_vente_rubine-chaulhac, 1665-04-13_saint-flour_sommation_teissedre-batiffolier, 1665-04-15_saint-flour_vente_roudil-viol, 1665-04-16_saint-flour_vente_daude-chastel, 1665-04-18_saint-flour_mariage_chaumeil-fieu, 1665-04-18_saint-flour_vente_jouy-david, 1665-04-19_saint-flour_transaction_bastal-cussac, 1665-04-19_saint-flour_vente_bagely-delcros, 1665-04-20_saint-flour_testament_roux, 1665-04-21_saint-flour_transaction_alboy-vaures, 1665-04-21_saint-flour_vente_bassel-sourgol, 1665-04-25_saint-flour_donation_fieu-giraldy, 1665-04-25_saint-flour_echange_ventuighol-souchari, 1665-04-25_saint-flour_vente_delorme-chirol, 1665-04-25_saint-flour_vente_tafanel-douhet, 1665-04-26_saint-flour_vente_brissolle-voussilhe, 1665-04-27_saint-flour_retrait_gorsse-vargier, 1665-04-27_saint-flour_transaction_tassy-chalmette, 1665-05-01_saint-flour_vente_bonafous-chalvet, 1665-05-01_saint-flour_vente_vedrines-vigier, 1665-05-02_saint-flour_echange_cancal-rispal, 1665-05-03_saint-flour_vente_pigon-chauliaguet, 1665-05-04_saint-flour_vente_cristal-molinier, 1665-05-04_saint-flour_vente_galdissaud-delort, 1665-05-06_saint-flour_echange_deleron-soucheire, 1665-05-06_saint-flour_vente_brugier-eschallier, 1665-05-06_saint-flour_vente_chalier, 1665-05-07_saint-flour_vente_hugon-bardon, 1665-05-08_saint-flour_cession_missonier-chanson, 1665-05-09_saint-flour_retrait_bastail-faugyrolles, 1665-05-10_saint-flour_mariage_deleron-odoul, 1665-05-11_saint-flour_testament_vidal-parra, 1665-05-13_saint-flour_testament_saintheiry, 1665-05-14_saint-flour_vente_brugier-fayon, 1665-05-17_saint-flour_vente_contugol-bechot, 1665-05-17_saint-flour_vente_teissedre-blanc, 1665-05-18_saint-flour_vente_buge-blanchy, 1665-05-21_saint-flour_cession_parrot-cussac, 1665-05-21_saint-flour_vente_parrot-brousse, 1665-05-23_saint-flour_mariage_begne-barthet, 1665-05-23_saint-flour_transaction_severgol-mossier, 1665-05-24_saint-flour_donation_jordin-bougier, 1665-05-25_saint-flour_echange_bonnet-veyre, 1665-05-25_saint-flour_vente_cussat-soumeuroux, 1665-05-28_saint-flour_demission_bondurand-hugon, 1665-05-31_saint-flour_mariage_mournac-andrieu, 1665-05-31_saint-flour_vente_mounier-apchier, 1665-06-02_saint-flour_vente_combes-chanieres, 1665-06-02_saint-flour_vente_coutarel-darseulhe, 1665-06-02_saint-flour_vente_durand-hugon, 1665-06-03_saint-flour_donation_laurans, 1665-06-06_saint-flour_testament_bareyre, 1665-06-06_saint-flour_vente_chanson-bechot, 1665-06-07_saint-flour_mariage_marvighon-lisset, 1665-06-08_saint-flour_inventaire_barreyre-champolaux, 1665-06-10_saint-flour_vente_parra-bechot, 1665-06-11_saint-flour_vente_apchier-chanson, 1665-06-14_saint-flour_bail_hugon-bonyblanc, 1665-06-14_saint-flour_vente_bonyblanc-hugon, 1665-06-14_saint-flour_vente_mallet-chevallier, 1665-06-24_saint-flour_mariage_julhe-sauvaige, 1665-06-24_saint-flour_vente_berault-fayon, 1665-06-24_saint-flour_vente_masse-bastide, 1665-06-28_saint-flour_vente_andrieu-dupuy, 1665-06-28_saint-flour_vente_boissolles-dupuy, 1665-06-28_saint-flour_vente_hugon-tassy, 1665-06-28_saint-flour_vente_surrel-bastide, 1665-07-04_saint-flour_inventaire_grassalt-berthon, 1665-07-06_saint-flour_vente_odoul-sauret, 1665-07-11_roffiac_vente_sautheray-brassac, 1665-07-12_saint-flour_quittance_bongeyre-chanliague, 1665-07-12_saint-flour_vente_chapoulade-jury, 1665-07-12_saint-flour_vente_monet-broncy, 1665-07-14_saint-flour_vente_bechot-sauret, 1665-07-19_saint-flour_echange_coutre-rouffie, 1665-07-19_saint-flour_vente_oradour-paur, 1665-08-01_saint-flour_mariage_brugeirolles-chanson, 1665-08-05_saint-flour_echange_trabuc-vigier, 1665-08-09_saint-flour_testament_fayet, 1665-08-09_saint-flour_vente_jury-aujolet, 1665-08-11_saint-flour_vente_andrieu-bibrac, 1665-08-11_saint-flour_vente_bichot-saintheiry, 1665-08-20_saint-flour_donation_gastal, 1665-08-24_saint-flour_mariage_maury-pages, 1665-08-24_saint-flour_vente_dabladie-maury, 1665-08-30_saint-flour_mariage_page-delrieu, 1665-09-00_saint-flour_vente_cussac, 1665-09-05_saint-flour_transaction_dupuy-reginbalt, 1665-09-08_saint-flour_testament_salesses, 1665-09-13_saint-flour_vente_bo, 1665-09-15_saint-flour_vente_rigault-bonniol, 1665-09-21_saint-flour_mariage_chassoulle-seguy, 1665-09-21_saint-flour_vente_meylioi-jourlanche, 1665-09-21_saint-flour_vente_sauret-deloye, 1665-09-22_saint-flour_cession_grenier-bevaud, 1665-09-22_saint-flour_vente_rolland-juery, 1665-09-26_saint-flour_testament_chalier, 1665-09-27_saint-flour_vente_andrieu-nozeyres, 1665-09-29_saint-flour_testament_pouvert, 1665-10-04_saint-flour_mariage_chanalle-bourel, 1665-10-09_saint-flour_vente_brossy-destubartes, 1665-10-14_saint-flour_revente_rouget-berhot, 1665-10-22_saint-flour_vente_richard-andrieu, 1665-10-24_saint-flour_vente_gastal-fayron, 1665-10-25_saint-flour_echange_cormily-vechafol, 1665-10-25_saint-flour_mariage_vigier-chapoulle, 1665-10-27_saint-flour_donation_boudier-salesses, 1665-10-27_saint-flour_vente_brezit-vaissiere, 1665-10-28_saint-flour_transaction_senetaire-galauba, 1665-10-29_saint-flour_rente_sandrieu-chomel, 1665-10-31_saint-flour_donation_aubier-rougier, 1665-10-31_saint-flour_mariage_missonnier-salvat, 1665-11-00_saint-flour_vente_richard-bergoin, 1665-11-01_saint-flour_vente_chomel-tailhand, 1665-11-02_saint-flour_mariage_bechot-rougier, 1665-11-04_saint-flour_transaction_veyghalory-foutes, 1665-11-12_pompignac_cession_chabanier-rocquelaure, 1665-11-15_saint-flour_vente_juery, 1665-11-15_voffrac_cession_gazel-veyssiere, 1665-11-17_saint-flour_vente_missonnier-cayron, 1665-11-20_saint-flour_cession_hermier-berthot, 1665-11-21_saint-flour_donation_pignol-hebrarde, 1665-11-21_saint-flour_vente_sautheyrac-dubois, 1665-11-22_saint-flour_mariage_herault-champolaux, 1665-11-24_saint-flour_vente_hugon-larochette, 1665-11-24_saint-flour_vente_larochette-destubartes, 1665-11-28_saint-flour_vente_boudoz-bardoz, 1665-11-29_vedrenat_mariage_malet-malet, 1665-12-01_saint-flour_desistement_manson-solier, 1665-12-02_saint-flour_vente_coschet-fayon, 1665-12-06_saint-flour_vente_sentherain-verhoi, 1665-12-12_saint-flour_subrogation_charbonnel-charreyre, 1665-12-12_saint-flour_vente_galand, 1665-12-13_saint-flour_echange_chastre-jouve, 1665-12-13_vossiar_echange_chazalede-andrieu, 1665-12-15_saint-flour_vente_cristal-crespoul, 1665-12-16_saint-flour_vente_vezis-bertrand, 1665-12-18_saint-flour_vente_bechot-mallessaignes, 1665-12-21_saint-flour_transaction_leroa-atalar, 1665-12-29_saint-flour_vente_cussac-pelissier, 1665-12-29_saint-flour_vente_gaultier-daufeulhe, 1665-12-29_saint-flour_vente_giraldon-chavegre, 1665-12-31_saint-flour_cession_falgeyrac-montaigne, 1666-01-01_roffiac_mariage_david-vachal, 1666-01-02_saint-flour_echange_ballat-cassand, 1666-01-03_saint-flour_vente_malot-albepart, 1666-01-04_saint-flour_vente_odoul-debattut, 1666-01-05_saint-flour_vente_charbonnel-cibiel, 1666-01-15_saint-flour_vente_chastel-combes, 1666-01-15_saint-flour_vente_reynault-chavegne, 1666-01-16_saint-flour_mariage_coutel-chauzy, 1666-01-17_saint-flour_vente_bessolz-sabatier, 1666-01-17_saint-flour_vente_bessolz-sabatier_b, 1666-01-18_saint-flour_vente_sauvet-marighon, 1666-01-20_saint-flour_echange_david-caissiere, 1666-01-20_saint-flour_transaction_cussac-fontes, 1666-01-26_saint-flour_mariage_rouffilhe-cussac, 1666-01-27_alleuze_testament_daix, 1666-01-31_saint-flour_mariage_mounier-roudil, 1666-02-00_saint-flour_bail_bronsy-monchiavar, 1666-02-00_saint-flour_vente_hugon-sauve, 1666-02-02_saint-flour_donation_devaursse, 1666-02-04_saint-flour_cession_maury-rubene, 1666-02-04_saint-flour_subrogation_rodde-mallet, 1666-02-04_saint-flour_testament_bouvet-chevallier, 1666-02-07_saint-flour_mariage_amat-serrohan, 1666-02-07_saint-flour_mariage_chappoulle-cusset, 1666-02-10_la-fagholle_mariage_rigault-gendre, 1666-02-10_saint-flour_vente_sauret, 1666-02-15_saint-flour_mariage_andrieu-esbrard, 1666-02-17_saint-flour_desistement_crozat-bacon, 1666-02-20_saint-flour_donation_borde, 1666-02-20_saint-flour_mariage_nozieres-douze, 1666-02-20_saint-flour_vente_chassol-fontes, 1666-02-21_saint-flour_mariage_sabattier-delvor, 1666-02-23_saint-flour_bail_bechot-chaptard, 1666-02-24_saint-flour_testament_george, 1666-02-27_saint-flour_echange_badeul-delchier, 1666-02-27_saint-flour_echange_sevenes-fontes, 1666-02-27_saint-flour_mariage_bonnet-batiffolier, 1666-02-27_saint-flour_mariage_combes-boyer, 1666-02-27_saint-flour_testament_pastre-nicolas, 1666-02-27_saint-flour_vente_lagriffoul-pinillie, 1666-02-28_saint-flour_vente_lacombe-clavillier, 1666-02-28_saint-flour_vente_monchiaval-distubarthe, 1666-03-00_saint-flour_mariage_bonnet-sebattyer, 1666-03-03_villedieu_mariage_chaugeaygre-rolland, 1666-03-06_saint-flour_transaction_gibrat-blanc, 1666-03-06_saint-flour_vente_david-tisset, 1666-03-06_saint-flour_vente_mariol-mouliarat, 1666-03-07_vedrines_mariage_breze-chanson, 1666-03-08_saint-flour_mariage_buzet-rougier, 1666-03-10_saint-flour_donation_chapoulle, 1666-03-13_saint-flour_testament_lafaige, 1666-03-13_saint-flour_vente_chabrousse-debrons, 1666-03-14_saint-flour_vente_soubeiroux-serugol, 1666-03-16_saint-flour_vente_chapoulade-giraldon, 1666-03-20_saint-flour_vente_vchassol-parra, 1666-03-21_saint-flour_vente_masset-tissedre, 1666-03-22_saint-flour_vente_ciborny-aldigier, 1666-03-23_saint-flour_vente_dominique-bouthie, 1666-03-25_tossiac_testament_inguimbert-aliadieres, 1666-03-27_saint-flour_vente_jean-maury, 1666-03-27_saint-flour_vente_pouhvillet-bergoin, 1666-03-28_saint-flour_vente_fiou-cayron, 1666-03-30_saint-flour_vente_chassang-ventughol, 1666-04-02_aleuze_donation_bonniol, 1666-04-03_saint-flour_vente_vigier-sauvagol, 1666-04-12_saint-flour_echange_chargnaire-jouve, 1666-04-12_saint-flour_obligation_mounier-aureille, 1666-04-12_saint-flour_testament_chargenaire, 1666-04-13_saint-flour_echange_rolland-galvier, 1666-04-15_saint-flour_vente_roudil-blanchy, 1666-04-20_saint-flour_vente_andrieu-barthomeuf, 1666-04-22_saint-flour_vente_mouchiera-destubartes, 1666-04-26_saint-flour_echange_bardelle-paur, 1666-04-26_saint-flour_mariage_fontes-bouschet, 1666-04-26_saint-flour_vente_sabatier-apchier, 1666-04-27_saint-flour_vente_guadolle-paul, 1666-05-01_saint-flour_echange_lastic-chastre, 1666-05-01_saint-flour_partage_astier, 1666-05-01_saint-flour_vente_berault-falgeyrac, 1666-05-01_saint-flour_vente_debrons-cathala, 1666-05-02_saint-flour_subrogation_barthet-chauzon, 1666-05-05_saint-flour_mariage_montaigne-bo, 1666-05-06_saint-flour_echange_sabatier, 1666-05-06_saint-flour_vente_gibrat-girand, 1666-05-08_lagoyron_testament_tailhand, 1666-05-08_saint-flour_demission_dommergue-yzabel, 1666-05-08_saint-flour_vente_bertrand-bonnet, 1666-05-08_saint-flour_vente_gibrat-andrieu, 1666-05-15_saint-flour_obligation_vezin-lesiu, 1666-05-16_saint-flour_testament_marques-piron, 1666-05-16_saint-flour_vente_chastang-pontier, 1666-05-19_saint-flour_vente_manoy-brugeyre, 1666-05-20_roffiac_transaction_culhiere-gazel, 1666-05-21_saint-flour_vente_rolland-crouzatier, 1666-05-26_saint-flour_transaction_vezis-faure, 1666-05-29_saint-flour_donation_sourchere-girion, 1666-05-29_saint-flour_transaction_gibrat-rolland, 1666-05-29_saint-flour_vente_larocque-salvanhac, 1666-05-30_saint-flour_testament_andrieu-chanson, 1666-06-01_roffiac_testament_gibrat, 1666-06-01_saint-flour_vente_gibrat-rolland, 1666-06-02_saint-flour_vente_bavate-lafoy, 1666-06-02_saint-flour_vente_mercier-delolme, 1666-06-03_saint-flour_transaction_canhac-amat, 1666-06-04_saint-flour_mariage_picot-delort, 1666-06-05_saint-flour_ratification_meyre-hugon, 1666-06-05_saint-flour_vente_ferrand-roche, 1666-06-08_andelat_testament_auveille-bastide, 1666-06-08_saint-flour_testament_astier, 1666-06-12_saint-flour_vente_galand-dechalue, 1666-06-14_saint-flour_vente_barthet, 1666-06-14_saint-flour_vente_montaigne-brivines, 1666-06-15_saint-flour_vente_durand-vayron, 1666-06-20_saint-flour_mariage_albaret-espezolles, 1666-06-20_saint-flour_testament_chaorie-gillet, 1666-06-21_saint-flour_testament_louvrier, 1666-06-27_vedrenan_vente_mallet-izabre, 1666-06-29_saint-flour_subrogation_gibrat-jury, 1666-06-30_saint-flour_donation_viallard-berault, 1666-07-04_saint-flour_protestation_aureilhe-mounier, 1666-07-06_andelat_mariage_revel-jean, 1666-07-07_saint-flour_vente_missonnier-bruzit, 1666-07-09_saint-flour_vente_boussuge-trabuc, 1666-07-10_saint-flour_vente_rioz-crespoul, 1666-07-11_saint-flour_vente_rispal-bichot, 1666-07-14_saint-flour_vente_pasquet-basset, 1666-07-16_roffiac_mariage_bourheyre-gazel, 1666-07-16_saint-flour_donation_cussac, 1666-07-18_saint-flour_mariage_blanc-cahot, 1666-07-20_saint-flour_testament_raynauld, 1666-07-25_saint-flour_ratification_bonnal-bardon, 1666-07-26_saint-flour_donation_delort-mauvy, 1666-08-06_saint-flour_transaction_hugon-chavanie, 1666-08-06_saint-flour_vente_cussat-meyre, 1666-08-08_saint-flour_transaction_boyer-batiffolier, 1666-08-16_saint-flour_subrogation_rouget-tronchere, 1666-08-19_saint-flour_ratification_taliade, 1666-08-22_saint-flour_cession_jean-gastail, 1666-08-22_saint-flour_vente_delort-delcros, 1666-08-22_saint-flour_vente_fabry-trenchier, 1666-08-24_saint-flour_vente_cussat-esbrard, 1666-08-25_saint-flour_subrogation_brassac-tronchere, 1666-08-29_saint-flour_subrogation_beraud-grenier, 1666-08-30_saint-flour_mariage_jean-dufour, 1666-09-05_saint-flour_vente_polverelles-froment, 1666-09-06_saint-flour_vente_dabladie-jury, 1666-09-11_saint-flour_testament_mallessaigne-crozat, 1666-09-16_saint-flour_quittance_rigault-bonniol, 1666-09-19_saint-flour_vente_gazal-fromen, 1666-09-19_saint-flour_vente_lollier-jesuites, 1666-09-21_saint-flour_quittance_berault-grenier, 1666-09-21_saint-flour_vente_chauson-bechot, 1666-09-26_saint-flour_mariage_maury-vedrines, 1666-09-29_saint-flour_vente_douze-gibrat, 1666-09-30_saint-flour_subrogation_hugoz-destubartes, 1666-09-30_saint-flour_testament_teisset, 1666-09-30_saint-flour_vente_pitiot-chaulhiac, 1666-10-01_saint-flour_donation_caniat-galvier, 1666-10-01_saint-flour_testament_chinial-riou, 1666-10-02_saint-flour_donation_reynaud-dupuy, 1666-10-04_saint-flour_vente_bout-tronchere, 1666-10-04_saint-flour_vente_lastic-barthet, 1666-10-05_saint-flour_demission_albon-jean, 1666-10-07_saint-flour_demission_bo-vispal, 1666-10-07_saint-flour_vente_bertrand-chastang, 1666-10-08_saint-flour_testament_chazal-mollinier, 1666-10-11_fayet_testament_maury-vondie, 1666-10-16_saint-flour_vente_catalat-jouve, 1666-10-17_saint-flour_transaction_chastel-pouget, 1666-10-17_saint-flour_vente_larocque-salvaniac, 1666-10-19_inconnu_testament_ventengol, 1666-10-22_saint-flour_echange_crespone, 1666-10-23_saint-flour_obligation_crespoul-vidal, 1666-10-23_saint-flour_vente_baratte-lafoy, 1666-10-28_saint-flour_echange_petit-andel, 1666-10-28_saint-flour_vente_andel-hugon, 1666-10-30_saint-flour_testament_callijat-baldissard, 1667-11-11_saint-flour_requete_vuillon-lepelletier, 1672-12-10_saint-flour_requete_fauret-vedrines |
+| Saint-Flour | 2820 | 1609-01-20_andelat_mariage_farreyres-boudet, 1624-11-19_saint-georges_vente_murat-celleyre, 1625-01-00_saint-flour_echange_murat-mourguet, 1626-00-00_saint-flour_declaration_duteil-chalier, 1626-01-17_saint-flour_consentement_delaroche, 1626-01-20_saint-flour_consentement_labro-charradon, 1626-01-26_saint-flour_quittance_bouzye-bergol, 1626-02-00_saint-flour_prixfait_bandre-amargier, 1626-02-13_saint-flour_cession_domergue-chastel, 1626-02-15_saint-flour_bail_sauret-lassu, 1626-02-15_saint-flour_bail_sauret-vergette, 1626-02-17_saint-flour_bail_baldissard-vigeral, 1626-03-04_saint-flour_quittance_jurdy-desauret, 1626-03-08_saint-flour_apprentissage_padin-chastel, 1626-03-08_saint-flour_partage_tyssedre, 1626-03-12_saint-flour_engagement_andrieu-vossier, 1626-03-12_saint-flour_louage_juge-dolly, 1626-03-12_saint-flour_transaction_fayet-brassac, 1626-03-13_saint-flour_protestation_cortel-vibert, 1626-03-18_saint-flour_transaction_breton-delorme, 1626-03-22_saint-flour_bail_fabre-fayet, 1626-03-22_saint-flour_prixfait_rymbal-cavallier, 1626-03-22_saint-flour_quittance_malessaigne-lastic, 1626-03-25_saint-flour_bail_chevalier-gotty, 1626-03-25_saint-flour_bail_gotty-bizet, 1626-03-26_saint-flour_bail_defaure-bondy, 1626-03-29_saint-flour_obligation_chevalier-blanc, 1626-03-30_saint-flour_bail_brugier-sauret, 1626-04-20_saint-flour_vente_vossier-eymard, 1626-04-21_saint-flour_vente_teschau, 1626-04-26_saint-flour_quittance_fabre-tessier, 1626-05-01_saint-flour_partage_aymier-bonnefon, 1626-05-02_saint-flour_transaction_contel-sauret, 1626-05-03_saint-flour_bail_allizard-vargni, 1626-05-07_saint-flour_renouvellement_brotin-bassal, 1626-05-08_saint-flour_bail_boyer-malet, 1626-05-28_saint-flour_compromis_fabry-devanes, 1626-06-08_saint-flour_bail_bische-nicolas, 1626-06-08_saint-flour_bail_falgat-thomas, 1626-06-19_saint-flour_transaction_deffreualz-alboy, 1626-06-21_saint-flour_bail_vignal-alegre, 1626-06-29_saint-flour_quittance_clauie-polissier, 1626-07-01_saint-flour_bail_aymeric-mestre, 1626-07-04_saint-flour_bail_duteil-chalier, 1626-07-04_saint-flour_quittance_olivier-vandre, 1626-07-12_saint-flour_obligation_vaultier-sauret, 1626-07-20_saint-flour_bail_esprit-benezit, 1626-07-25_saint-flour_bail_fayet-molye, 1626-08-03_saint-flour_bail_vidal-garnier, 1626-08-09_saint-flour_quittance_chancegagnier-changeat, 1626-08-14_saint-flour_sommation_faure, 1626-08-31_saint-flour_compromis_berault-bestel, 1626-09-00_saint-flour_deliberation_desrouel-gazal, 1626-09-20_saint-flour_association_mareschal-vmell, 1626-09-21_saint-flour_obligation_roux-vendre, 1626-09-22_vendeze_rente_armand-aymier, 1626-10-05_saint-flour_bail_martin-bergoin, 1626-10-06_saint-flour_bail_espinasse-garsbert, 1626-10-06_saint-flour_bail_gaultier-fournier, 1626-10-07_saint-flour_prixfait_brozet-chaullier, 1626-10-11_saint-flour_accord_cellerier-sabrie, 1626-10-13_saint-flour_bail_juery-taleyrat, 1626-10-20_saint-flour_bail_cellerier-taliziat, 1626-10-22_saint-flour_obligation_chatard-andrieu, 1626-10-25_saint-flour_bail_redinier-volland, 1626-10-25_saint-flour_quittance_teulier-gineste, 1626-10-27_saint-flour_convention_bertrand-chapuis, 1626-10-30_saint-flour_declaration_beyre-traverse, 1626-11-02_saint-flour_bail_armand-rigmard, 1626-11-04_saint-flour_compromis_desauret-cinqfougeran, 1626-11-07_saint-flour_bail_maurice-feulgier, 1626-11-08_saint-flour_quittance_anglade-chansy, 1626-11-09_saint-flour_bail_valet-malet, 1626-11-12_saint-flour_bail_barthomieu-vidal, 1626-11-12_saint-flour_cession_pons-reynaldy, 1626-11-12_saint-flour_compromis_mauran-aymier, 1626-11-14_saint-flour_cession_pons-reynaldy, 1626-11-15_saint-flour_desistement_vergete-chambaron, 1626-11-18_saint-flour_obligation_moyne, 1626-11-26_saint-flour_bail_dubois-bergonzat, 1626-11-26_saint-flour_procuration_jarguin-merzault, 1626-11-26_saint-flour_transaction_itier-allier, 1626-12-13_saint-flour_quittance_vertier-bassal, 1626-12-14_saint-flour_quittance_bessiere-gerauld, 1626-12-15_saint-flour_bail_meynier-combe, 1626-12-17_saint-flour_transaction_fabry-alichaud, 1626-12-20_saint-flour_bail_lachau-vendre, 1626-12-29_saint-flour_bail_aymier-pollin, 1626-12-30_saint-flour_bail_dommergue-tourte, 1628-01-08_saint-flour_testament_desrabre-maury, 1628-01-14_saint-flour_testament_lafon-couprat, 1628-01-19_saint-flour_bail_vimpin-vossel, 1628-02-15_saint-flour_bail_armand-vinchebourg, 1628-02-16_saint-flour_bail_dolly-jourdan, 1628-02-20_saint-flour_louage_regimbalt-boudon, 1628-02-20_saint-flour_offres_vergnol-bigne, 1628-02-23_saint-flour_bail_corbeuyre-anglade, 1628-02-24_saint-flour_bail_valarguier-jun, 1628-02-25_saint-flour_bail_mary-durand, 1628-02-26_saint-flour_bail_durand-chaste, 1628-03-23_saint-flour_bail_vergne, 1628-03-24_saint-flour_transaction_valarchier-mauran, 1628-03-25_saint-flour_bail_aymeric-amilhe, 1628-03-25_saint-flour_bail_aymeric-bigui, 1628-03-25_saint-flour_bail_aymeric-borrel, 1628-03-25_saint-flour_bail_aymeric-courin, 1628-03-25_saint-flour_bail_aymeric-couriu, 1628-03-25_saint-flour_bail_aymeric-dauze, 1628-03-25_saint-flour_bail_aymeric-malet, 1628-03-25_saint-flour_bail_champaignac-pachmolle, 1628-03-26_saint-flour_bail_aymeric-gotty, 1628-03-26_saint-flour_bail_aymeric-julhien, 1628-03-28_saint-flour_bail_cuelhmes-dufaure, 1628-04-01_saint-flour_bail_cust-gniyez, 1628-04-13_saint-flour_bail_cuspiac-symon, 1628-04-19_saint-flour_cession_chavillier-berger, 1628-05-08_saint-flour_bail_vossier-jehan, 1628-05-09_saint-flour_quittance_bonder-amargier, 1628-05-21_saint-flour_transaction_vidal-nicolas, 1628-05-26_saint-flour_donation_coutel, 1628-06-02_saint-flour_bail_bigot, 1628-06-03_saint-flour_bail_vlerssy-malle, 1628-06-04_saint-flour_bail_chotty-bigot, 1628-06-07_saint-flour_bail_jehan-prolatier, 1628-06-08_saint-flour_bail_chotty-masse, 1628-06-10_saint-flour_bail_aymier-sabuyrier, 1628-06-13_saint-flour_bail_huguet-bodinne, 1628-06-24_saint-flour_bail_aymier-baile, 1628-06-24_saint-flour_bail_aymier-dolom, 1628-06-24_saint-flour_bail_aymier-tyssier, 1628-06-25_saint-flour_bail_aubert-girard, 1628-06-25_saint-flour_rente_bugier-tibut, 1628-07-01_saint-flour_bail_cruzetin-bertier, 1628-07-04_saint-flour_bail_aymier-bonnenfant, 1628-07-06_saint-flour_transaction_reynalt-chavanon, 1628-07-07_saint-flour_bail_vergier-chastang, 1628-07-07_saint-flour_quittance_valgot-jourdan, 1628-07-09_saint-flour_quittance_hebrard-jehan, 1628-07-17_saint-flour_bail_sauret-chastang, 1628-07-31_saint-flour_obligation_chassy-montpeyrat, 1628-08-20_saint-flour_bail_berthier-mathieu, 1628-08-20_saint-flour_vente_gualdi-saurier, 1628-09-20_saint-flour_transaction_champclaux-delbin, 1628-09-22_saint-flour_bail_ballard-bessyre, 1628-09-27_saint-flour_bail_gaspard-costeprat, 1628-10-07_saint-flour_bail_trigault-ballerusse, 1628-10-09_saint-flour_bail_boudre-laurie, 1628-10-12_saint-flour_contrat_aymeric-chaptard, 1628-10-17_saint-flour_declaration_meynier, 1628-10-19_saint-flour_quittance_pelo-farges, 1628-10-31_saint-flour_bail_dutheil-vendel, 1628-11-15_saint-flour_bail_balaguier-gautier, 1628-11-17_saint-flour_bail_chanlhaguet-baldissard, 1628-11-19_saint-flour_obligation_vendit-landy, 1628-11-20_saint-flour_bail_aymier-despeyre, 1628-11-30_saint-flour_bail_cantel, 1628-12-02_saint-flour_diminution_champclaux-puyoy, 1628-12-04_saint-flour_vente_jersaux-sibert, 1628-12-09_saint-flour_autre_rolland-rabu, 1628-12-09_saint-flour_bail_dufaud-combes, 1628-12-22_saint-flour_bail_conte-hugon, 1632-01-07_saint-flour_remission_desaunet-bardol, 1632-01-11_saint-flour_mariage_veissiere-sicard, 1632-01-19_saint-flour_mariage_rigault-albier, 1632-01-19_saint-flour_vente_trymbal-espinchal, 1632-01-21_saint-flour_mariage_chapsoulh-bossuge, 1632-01-22_saint-flour_mariage_missonnier-roudier, 1632-01-31_saint-flour_vente_missonnier-hirle, 1632-02-01_saint-flour_mariage_jurjon-chabanier, 1632-02-08_saint-flour_mariage_dufour-chassang, 1632-02-11_saint-flour_mariage_vidal-boudet, 1632-02-14_saint-flour_vente_tissier-malet, 1632-02-21_saint-flour_mariage_brissede-pons, 1632-02-22_saint-flour_vente_melgho-viallard, 1632-02-28_saint-flour_vente_bonnet-roudil, 1632-03-03_saint-flour_vente_juillet-busseyre, 1632-03-03_saint-flour_vente_pages, 1632-03-05_saint-flour_vente_tissier-soulier, 1632-03-06_saint-flour_subrogation_bonnet, 1632-03-08_saint-flour_obligation_bonnet-guerin, 1632-03-14_saint-flour_transaction_delaire-combe, 1632-03-21_saint-flour_vente_missonnier-boucye, 1632-03-23_saint-flour_ratification_rouchier-julhes, 1632-04-13_saint-flour_mariage_trabuc-rigaud, 1632-04-16_saint-flour_vente_chanson-bechot, 1632-04-17_saint-flour_revente_eschaubard, 1632-04-17_saint-flour_vente_treuer-pons, 1632-05-02_saint-flour_mariage_chapoulle-reynal, 1632-05-05_saint-flour_mariage_aussel-andrieu, 1632-05-08_saint-flour_vente_treual-hisseire, 1632-05-10_saint-flour_vente_sauret-bastide, 1632-06-09_saint-flour_testament_durant-deubar, 1632-06-19_saint-flour_vente_delrieu-detrassesse, 1632-07-00_saint-flour_demission_jaber-aymier, 1632-07-04_saint-flour_mariage_baille-chastel, 1632-07-04_saint-flour_vente_costerousse-combe, 1632-07-06_saint-flour_vente_rispal-brugier, 1632-08-01_saint-flour_vente_esbrard-chaluet, 1632-08-31_saint-flour_vente_rogier-aymier, 1632-09-02_saint-flour_mariage_mousset-valche, 1632-09-06_saint-flour_vente_corspoul-delaire, 1632-09-10_saint-flour_testament_fayet-fayon, 1632-09-11_saint-flour_titreclerical_attalec-nabou, 1632-09-13_saint-flour_donation_fouchier-boussuge, 1632-09-23_saint-flour_mariage_roudil-coutel, 1632-10-09_saint-flour_partage_gualdissard-alboy, 1632-10-11_saint-flour_testament_regimbal, 1632-10-11_saint-flour_vente_chastel-fauret, 1632-10-11_saint-flour_vente_curtil-nivelon, 1632-10-21_saint-flour_vente_chastel-fauret, 1632-10-26_saint-flour_testament_bechot, 1632-11-04_saint-flour_vente_delrieu-bonnafous, 1632-11-06_saint-flour_testament_pallisse-pages, 1632-11-07_saint-flour_vente_cendre-felis, 1632-11-16_saint-flour_vente_trinchier-aymeric, 1632-11-19_andelat_testament_tantal, 1632-11-25_saint-flour_mariage_chalme-bergein, 1632-11-25_saint-flour_mariage_molinie-chazal, 1632-11-27_saint-flour_mariage_delhac-amat, 1632-11-29_saint-flour_vente_nougier-grassal, 1632-12-03_andelat_donation_dalzon-vendre, 1632-12-03_saint-flour_vente_sugelles-gibrat, 1632-12-08_saint-flour_vente_amat-salvan, 1632-12-22_saint-flour_vente_guilhaume-lissier, 1632-12-24_saint-flour_vente_delolme-delolme, 1632-12-31_saint-flour_vente_amat-sauret, 1633-01-02_saint-flour_vente_chastel-fauret, 1633-01-18_saint-flour_vente_crespon-cristal, 1633-01-20_saint-flour_mariage_chauvel-falvet, 1633-01-20_saint-flour_testament_alby, 1633-01-23_saint-flour_mariage_chapaneyre-lanne, 1633-01-25_saint-flour_mariage_gibrat-alhadieres, 1633-01-25_saint-flour_vente_bonesset-aymeric, 1633-01-28_saint-flour_mariage_cammel-jarlier, 1633-02-07_saint-flour_mariage_faulier-tissier, 1633-02-10_saint-flour_partage_chastel-fouche, 1633-02-11_saint-flour_vente_julhe-baille, 1633-02-11_saint-flour_vente_julhe-baille_b, 1633-02-26_saint-flour_vente_soulet-cellier, 1633-02-27_saint-flour_vente_tissier-debrun, 1633-02-28_saint-flour_vente_vigouroux-brassac, 1633-03-10_saint-flour_vente_pons-gibrard, 1633-03-12_saint-flour_vente_montaniac-bessolz, 1633-03-21_saint-flour_vente_apchier-serret, 1633-03-26_saint-flour_vente_trencher, 1633-04-09_saint-flour_vente_arnal-tissedre, 1633-04-17_saint-flour_donation_crozat-bourdon, 1633-04-18_saint-flour_transaction_fazon, 1633-04-22_saint-flour_testament_desmars-trabuc, 1633-04-25_saint-flour_vente_crespoul-siuergol, 1633-04-28_saint-flour_vente_soucheire-fontes, 1633-05-02_saint-flour_vente_cortel-mourgue, 1633-05-08_saint-flour_donation_darles-dyot, 1633-05-10_saint-flour_quittance_malassaigne-malet, 1633-05-10_saint-flour_vente_albaret-malet, 1633-05-11_saint-flour_mariage_rouget-galvier, 1633-05-14_saint-flour_testament_badeul-morin, 1633-05-19_tiviers_mariage_chaulhaguet-duteil, 1633-05-21_saint-flour_vente_bouycher-tassy, 1633-05-28_saint-flour_vente_perillier, 1633-06-02_saint-flour_vente_delayre-maury, 1633-06-03_saint-flour_vente_vigier-aymeric, 1633-06-10_saint-flour_vente_olliere-saintlagier, 1633-06-24_saint-flour_vente_sicard-maury, 1633-06-25_saint-flour_vente_bechassol, 1633-07-00_saint-flour_testament_bardon, 1633-08-14_saint-flour_transaction_crozat-fauteron, 1633-08-21_saint-flour_vente_albi-bardel, 1633-08-21_saint-flour_vente_alby-molegrens, 1633-08-23_saint-flour_mariage_mage-fuery, 1633-08-29_saint-flour_mariage_moussier-valette, 1633-09-06_saint-flour_testament_roudil, 1633-09-11_saint-flour_mariage_bazol-tremhiere, 1633-09-26_saint-flour_vente_avinal-roussel, 1633-09-29_saint-flour_echange_regimbal-bonhoure, 1633-10-04_saint-flour_ratification_chopy-delaire, 1633-10-06_saint-flour_vente_apchier-aurillac, 1633-10-20_saint-flour_vente_cussac-hebrard, 1633-10-22_saint-flour_echange_regimbal-roussel, 1633-10-22_saint-flour_vente_boyer-vieulx, 1633-10-23_saint-flour_vente_fontan, 1633-11-12_saint-flour_vente_roux-rouchea, 1633-11-13_saint-flour_testament_boucher, 1633-11-13_saint-flour_testament_rouchea, 1633-11-14_saint-flour_vente_monnier-mossine, 1633-11-19_saint-flour_vente_pons-chastel, 1633-11-20_saint-flour_echange_delcros-attalec, 1633-12-02_saint-flour_testament_galvier-vidal, 1633-12-13_saint-flour_testament_chazal, 1633-12-14_saint-flour_vente_mercier-aymeric, 1633-12-17_saint-flour_testament_cristal, 1633-12-21_saint-flour_vente_chapat-tassy, 1633-12-24_saint-flour_vente_delpiron-bozona, 1633-12-29_saint-flour_vente_chastel-sentheven, 1634-01-02_saint-flour_vente_sandou-jean, 1634-01-04_saint-flour_desistement_sandoul-pontsavet, 1634-01-11_inconnu_bail_bouges-maolat, 1634-01-14_saint-flour_bail_faury-fauret, 1634-01-15_saint-flour_vente_regimbal-roussel, 1634-01-16_saint-flour_echange_regimbal-roussel, 1634-01-17_saint-flour_promesse_tassy-belair, 1634-01-17_saint-flour_vente_perriel-tassy, 1634-01-23_saint-flour_transport_delfour, 1634-01-25_saint-flour_bail_regimbalt-masilhar, 1634-01-29_saint-flour_bail_brassac-estiou, 1634-02-01_saint-flour_vente_gibrat-rolland, 1634-02-04_saint-flour_bail_bender-missonnier, 1634-02-04_saint-flour_quittance_domergue-juery, 1634-02-04_saint-flour_vente_fravau-chalvet, 1634-02-05_saint-flour_transaction_chastel-lianniar, 1634-02-06_saint-flour_transaction_nozieres-espinouze, 1634-02-07_saint-flour_mariage_veissiere-aufolet, 1634-02-07_saint-flour_vente_chapoulade-fevrane, 1634-02-11_saint-flour_quittance_fabre-pitiot, 1634-02-12_saint-flour_bail_combal-chastel, 1634-02-14_saint-flour_mariage_clavieres-aymeric, 1634-02-16_saint-flour_quittance_bastide-andrieu, 1634-02-18_saint-flour_mariage_combes-prieghau, 1634-02-19_saint-flour_echange_deleyre-simbes, 1634-02-26_saint-flour_cession_contal, 1634-02-27_saint-flour_bail_bellengreville-amigo, 1634-03-03_saint-flour_cession_delaire-chalier, 1634-03-06_saint-flour_cession_trabuc, 1634-03-06_saint-flour_vente_breseyrousse-fabry, 1634-03-09_saint-flour_vente_bondon-tissot, 1634-03-13_saint-flour_vente_jolet-sibial, 1634-03-21_saint-flour_vente_gorce-andrieu, 1634-03-25_saint-flour_retrocession_maury, 1634-03-25_saint-flour_vente_gastel, 1634-03-25_saint-flour_vente_maury-jailhe, 1634-03-25_saint-flour_vente_maury-juniet, 1634-03-26_saint-flour_testament_maury, 1634-03-26_saint-flour_vente_gastel-jurol, 1634-03-26_saint-flour_vente_jouve-maury, 1634-03-27_saint-flour_quittance_valla-roux, 1634-03-27_saint-flour_vente_roux-aymeric, 1634-03-30_saint-flour_transaction_valarchier-dolmiere, 1634-04-06_saint-flour_testament_dumas, 1634-04-15_saint-flour_vente_rigal-bugo, 1634-04-19_saint-flour_transaction_trabuc-vigasol, 1634-04-27_saint-flour_quittance_albar-valdessend, 1634-05-01_saint-flour_quittance_sureil-jean, 1634-05-01_saint-flour_transaction_cussat-filhol, 1634-05-01_saint-flour_vente_cussac-filhol, 1634-05-06_saint-flour_vente_bachier-messonnier, 1634-05-07_saint-flour_donation_chastang-fumat, 1634-05-13_saint-flour_echange_portefaix-dommergue, 1634-05-15_saint-flour_transaction_garnier, 1634-05-17_saint-flour_quittance_gibrat-mestre, 1634-05-20_saint-flour_vente_roche-anglade, 1634-06-07_saint-flour_vente_albos-vandesse, 1634-06-08_saint-flour_vente_albepar-vedrine, 1634-06-10_saint-flour_mariage_laussac-durand, 1634-06-11_saint-flour_vente_bruguier-chareyre, 1634-06-25_saint-flour_vente_barthomeuf-dufour, 1634-06-27_saint-flour_quittance_gastaing, 1634-07-01_saint-flour_cession_bonamy, 1634-07-05_saint-flour_vente_lafargette-murat, 1634-07-12_saint-flour_cession_brouzy-bourel, 1634-07-19_saint-flour_vente_roussel-vigier, 1634-07-20_saint-flour_vente_desfondz-baudrongue, 1634-07-22_saint-flour_vente_vachier-rossignol, 1634-07-25_saint-flour_vente_chanut-chambon, 1634-07-26_saint-flour_vente_boncheorne-faulcon, 1634-08-22_saint-flour_vente_portal-aymerie, 1634-08-26_saint-flour_quittance_baratte-ebrard, 1634-08-27_saint-flour_vente_delbrun-traverse, 1634-08-31_saint-flour_cession_chaulhaguet-vayron, 1634-09-03_saint-flour_obligation_cormoul-chalier, 1634-09-04_saint-flour_prixfait_chaulhaguet-tardieu, 1634-09-09_saint-flour_vente_guillaud-orfulhe, 1634-09-16_saint-flour_vente_vigier-aymeric, 1634-09-21_saint-flour_quittance_rolland-chapsolle, 1634-09-24_saint-flour_vente_crespel-bertin, 1634-09-25_saint-flour_cession_chastel-jauvet, 1634-09-28_saint-flour_transaction_chanson-vaudeye, 1634-09-29_saint-flour_obligation_roudil-bonnet, 1634-10-02_saint-flour_transaction_saure, 1634-10-11_saint-flour_testament_joullio-julhi, 1634-10-16_saint-flour_mariage_gonnet-malmert, 1634-10-17_saint-flour_quittance_vidal-bonder, 1634-10-21_saint-flour_testament_bical-maudre, 1634-11-01_saint-flour_donation_fayon-valarchier, 1634-11-04_saint-flour_vente_bacon-sibial, 1634-11-04_saint-flour_vente_crozet-vossen, 1634-11-04_saint-flour_vente_liber, 1634-11-19_saint-flour_vente_vigier-missonier, 1634-11-20_saint-flour_quittance_gendre-barthomeuf, 1634-11-21_saint-flour_vente_chadre-celier, 1634-11-27_saint-flour_vente_albaret-bonnes, 1634-11-28_saint-flour_quittance_chadellac-brassac, 1634-11-29_saint-flour_accord_montsal-landeiral, 1634-12-02_saint-flour_mariage_gastal-bonnol, 1634-12-09_saint-flour_vente_delaire-combe, 1634-12-21_saint-flour_vente_jourdane-ruel, 1634-12-30_saint-flour_quittance_rigaud, 1638-06-30_saint-flour_partage_sauvat, 1638-06-30_saint-flour_quittance_sauvat, 1641-00-00_saint-flour_testament_durand, 1642-01-11_massiac_procuration_chandorat-aymeric, 1642-01-12_saint-flour_mariage_chandorat-aymerie, 1643-04-00_saint-flour_vente_solignac-dufour, 1644-01-18_saint-flour_vente_david-sauvet, 1644-02-00_saint-flour_testament_seguy-comoul, 1644-02-13_saint-flour_vente_debrion-alboy, 1644-02-13_saint-flour_vente_dufour-geraud, 1644-02-19_saint-flour_vente_geraud-trabuc, 1644-04-10_saint-flour_mariage_maury-andrieu, 1644-04-24_saint-flour_vente_sivry-boussuge, 1644-05-09_saint-flour_vente_sabatier-devannes, 1644-05-31_saint-flour_vente_fornier-boudon, 1644-06-21_saint-flour_vente_bouchet-daude, 1644-06-25_saint-flour_vente_bichot-sauvar, 1644-07-02_saint-flour_vente_gibrat-gastal, 1644-08-18_saint-flour_donation_bonnault, 1644-08-18_saint-flour_nomination_bonnault, 1644-08-27_saint-flour_donation_rolland-chalier, 1644-10-02_saint-flour_quittance_vidal-gastal, 1644-10-06_saint-flour_mariage_chastang-colomb, 1644-11-19_saint-flour_demission_favier-amat, 1644-11-28_saint-flour_accord_negrier-hugon, 1647-07-17_saint-flour_apprentissage_lapeyre-guanil, 1647-08-26_saint-flour_cession_lanes-alboy, 1647-09-16_saint-flour_bail_chauliaguet-esbrard, 1647-09-17_saint-flour_testament_vernhe, 1647-09-18_saint-flour_testament_couderc-banes, 1647-10-19_saint-flour_cession_biol-chastel, 1647-10-20_saint-flour_bail_chabot-bastide, 1647-10-23_saint-flour_obligation_cussac-boisson, 1647-11-02_saint-flour_mariage_monier-autin, 1647-11-05_saint-flour_transaction_gillet-dherault, 1647-11-06_saint-flour_bail_roze-pages, 1647-11-09_saint-flour_apprentissage_pelletier-bourdiol, 1647-11-13_saint-flour_quittance_beuzit-costes, 1647-11-17_saint-flour_bail_rouger-attalin, 1647-11-17_saint-flour_quittance_rouger-attalin, 1647-12-06_saint-flour_vente_combes-bonniol, 1647-12-15_saint-flour_quittance_baldissard-apchier, 1647-12-21_saint-flour_obligation_lac-tassy, 1648-01-00_saint-flour_testament_sahoure-peuilleu, 1648-01-01_saint-flour_obligation_berhot-mallet, 1648-01-25_saint-flour_vente_salvan-rolland, 1648-01-30_roffiac_mariage_mallet-brassac, 1648-02-06_saint-flour_demission_audoin-aussel, 1648-02-06_saint-flour_vente_valarchier-andrieu, 1648-02-19_saint-flour_vente_coutarel-grassald, 1648-02-23_saint-flour_mariage_dinasse-roche, 1648-03-02_saint-flour_quittance_boudon-senthorez, 1648-03-07_saint-flour_transaction_tranchier-sudre, 1648-03-07_saint-flour_vente_derames-chastel, 1648-03-10_saint-flour_echange_brugier-chabot, 1648-03-12_saint-flour_obligation_delmas-chazaledes, 1648-03-22_saint-flour_vente_chastang-corpout, 1648-03-29_saint-flour_testament_guillaume, 1648-03-30_saint-flour_bail_aymeric-messonnier, 1648-04-05_saint-flour_quittance_amat-vayssier, 1648-04-11_saint-flour_renonciation_oradour-cayron, 1648-05-06_saint-flour_testament_bertier, 1648-05-26_saint-flour_mariage_monnier-houon, 1648-05-31_saint-flour_vente_prady, 1648-06-13_saint-flour_donation_benezit, 1648-06-14_saint-flour_vente_devauzesse-delrieu, 1648-06-20_saint-flour_vente_juery-bonnet, 1648-07-14_saint-flour_obligation_cussac-lagoisson, 1648-07-14_saint-flour_vente_rougier-culhevrier, 1648-07-21_saint-flour_quittance_vidal-ferrand, 1648-08-06_saint-flour_vente_lacrussol-rebeard, 1648-08-11_saint-flour_bail_challier-juery, 1648-08-14_saint-flour_obligation_lavergne-petit, 1648-08-30_saint-flour_vente_guizer-gazel, 1648-08-30_saint-flour_vente_marby-filhol, 1648-09-15_saint-flour_donation_recodere-teyssedre, 1648-09-16_saint-flour_donation_rolland-boudon, 1648-10-10_saint-flour_quittance_chabot-traversse, 1648-10-11_saint-flour_quittance_giboa, 1648-10-13_saint-flour_vente_travesse-chauliaguet, 1648-11-17_saint-flour_vente_martin-estival, 1648-11-26_saint-flour_mariage_chastang-couderc, 1649-00-00_saint-flour_autre_inconnu, 1649-00-00_saint-flour_vente_bouyssou-fugeard, 1649-00-00_saint-flour_vente_inconnu, 1649-00-00_saint-flour_vente_mauy-mourgan, 1649-01-19_saint-flour_vente_rongier, 1649-01-25_saint-flour_transaction_migne-hugon, 1649-01-26_saint-flour_transaction_dubois-pages, 1649-02-00_saint-flour_transaction_gatier-durand, 1649-04-17_saint-flour_mariage_pelligri-rigimbalt, 1649-05-24_saint-flour_bail_inbert-severgol, 1649-06-15_saint-flour_partage_bonnet, 1649-07-17_saint-flour_quittance_gardelle-giraldon, 1649-07-25_saint-flour_cession_charbonel-vigauld, 1649-08-01_saint-flour_quittance_crozat-dupre, 1649-09-25_saint-flour_vente_chapoulhe-chambon, 1649-10-19_saint-flour_quittance_cussac-lauvie, 1649-11-21_saint-flour_bail_palisse-odoul, 1649-11-26_saint-flour_vente_lancz-chatonnier, 1649-12-04_saint-flour_vente_fontes-gralher, 1649-12-06_inconnu_echange_volland-cornez, 1650-00-00_saint-flour_vente_chastel-sauret, 1650-01-11_saint-flour_vente_gibrac-doumergue, 1650-01-19_saint-flour_mariage_allegre-mollinier, 1650-01-22_saint-flour_vente_thiral-sauret, 1650-01-25_saint-flour_echange_fornial-maury, 1650-01-26_saint-flour_vente_colrat-sauret, 1650-01-26_saint-flour_vente_doumergue-dupre, 1650-01-29_saint-flour_echange_douhet-taillade, 1650-02-02_saint-flour_vente_aymeric-marty, 1650-02-03_saint-flour_vente_crozet-delbelmon, 1650-02-06_saint-flour_donation_bondurand-delcros, 1650-02-08_fayet_testament_barthomeuf-andrieu, 1650-02-10_saint-flour_vente_chastel-sauret, 1650-02-11_saint-flour_vente_chauliaguet-caillaud, 1650-02-13_saint-flour_vente_dorhe-mourgue, 1650-02-20_saint-flour_donation_mornac, 1650-03-06_saint-flour_quittance_chalier-teyssedre, 1650-03-12_saint-flour_testament_merle-ingimbert, 1650-03-13_saint-flour_vente_chastel-fayon, 1650-03-18_saint-flour_vente_vigier, 1650-04-12_saint-flour_vente_rioure-tassy, 1650-04-18_villedieu_revente_grezes-gibrat, 1650-04-18_villedieu_vente_goizet-gibrat, 1650-04-21_saint-flour_vente_sarguin-brassac, 1650-05-07_saint-flour_vente_gibrat-chabot, 1650-05-14_saint-flour_mariage_jouvenhe-aujolet, 1650-05-16_anglards_vente_girou-charmet, 1650-05-17_saint-flour_vente_fabre-chastang, 1650-05-18_saint-flour_transaction_bastide-sauvaige, 1650-05-26_anglards_vente_combettes-jouve, 1650-06-01_saint-flour_mariage_albuisson-chalvet, 1650-06-06_saint-flour_vente_seurgol-mauri, 1650-06-13_saint-flour_transaction_ausole-tassaul, 1650-06-15_saint-flour_testament_durand, 1650-06-23_saint-flour_vente_sauret-mornac, 1650-06-26_saint-flour_vente_boucher-berthon, 1650-06-26_saint-flour_vente_tailhandier-bonnafos, 1650-06-27_saint-flour_vente_parra-rolland, 1650-07-01_roffiac_mariage_rolland-mallet, 1650-07-02_saint-flour_mariage_eschallier-monnier, 1650-07-09_saint-flour_vente_dupre-vidal, 1650-07-11_saint-flour_vente_sugimbert-pelligier, 1650-07-13_saint-flour_quittance_vidal-aussel, 1650-09-15_saint-flour_vente_marty-brassac, 1650-09-16_saint-flour_testament_bouger, 1650-09-21_saint-flour_vente_boudet-maury, 1650-09-24_saint-flour_mariage_boyer-bauthet, 1650-09-25_saint-flour_donation_avisir-sourhier, 1650-09-25_saint-flour_quittance_gillet-aymeric, 1650-09-25_saint-flour_vente_bonnault-fontz, 1650-09-27_saint-flour_vente_berthier-farges, 1650-09-29_saint-flour_vente_fajon-sauret, 1650-10-01_saint-flour_transaction_gendre-pages, 1650-10-02_saint-flour_transaction_odoul-mallassaigne, 1650-10-08_saint-flour_obligation_boudal-bevauld, 1650-10-09_saint-flour_licitation_jouve-boudet, 1650-10-09_saint-flour_obligation_prevost-apchier, 1650-10-15_saint-flour_testament_teillade, 1650-11-05_saint-flour_vente_alboy-bualet, 1650-11-08_saint-flour_obligation_ferrand-basset, 1650-11-12_saint-flour_ratification_cayrou-dupre, 1650-11-20_saint-flour_vente_delaroche-cinqpar, 1650-11-25_saint-flour_cession_bastide-regimbalt, 1650-11-26_saint-flour_transaction_chastel-fontz, 1650-11-28_saint-flour_quittance_vidal-rouger, 1650-12-02_saint-flour_cession_bouget-besson, 1650-12-02_saint-flour_cession_foulz, 1650-12-05_roffiac_vente_bolland-gibrat, 1650-12-27_saint-flour_vente_bonnet-chavergne, 1650-12-28_saint-flour_cession_teyssedre-bouget, 1650-12-30_saint-flour_vente_rouzeire-gillet, 1650-12-31_saint-flour_desistement_masset-teissedre, 1650-12-31_saint-flour_echange_besson-fabre, 1650-12-31_saint-flour_vente_boniol-masset, 1651-00-00_saint-flour_quittance_galdessard-mavienzol, 1651-00-00_saint-flour_vente_boyssolles, 1651-00-00_saint-flour_vente_faurail-rouzeyres, 1651-00-00_saint-flour_vente_maurizart-vergne, 1651-01-00_saint-flour_transaction_guerin-castaing, 1651-01-06_saint-flour_vente_chavergne-chastang, 1651-01-12_saint-flour_mariage_coulzie-bastide, 1651-01-16_saint-flour_vente_maulhac-chauvet, 1651-01-28_saint-flour_partage_milhot-aurelle, 1651-01-29_saint-flour_testament_vouge, 1651-02-00_saint-flour_obligation_sauvaige-blanc, 1651-02-00_saint-flour_vente_missonnier-vezin, 1651-02-05_saint-flour_obligation_fajon-andrieu, 1651-02-12_saint-flour_vente_mallessaigues-sauret, 1651-02-13_saint-flour_vente_bonduraud-delfieu, 1651-02-17_saint-flour_donation_odoul, 1651-02-17_villedieu_mariage_andrieu-chastel, 1651-02-20_saint-flour_echange_freual-maury, 1651-03-03_saint-flour_vente_malleschaignes-parra, 1651-03-05_saint-flour_vente_aymeric-brousse, 1651-03-06_saint-flour_vente_langenagre-boude, 1651-03-06_saint-flour_vente_sentherain-vouget, 1651-03-06_saint-flour_vente_volland-chantal, 1651-03-14_saint-flour_vente_fournier-pages, 1651-03-18_saint-flour_obligation_fajon-monier, 1651-03-23_saint-flour_testament_mollinier-baulme, 1651-03-24_saint-flour_testament_allezay, 1651-03-26_saint-flour_vente_mollinier-lebre, 1651-03-30_saint-flour_testament_chapavayre, 1651-04-00_saint-flour_vente_benezit-pages, 1651-04-00_saint-flour_vente_coutel-gibrat, 1651-04-01_saint-flour_vente_marly, 1651-04-02_saint-flour_vente_mauvy-gerauld, 1651-04-10_saint-flour_vente_brassac-uchassol, 1651-04-19_saint-flour_quittance_dupre-bonnol, 1651-04-19_saint-flour_vente_chanson-bechot, 1651-04-30_saint-flour_vente_bonniol-castagnade, 1651-05-01_saint-flour_obligation_mallespaigne-boussuge, 1651-05-06_saint-flour_echange_aurelle-mourat, 1651-05-13_saint-flour_echange_chastang-cusset, 1651-05-18_saint-flour_vente_andrieu-volland, 1651-05-20_saint-flour_vente_mighoulle-froment, 1651-06-00_saint-flour_autre_vedr-saint-pierre, 1651-06-02_saint-flour_vente_vezin-vazeilles, 1651-06-03_saint-flour_vente_brissolles-chastang, 1651-06-06_saint-flour_vente_chauzes-cayssedre, 1651-06-09_saint-flour_cession_chossy-boudoy, 1651-06-14_rezallerie_donation_brassac-boutes, 1651-06-16_saint-flour_rente_pignol-boubolane, 1651-06-17_saint-flour_vente_vazieu-boullette, 1651-06-18_saint-flour_echange_bouttelle, 1651-06-25_saint-flour_vente_audouin-matthaugier, 1651-06-29_saint-flour_vente_chabot-boude, 1651-07-00_saint-flour_vente_chanson-berthon, 1651-07-01_saint-flour_vente_archer-maury, 1651-07-09_saint-flour_obligation_bouget-chaulhiac, 1651-07-10_saint-flour_vente_lyssandre-rouget, 1651-07-14_saint-flour_transaction_sanson-lebre, 1651-07-18_saint-flour_transaction_teilhard-jarquin, 1651-08-04_saint-flour_mariage_vessiere-tisset, 1651-08-12_saint-flour_vente_cayrou-dupre, 1651-08-19_saint-flour_cession_caulle, 1651-08-24_saint-flour_partage_riourt, 1651-08-26_saint-flour_testament_fayon, 1651-08-28_saint-flour_vente_nouvel-boudoy, 1651-08-29_saint-flour_mariage_soubier-gibrac, 1651-08-30_saint-flour_vente_mariengol-chalvet, 1651-09-06_saint-flour_testament_rigault, 1651-09-06_saint-flour_transaction_valarchier-trabuc, 1651-09-14_saint-flour_testament_chadel, 1651-09-14_saint-flour_testament_chamerle, 1651-09-22_saint-flour_transaction_chauliaguet, 1651-10-28_saint-flour_mariage_joumbre-boyer, 1651-10-30_saint-flour_testament_vert-soullier, 1651-11-00_saint-flour_testament_dechausse, 1651-11-00_saint-flour_vente_andrieu-gibiac, 1651-11-06_saint-flour_vente_rouffe-roche, 1651-11-08_saint-flour_vente_boudet-chauzy, 1651-11-18_saint-flour_vente_alboy-chalier, 1651-12-05_saint-flour_vente_caillade-bourzette, 1651-12-06_andelat_donation_maury-sauvet, 1651-12-09_saint-flour_quittance_segur-gozier, 1651-12-09_saint-flour_vente_detrauesse-delride, 1651-12-09_saint-flour_vente_jean-margarit, 1651-12-16_saint-flour_vente_giraldon, 1651-12-21_saint-flour_association_vidal-chalvet, 1651-12-23_saint-flour_testament_doumergue, 1651-12-23_saint-flour_testament_pages-dubourd, 1651-12-26_saint-flour_testament_beraud, 1651-12-26_saint-flour_testament_pouzin, 1651-12-27_saint-flour_testament_boyer, 1651-12-29_saint-flour_partage_pages-vidal, 1651-12-30_saint-flour_procuration_chaulhague-rome, 1651-12-30_saint-flour_transaction_bouffe-rolland, 1651-12-30_saint-flour_vente_mossier-montaigne, 1652-01-04_saint-flour_echange_galdissard-chalvet, 1652-01-06_saint-flour_demission_rolland-bessiere, 1652-01-10_saint-flour_mariage_delort-pons, 1652-01-10_saint-flour_transaction_marignon-vidal, 1652-01-12_saint-flour_testament_eschallier, 1652-01-12_saint-flour_vente_cosches-chauliaguet, 1652-01-14_saint-flour_echange_galdissard-chalvet, 1652-01-18_saint-flour_mariage_brassac-chevallier, 1652-01-24_saint-flour_donation_coutel, 1652-01-27_saint-flour_mariage_dufour-albuisson, 1652-01-28_andelat_mariage_boussuge-bastide, 1652-01-31_saint-flour_vente_chauvi-barrou, 1652-02-10_saint-flour_echange_dommergue-pouhavre, 1652-02-10_saint-flour_vente_boudet-chanson, 1652-02-10_saint-flour_vente_dommergue-sautherez, 1652-02-12_saint-flour_subrogation_folhe-chausy, 1652-02-12_saint-flour_subrogation_foly-courchaire, 1652-02-20_saint-flour_cession_douhet, 1652-02-23_saint-flour_remission_pavva, 1652-02-24_saint-flour_cession_reynal-vidal, 1652-02-24_saint-flour_transaction_vidal-parra, 1652-02-26_saint-flour_vente_alboy, 1652-03-00_saint-flour_testament_baldissard, 1652-03-05_saint-flour_vente_daby-boudon, 1652-03-05_saint-flour_vente_mallessaigne-chauliaguet, 1652-03-08_saint-flour_vente_combettes-vendre, 1652-03-10_saint-flour_echange_chabot-vachier, 1652-03-17_saint-flour_vente_chastel-crozat, 1652-03-18_saint-flour_vente_chavagnac-baldissard, 1652-03-20_saint-flour_vente_douhet-andrieu, 1652-03-22_saint-flour_vente_solier-gilles, 1652-03-26_villedieu_cession_david-lisset, 1652-03-29_saint-flour_testament_cusset-brundroz, 1652-04-01_saint-flour_testament_armand, 1652-04-01_saint-flour_vente_faigeolle-rouger, 1652-04-04_saint-flour_procuration_bouslhuge-roux, 1652-04-06_saint-flour_vente_chopy-saumade, 1652-04-11_saint-flour_vente_saignes-chauliaguet, 1652-04-13_saint-flour_vente_chauson, 1652-04-13_saint-flour_vente_domergue-dupuy, 1652-04-13_saint-flour_vente_fontanide-hugon, 1652-04-13_saint-flour_vente_hugon, 1652-04-14_saint-flour_mariage_rochier-lassy, 1652-04-14_saint-flour_transaction_hugon-bauny, 1652-04-18_saint-flour_vente_coutel-brausse, 1652-04-20_saint-flour_accord_bousse-boudet, 1652-04-21_saint-flour_testament_bardon-amadieu, 1652-04-21_saint-flour_testament_veginbalt, 1652-04-22_saint-flour_quittance_vidal-brausse, 1652-04-26_saint-flour_cession_cosset-mallessaigne, 1652-04-27_saint-flour_vente_chevallier-garson, 1652-04-28_saint-flour_obligation_chanson, 1652-04-30_saint-flour_cession_challier-auzolle, 1652-05-02_saint-flour_vente_mauy-allegre, 1652-05-06_coltines_echange_crossoul-defoudz, 1652-05-12_saint-flour_vente_tailhand-bourgeze, 1652-05-13_saint-flour_vente_castel-chanson, 1652-05-13_saint-flour_vente_gastail-chanson, 1652-05-17_saint-flour_cession_delrieu-tassy, 1652-05-17_saint-flour_cession_hugon-tassy, 1652-05-17_saint-flour_vente_pages-lassy, 1652-05-20_saint-flour_mariage_delchar-tardieu, 1652-05-23_saint-flour_vente_boissolier-rolland, 1652-05-25_saint-flour_vente_lisset-cussac, 1652-05-25_saint-flour_vente_ruvelle-chastel, 1652-05-29_saint-flour_echange_poursain-hugon, 1652-06-00_saint-flour_echange_chazot-vidal, 1652-06-00_saint-flour_vente_sauvagne-bardon, 1652-06-08_villedieu_testament_missonnier, 1652-06-09_saint-flour_quittance_boux-paulhiac, 1652-06-10_saint-flour_echange_chazot-vidal, 1652-06-16_saint-flour_vente_borchette-portefaix, 1652-06-24_villedieu_vente_missonnier, 1652-06-30_saint-flour_transaction_marchand-chauses, 1652-07-00_saint-flour_echange_margerit-boudoz, 1652-07-01_saint-flour_quittance_blanc, 1652-07-06_saint-flour_transaction_rolland-bourzet, 1652-07-17_saint-flour_vente_chazalledes-dausfilhe, 1652-07-18_saint-flour_testament_rappoz, 1652-07-20_saint-flour_ratification_dommergue-dupuy, 1652-07-24_saint-flour_vente_boudoz-durand, 1652-07-26_saint-flour_vente_chastang-andrieu, 1652-07-27_saint-flour_echange_boudet, 1652-08-05_saint-flour_vente_paulhard-fabry, 1652-08-31_saint-flour_cession_detraussez-dufour, 1652-09-14_saint-flour_mariage_piguiol-dussac, 1652-09-14_saint-flour_vente_chaubard-chastre, 1652-09-16_saint-flour_vente_champanhac-volp, 1652-09-17_saint-flour_vente_rigault-herault, 1652-09-25_saint-flour_cession_bonafos-richard, 1652-09-26_saint-flour_donation_chappoulle, 1652-09-28_saint-flour_transaction_crioullier-mauron, 1652-09-29_saint-flour_vente_sauvet-bouchez, 1652-10-07_saint-flour_partage_coutel-malbec, 1652-12-07_saint-flour_vente_delrieu-bonniol, 1653-01-03_saint-flour_donation_maurilhiar, 1653-01-04_saint-flour_vente_tourrette-sauret, 1653-01-06_saint-flour_transaction_trabuc-sauret, 1653-01-07_saint-flour_vente_trabuc-fabry, 1653-01-12_saint-flour_echange_jolie-andrieu, 1653-01-13_saint-flour_quittance_challier-boubolene, 1653-01-14_saint-flour_echange_goussier-rolland, 1653-01-14_saint-flour_vente_andrieu-solie, 1653-01-14_saint-flour_vente_barthomieuf-jomarte, 1653-01-14_saint-flour_vente_bordes-chanson, 1653-01-16_saint-flour_vente_martin-cussac, 1653-01-22_saint-flour_vente_chausse-devarnes, 1653-01-23_andelat_testament_roux, 1653-01-23_saint-flour_transaction_saignes-gillet, 1653-01-25_saint-flour_vente_coudre-salvatge, 1653-01-26_saint-flour_vente_cibial-sauret, 1653-02-00_saint-flour_vente_barthomeuf-chanlaguet, 1653-02-00_saint-flour_vente_roger-eschallier, 1653-02-01_saint-flour_vente_quatveulx-pelegry, 1653-02-03_saint-flour_vente_bressolles-rolland, 1653-02-04_saint-flour_mariage_parroche-tisset, 1653-02-05_saint-flour_vente_cailhade-beaufort, 1653-02-05_saint-flour_vente_canilhac-bourdiol, 1653-02-08_saint-flour_vente_viallard-mavron, 1653-02-09_saint-flour_subrogation_galdessard-mallet, 1653-02-10_saint-flour_cession_barthe, 1653-02-10_saint-flour_vente_armand-chomie, 1653-02-11_saint-flour_mariage_reynault-vazler, 1653-02-11_saint-flour_vente_bouy-galand, 1653-02-14_saint-flour_donation_chaumeil-sauve, 1653-02-15_saint-flour_mariage_eschallier-cebrousse, 1653-02-17_saint-flour_vente_tisset-cussac, 1653-02-18_saint-flour_mariage_commond-mallessaignes, 1653-02-22_saint-flour_mariage_siccard-montgial, 1653-02-23_saint-flour_testament_chanson, 1653-02-24_saint-flour_inventaire_chanson-aujolet, 1653-02-25_roffiac_mariage_cussac-uchassol, 1653-03-03_saint-flour_vente_caucal-rouget, 1653-03-03_saint-flour_vente_durand-gillet, 1653-03-03_saint-flour_vente_durand-gillet_b, 1653-03-04_saint-flour_transaction_hugon-quatveul, 1653-03-15_saint-flour_ratification_fion-cussac, 1653-03-15_saint-flour_vente_estival-david, 1653-03-16_saint-flour_echange_delort-fornal, 1653-03-18_saint-flour_vente_bardon-hugon, 1653-03-19_saint-flour_vente_vidal-chazot, 1653-03-20_saint-flour_vente_bagail-mallet, 1653-03-22_saint-flour_echange_chadellac-maulhac, 1653-03-22_saint-flour_vente_audieu-pomi, 1653-03-22_saint-flour_vente_chadellac-maurchar, 1653-03-22_saint-flour_vente_chastre-bechot, 1653-03-23_saint-flour_transaction_souchier-sauvaige, 1653-03-28_saint-flour_vente_tesse-ambiele, 1653-03-29_saint-flour_vente_doumergue, 1653-03-31_saint-flour_vente_jean-combettes, 1653-04-01_saint-flour_vente_derames-missonnier, 1653-04-01_saint-flour_vente_frougoux-jean, 1653-04-01_saint-flour_vente_vispail-derames, 1653-04-05_saint-flour_vente_dufaure-chauliaguet, 1653-04-06_saint-flour_testament_mollinier, 1653-04-08_saint-flour_bail_aujolet-chanson, 1653-04-08_saint-flour_cession_ambiele-chastang, 1653-04-08_saint-flour_vente_buge-delrieu, 1653-04-08_saint-flour_vente_gaudelle-solier, 1653-04-15_saint-flour_testament_dufour, 1653-04-17_saint-flour_revente_devarnes-aujolet, 1653-04-19_saint-flour_echange_andrieu, 1653-04-19_saint-flour_vente_dion-ferrand, 1653-04-22_saint-flour_mariage_dufour-vaur, 1653-04-26_saint-flour_vente_chomel-eschalier, 1653-04-26_saint-flour_vente_lamere-vigault, 1653-04-26_saint-flour_vente_mauly, 1653-04-27_saint-flour_vente_bonnet-bernard, 1653-04-29_saint-flour_echange_assonnier-grezes, 1653-04-30_saint-flour_transaction_nauthonnier-brassac, 1653-05-01_saint-flour_convention_volland-uchassol, 1653-05-01_saint-flour_echange_sauret-gibrat, 1653-05-01_saint-flour_vente_gibrat-sauret, 1653-05-02_saint-flour_donation_solie-boudon, 1653-05-02_saint-flour_vente_rodsoller-vedringhol, 1653-05-03_saint-flour_vente_maulhat-feraud, 1653-05-03_saint-flour_vente_vaurilhac-bonnafos, 1653-05-04_saint-flour_vente_mauly-vaurs, 1653-05-10_saint-flour_vente_rivore-mar, 1653-05-11_saint-flour_vente_roudil-mendre, 1653-05-11_saint-flour_vente_vidal-chazot, 1653-05-13_saint-flour_vente_chabert-fabry, 1653-05-17_saint-flour_cession_bucher-basset, 1653-05-17_saint-flour_compromis_boyer-polverelles, 1653-05-17_saint-flour_vente_combes-rouget, 1653-05-18_alleuze_vente_monier-chanson, 1653-05-18_vibrezac_partage_chanson-vedrines, 1653-05-25_saint-flour_subrogation_imbert-delangouvents, 1653-05-28_saint-flour_vente_vaylet-gaston, 1653-05-31_saint-flour_vente_rouvi-baille, 1653-06-02_saint-flour_vente_cibial-rouget, 1653-06-03_saint-flour_vente_chadollac-chastang, 1653-06-06_saint-flour_ratification_daude-dupre, 1653-06-07_saint-flour_vente_belet-crespoul, 1653-06-14_saint-flour_vente_mirhe-vidal, 1653-06-16_saint-flour_partage_gaultier, 1653-06-21_saint-flour_vente_chambon-faulat, 1653-06-22_saint-flour_mariage_astier-noel, 1653-06-23_saint-flour_subrogation_vidal-albaree, 1653-06-24_saint-flour_compromis_gozet-saumade, 1653-06-29_saint-flour_vente_mallet-bergier, 1653-07-01_saint-flour_transaction_maroz-ouvrier, 1653-07-02_saint-flour_vente_jean-noailles, 1653-07-05_saint-flour_cession_chauliaguet-biller, 1653-07-06_saint-flour_mariage_ebrard-blanc, 1653-07-08_saint-flour_vente_vayle-gaston, 1653-07-13_saint-flour_vente_gibrac-gomez, 1653-07-17_saint-flour_vente_reynault-gaston, 1653-07-22_saint-flour_cession_colrat-vergne, 1653-07-25_saint-flour_testament_falgiere, 1653-07-27_saint-flour_mariage_teyssedre-pignol, 1653-07-28_saint-flour_sommation_missonnier-alboy, 1653-08-12_saint-flour_vente_cussac-defondz, 1653-08-16_saint-flour_vente_boudie-ferrand, 1653-09-00_saint-flour_mariage_bechot-chaulhaguet, 1653-09-02_saint-flour_testament_chazelles-fraisse, 1653-09-03_saint-flour_transaction_chassang-fajoz, 1653-09-07_saint-flour_transaction_hugon-favel, 1653-09-18_saint-flour_testament_ferrand, 1653-09-20_saint-flour_transaction_chassang-pages, 1653-09-20_saint-flour_transaction_fajon-delmar, 1653-09-20_saint-flour_vente_salnaz-rolland, 1653-09-23_saint-flour_vente_chastre-gastal, 1653-09-29_saint-flour_testament_pages, 1653-09-29_saint-flour_vente_defoudz-bugier, 1653-09-30_saint-flour_testament_galiot-marquis, 1653-10-02_saint-flour_testament_maurelhiar, 1653-10-02_saint-flour_vente_ostmal-sauvet, 1653-10-05_saint-flour_declaration_rouget-vidal, 1653-10-06_saint-flour_transaction_boutonh-mosle, 1653-10-14_saint-flour_vente_riourde, 1653-10-16_saint-flour_cession_mosnier-madieu, 1653-10-18_saint-flour_vente_solier-daix, 1653-10-20_saint-flour_mariage_borel-mollinier, 1653-10-20_saint-flour_testament_aymeric, 1653-10-25_saint-flour_vente_bastide-cristal, 1653-10-26_saint-flour_echange_crespoul-cristal, 1653-10-28_saint-flour_vente_fabre-vayron, 1653-11-02_saint-flour_mariage_lolier-durand, 1653-11-09_saint-flour_vente_cathala-bechot, 1653-11-14_coren_vente_seurgol-mossier, 1653-11-15_saint-flour_transaction_cristal-hugoz, 1653-11-15_saint-flour_vente_combes-rouget, 1653-11-15_saint-flour_vente_louvo-chauvejon, 1653-11-15_saint-flour_vente_vigassol-pages, 1653-11-16_saint-flour_vente_rioure-hugoz, 1653-11-20_saint-flour_compromis_jourdy-fabry, 1653-11-27_saint-flour_vente_dolz-mar, 1653-11-28_roffiac_mariage_delmas-mallet, 1653-11-30_saint-flour_quittance_gibrat-lolier, 1653-11-30_saint-flour_transaction_verdier-mallet, 1653-12-00_saint-flour_vente_fray-mas, 1653-12-09_saint-flour_quittance_desauve-beaufilz, 1653-12-11_saint-flour_vente_fuvel-mas, 1653-12-17_saint-flour_rente_sauvet-tours, 1653-12-20_saint-flour_vente_vendier-chambaron, 1653-12-21_saint-flour_subrogation_langenaire-rigault, 1653-12-22_saint-flour_vente_rodier-bouttette, 1653-12-25_saint-flour_quittance_berthier-julhien, 1653-12-28_saint-flour_vente_pontsavre-vidal, 1654-01-02_saint-flour_mariage_chalier-fontes, 1654-01-02_saint-flour_testament_mirmande, 1654-01-04_saint-flour_vente_daud-devaux, 1654-01-06_saint-flour_quittance_chezolles, 1654-01-07_saint-flour_vente_galliardy-albessard, 1654-01-10_saint-flour_desistement_bussolles-chastang, 1654-01-12_saint-flour_quittance_boudil-ferrand, 1654-01-15_saint-flour_transaction_buge-delrieu, 1654-01-17_saint-flour_mariage_pellouz-falgeyrac, 1654-01-26_saint-flour_mariage_ferauze-aussel, 1654-01-27_saint-flour_mariage_tissandier-cailliandre, 1654-01-29_saint-flour_donation_sauvet, 1654-01-29_saint-flour_mariage_odoul-metgue, 1654-01-31_saint-flour_vente_delaire-charbonnier, 1654-02-01_villedieu_vente_monnier-chassang, 1654-02-04_saint-flour_vente_fontes-teissedre, 1654-02-05_saint-flour_compromis_alloy-bertrand, 1654-02-07_saint-flour_mariage_galand-nauthonnier, 1654-02-09_saint-flour_mariage_vassond-courchaud, 1654-02-10_alleuze_mariage_mosnier-meyhoulle, 1654-02-13_saint-flour_transaction_crozat-boudier, 1654-02-14_saint-flour_mariage_reynaud-tourde, 1654-02-15_roffiac_mariage_malle-aurelle, 1654-02-16_villedieu_mariage_rolland-vidal, 1654-02-20_saint-flour_quittance_dumas-porchau, 1654-02-20_saint-flour_vente_chalvet-boudet, 1654-02-21_saint-flour_testament_teyssedre-chazalledez, 1654-02-22_saint-flour_vente_chalvet-boudet, 1654-02-23_saint-flour_quittance_sicaud-vougier, 1654-02-28_saint-flour_vente_pons-ventenghol, 1654-03-01_fraissenet_testament_nouzeiroe-beche, 1654-03-01_saint-flour_vente_gibrat-marly, 1654-03-02_saint-flour_quittance_odoul, 1654-03-02_saint-flour_vente_martial-cramon, 1654-03-09_saint-flour_vente_forgeac-malle, 1654-03-12_saint-flour_vente_lessedre-grassalt, 1654-03-14_saint-flour_echange_malleshargues-vidal, 1654-03-14_saint-flour_vente_bastide-nouzeyres, 1654-03-14_saint-flour_vente_jourdy-richard, 1654-03-16_saint-flour_demission_daude-estiene, 1654-03-20_saint-flour_vente_mallessaigne-fayon, 1654-03-22_saint-flour_desistement_martin-broz, 1654-03-26_saint-flour_demission_dommergue-mallet, 1654-03-29_saint-flour_partage_spezolles, 1654-03-30_saint-flour_testament_vispal-couderc, 1654-04-01_saint-flour_vente_bros-bertier, 1654-04-02_saint-flour_vente_bonnault-papavin, 1654-04-10_saint-flour_quittance_rolland-bergier, 1654-04-11_saint-flour_testament_carrer-aspre, 1654-04-14_saint-flour_echange_bouffre-chastang, 1654-04-16_saint-flour_quittance_chaluet-senteraiz, 1654-04-16_saint-flour_transaction_david-estienne, 1654-04-20_saint-flour_vente_andrieu-cussac, 1654-04-25_saint-flour_vente_durhard-caueal, 1654-04-30_saint-flour_mariage_chassang-rigault, 1654-04-30_saint-flour_transaction_dommergue-torche, 1654-04-30_saint-flour_vente_crabier, 1654-05-03_saint-flour_demission_estienne-tissot, 1654-05-03_saint-flour_transaction_chanson, 1654-05-05_saint-flour_mariage_rouget-nauthonie, 1654-05-06_saint-flour_vente_gibrat-severin, 1654-05-09_saint-flour_desistement_reynalt-gaston, 1654-05-09_saint-flour_echange_fabre-crespoul, 1654-05-09_saint-flour_vente_fabre-crespoul, 1654-05-14_saint-flour_cession_rouget-faverge, 1654-05-14_saint-flour_mariage_nauthonie-delmas, 1654-05-14_saint-flour_vente_sentivay-semez, 1654-05-17_saint-flour_mariage_ber-delolme, 1654-05-20_saint-flour_vente_lar-boymetton, 1654-05-20_saint-flour_vente_mallessaigne-grezes, 1654-05-24_saint-flour_transaction_marly, 1654-05-26_saint-flour_vente_martial-missonnier, 1654-05-30_saint-flour_cession_valadier-bonniol, 1654-05-31_saint-flour_vente_rolland-pages, 1654-06-00_saint-flour_vente_chappoulle-antheraiq, 1654-06-03_saint-flour_renonciation_bardon, 1654-06-03_saint-flour_vente_borde-sauret, 1654-06-06_saint-flour_vente_cosserand, 1654-06-06_saint-flour_vente_cosserand_b, 1654-06-07_saint-flour_transaction_maury-chastang, 1654-06-11_fraissenet_testament_gibrat-beyot, 1654-06-12_fraissenet_vente_gibrat-rouget, 1654-06-13_saint-flour_vente_chanson-cussac, 1654-06-15_saint-flour_vente_aymerit-sauve, 1654-06-20_saint-flour_vente_faluchon-bremon, 1654-06-24_saint-flour_vente_rol-jouve, 1654-06-25_saint-flour_vente_bastid-andrieu, 1654-06-25_saint-flour_vente_chaugelbuf-maury, 1654-06-25_saint-flour_vente_gardelle-delolme, 1654-06-28_saint-flour_vente_courette-sauret, 1654-07-02_saint-flour_echange_combettes-vondel, 1654-07-05_saint-flour_vente_jourdes-albaret, 1654-07-06_saint-flour_echange_chanson-teyssedre, 1654-07-06_saint-flour_testament_petit-mallissaignes, 1654-07-12_saint-flour_vente_chauliaguet-lalieure, 1654-07-17_saint-flour_ratification_sentheray-mallet, 1654-07-18_saint-flour_obligation_pouget-faure, 1654-07-18_saint-flour_vente_pouget-faure, 1654-07-19_saint-flour_echange_chanson-monnier, 1654-07-19_saint-flour_vente_chavallier-chastang, 1654-07-22_saint-flour_subrogation_delort-delaroche, 1654-07-26_saint-flour_mariage_monnier-brassac, 1654-07-29_saint-flour_echange_chauliagne-chabot, 1654-08-00_saint-flour_transaction_bardoz-boussuge, 1654-08-02_saint-flour_mariage_mallessaignes-vigier, 1654-08-06_saint-flour_donation_portal, 1654-08-20_saint-flour_vente_delcros-vollant, 1654-08-24_saint-flour_quittance_peuch-gaillard, 1654-08-25_saint-flour_vente_maury-delaroche, 1654-08-28_saint-flour_testament_aussel, 1654-09-00_saint-flour_vente_chastang-defondz, 1654-09-00_saint-flour_vente_chaulz-hugon, 1654-09-01_saint-flour_vente_andrieu-giraldon, 1654-09-16_andelat_testament_sauvet-chalmette, 1654-09-20_alleuze_testament_chanson, 1654-09-21_saint-flour_vente_estival, 1654-09-27_saint-flour_vente_doumergue-bonhomme, 1654-09-28_saint-flour_vente_vavonnes-pagez, 1654-09-29_saint-flour_vente_cussac-rial, 1654-10-00_saint-flour_testament_vachassol, 1654-10-14_saint-flour_vente_maury-comte, 1654-10-15_saint-flour_mariage_pages-chappoulle, 1654-10-24_saint-flour_mariage_albarie-majre, 1654-10-28_saint-flour_vente_rigault-deramis, 1654-10-30_saint-flour_quittance_viallard-apchier, 1654-10-31_saint-flour_vente_doly-mas, 1654-11-00_saint-flour_subrogation_fendouze-chalmette, 1654-11-04_saint-flour_mariage_barriol-petit, 1654-11-04_saint-flour_vente_souvel-mas, 1654-11-06_saint-flour_vente_desfondz-boyer, 1654-11-07_saint-flour_testament_chaluet-berault, 1654-11-12_saint-flour_vente_chevallier-laroque, 1654-11-14_saint-flour_vente_pages-rouget, 1654-11-15_saint-flour_echange_rouget-estival, 1654-11-21_saint-flour_vente_daund-devaurs, 1654-11-29_saint-flour_quittance_gibrat-houra, 1654-11-29_saint-flour_vente_sainthevain-auzolle, 1654-12-00_saint-flour_mariage_mallessagne-missonnier, 1654-12-02_saint-flour_ratification_gardelle-cussat, 1654-12-19_saint-flour_transaction_delvieu-hugon, 1654-12-21_saint-flour_vente_gardelle-bussat, 1654-12-28_saint-flour_vente_guimbal-bouniol, 1654-12-29_saint-flour_vente_cosches-segui, 1654-12-30_saint-flour_testament_commond-mallessaigne, 1654-12-31_saint-flour_vente_grezes-bastide, 1655-00-00_saint-flour_vente_bardon-bugo, 1655-03-03_saint-flour_transaction_trabuc-aureilhe, 1655-04-24_saint-flour_vente_fabre-vachassol, 1655-05-01_saint-flour_subrogation_chevallier-devarnes, 1655-05-09_saint-flour_demission_orcer-tisse, 1655-05-16_saint-flour_mariage_delaspre-sostrousse, 1655-05-18_saint-flour_testament_blondin-gibrac, 1655-05-18_saint-flour_transaction_vautheran-cussac, 1655-05-23_saint-flour_transaction_yzabel-sentheraiz, 1655-05-25_saint-flour_subrogation_vezis-brousse, 1655-06-14_saint-flour_donation_bonafos-pademorgue, 1655-09-14_saint-flour_obligation_massebeau-pourrat, 1655-10-00_saint-flour_mariage_vidal-rossignol, 1655-11-00_saint-flour_vente_chastang-dupre, 1655-11-00_saint-flour_vente_combes-chomel, 1655-11-00_saint-flour_vente_mas, 1655-11-10_saint-flour_vente_jourdes-courtavel, 1655-11-10_saint-flour_vente_monet-combes, 1655-11-20_saint-flour_vente_bonnel-devaure, 1655-11-20_saint-flour_vente_fournier-chastang, 1655-12-05_saint-flour_quittance_brassac-parra, 1655-12-11_saint-flour_echange_hugon-calvel, 1656-00-00_saint-flour_mariage_piron-tremoliere, 1656-00-00_saint-flour_vente_basset, 1656-01-08_saint-flour_cession_david-prat, 1656-01-09_saint-flour_mariage_delort-bouchier, 1656-01-16_saint-flour_demission_fayon, 1656-01-17_saint-flour_mariage_sudre-suvrel, 1656-01-18_saint-flour_vente_astorg-molinier, 1656-01-19_allanche_testament_rigault, 1656-01-20_saint-flour_mariage_odoul-chambaroz, 1656-01-31_saint-flour_mariage_gauthevaz-chastre, 1656-02-10_saint-flour_vente_fray-mollinier, 1656-02-17_saint-flour_mariage_pulse-assalmi, 1656-02-19_saint-flour_mariage_mouzeyres-bonhomme, 1656-02-19_saint-flour_transaction_aurelle-vechassol, 1656-02-19_saint-flour_transaction_rolland-wanchier, 1656-02-19_saint-flour_vente_dolmeyre-odoul, 1656-02-20_saint-flour_mariage_fages-chastang, 1656-02-21_saint-flour_subrogation_villemault-albepart, 1656-02-23_saint-flour_vente_fray-hugon, 1656-02-23_saint-flour_vente_fraz-hugon, 1656-02-25_saint-flour_mariage_labroha-gillet, 1656-03-04_saint-flour_cession_caillandre-devames, 1656-03-08_saint-flour_vente_polverelles-chirol, 1656-03-11_saint-flour_transaction_hugon-grezer, 1656-03-13_saint-flour_echange_girard-chastel, 1656-03-13_saint-flour_vente_sauvaige-boudon, 1656-03-25_saint-flour_vente_marliac-debrou, 1656-03-29_saint-flour_vente_gaudelle-missonnier, 1656-03-31_saint-flour_donation_rongier-beaufilz, 1656-03-31_saint-flour_ratification_gaudelle-chanson, 1656-04-01_saint-flour_vente_amat-bernuy, 1656-04-03_saint-flour_subrogation_ceomes-rolland, 1656-04-06_saint-flour_transaction_rouzeyres, 1656-04-07_saint-flour_transaction_mallespaignes-chomme, 1656-04-08_saint-flour_vente_deramis-fauret, 1656-04-09_saint-flour_testament_gazard-vouger, 1656-04-15_saint-flour_quittance_bonnet-verghe, 1656-04-16_saint-flour_demission_sendoux-andelat, 1656-04-17_saint-flour_echange_boyer-bonnol, 1656-04-28_saint-flour_vente_alliadier-regimbalt, 1656-05-01_tanavelle_vente_boude-faure, 1656-05-02_saint-flour_vente_moyne-molinier, 1656-05-03_saint-flour_vente_bressolles-chanson, 1656-05-13_saint-flour_vente_pezat-devig, 1656-05-16_saint-flour_quittance_colomb-belloy, 1656-05-16_saint-flour_subrogation_jourdy-chanuel, 1656-05-17_saint-flour_echange_salvatge-chassang, 1656-05-18_saint-flour_mariage_bonniol-gilbert, 1656-05-20_alleuze_mariage_catala-chanson, 1656-05-20_saint-flour_vente_rispal-rouget, 1656-05-24_saint-flour_subrogation_bigot, 1656-05-27_saint-flour_vente_vachassol-cussat, 1656-06-00_saint-flour_quittance_boude-uchassol, 1656-06-00_saint-flour_vente_chabot-bechot, 1656-06-01_saint-flour_quittance_gauvail-vouget, 1656-06-02_saint-flour_transaction_claviere-bican, 1656-06-03_saint-flour_vente_miche-sibrogol, 1656-06-14_saint-flour_echange_salgues-hugon, 1656-06-14_saint-flour_ratification_tassy-lanes, 1656-06-15_villedieu_cession_chastel-devaux, 1656-06-23_saint-flour_subrogation_vossier-charbonnier, 1656-06-23_saint-flour_transaction_couderc-bo, 1656-06-25_villedieu_mariage_bondoy-tissoil, 1656-06-28_saint-flour_demission_bo-condere, 1656-07-00_saint-flour_echange_basset, 1656-07-00_saint-flour_mariage_chaluet-costerousse, 1656-07-00_saint-flour_testament_baldissard, 1656-07-01_saint-flour_echange_derames-chastang, 1656-07-09_saint-flour_mariage_estival-chaulhaguet, 1656-07-15_saint-flour_mariage_galdissard-dufour, 1656-08-00_saint-flour_codicille_aussel, 1656-08-04_saint-flour_testament_gauil, 1656-08-08_saint-flour_testament_odoul, 1656-08-11_saint-flour_subrogation_cussac-mathieu, 1656-08-20_saint-flour_mariage_rolland-cussac, 1656-08-26_saint-flour_mariage_bertrand-roche, 1656-08-26_saint-flour_mariage_mirmande-rochadde, 1656-09-02_seriers_testament_pouer, 1656-09-10_saint-flour_testament_aussel, 1656-09-12_saint-flour_cession_larochefoucauld-pontran, 1656-09-13_saint-flour_testament_bray-cussat, 1656-09-25_saint-flour_vente_sours-galvier, 1656-09-29_saint-flour_transaction_bouchard-chauliaguet, 1656-09-30_saint-flour_donation_bertrand, 1656-10-02_saint-flour_testament_bouzher, 1656-10-07_saint-flour_mariage_bo-rouget, 1656-10-07_saint-flour_mariage_combes-vallat, 1656-10-09_saint-flour_testament_apchier, 1656-10-13_saint-flour_inventaire_berthier-johanny, 1656-10-15_saint-flour_transaction_rol, 1656-10-17_saint-flour_donation_palhouzier-farreyre, 1656-10-18_saint-flour_demission_delmas-palhouzier, 1656-11-01_saint-flour_subrogation_albaret-basset, 1656-11-04_saint-flour_vente_marliac-delmas, 1656-11-05_saint-flour_vente_jonnenoux-pastre, 1656-11-08_saint-flour_mariage_sion-malhessaignes, 1656-11-14_saint-flour_transaction_albert-salvanhac, 1656-11-15_saint-flour_vente_chaldoreille-durand, 1656-11-15_saint-flour_vente_chevallier-lacombe, 1656-11-18_saint-flour_donation_chazal-molinier, 1656-11-19_saint-flour_mariage_galdissard-varron, 1656-11-19_saint-flour_testament_combes-polmeiller, 1656-11-19_saint-flour_vente_falvet-boulon, 1656-11-20_saint-flour_vente_bougeyre-rochier, 1656-11-20_saint-flour_vente_monnier, 1656-11-23_saint-flour_desistement_missonnier-monnier, 1656-11-26_saint-flour_quittance_cussac-nouzeyre, 1656-11-29_saint-flour_vente_delrieu-reuel, 1656-12-03_saint-flour_donation_bouger-bertrand, 1656-12-13_saint-flour_testament_cuzelle-rouget, 1656-12-13_saint-flour_vente_sudre-noclar, 1656-12-21_saint-flour_testament_bechot-dupre, 1656-12-22_saint-flour_vente_prophan-brassac, 1656-12-23_saint-flour_vente_solie-roussel, 1656-12-24_saint-flour_vente_vezin-chauliaguet, 1656-12-27_saint-flour_transaction_roux-bousoure, 1656-12-27_saint-flour_vente_fayon-odoul, 1656-12-28_saint-flour_mariage_mounier-boyer, 1656-12-28_saint-flour_vente_odoul-sauvaige, 1656-12-29_saint-flour_testament_nautomier, 1656-12-31_saint-flour_mariage_benedict-debrun, 1657-00-00_saint-flour_mariage_contarel-eschaubard, 1657-00-00_saint-flour_quittance_chevallier-boudon, 1657-00-00_saint-flour_subrogation_basset-roudil, 1657-00-00_saint-flour_subrogation_tranchier-mirmande, 1657-01-00_saint-flour_mariage_hugon-broha, 1657-01-08_saint-flour_mariage_armand-bastide, 1657-01-08_saint-flour_sommation_audigier-bonnet, 1657-01-17_saint-flour_mariage_aurelle-chaumel, 1657-01-22_saint-flour_mariage_berault-charreyre, 1657-01-23_saint-flour_demission_julhien, 1657-01-27_saint-flour_mariage_caston-castide, 1657-02-04_saint-flour_donation_champaignac-missonnier, 1657-02-05_saint-flour_mariage_brousy-fauret, 1657-02-06_saint-flour_testament_chaluet-juery, 1657-02-09_saint-flour_mariage_bergoin-vedrines, 1657-02-09_saint-flour_mariage_courmarie-bechot, 1657-02-14_saint-flour_mariage_chappoulle-rigault, 1657-02-17_saint-flour_demission_crespont-gaint, 1657-02-24_saint-flour_subrogation_tiouleyre-peschau, 1657-03-00_saint-flour_echange_pascal-boyer, 1657-03-05_saint-flour_testament_malzoni, 1657-03-07_saint-flour_testament_malet-vastonnet, 1657-03-08_saint-flour_testament_bonal-culhiere, 1657-03-19_saint-flour_subrogation_bonnault-canilhac, 1657-03-20_saint-flour_testament_aumergnoz, 1657-03-24_saint-flour_obligation_bastide-mabot, 1657-03-24_saint-flour_transaction_blanc, 1657-03-28_saint-flour_echange_alboy-gibrat, 1657-03-31_saint-flour_quittance_seveyres-fazon, 1657-04-08_saint-flour_mariage_vachier-bonnol, 1657-04-08_saint-flour_transaction_rechalier-basset, 1657-04-12_saint-flour_mariage_gallyer-barriol, 1657-04-16_saint-flour_transaction_bouchard-chauliaguet, 1657-04-21_saint-flour_quittance_julhien-vazieu, 1657-04-23_saint-flour_mariage_ferrand-chapoulade, 1657-04-25_saint-flour_testament_girion-combettes, 1657-04-29_saint-flour_transaction_rochier-maury, 1657-05-15_saint-flour_quittance_mallet-caurail, 1657-05-24_saint-flour_transaction_mauvy-mossier, 1657-05-25_saint-flour_testament_chazot, 1657-05-30_saint-flour_quittance_rolland-alboy, 1657-05-31_coltines_donation_chastang, 1657-06-08_saint-flour_testament_giroux, 1657-06-10_saint-flour_partage_vaysseyre-chapoulle, 1657-06-10_saint-flour_testament_gendre-vahon, 1657-06-11_saint-flour_cession_charreyre-lhoume, 1657-06-16_andelat_donation_boutoule-gault, 1657-06-16_saint-flour_donation_farlin-laspre, 1657-06-18_saint-flour_vente_chaudesaigues-coutel, 1657-06-21_saint-flour_retrait_cathalan-gillet, 1657-06-23_saint-flour_transaction_brugier-desheyrac, 1657-07-02_coltines_mariage_mas-cussac, 1657-07-02_saint-flour_transaction_combes-vidal, 1657-07-07_saint-flour_testament_cussac-massy, 1657-07-16_saint-flour_transaction_rodel-correilh, 1657-07-22_saint-flour_transaction_mallesaigne-portal, 1657-07-25_saint-flour_demission_cussac-martin, 1657-07-29_saint-flour_quittance_crouzat, 1657-08-26_borry_testament_barthet-chassang, 1657-09-00_saint-flour_echange_boyer-delastre, 1657-09-00_saint-flour_testament_meunier-cazot, 1657-09-07_saint-flour_testament_dufour, 1657-09-08_saint-flour_echange_thourrette-daude, 1657-09-09_saint-flour_mariage_tuffery-vedrines, 1657-09-22_saint-flour_vente_abatud-clavieres, 1657-10-00_saint-flour_testament_durand-malzonne, 1657-10-06_saint-flour_demission_charbonnier-meudre, 1657-10-06_saint-flour_mariage_david-mauranne, 1657-10-10_saint-flour_testament_delort-moner, 1657-10-14_saint-flour_testament_nicolas-sautheron, 1657-10-16_saint-flour_mariage_roux-reynaldy, 1657-10-30_saint-flour_vente_hugues-odoul, 1657-11-00_saint-flour_transaction_dauche-montet, 1657-11-10_saint-flour_transaction_cristal-crespoul, 1657-11-11_saint-flour_mariage_faure-marques, 1657-11-17_saint-flour_mariage_filhol-mallet, 1657-11-17_saint-flour_mariage_sauvet-jean, 1657-11-18_saint-flour_mariage_feytheraz-frezol, 1657-11-24_saint-flour_echange_chanson, 1657-11-24_saint-flour_testament_rolland, 1657-11-25_seriers_mariage_doumergue-chevallier, 1657-12-00_saint-flour_transaction_grassalt-chevallier, 1657-12-02_saint-flour_vente_fontanier-charbonnier, 1657-12-09_saint-flour_vente_jarlier-celarier, 1657-12-12_saint-flour_vente_rispal-bonafos, 1657-12-16_saint-flour_vente_leyssiedre-jourdy, 1657-12-20_saint-flour_testament_boudon-sauvaige, 1657-12-21_saint-flour_mariage_delrieu-charbonnel, 1657-12-21_saint-flour_testament_meindre-aicuard, 1657-12-26_saint-flour_requete_verge-sourzat, 1657-12-27_saint-flour_mariage_mazamblard-mauvy, 1658-00-00_saint-flour_testament_bergoin-mirmande, 1658-01-03_roffiac_mariage_battide-fayon, 1658-01-05_saint-flour_echange_rolland-gibrat, 1658-01-05_saint-flour_echange_rolland-uchassol, 1658-01-06_roffiac_testament_chevallier-mallet, 1658-01-06_saint-flour_quittance_foulhe-vesasol, 1658-01-06_saint-flour_subrogation_fayon, 1658-01-07_saint-flour_echange_uchafol-estienne, 1658-01-07_saint-flour_mariage_chapauaze-missonnier, 1658-01-07_saint-flour_mariage_pelegry-passenau, 1658-01-07_saint-flour_vente_laspre-monnier, 1658-01-10_saint-flour_echange_albieuf-chauliaguet, 1658-01-12_saint-flour_vente_santzenay-bechot, 1658-01-15_saint-flour_quittance_attalec-cussac, 1658-01-15_saint-flour_vente_gazel-parra, 1658-01-19_saint-flour_vente_grezes-eschallier, 1658-01-27_saint-flour_demission_salvage-vedrines, 1658-01-27_saint-flour_vente_devaluy-ollier, 1658-01-27_saint-flour_vente_ollier-delolme, 1658-01-30_saint-flour_vente_neufeglize-galdissard, 1658-02-03_siviers_mariage_chanson-ventughol, 1658-02-06_saint-flour_transaction_brassac-crabue, 1658-02-07_saint-flour_inventaire_bonafos-pademorgue, 1658-02-13_saint-flour_vente_sauron-jean, 1658-02-18_saint-flour_vente_mallessaigne-hoteldieu, 1658-02-24_saint-flour_testament_boyer, 1658-02-25_saint-flour_mariage_gardolle-colomb, 1658-02-25_saint-flour_mariage_vigier-chevalier, 1658-02-26_saint-flour_mariage_jean-bastide, 1658-02-26_saint-flour_ratification_vendrie-bechot, 1658-02-28_saint-flour_transaction_malbesaigne-charbonnier, 1658-03-00_saint-flour_mariage_paesse-masset, 1658-03-03_coltines_donation_vorze, 1658-03-03_coltines_mariage_nicolas-bonnet, 1658-03-07_saint-flour_vente_ballas-dupre, 1658-03-07_saint-flour_vente_delolme-delmar, 1658-03-14_coltines_echange_hugon-nicolas, 1658-03-14_saint-flour_echange_bardon-moreyre, 1658-03-17_saint-flour_cession_aurelle-chassang, 1658-03-17_saint-flour_convention_boy-duvoyet, 1658-03-17_saint-flour_echange_chadel-rougier, 1658-03-18_saint-flour_ratification_coutarel-chausson, 1658-03-19_saint-flour_vente_rispal-bonafos, 1658-03-20_saint-flour_revente_juery-rolland, 1658-03-24_saint-flour_echange_chassaigne-boudil, 1658-03-26_saint-flour_testament_bussac-nostas, 1658-03-26_saint-flour_transaction_bechot-saintantony, 1658-03-28_saint-flour_quittance_blanchy-caguot, 1658-04-00_saint-flour_cession_crozat-jouve, 1658-04-00_saint-flour_vente_meyhot-mallessaignes, 1658-04-00_saint-flour_vente_vaissiere-fabry, 1658-04-01_saint-flour_transaction_cussac-chausse, 1658-04-02_saint-flour_donation_roche-bondurand, 1658-04-02_saint-flour_vente_astaly-jourdy, 1658-04-02_saint-flour_vente_pantard, 1658-04-08_saint-flour_vente_fizol, 1658-04-09_saint-flour_transaction_hugon-volland, 1658-04-10_saint-flour_echange_alboy-pirolle, 1658-04-13_saint-flour_desistement_apchier-julhe, 1658-04-13_saint-flour_vente_rabue-mouliarac, 1658-04-15_saint-flour_echange_lafage-tiouleyre, 1658-04-20_saint-flour_vente_combes-deloire, 1658-04-20_saint-flour_vente_costrousse-chalvyer, 1658-04-24_saint-flour_subrogation_basset-roudil, 1658-04-25_saint-flour_vente_mallet, 1658-04-30_saint-flour_donation_hugon, 1658-05-00_saint-flour_vente_bleyle-portail, 1658-05-02_saint-flour_cession_lauriac-rolland, 1658-05-02_saint-flour_testament_boyer, 1658-05-03_roffiac_sommation_aurelle-rolland, 1658-05-08_saint-flour_vente_hugon-lassy, 1658-05-13_saint-flour_vente_bonnafos-rispal, 1658-05-15_saint-flour_mariage_mourgues-martin, 1658-05-18_saint-flour_mariage_chambaron-delmas, 1658-05-18_saint-flour_mariage_chambaron-delmas_b, 1658-05-18_saint-flour_mariage_chazalledez-chauses, 1658-05-18_saint-flour_vente_chaluet-charlotes, 1658-05-19_saint-flour_mariage_archier-brassac, 1658-05-21_saint-flour_echange_tassy-barreyre, 1658-05-25_saint-flour_testament_rigault, 1658-05-25_saint-flour_vente_bertrand-debrons, 1658-05-27_saint-flour_subrogation_bougier-fontes, 1658-05-27_saint-flour_vente_tafanel-combes, 1658-05-31_saint-flour_echange_sauret-chossy, 1658-06-00_saint-flour_donation_giraldon-durand, 1658-06-00_saint-flour_vente_andrieu-contie, 1658-06-02_saint-flour_subrogation_bonafos-jourdy, 1658-06-02_saint-flour_testament_giraldon-durand, 1658-06-02_saint-flour_vente_mauranin-margerit, 1658-06-04_saint-flour_vente_espinal-albuisson, 1658-06-06_saint-flour_testament_julhe, 1658-06-08_saint-flour_donation_duviallard-fontes, 1658-06-16_saint-flour_quittance_jarlier-cellarier, 1658-06-23_saint-flour_mariage_chausse-fourcharie, 1658-06-23_saint-flour_testament_culhiere, 1658-06-24_saint-flour_vente_gibrat-rouget, 1658-06-27_saint-flour_vente_roche-golvain, 1658-06-29_saint-flour_vente_lallandier-noslac, 1658-06-29_saint-flour_vente_maurane-hugon, 1658-07-03_saint-flour_testament_challier, 1658-07-04_saint-flour_vente_rous-mas, 1658-07-04_saint-flour_vente_roux-chassang, 1658-07-06_saint-flour_transaction_tassy-grives, 1658-07-06_saint-flour_vente_chanson, 1658-07-06_saint-flour_vente_sauvaie-rouget, 1658-07-07_saint-flour_mariage_bechot-aliadieres, 1658-07-10_saint-flour_testament_barnier-vidal, 1658-07-10_saint-flour_vente_chanson-bonafos, 1658-07-13_saint-flour_donation_combes-mauly, 1658-07-15_saint-flour_testament_delort, 1658-07-16_saint-flour_vente_benezet-brassalt, 1658-07-21_saint-flour_echange_jouve-borel, 1658-07-21_saint-flour_mariage_alboy-benezit, 1658-07-25_saint-flour_obligation_pages-rouger, 1658-07-25_saint-flour_transaction_surrel, 1658-07-26_saint-flour_vente_sombes-pages, 1658-07-28_saint-flour_mariage_lavergne-loussert, 1658-07-28_saint-flour_testament_veyle, 1658-07-29_saint-flour_donation_andrieu-fontes, 1658-08-04_saint-flour_demission_juery-chanson, 1658-08-04_saint-flour_mariage_brounet-polverelles, 1658-08-05_saint-flour_testament_gendre-rahon, 1658-08-13_saint-flour_testament_blau-trenchier, 1658-08-18_saint-flour_donation_masset-chinaze, 1658-08-19_saint-flour_cession_odoul-sauret, 1658-08-20_saint-flour_inventaire_delort-bechot, 1658-08-24_saint-flour_vente_couderc-durand, 1658-08-25_saint-flour_echange_roubeyre-bavreyre, 1658-09-04_saint-flour_vente_moynie-vezin, 1658-09-09_saint-flour_vente_lhoure-chauliaguet, 1658-09-09_saint-flour_vente_thoure-chauliaguet, 1658-09-15_saint-flour_mariage_vaylet-fernail, 1658-09-17_saint-flour_vente_pages-rouget, 1658-09-17_saint-flour_vente_vigier-pages, 1658-09-21_saint-flour_mariage_baldissard-laurier, 1658-09-21_saint-flour_mariage_laurier-galdissard, 1658-09-22_saint-flour_testament_delcros-andrieu, 1658-09-23_saint-flour_mariage_sauvel-sauret, 1658-09-24_saint-flour_vente_estival-rouchette, 1658-09-25_saint-flour_vente_delrieu-david, 1658-09-28_saint-flour_cession_duvoyet-boy, 1658-09-29_saint-flour_donation_jacques-berhot, 1658-09-29_saint-flour_transaction_delort-berthot, 1658-10-02_saint-flour_echange_daufeulhe-bonnet, 1658-10-02_saint-flour_echange_daufeulhe-hugon, 1658-10-08_saint-flour_echange_boude-filhol, 1658-10-08_saint-flour_quittance_boude-filhol, 1658-10-10_saint-flour_mariage_pagez-reghade, 1658-10-14_saint-flour_vente_uchafol-bergoin, 1658-10-16_saint-flour_vente_raymond-fabry, 1658-10-18_saint-flour_transaction_mallessaignes-beaufilz, 1658-10-22_roffiac_vente_marly-brugier, 1658-10-26_saint-flour_testament_brousse-apchier, 1658-10-27_saint-flour_demission_vedrines-bonnet, 1658-10-29_saint-flour_vente_cochinie, 1658-11-03_saint-flour_demission_leyssedre-roudil, 1658-11-06_saint-flour_echange_bougier-chauliaguet, 1658-11-07_saint-flour_testament_reynalt-boudon, 1658-11-07_saint-flour_vente_rouches-bechot, 1658-11-10_saint-flour_bail_monnier-vedrines, 1658-11-16_saint-flour_mariage_daunis-rouget, 1658-11-16_saint-flour_rente_roussilhe-benezit, 1658-11-16_saint-flour_vente_baoreyre-odoul, 1658-11-18_saint-flour_donation_gaultier, 1658-11-23_saint-flour_vente_marlhac-florand, 1658-11-25_saint-flour_vente_solier-jourdy, 1658-11-28_saint-flour_vente_sudre-alboy, 1658-11-30_saint-flour_vente_albuisson, 1658-12-07_saint-flour_vente_jean-bressolles, 1658-12-11_saint-flour_vente_serieys-rolland, 1658-12-14_saint-flour_obligation_fabre, 1658-12-16_saint-flour_quittance_malestaigne-richard, 1658-12-16_saint-flour_vente_dejarques-berault, 1658-12-18_saint-flour_vente_lamerie-chauliaguet, 1658-12-24_saint-flour_vente_brousse, 1658-12-29_saint-flour_vente_richard-poulverelles, 1659-00-00_saint-flour_donation_odoul, 1659-00-00_saint-flour_vente_broche-hugon, 1659-01-04_saint-flour_donation_chastel, 1659-01-04_saint-flour_echange_chauliaguet-clavilyer, 1659-01-11_saint-flour_vente_pedechon-foraud, 1659-01-11_saint-flour_vente_prohan-verrel, 1659-01-12_alleuze_vente_chanson-mournac, 1659-01-12_saint-flour_vente_valdissard-fabry, 1659-01-14_saint-flour_vente_boyer-barthomeuf, 1659-01-19_mentieres_mariage_eschallier-galdissard, 1659-01-19_saint-flour_mariage_chappelle-sarrazin, 1659-01-22_andelat_donation_roux-alboy, 1659-01-26_saint-flour_vente_roche-cussac, 1659-01-28_saint-flour_vente_domergue-gerauld, 1659-02-01_saint-flour_obligation_chazal-meinier, 1659-02-02_saint-flour_vente_brol-eschallier, 1659-02-02_saint-flour_vente_chastang-cussac, 1659-02-04_saint-flour_mariage_galdissard-eschallier, 1659-02-05_saint-flour_rente_saumade-polverelles, 1659-02-06_saint-flour_vente_vandal-juery, 1659-02-08_saint-flour_partage_mallet-rolland, 1659-02-10_mentieres_quittance_jarlier-delaspre, 1659-02-10_saint-flour_echange_chabot-jurry, 1659-02-10_saint-flour_subrogation_suvert-bechot, 1659-02-11_saint-flour_testament_chirol, 1659-02-12_saint-flour_vente_desparou-rouget, 1659-02-17_saint-flour_echange_malet-filhol, 1659-02-18_saint-flour_echange_monnier-mirmande, 1659-02-19_saint-flour_echange_foraud-frenal, 1659-02-20_paulhac_donation_chambon, 1659-02-20_roffiac_mariage_gibrat-judy, 1659-02-22_saint-flour_echange_odoul-bastide, 1659-02-22_saint-flour_mariage_faure-grezes, 1659-02-22_saint-flour_partage_aymeric-odoul, 1659-02-23_saint-flour_vente_cheylard-fabre, 1659-02-25_saint-flour_mariage_mounier-leyssandre, 1659-02-27_saint-flour_vente_buge-chauliaguet, 1659-03-01_saint-flour_demission_delort-vedrines, 1659-03-01_saint-flour_vente_esteve-margerit, 1659-03-08_saint-flour_vente_chastang-maury, 1659-03-09_saint-flour_vente_jourdy-girard, 1659-03-13_saint-flour_donation_beaufet-juery, 1659-03-14_saint-flour_vente_herault-fouchier, 1659-03-15_saint-flour_echange_bouniol-gazes, 1659-03-18_saint-flour_testament_rouchez, 1659-03-22_saint-flour_donation_coucherie-teyssedre, 1659-03-22_saint-flour_mariage_chastang-jarlyer, 1659-03-22_saint-flour_vente_valdissard-fabry, 1659-03-23_saint-flour_vente_andrieu-boysseyre, 1659-03-23_saint-flour_vente_bleyle-delmas, 1659-03-24_saint-flour_vente_talizat-vedrines, 1659-03-26_saint-flour_vente_taillandier-roslan, 1659-03-27_saint-flour_obligation_cussac-chaulhac, 1659-03-28_saint-flour_vente_charreyre-mirmande, 1659-03-31_saint-flour_ratification_fayon-boudon, 1659-04-00_saint-flour_vente_raymond-fabry, 1659-04-00_saint-flour_vente_roux, 1659-04-01_saint-flour_vente_vicard, 1659-04-06_saint-flour_vente_chassang-dabladie, 1659-04-06_saint-flour_vente_delaspre-chaulaguet, 1659-04-12_saint-flour_donation_crouzat, 1659-04-15_saint-flour_echange_bonniol-colomb, 1659-04-20_saint-flour_vente_marliac-roche, 1659-04-25_saint-flour_cession_brugeyre-cussac, 1659-04-27_saint-flour_vente_mallet-chauliaguet, 1659-05-01_saint-flour_vente_apchier-sarrazin, 1659-05-05_saint-flour_vente_margerit-chastang, 1659-05-06_saint-flour_vente_andrieu-cesserdre, 1659-05-06_saint-flour_vente_merle-traverse, 1659-05-10_saint-flour_obligation_girard, 1659-05-11_saint-flour_echange_sauvet-david, 1659-05-11_saint-flour_quittance_bernard-bonniol, 1659-05-11_saint-flour_testament_delchier, 1659-05-11_saint-flour_vente_jeay-apcher, 1659-05-13_saint-flour_cession_eschallier-vigier, 1659-05-14_saint-flour_donation_foulto-vigier, 1659-05-24_saint-flour_vente_sentheren-brassac, 1659-05-31_roffiac_testament_sottavie-delmas, 1659-05-31_saint-flour_vente_valarcher-parra, 1659-06-00_saint-flour_cession_fontes-cussac, 1659-06-02_saint-flour_echange_buge-marchar, 1659-06-04_saint-flour_vente_choffy-sauvet, 1659-06-05_saint-flour_donation_soulhier-boudon, 1659-06-05_saint-flour_echange_fareyre-siomy, 1659-06-05_saint-flour_partage_vedrines-mirmande, 1659-06-05_saint-flour_testament_devanier, 1659-06-07_saint-flour_transaction_gillet-labroha, 1659-06-08_saint-flour_transaction_crespoul-cristal, 1659-06-08_saint-flour_vente_begon-bechot, 1659-06-08_saint-flour_vente_monnier-pauc, 1659-06-14_saint-flour_revente_vedrines-albepard, 1659-06-16_saint-flour_vente_gardret-chanson, 1659-06-22_saint-flour_vente_ollivier-hugon, 1659-06-23_saint-flour_vente_estieu-rolland, 1659-06-23_saint-flour_vente_mournat-bonniol, 1659-07-00_saint-flour_echange_fabry-raymond, 1659-07-02_saint-flour_mariage_durantz-chandorat, 1659-07-02_saint-flour_transaction_fabre-bossuge, 1659-07-05_saint-flour_mariage_seimen-rolland, 1659-07-05_saint-flour_vente_chavergne-chauliaguet, 1659-07-11_saint-flour_vente_saulheirou-bechot, 1659-07-18_saint-flour_mariage_merle-combes, 1659-07-27_saint-flour_vente_mary-regimbalt, 1659-07-27_saint-flour_vente_vidal-estival, 1659-07-31_saint-flour_donation_rigault, 1659-07-31_saint-flour_vente_bonafos-chanliague, 1659-08-00_saint-flour_mariage_reynalt-alladier, 1659-08-06_saint-flour_vente_andrieu-rochier, 1659-08-17_saint-flour_quittance_vidal-bossuge, 1659-08-18_saint-flour_testament_grezes, 1659-08-24_villedieu_testament_jouve, 1659-08-31_saint-flour_vente_aujolet-poulauvellon, 1659-09-02_saint-flour_mariage_chaumel-fazes, 1659-09-06_saint-flour_testament_briger, 1659-09-08_saint-flour_testament_chauliaguet-chabot, 1659-09-10_inconnu_testament_chanson, 1659-09-10_villedieu_inventaire_chavallier-tisset, 1659-09-18_saint-flour_testament_rey-callizat, 1659-09-18_saint-flour_testament_tissier-broussy, 1659-09-18_saint-flour_transaction_durand-juery, 1659-09-22_saint-flour_inventaire_sauret, 1659-09-22_saint-flour_testament_orchier, 1659-09-22_saint-flour_vente_bonnal-rolland, 1659-09-26_saint-flour_testament_blanc, 1659-09-27_saint-flour_vente_pouneville-boutette, 1659-09-29_saint-flour_cession_laurier, 1659-10-01_roffiac_testament_estieu-daurs, 1659-10-03_saint-flour_vente_coutarel-delmas, 1659-10-05_saint-flour_donation_cussac, 1659-10-08_saint-flour_obligation_hugon-broche, 1659-10-09_saint-flour_testament_bouniol, 1659-10-12_villedieu_mariage_gastail-daude, 1659-10-14_saint-flour_vente_tiouleyre-pelegrin, 1659-10-19_saint-flour_testament_dulac, 1659-10-25_saint-flour_vente_couderc-mounier, 1659-11-03_andelat_donation_brezes, 1659-11-07_roffiac_vente_rolland-brugier, 1659-11-09_saint-flour_vente_boussuge-mollinier, 1659-11-13_saint-flour_vente_carrier-chastang, 1659-11-15_saint-flour_mariage_hugon-juery, 1659-11-16_saint-flour_mariage_fazes-barthomeuf, 1659-11-16_saint-flour_vente_barthet, 1659-11-18_roffiac_vente_trabue-mallet, 1659-11-18_saint-flour_mariage_chastang-rol, 1659-11-20_saint-flour_testament_esbrard, 1659-11-22_saint-flour_vente_combes-barres, 1659-11-23_saint-flour_mariage_falgheyras-bossuge, 1659-11-29_saint-flour_vente_bonniol-rolland, 1659-11-29_saint-flour_vente_jean-lafaige, 1659-12-04_saint-flour_vente_massebeau-rayrou, 1659-12-06_roffiac_vente_rolland-brassac, 1659-12-08_saint-flour_cession_sauret, 1659-12-13_saint-flour_mariage_coiffier-fabre, 1659-12-13_saint-flour_testament_rolland-faluet, 1659-12-15_saint-flour_quittance_colomb-guimbal, 1659-12-16_saint-flour_donation_bechot-sauret, 1659-12-20_saint-flour_vente_bonnol, 1659-12-22_saint-flour_donation_broche-regimbalt, 1659-12-22_saint-flour_testament_roche-hugon, 1659-12-27_saint-flour_vente_auzadour-tissier, 1659-12-29_saint-flour_vente_barthet, 1660-00-00_saint-flour_mariage_bardolle-falgeyrac, 1660-00-00_saint-flour_sommation_audigier-nicolas, 1660-01-00_saint-flour_convention_mourgue-saintjolles, 1660-01-02_roffiac_testament_jean, 1660-01-04_saint-flour_cession_fleol-boudet, 1660-01-04_saint-flour_donation_rossene-hugon, 1660-01-06_saint-flour_mariage_martin-cussac, 1660-01-10_saint-flour_vente_albepart-daufeulhe, 1660-01-10_saint-flour_vente_lanie-avrilee, 1660-01-11_saint-flour_vente_rispal-gerault, 1660-01-16_saint-flour_donation_maraygue, 1660-01-17_saint-flour_vente_clautrier-chauliaguet, 1660-01-21_saint-flour_donation_nouzeyres-pages, 1660-01-23_saint-flour_donation_roussene-charbonnier, 1660-01-24_saint-flour_sommation_parra-boudet, 1660-01-24_saint-flour_vente_richard-rolland, 1660-01-26_auzolles_mariage_maury-mighoulle, 1660-01-30_saint-flour_testament_cathalla-trenchier, 1660-01-31_saint-flour_mariage_eschallier-montgial, 1660-01-31_saint-flour_vente_maury, 1660-02-00_saint-flour_testament_grandet, 1660-02-03_saint-flour_vente_brous-jouvente, 1660-02-04_roffiac_mariage_mallet-fontes, 1660-02-04_saint-flour_donation_boudet-auriac, 1660-02-04_saint-flour_vente_chalvet-traverse, 1660-02-04_saint-flour_vente_fayon-rongier, 1660-02-06_saint-flour_transaction_gozet-bastide, 1660-02-07_saint-flour_mariage_bonnel-lager, 1660-02-10_saint-flour_mariage_portal-baldissard, 1660-02-10_villedieu_mariage_berhot-couchaire, 1660-02-13_saint-flour_partage_chassang-rol, 1660-02-13_saint-flour_quittance_soucher, 1660-02-13_villedieu_testament_david-jouve, 1660-02-14_saint-flour_echange_chauliaguet-sauret, 1660-02-14_saint-flour_vente_fromen-chastel, 1660-02-15_saint-flour_vente_bonnefoy-jumeal, 1660-02-15_saint-flour_vente_sauret-chauliaguet, 1660-02-18_saint-flour_mariage_chargebeuf-chalier, 1660-02-20_saint-flour_vente_grizet-suvvel, 1660-02-21_saint-flour_vente_cristal-odoul, 1660-02-25_saint-flour_testament_chastang, 1660-03-00_saint-flour_testament_grassalt, 1660-03-05_saint-flour_donation_sauor-tremolhol, 1660-03-06_saint-flour_donation_fontanier-recoudier, 1660-03-10_saint-flour_donation_cibial, 1660-03-11_saint-flour_testament_roux, 1660-03-12_saint-flour_testament_bazard-rouget, 1660-03-13_saint-flour_vente_doumergue-bechot, 1660-03-16_saint-flour_testament_fromen-sentherain, 1660-03-19_saint-flour_vente_sentherain, 1660-03-23_saint-flour_vente_juery-talhand, 1660-03-24_saint-flour_testament_challier-pissauj, 1660-03-25_saint-flour_donation_ambrols-baldissard, 1660-03-25_saint-flour_donation_aubiole-cussac, 1660-03-27_saint-flour_donation_faucon-passanau, 1660-03-29_saint-flour_vente_chambaron-ferrand, 1660-03-30_saint-flour_vente_roussel-chirol, 1660-03-31_saint-flour_partage_bastide-cueyspoul, 1660-03-31_saint-flour_vente_reynault-jordin, 1660-04-00_saint-flour_vente_chanson, 1660-04-04_saint-flour_testament_fontes, 1660-04-10_saint-flour_mariage_castide-meylieu, 1660-04-10_saint-flour_testament_chasbel, 1660-04-14_saint-flour_vente_blanche-rolland, 1660-04-14_saint-flour_vente_chassang-faure, 1660-04-17_saint-flour_vente_froys-coutel, 1660-04-17_saint-flour_vente_gardelle-couzhavie, 1660-04-20_saint-flour_testament_valadier, 1660-04-20_saint-flour_vente_chanson, 1660-04-24_saint-flour_vente_rouget-boudon, 1660-04-25_saint-flour_bail_chanson-rouva, 1660-04-26_saint-flour_vente_bonnet-chauliaguet, 1660-04-26_saint-flour_vente_jacques-traverse, 1660-04-28_saint-flour_echange_clatty-rolland, 1660-05-01_saint-flour_mariage_rossignol-taillande, 1660-05-01_saint-flour_vente_migne-bougier, 1660-05-08_saint-flour_mariage_dupre-traverse, 1660-05-08_saint-flour_vente_charreyre-esserand, 1660-05-09_saint-flour_echange_faurges-jarlier, 1660-05-09_saint-flour_vente_rouget-lheritier, 1660-05-15_saint-flour_vente_couzarie-chanson, 1660-05-15_saint-flour_vente_pellegrin-bechot, 1660-05-17_saint-flour_vente_esteve-chevallier, 1660-05-18_saint-flour_donation_chavanier, 1660-05-18_saint-flour_vente_chappoulade-boudon, 1660-05-19_saint-flour_donation_chabanier, 1660-05-20_saint-flour_testament_dufour, 1660-05-22_saint-flour_vente_sarron-dupre, 1660-05-23_saint-flour_vente_boussolles-sauvet, 1660-05-26_saint-flour_testament_bener-chanson, 1660-05-28_saint-flour_mariage_bertrand-sauvat, 1660-05-29_saint-flour_bail_vidal-rouve, 1660-06-00_saint-flour_vente_chalmete-julhe, 1660-06-02_saint-flour_bail_ytual-fromen, 1660-06-02_saint-flour_transaction_ythual-durand, 1660-06-02_saint-flour_vente_chassat-chastrac, 1660-06-05_saint-flour_echange_buge-delmas, 1660-06-06_saint-flour_vente_doumergue-dupre, 1660-06-06_saint-flour_vente_rolland-chastang, 1660-06-09_saint-flour_mariage_caillandier-cussac, 1660-06-09_saint-flour_vente_sauvet-marlhiac, 1660-06-11_saint-flour_vente_juery-gibrat, 1660-06-14_saint-flour_testament_cochespy, 1660-06-15_saint-flour_vente_chappus-patissoulx, 1660-06-16_saint-flour_transaction_seugrac-dubois, 1660-06-17_saint-flour_donation_vezin, 1660-06-18_saint-flour_vente_crozatier-delolme, 1660-06-19_saint-flour_donation_artis-maulhac, 1660-06-19_saint-flour_vente_chanson, 1660-06-19_saint-flour_vente_pages, 1660-06-20_saint-flour_vente_albaret-ygonnet, 1660-06-24_saint-flour_vente_manoy-roudil, 1660-06-27_saint-flour_transaction_parro-gastal, 1660-06-29_saint-flour_vente_missonnier-berault, 1660-07-01_roffiac_vente_uchassol-saintheiry, 1660-07-02_saint-flour_transaction_boudon-vachier, 1660-07-04_villedieu_testament_bastare, 1660-07-10_saint-flour_echange_beluze-margarit, 1660-07-11_saint-flour_vente_brezer-monnier, 1660-07-18_saint-flour_vente_peutgere-montgial, 1660-07-25_saint-flour_vente_lebre-joune, 1660-08-01_saint-flour_vente_pelegry-vigier, 1660-08-02_saint-flour_mariage_brassac-brugon, 1660-08-10_saint-flour_echange_mallessaignes-david, 1660-08-12_saint-flour_vente_solie-charreyre, 1660-08-16_saint-flour_vente_bossuge-bo, 1660-08-22_saint-flour_cession_vaysseyre-dobax, 1660-08-22_saint-flour_mariage_aujolet-rossignol, 1660-08-22_saint-flour_mariage_blanc-pignol, 1660-08-27_saint-flour_mariage_brassac-chastang, 1660-08-30_saint-flour_vente_monier-bonnet, 1660-09-05_saint-flour_echange_mallessaignes-fajon, 1660-09-16_saint-flour_procuration_roquelaure-fontes, 1660-09-17_saint-flour_testament_rossene-bonnet, 1660-09-18_saint-flour_testament_barthet, 1660-09-19_saint-flour_vente_cordes, 1660-09-21_la-brousse_testament_maury, 1660-09-27_saint-flour_testament_farreyre, 1660-09-29_saint-flour_testament_broncy-tissier, 1660-09-30_saint-flour_vente_chapus-batiffolier, 1660-10-00_saint-flour_testament_apchier, 1660-10-04_saint-flour_vente_molinier-maury, 1660-10-16_saint-flour_vente_andrieu-rolland, 1660-10-17_saint-flour_vente_mar-roulergue, 1660-10-18_saint-flour_donation_brol-chassang, 1660-10-19_saint-flour_vente_tissard-boudon, 1660-10-20_saint-flour_testament_palisse-bourdon, 1660-10-23_saint-flour_mariage_mazel-rossignol, 1660-10-23_saint-flour_vente_bardon-odoul, 1660-10-29_saint-flour_cession_gilles-thomel, 1660-10-29_saint-flour_cession_teilhard-parra, 1660-10-29_saint-flour_donation_rispal-bechot, 1660-11-03_saint-flour_testament_boudon-pelissier, 1660-11-06_saint-flour_declaration_miallet, 1660-11-10_salhans_transaction_freval-fontes, 1660-11-13_saint-flour_transaction_roquelaure-fontes, 1660-11-14_saint-flour_vente_polverelles, 1660-11-20_saint-flour_mariage_chausoz-montgial, 1660-11-21_saint-flour_mariage_chassoulle-mollinier, 1660-11-22_saint-flour_donation_missonnier-counord, 1660-12-04_saint-flour_ratification_aguet-delort, 1660-12-11_saint-flour_vente_martin-suvert, 1660-12-18_saint-flour_subrogation_mollinier-chanson, 1660-12-21_saint-flour_vente_mezhot-marron, 1660-12-29_alleuze_testament_barthet-chanson, 1661-00-00_saint-flour_echange_bertoi-brunel, 1661-00-00_saint-flour_partage_lassaigne-bonneval, 1661-01-04_saint-flour_vente_caumeilhand-boyer, 1661-01-08_saint-flour_mariage_gastal-blanchier, 1661-01-15_montaignaguet_mariage_crabier-baldissard, 1661-01-15_saint-flour_mariage_alboy-pellegrin, 1661-01-16_saint-flour_echange_sibrac-fiou, 1661-01-16_saint-flour_mariage_rolland-cussac, 1661-01-17_saint-flour_demission_gardelle-chanson, 1661-01-20_saint-flour_vente_doumergue-bechot, 1661-01-22_saint-flour_mariage_chastel-alezar, 1661-01-25_saint-flour_mariage_boyer-bonniol, 1661-01-29_saint-flour_vente_galdissard-seutheren, 1661-02-01_saint-flour_mariage_chassany-asalbert, 1661-02-01_saint-flour_testament_reguibal-vidal, 1661-02-04_saint-flour_donation_traverse-benezit, 1661-02-04_saint-flour_vente_besseyre-david, 1661-02-12_saint-flour_testament_daude, 1661-02-13_saint-flour_vente_bourgier-arzalier, 1661-02-14_saint-flour_mariage_chastel-hugon, 1661-02-16_saint-flour_mariage_jarlier-surrel, 1661-02-18_saint-flour_testament_lisset, 1661-02-18_saint-flour_vente_coutel-bertrand, 1661-02-19_fayet_mariage_chanson-eschallier, 1661-02-19_saint-flour_vente_soubrier-germany, 1661-02-20_saint-flour_vente_blanchier-brassac, 1661-02-22_saint-flour_echange_missonnier-grezes, 1661-02-22_villedieu_testament_dapond, 1661-02-24_saint-flour_mariage_prat-pauc, 1661-02-25_saint-flour_testament_rigault, 1661-02-25_saint-flour_vente_coucharie-chanson, 1661-02-26_saint-flour_vente_cayrou-cayron, 1661-02-27_saint-flour_partage_gibrat, 1661-03-00_saint-flour_vente_cathalan, 1661-03-00_saint-flour_vente_chappoulle-soucher, 1661-03-00_saint-flour_vente_delort-delaroche, 1661-03-01_saint-flour_mariage_vaisseyre-aurelle, 1661-03-03_saint-flour_vente_maury-apchier, 1661-03-03_saint-flour_vente_maury-apchier_b, 1661-03-04_saint-flour_testament_rossignol, 1661-03-05_saint-flour_mariage_chausoz-aurelle, 1661-03-06_saint-flour_vente_bonniol-rolland, 1661-03-07_saint-flour_testament_raul, 1661-03-12_saint-flour_testament_baster, 1661-03-14_saint-flour_testament_herault-lacoste, 1661-03-15_saint-flour_testament_boyer-boudon, 1661-03-19_saint-flour_partage_cussac-maury, 1661-03-19_saint-flour_testament_bantuyol, 1661-03-20_saint-flour_vente_dorpheulle-baldissard, 1661-03-20_saint-flour_vente_sentherain-bechot, 1661-03-22_saint-flour_vente_delort-delaroche, 1661-03-25_saint-flour_vente_cayron-dupre, 1661-03-26_saint-flour_echange_defondz-bavoyre, 1661-03-26_saint-flour_vente_garon-cancal, 1661-03-28_saint-flour_echange_grezes, 1661-04-02_saint-flour_echange_fucal-alissard, 1661-04-02_saint-flour_vente_rispal-caylar, 1661-04-07_saint-flour_testament_basset, 1661-04-13_villedieu_testament_rolland, 1661-04-21_saint-flour_testament_gendre-dehauvet, 1661-04-23_saint-flour_vente_colomb-borde, 1661-04-26_saint-flour_vente_richard-coutel, 1661-04-27_saint-flour_echange_roudil-benezit, 1661-04-29_saint-flour_testament_bagues, 1661-05-00_saint-flour_donation_charrier-vidalene, 1661-05-05_saint-flour_vente_bestier-cathalan, 1661-05-05_saint-flour_vente_roudil-benezit, 1661-05-14_saint-flour_vente_bastail-cayron, 1661-05-15_saint-flour_mariage_roux-marthe, 1661-05-22_saint-flour_mariage_roche-deschaptz, 1661-05-23_saint-flour_echange_hugon-barreyre, 1661-05-26_liouzargues_mariage_cussac-fromens, 1661-05-26_saint-flour_vente_bertrand-lafaige, 1661-05-28_saint-flour_vente_clavillier-chanson, 1661-06-03_saint-flour_testament_chalvet-seghalory, 1661-06-09_saint-flour_testament_audouin-fajon, 1661-06-11_saint-flour_vente_bousquet-nozieres, 1661-06-12_saint-flour_vente_mallet-teissedre, 1661-06-19_saint-flour_vente_bousseyre-seguy, 1661-06-23_saint-flour_testament_chastang-vigier, 1661-06-27_saint-flour_echange_saignes-delcros, 1661-07-02_saint-flour_vente_rispal-bechot, 1661-07-07_saint-flour_donation_uchassol, 1661-07-07_saint-flour_testament_maurin-bourrel, 1661-07-08_saint-flour_vente_achier-solier, 1661-07-08_saint-flour_vente_achier-solier_b, 1661-07-14_saint-flour_echange_mas-bardon, 1661-07-15_saint-flour_testament_sauvet, 1661-07-17_saint-flour_vente_bardon-david, 1661-07-20_andelat_testament_chastel-alboy, 1661-07-22_alleuze_testament_gardelle, 1661-08-03_saint-flour_testament_herault-champelaux, 1661-08-06_saint-flour_testament_deltort-teller, 1661-08-06_saint-flour_vente_brassac-lavergne, 1661-08-13_saint-flour_codicille_chalvet-seghalory, 1661-08-13_saint-flour_donation_talezar, 1661-08-28_saint-flour_mariage_chaulhac-meyliot, 1661-08-30_saint-flour_testament_levat, 1661-09-02_saint-flour_testament_chalui, 1661-09-02_saint-flour_testament_uchassol-charbonnel, 1661-09-07_saint-flour_testament_colrac, 1661-09-08_saint-flour_testament_charreyre, 1661-09-08_saint-flour_vente_richard-chappoulade, 1661-09-12_saint-flour_testament_sudre-rouget, 1661-09-18_saint-flour_echange_coutel-roudil, 1661-09-18_saint-flour_subrogation_apchier-auvergne, 1661-09-18_saint-flour_transaction_albert-chastang, 1661-09-23_saint-flour_echange_franchier-crozat, 1661-09-25_saint-flour_vente_franchier-crozat, 1661-09-26_saint-flour_testament_mallessaigne, 1661-10-00_saint-flour_testament_solier, 1661-10-01_villedieu_testament_david, 1661-10-05_saint-flour_testament_boyer, 1661-10-05_saint-flour_vente_bastide-brassac, 1661-10-07_roffiac_testament_rolland-cussac, 1661-10-08_saint-flour_vente_falhet-chaulhaguet, 1661-10-15_saint-flour_vente_delaspre-trabuc, 1661-10-16_saint-flour_vente_bosseyre-bechot, 1661-10-21_saint-flour_testament_sentherain-eschalier, 1661-10-29_saint-flour_cession_roux-boudon, 1661-10-29_saint-flour_vente_roux-pautard, 1661-10-29_saint-flour_vente_roux-pautard_b, 1661-11-00_alleuze_donation_andrieu, 1661-11-05_saint-flour_donation_brassac, 1661-11-08_saint-flour_echange_dupre-chastang, 1661-11-11_saint-flour_donation_anequin, 1661-11-11_saint-flour_vente_chazaledes-deleph, 1661-11-12_saint-flour_echange_grande-sirmay, 1661-11-14_saint-flour_vente_mallet-mallet, 1661-11-16_saint-flour_vente_sauve-boude, 1661-11-19_saint-flour_echange_gibrat-cussac, 1661-11-22_saint-flour_vente_estival-malet, 1661-11-22_saint-flour_vente_grenier-dupre, 1661-11-24_saint-flour_vente_charbonnel-faulcon, 1661-11-27_saint-flour_echange_chaulhaguet-filiol, 1661-12-04_saint-flour_donation_delaroche, 1661-12-09_saint-flour_vente_polverelles-chirol, 1661-12-12_saint-flour_vente_boyer-astier, 1661-12-12_saint-flour_vente_combe-boe, 1661-12-27_saint-flour_testament_pages, 1661-12-28_saint-flour_echange_chambaret-costes, 1662-01-04_saint-flour_testament_bellengueuille-blanchi, 1662-01-14_saint-flour_mariage_chalmete-marly, 1662-01-14_saint-flour_vente_cussac-david, 1662-01-16_saint-flour_cession_albuisson, 1662-01-19_saint-flour_mariage_eschallier-masset, 1662-01-19_saint-flour_testament_baldissard, 1662-01-19_saint-flour_testament_blanchi-girion, 1662-01-19_saint-flour_vente_boyer-tassy, 1662-01-22_saint-flour_vente_bruzie-mourthe, 1662-01-23_saint-flour_cession_lacombe-chalvet, 1662-01-24_saint-flour_donation_dechassol-jordin, 1662-01-25_saint-flour_testament_passanan-vidal, 1662-01-25_saint-flour_vente_caucal-rouget, 1662-01-26_saint-flour_vente_rispal-dabladie, 1662-01-28_saint-flour_mariage_delmar-marty, 1662-01-31_villedieu_mariage_bacou-trenchier, 1662-02-02_saint-flour_mariage_senhar-montgial, 1662-02-04_saint-flour_vente_sarrou-sagette, 1662-02-05_saint-flour_echange_saignes-delcros, 1662-02-06_saint-flour_bail_faucon-badeulh, 1662-02-06_saint-flour_donation_teyrat-pelegry, 1662-02-06_saint-flour_mariage_julhe-bertrand, 1662-02-07_saint-flour_echange_sabatier-souchayre, 1662-02-11_saint-flour_desistement_aureilhe-david, 1662-02-11_saint-flour_echange_fabry-tisset, 1662-02-13_saint-flour_mariage_rocher-chapoulade, 1662-02-14_saint-flour_mariage_sautherey-jean, 1662-02-14_saint-flour_obligation_vidal-rouget, 1662-02-14_saint-flour_quittance_vidal-rouget, 1662-02-16_saint-flour_mariage_astier-basset, 1662-02-17_saint-flour_mariage_pastre-chapat, 1662-02-18_saint-flour_mariage_cussac-vachier, 1662-02-18_saint-flour_vente_amadieu-rouget, 1662-02-19_roffiac_testament_vissol, 1662-02-21_villedieu_mariage_rappond-rolland, 1662-02-22_villedieu_mariage_fajon-tisset, 1662-02-24_saint-flour_vente_coutavel-mallet, 1662-02-27_saint-flour_vente_polverelles-pages, 1662-03-02_saint-flour_vente_auquier-chazalede, 1662-03-04_saint-flour_transaction_delmas, 1662-03-08_saint-flour_garantie_rodde-salesses, 1662-03-08_saint-flour_obligation_salesses-rodde, 1662-03-11_saint-flour_testament_detrauesse, 1662-03-12_saint-flour_echange_maury-eschalier, 1662-03-18_saint-flour_vente_rispail, 1662-03-22_saint-flour_echange_crespoul-cristal, 1662-03-22_saint-flour_ratification_barriol-brousse, 1662-03-28_saint-flour_vente_aureille-malessaignes, 1662-04-11_saint-flour_ratification_barthet, 1662-04-15_saint-flour_echange_dauzolle-rouget, 1662-04-17_saint-flour_vente_trenac, 1662-04-19_saint-flour_revente_aurelle-vezasol, 1662-04-20_saint-flour_bail_margerit-bertrand, 1662-04-22_saint-flour_vente_chanson, 1662-04-25_saint-flour_vente_odoul-fabri, 1662-04-27_saint-flour_vente_bonnet-bastide, 1662-04-28_saint-flour_vente_fornal-bertrand, 1662-04-30_saint-flour_vente_bonafos-brassac, 1662-05-01_saint-flour_echange_teissedre-mallessaignes, 1662-05-01_saint-flour_vente_cristal-sarrazin, 1662-05-01_saint-flour_vente_fajon-chaugnazes, 1662-05-03_saint-flour_mariage_galdissard-pignol, 1662-05-07_saint-flour_mariage_chanson-rion, 1662-05-07_saint-flour_vente_chouvette-jouve, 1662-05-07_saint-flour_vente_gibrac-sarrou, 1662-05-14_saint-flour_vente_vijtail-ollivier, 1662-05-20_saint-flour_mariage_fontes-bonnet, 1662-05-20_saint-flour_vente_boniol-salvanhac, 1662-05-20_saint-flour_vente_fonomie-margarit, 1662-05-22_saint-flour_mariage_boudon-roche, 1662-05-23_roffiac_mariage_david-cussac, 1662-05-29_saint-flour_vente_maury-savel, 1662-06-01_saint-flour_vente_allegre-molinier, 1662-06-01_saint-flour_vente_felhol-rolland, 1662-06-02_saint-flour_echange_ussel-boucheyre, 1662-06-03_saint-flour_echange_jouve-delort, 1662-06-03_saint-flour_testament_chabot-lastic, 1662-06-03_saint-flour_vente_pages-combes, 1662-06-06_saint-flour_vente_jaquet, 1662-06-08_saint-flour_donation_boisseyre-pignol, 1662-06-10_saint-flour_vente_reynaldy, 1662-06-12_saint-flour_testament_jaquet, 1662-06-14_saint-flour_donation_teissedre, 1662-06-17_saint-flour_testament_portefaix-fajon, 1662-06-17_saint-flour_vente_mollinier-dupre, 1662-06-18_villedieu_testament_fajon-rispal, 1662-06-24_saint-flour_mariage_taillard-costirac, 1662-07-01_saint-flour_vente_grisson-mousset, 1662-07-02_saint-flour_testament_bastide-arman, 1662-07-04_saint-flour_mariage_chirol-charloton, 1662-07-07_saint-flour_donation_andrieu, 1662-07-18_saint-flour_vente_rolland-lapierre, 1662-07-19_saint-flour_donation_giriou-souchier, 1662-07-19_saint-flour_mariage_delaroche-gillet, 1662-07-23_saint-flour_vente_canhac-chazaledes, 1662-07-30_saint-flour_transaction_rispal-fiou, 1662-07-31_saint-flour_testament_pages-vidal, 1662-08-05_saint-flour_testament_gibrat-dobax, 1662-08-07_saint-flour_donation_aureilhe-estachon, 1662-08-08_saint-flour_mariage_mollinier-chaulet, 1662-08-15_mentieres_testament_basset, 1662-08-16_saint-flour_echange_giraldon-begon, 1662-08-16_saint-flour_vente_descorolle-brugier, 1662-08-27_saint-flour_vente_chastang, 1662-08-27_saint-flour_vente_grisson-salvanhac, 1662-09-00_saint-flour_vente_saurel-combes, 1662-09-03_saint-flour_donation_allegre-vedrines, 1662-09-11_saint-flour_inventaire_blanchy, 1662-09-11_saint-flour_testament_blanchy, 1662-09-17_saint-flour_vente_bo-aujolet, 1662-09-20_saint-flour_testament_benezet-pages, 1662-09-21_saint-flour_vente_alboy-eschallier, 1662-09-23_saint-flour_vente_basset-hugon, 1662-09-23_saint-flour_vente_sauthiran-apcher, 1662-09-25_saint-flour_vente_pechau-durand, 1662-10-05_saint-flour_vente_boudre-balde, 1662-10-07_saint-flour_donation_julhe, 1662-10-08_saint-flour_vente_galdissard-maury, 1662-10-09_saint-flour_testament_chastang-cayrou, 1662-10-09_saint-flour_vente_alboy-eschallier, 1662-10-09_saint-flour_vente_delmas-malet, 1662-10-09_saint-flour_vente_hugon, 1662-10-10_saint-flour_mariage_julhe-achalme, 1662-10-14_saint-flour_vente_bonniol-daude, 1662-10-14_saint-flour_vente_daude-bonniol, 1662-10-15_saint-flour_partage_chanson, 1662-10-15_saint-flour_vente_delmas, 1662-10-15_saint-flour_vente_gastal-ventinghol, 1662-10-18_saint-flour_vente_chalier, 1662-10-18_saint-flour_vente_pelegrin-barthomeuf, 1662-10-28_saint-flour_echange_blanchy-lafon, 1662-10-30_saint-flour_vente_boyer-pages, 1662-11-01_saint-flour_vente_franchier-ebrard, 1662-11-02_saint-flour_retrait_estival-mallet, 1662-11-04_saint-flour_echange_fabre-buge, 1662-11-04_saint-flour_vente_vidal-coupion, 1662-11-06_saint-flour_vente_fabri-vallette, 1662-11-07_saint-flour_vente_portal-rolland, 1662-11-08_saint-flour_revente_rispal-charreyre, 1662-11-08_saint-flour_vente_sobrat-chassang, 1662-11-08_saint-flour_vente_tisset-david, 1662-11-09_saint-flour_mariage_pirou-bergoin, 1662-11-09_saint-flour_vente_rolland-chauliaguet, 1662-11-10_saint-flour_mariage_crozat-malessaigne, 1662-11-11_saint-flour_vente_rolland-sibrac, 1662-11-18_saint-flour_vente_barthet-chauses, 1662-11-18_saint-flour_vente_peires-rouget, 1662-11-19_saint-flour_echange_mallessaignes-rispail, 1662-11-21_saint-flour_donation_delmas-albepart, 1662-11-23_saint-flour_cession_barriol-blanchy, 1662-11-29_saint-flour_vente_missonnier-berault, 1662-11-30_saint-flour_donation_daude-esteve, 1662-12-02_saint-flour_echange_giraldon-chanson, 1662-12-02_saint-flour_vente_chalvet-vedrines, 1662-12-02_saint-flour_vente_giraldon-chanson, 1662-12-02_saint-flour_vente_parra-charreyre, 1662-12-03_saint-flour_echange_cussac-mallet, 1662-12-04_saint-flour_vente_delpeuch-faulcon, 1662-12-06_saint-flour_vente_chaulmette-roux, 1662-12-13_saint-flour_mariage_aujolet-falgeyrac, 1662-12-13_saint-flour_vente_basset, 1662-12-15_saint-flour_vente_pages-soubre, 1662-12-18_saint-flour_vente_rochenoux-crozat, 1662-12-28_saint-flour_mariage_defondz-martin, 1662-12-28_saint-flour_vente_bigot-lafage, 1662-12-29_saint-flour_mariage_trabut-chevallier, 1662-12-30_saint-flour_vente_crespoul-cristal, 1663-01-02_saint-flour_vente_sauret-chazaledes, 1663-01-06_saint-flour_vente_siruen-pons, 1663-01-06_saint-flour_vente_volland-chastel, 1663-01-09_saint-flour_vente_gibrat-rigaud, 1663-01-11_saint-flour_vente_chauliaguet-meyre, 1663-01-15_saint-flour_vente_sauret-chazaledes, 1663-01-16_saint-flour_echange_chirol-poulverelles, 1663-01-18_saint-flour_vente_astier-bardel, 1663-01-22_saint-flour_echange_teissedre-masset, 1663-01-26_saint-flour_mariage_meiliot-jourdanne, 1663-01-27_saint-flour_vente_eschallier-vrol, 1663-01-27_saint-flour_vente_estival-chauliaguet, 1663-01-28_saint-flour_mariage_costes-eschallier, 1663-01-28_saint-flour_mariage_jean-jourdanne, 1663-01-29_saint-flour_testament_parroche, 1663-01-31_saint-flour_mariage_coucherie-chanson, 1663-02-00_saint-flour_donation_martinon-lafoy, 1663-02-05_saint-flour_mariage_ebrard-grenier, 1663-02-06_roffiac_mariage_cussac-uchassol, 1663-02-06_saint-flour_mariage_combes-daunya, 1663-02-10_saint-flour_vente_hugon-pages, 1663-02-10_saint-flour_vente_serieys-tailliand, 1663-02-26_saint-flour_vente_jouve-chastel, 1663-03-02_saint-flour_testament_rigaud, 1663-03-02_saint-flour_transaction_anequin-chazaledes, 1663-03-08_saint-flour_donation_bagues-delort, 1663-03-10_saint-flour_vente_chastang-crespoul, 1663-03-11_saint-flour_vente_gibrat-cristal, 1663-03-17_saint-flour_inventaire_grezes-bechot, 1663-03-17_saint-flour_vente_bacou-cayrou, 1663-03-17_saint-flour_vente_suffar-monnier, 1663-03-20_saint-flour_echange_rispal-pautard, 1663-03-20_saint-flour_echange_rispal-pautard_b, 1663-03-22_saint-flour_testament_molinier, 1663-03-23_saint-flour_testament_gendre, 1663-04-01_saint-flour_partage_rolland-mallessaignes, 1663-04-04_saint-flour_vente_uchassol-cussac, 1663-04-07_saint-flour_echange_ventughol, 1663-04-08_saint-flour_vente_ventughol-bechot, 1663-04-10_saint-flour_vente_hermen-dupre, 1663-04-12_saint-flour_mariage_bourgol-mossier, 1663-04-12_saint-flour_vente_sudre-boyer, 1663-04-13_saint-flour_donation_rougier, 1663-04-15_saint-flour_vente_combes-bergoin, 1663-04-15_saint-flour_vente_mas-hugon, 1663-04-19_saint-flour_donation_passanau-pellegry, 1663-04-21_saint-flour_vente_aurilhe-chanson, 1663-04-21_saint-flour_vente_chalvon-coutel, 1663-04-22_saint-flour_transaction_mossier-tranchier, 1663-04-23_saint-flour_obligation_champaniac-delrhieu, 1663-04-25_saint-flour_mariage_vezis-teilhard, 1663-04-28_saint-flour_vente_sibrat-brassac, 1663-05-01_saint-flour_echange_chauliaguet-albiuf, 1663-05-03_saint-flour_echange_sauvet-estival, 1663-05-03_saint-flour_vente_chanson, 1663-05-05_saint-flour_vente_portal-destubartes, 1663-05-06_saint-flour_permission_masse-leyssedre, 1663-05-06_saint-flour_testament_riou, 1663-05-06_saint-flour_vente_chalanhac-chazaledes, 1663-05-08_saint-flour_transaction_regimbalt-berault, 1663-05-13_saint-flour_vente_charreyre-crozat, 1663-05-15_saint-flour_transaction_rayat-yzabel, 1663-05-15_saint-flour_vente_fayon-andrieu, 1663-05-15_saint-flour_vente_hugon, 1663-05-19_saint-flour_vente_bonnal-crespoul, 1663-05-19_saint-flour_vente_delmas-mallet, 1663-05-19_saint-flour_vente_juery-charbonnel, 1663-05-20_saint-flour_vente_rispal-pautard, 1663-05-26_saint-flour_donation_alboy, 1663-05-26_saint-flour_obligation_trabuc-cairon, 1663-05-27_alleuze_mariage_ventughol-vedrines, 1663-06-00_saint-flour_vente_brassac-jaquin, 1663-06-05_saint-flour_vente_castel-boudon, 1663-06-06_saint-flour_vente_bo-nouzeyres, 1663-06-11_saint-flour_vente_delrieu-besson, 1663-06-11_saint-flour_vente_uchassol-rispal, 1663-06-12_saint-flour_vente_lacombe-delort, 1663-06-19_saint-flour_vente_nicolas-boudet, 1663-06-20_saint-flour_vente_uchassol-brassac, 1663-06-28_saint-flour_donation_anglade-lespine, 1663-06-28_saint-flour_vente_solie-gransac, 1663-07-01_saint-flour_donation_ventughol-chappoulle, 1663-07-04_saint-flour_vente_bonnet-judry, 1663-07-07_alleuze_testament_ventughol-bregier, 1663-07-14_saint-flour_vente_cauzac-dupre, 1663-07-15_saint-flour_donation_chanson-barthet, 1663-07-18_saint-flour_donation_chastel, 1663-07-19_saint-flour_mariage_roux-delort, 1663-07-19_saint-flour_testament_talizac, 1663-07-24_saint-flour_vente_salesses-roussilhe, 1663-07-30_alleuze_testament_gardelle-delolme, 1663-08-01_saint-flour_transaction_mathieu-delangouroux, 1663-08-05_saint-flour_vente_feulhet-chanson, 1663-08-14_saint-flour_mariage_cassy-rousson, 1663-08-19_saint-flour_testament_mendre-lerolle, 1663-08-25_saint-flour_vente_clavilier-chauliaguet, 1663-08-27_saint-flour_transaction_pradal-gire, 1663-09-01_saint-flour_testament_bonafos, 1663-09-01_saint-flour_traite_bondurand-hugon, 1663-09-02_saint-flour_echange_chanson, 1663-09-02_saint-flour_mariage_chazal-mourier, 1663-09-02_saint-flour_vente_chanson, 1663-09-02_saint-flour_vente_delaire-barrou, 1663-09-04_saint-flour_testament_delangounez-hugon, 1663-09-09_saint-flour_vente_bigot-ponthonaille, 1663-09-15_saint-flour_testament_vidal, 1663-09-17_saint-flour_donation_rouget, 1663-09-21_saint-flour_mariage_cussac-martin, 1663-09-21_saint-flour_vente_chappoulade-bechot, 1663-09-30_saint-flour_vente_chappoulade-cosches, 1663-10-07_saint-flour_vente_cayron-dupre, 1663-10-14_saint-flour_vente_surrel-mas, 1663-10-17_saint-flour_vente_sirvain-saintheiry, 1663-10-18_saint-flour_donation_chappoulade, 1663-10-18_saint-flour_echange_chauliaguet-estival, 1663-10-18_saint-flour_transaction_roudel-basse, 1663-10-20_saint-flour_vente_hugon-basset, 1663-10-24_saint-flour_vente_rispal-mirmande, 1663-10-30_saint-flour_mariage_mendre-varle, 1663-11-02_saint-flour_donation_juery-molinier, 1663-11-04_saint-flour_mariage_bonnenfan-chalvet, 1663-11-07_saint-flour_vente_brugier-chassang, 1663-11-07_saint-flour_vente_fabre-aujolet, 1663-11-10_saint-flour_cession_charbonnier-rancillac, 1663-11-10_saint-flour_echange_tassy-gaudel, 1663-11-10_saint-flour_transaction_lafon-charbonnier, 1663-11-11_saint-flour_vente_chappoulade-delrieu, 1663-11-13_saint-flour_vente_chanson-bechot, 1663-11-14_saint-flour_testament_sauret, 1663-11-18_saint-flour_vente_souchier-parra, 1663-11-19_saint-flour_cession_charbonnier-trabuc, 1663-11-20_saint-flour_desistement_esteve-david, 1663-11-21_saint-flour_echange_monnier-mirmande, 1663-11-22_saint-flour_transaction_quinsat-grezes, 1663-11-25_saint-flour_testament_teilhard, 1663-11-28_saint-flour_mariage_mounier-chavreyre, 1663-11-28_saint-flour_mariage_vigier-bechot, 1663-12-02_saint-flour_vente_moureyre-ebrard, 1663-12-02_saint-flour_vente_sensac-chazaledes, 1663-12-08_saint-flour_vente_roquelaure-mallet, 1663-12-09_saint-flour_vente_bechot-dupre, 1663-12-09_saint-flour_vente_laurier-hugon, 1663-12-12_saint-flour_vente_mosnier-bonnet, 1663-12-13_saint-flour_vente_devaurs-chastel, 1663-12-16_saint-flour_testament_dufour-coulbe, 1663-12-22_saint-flour_vente_bresseyre-chanson, 1663-12-27_saint-flour_mariage_molle-monnier, 1663-12-28_saint-flour_vente_tafanel-bonniol, 1663-12-29_saint-flour_mariage_blanquet-missonnier, 1663-12-29_saint-flour_transaction_daix-miramon, 1664-01-01_saint-flour_vente_debrons, 1664-01-06_saint-flour_mariage_bertrand-gautier, 1664-01-10_saint-flour_echange_baldissard-sirvain, 1664-01-12_saint-flour_vente_rabier-vidal, 1664-01-13_saint-flour_mariage_deleros-roux, 1664-01-14_saint-flour_mariage_bouffet-teilhard, 1664-01-15_saint-flour_vente_boudon, 1664-01-19_saint-flour_vente_boudon, 1664-01-19_saint-flour_vente_caucal-rouget, 1664-01-20_saint-flour_mariage_cahot-albuisson, 1664-01-20_saint-flour_vente_ballat-fabry, 1664-01-22_saint-flour_vente_vigaud-lauriac, 1664-01-23_saint-flour_donation_rouget-bressolles, 1664-01-26_saint-flour_vente_chanson, 1664-01-26_saint-flour_vente_yzabel-dubois, 1664-02-02_saint-flour_donation_bouschet-nauthonnier, 1664-02-02_saint-flour_vente_bonnal-vidal, 1664-02-04_saint-flour_vente_meyliac-bonafos, 1664-02-06_saint-flour_donation_mallessaigne-fenal, 1664-02-06_saint-flour_mariage_boudon-bonnaffe, 1664-02-06_saint-flour_mariage_marthomeuf-albos, 1664-02-09_saint-flour_mariage_jourde-chappoulle, 1664-02-09_saint-flour_vente_pichot-nozeyres, 1664-02-10_saint-flour_vente_mariol-mouchiarac, 1664-02-16_saint-flour_mariage_guyon-teissedre, 1664-02-16_saint-flour_mariage_revel-combe, 1664-02-17_roffiac_mariage_cussac-saumade, 1664-02-17_saint-flour_vente_david-eschallier, 1664-02-20_saint-flour_mariage_lebre-combes, 1664-02-21_saint-flour_mariage_rayne-lombard, 1664-02-23_saint-flour_mariage_bechot-defondz, 1664-02-23_saint-flour_mariage_delrieu-crespoul, 1664-02-23_saint-flour_vente_sauret-bertrand, 1664-02-24_saint-flour_mariage_delort-gibrat, 1664-02-26_saint-flour_mariage_bonnet-lombard, 1664-02-26_saint-flour_vente_crabut-cairoz, 1664-02-28_saint-flour_demission_rolland, 1664-02-29_saint-flour_vente_fauyrolles-fabry, 1664-03-01_saint-flour_desistement_poulverelle-andrieu, 1664-03-01_saint-flour_vente_barthomeuf-montel, 1664-03-02_saint-flour_subrogation_rouvel-charbonnel, 1664-03-09_saint-flour_bail_roux-sentheran, 1664-03-09_saint-flour_vente_monnier-brousse, 1664-03-10_villedieu_donation_bouc, 1664-03-11_saint-flour_vente_viallard-veissiere, 1664-03-13_saint-flour_vente_rolland-baccou, 1664-03-14_saint-flour_vente_baldissard-brassac, 1664-03-15_saint-flour_transaction_bassa, 1664-03-17_saint-flour_donation_fontes, 1664-03-19_saint-flour_vente_challier-moureyre, 1664-03-20_saint-flour_testament_rougier, 1664-03-21_saint-flour_donation_bibrat, 1664-03-25_alleuze_testament_mallessaigne-vassal, 1664-03-25_saint-flour_vente_soubeyroux-chastel, 1664-03-28_saint-flour_vente_colomb-sadone, 1664-04-01_saint-flour_vente_chanson-roux, 1664-04-09_saint-flour_donation_dufour-coutel, 1664-04-14_saint-flour_testament_chassang, 1664-04-14_saint-flour_vente_andrieu-fayon, 1664-04-17_saint-flour_bail_roumiol-teissedre, 1664-04-18_saint-flour_vente_cissac-fouves, 1664-04-22_saint-flour_vente_tailhand-roux, 1664-04-23_saint-flour_vente_rousset-fabry, 1664-04-26_saint-flour_donation_baratte-surrel, 1664-04-29_saint-flour_protestation_bendre-chalvet, 1664-05-01_saint-flour_echange_boudon-badeul, 1664-05-01_saint-flour_revente_molinier-grezes, 1664-05-03_saint-flour_mariage_fajon-desalut, 1664-05-06_roffiac_testament_filhol-saintheiry, 1664-05-07_saint-flour_testament_anequin-mollinier, 1664-05-10_saint-flour_donation_cayron-doumergue, 1664-05-13_saint-flour_testament_tisset-vallette, 1664-05-17_saint-flour_subrogation_brassac-martin, 1664-05-20_saint-flour_testament_rossignol-calliand, 1664-05-20_saint-flour_vente_aureille-monnier, 1664-05-21_saint-flour_transaction_uchassol-brassac, 1664-05-26_saint-flour_testament_missonnier, 1664-06-03_saint-flour_vente_marlhiac-garand, 1664-06-12_saint-flour_testament_chalmette-mathieu, 1664-06-13_seriers_echange_gorsse-andrieu, 1664-06-15_saint-flour_echange_defondz-ruel, 1664-06-15_saint-flour_echange_estival-houre, 1664-06-16_saint-flour_testament_sauret-boudet, 1664-06-16_saint-flour_vente_padoul-rodde, 1664-06-22_saint-flour_echange_leynat-estival, 1664-07-06_saint-flour_transaction_lastic-fargue, 1664-07-09_saint-flour_vente_chappus-vairon, 1664-07-16_saint-flour_vente_boussuge-vaissiere, 1664-07-19_saint-flour_vente_delort-pirsot, 1664-07-26_saint-flour_transaction_vidal-roudier, 1664-07-27_saint-flour_vente_chossy-rechallier, 1664-07-29_saint-flour_vente_benezit-bertrand, 1664-08-09_saint-flour_vente_tezin-luillier, 1664-08-11_saint-flour_echange_chassol-sermez, 1664-08-11_saint-flour_mariage_chadel-rolland, 1664-08-11_saint-flour_testament_coustillon-baloupiz, 1664-08-12_saint-flour_testament_detrausse, 1664-08-16_saint-flour_vente_allissar-sauvagel, 1664-08-17_saint-flour_transaction_challier-boyer, 1664-08-17_saint-flour_vente_ayme-lollier, 1664-08-17_saint-flour_vente_bissoller-domergue, 1664-08-19_saint-flour_retrait_marliac-chalvet, 1664-08-20_saint-flour_testament_fontes-gendre, 1664-08-31_saint-flour_vente_crespoul-brassac, 1664-09-06_saint-flour_vente_couliadire-roudil, 1664-09-07_saint-flour_vente_mourgue-fion, 1664-09-13_saint-flour_echange_hugon-vivel, 1664-09-14_roffiac_mariage_sautherain-mallet, 1664-09-14_saint-flour_vente_maury-rouget, 1664-09-17_saint-flour_vente_brassac, 1664-09-22_saint-flour_vente_besset-dupre, 1664-09-22_saint-flour_vente_chambaron-giraldon, 1664-10-00_saint-flour_revente_savrazy-apchier, 1664-10-04_saint-flour_echange_sauvet-attalin, 1664-10-04_saint-flour_vente_david-sauret, 1664-10-12_saint-flour_revente_vedrines-chanson, 1664-10-12_saint-flour_vente_chambaron-polverelles, 1664-10-12_saint-flour_vente_malle-fizol, 1664-10-17_saint-flour_echange_bougier, 1664-10-20_saint-flour_donation_bonnet-bleuzit, 1664-10-20_saint-flour_testament_detrausse, 1664-10-21_saint-flour_vente_valarchier-regimbalt, 1664-10-26_saint-flour_vente_brugeire-tissier, 1664-10-26_saint-flour_vente_southeyrain-apchier, 1664-10-27_saint-flour_vente_mallet, 1664-10-27_saint-flour_vente_molinier-chanson, 1664-10-29_saint-flour_vente_quatruelx-tassy, 1664-10-31_saint-flour_vente_bayle-fabri, 1664-11-02_saint-flour_echange_bigot-pontsonaille, 1664-11-05_saint-flour_vente_travesse-vezin, 1664-11-06_saint-flour_vente_delaroche-portail, 1664-11-07_saint-flour_donation_pigou, 1664-11-07_saint-flour_vente_reynaldy-lapierre, 1664-11-11_saint-flour_transaction_tassaud, 1664-11-11_saint-flour_vente_pirolle-lollier, 1664-11-14_saint-flour_vente_rolland-cubrinz, 1664-11-16_saint-flour_echange_cussac-monier, 1664-11-18_saint-flour_testament_bonnault, 1664-11-20_saint-flour_partage_regimbalt-faucon, 1664-11-21_saint-flour_vente_chilman-malet, 1664-11-22_andelat_testament_delmas, 1664-11-22_saint-flour_mariage_gautheron-bussollier, 1664-11-24_saint-flour_vente_chargebeuf-mallessaigne, 1664-11-25_saint-flour_partage_chassang, 1664-11-28_saint-flour_quittance_chauzon-barthet, 1664-11-29_saint-flour_bail_rolland-esthie, 1664-11-29_saint-flour_vente_bonniol-teissel, 1664-11-29_saint-flour_vente_bonniol-teissel_b, 1664-11-29_saint-flour_vente_bonniol-teissel_c, 1664-11-30_saint-flour_vente_chanson-mallet, 1664-11-30_saint-flour_vente_palazon-blanchi, 1664-12-05_saint-flour_vente_chassol-brassac, 1664-12-05_saint-flour_vente_vschaffolz-rispal, 1664-12-06_saint-flour_vente_chastang-lassy, 1664-12-08_saint-flour_vente_lac-bardon, 1664-12-10_saint-flour_vente_chassol-brassac, 1664-12-13_saint-flour_vente_franchier-jouve, 1664-12-14_saint-flour_echange_santheranne-berthe, 1664-12-28_roffiac_vente_aurelhe-mauvy, 1664-12-31_saint-flour_vente_mauvy-fromen, 1665-00-00_saint-flour_mariage_belet-meynier, 1665-00-00_saint-flour_vente_vigier-trabuc, 1665-01-00_alleuze_testament_mournac-fabre, 1665-01-01_saint-flour_mariage_chadelat-guezes, 1665-01-03_saint-flour_vente_rolland-malet, 1665-01-04_saint-flour_vente_chauson-bouchet, 1665-01-09_saint-flour_mariage_cailliaud-vaylet, 1665-01-12_saint-flour_donation_grenier-vezis, 1665-01-12_saint-flour_testament_gilbert-bonniol, 1665-01-14_saint-flour_donation_polollion-fallie, 1665-01-16_saint-flour_vente_boudon-salvaige, 1665-01-17_saint-flour_mariage_portail-pages, 1665-01-20_saint-flour_transaction_pages-vissal, 1665-01-20_saint-flour_vente_cristal-brassac, 1665-01-21_saint-flour_mariage_delort-sauret, 1665-01-22_saint-flour_mariage_missonnier-rouchez, 1665-01-27_saint-flour_donation_vailet-trabuc, 1665-01-29_saint-flour_mariage_barthomeuf-bonnet, 1665-02-01_saint-flour_mariage_chanson-chaumeil, 1665-02-01_villedieu_mariage_tisset-vedrines, 1665-02-02_saint-flour_mariage_mallet-mallet, 1665-02-03_saint-flour_mariage_vaylet-vivmarin, 1665-02-04_saint-flour_vente_cussac-monnier, 1665-02-05_saint-flour_vente_bazel-chazalede, 1665-02-05_saint-flour_vente_crozat-rocquelaure, 1665-02-06_saint-flour_mariage_jouve-castel, 1665-02-07_saint-flour_mariage_combes-chargebeuf, 1665-02-07_saint-flour_mariage_delrieu-cussac, 1665-02-07_saint-flour_mariage_trancher-yzabel, 1665-02-14_saint-flour_vente_albert-juery, 1665-02-14_saint-flour_vente_bichot-guimbalt, 1665-02-14_saint-flour_vente_cussac-doumergue, 1665-02-16_roffiac_echange_parra-blondin, 1665-02-16_saint-flour_mariage_galvier-delort, 1665-02-17_roffiac_mariage_vidal-parra, 1665-02-17_saint-flour_vente_regimbalt-charreyre, 1665-02-24_saint-flour_echange_roux-coussarie, 1665-02-24_saint-flour_quittance_dominergue-barthomeuf, 1665-02-28_saint-flour_vente_vidal-brassac, 1665-03-01_saint-flour_vente_andrieu-tisset, 1665-03-01_saint-flour_vente_mial-tisset, 1665-03-04_saint-flour_vente_pons-trinsie, 1665-03-06_saint-flour_donation_mallet-delvoi, 1665-03-06_saint-flour_vente_delaspre-fontes, 1665-03-07_saint-flour_vente_regimbalt-teissedre, 1665-03-11_saint-flour_donation_bigot, 1665-03-12_saint-flour_vente_chassol-dubois, 1665-03-12_saint-flour_vente_delmas-albepard, 1665-03-16_saint-flour_vente_bastail-teissedre, 1665-03-17_saint-flour_vente_chauliac-jesuites, 1665-03-18_saint-flour_vente_gillet-bertrand, 1665-03-19_saint-flour_vente_chandon-pare, 1665-03-20_saint-flour_donation_david-combes, 1665-03-21_saint-flour_vente_vigier-jesuites, 1665-03-22_saint-flour_vente_chassang, 1665-03-23_saint-flour_vente_cassanel-andrieu, 1665-03-24_saint-flour_echange_baccon-migoulle, 1665-03-28_saint-flour_cession_aymar-cissar, 1665-03-28_saint-flour_echange_bruict-desfondz, 1665-03-28_saint-flour_quittance_bongeyre-chanliague, 1665-03-28_saint-flour_vente_albaret-sabattier, 1665-03-28_saint-flour_vente_chassang-chanson, 1665-03-28_saint-flour_vente_tafanel-jordin, 1665-03-31_saint-flour_echange_hugon-barreyre, 1665-04-09_saint-flour_mariage_fayon-chaugebeuf, 1665-04-10_saint-flour_vente_bremon-tremoliere, 1665-04-11_saint-flour_cession_chanson, 1665-04-11_saint-flour_echange_fontes-vaissiere, 1665-04-11_saint-flour_vente_chanson-portefaix, 1665-04-11_saint-flour_vente_chanson-portefaix_b, 1665-04-11_saint-flour_vente_jean-gizolme, 1665-04-12_saint-flour_vente_marchan-teyssedre, 1665-04-12_saint-flour_vente_rubine-chaulhac, 1665-04-13_saint-flour_sommation_teissedre-batiffolier, 1665-04-15_saint-flour_vente_roudil-viol, 1665-04-16_saint-flour_vente_daude-chastel, 1665-04-18_saint-flour_mariage_chaumeil-fieu, 1665-04-18_saint-flour_vente_jouy-david, 1665-04-19_saint-flour_transaction_bastal-cussac, 1665-04-19_saint-flour_vente_bagely-delcros, 1665-04-20_saint-flour_testament_roux, 1665-04-21_saint-flour_transaction_alboy-vaures, 1665-04-21_saint-flour_vente_bassel-sourgol, 1665-04-25_saint-flour_donation_fieu-giraldy, 1665-04-25_saint-flour_echange_ventuighol-souchari, 1665-04-25_saint-flour_vente_delorme-chirol, 1665-04-25_saint-flour_vente_tafanel-douhet, 1665-04-26_saint-flour_vente_brissolle-voussilhe, 1665-04-27_saint-flour_retrait_gorsse-vargier, 1665-04-27_saint-flour_transaction_tassy-chalmette, 1665-05-01_saint-flour_vente_bonafous-chalvet, 1665-05-01_saint-flour_vente_vedrines-vigier, 1665-05-02_saint-flour_echange_cancal-rispal, 1665-05-03_saint-flour_vente_pigon-chauliaguet, 1665-05-04_saint-flour_vente_cristal-molinier, 1665-05-04_saint-flour_vente_galdissaud-delort, 1665-05-06_saint-flour_echange_deleron-soucheire, 1665-05-06_saint-flour_vente_brugier-eschallier, 1665-05-06_saint-flour_vente_chalier, 1665-05-07_saint-flour_vente_hugon-bardon, 1665-05-08_saint-flour_cession_missonier-chanson, 1665-05-09_saint-flour_retrait_bastail-faugyrolles, 1665-05-10_saint-flour_mariage_deleron-odoul, 1665-05-11_saint-flour_testament_vidal-parra, 1665-05-13_saint-flour_testament_saintheiry, 1665-05-14_saint-flour_vente_brugier-fayon, 1665-05-17_saint-flour_vente_contugol-bechot, 1665-05-17_saint-flour_vente_teissedre-blanc, 1665-05-18_saint-flour_vente_buge-blanchy, 1665-05-21_saint-flour_cession_parrot-cussac, 1665-05-21_saint-flour_vente_parrot-brousse, 1665-05-23_saint-flour_mariage_begne-barthet, 1665-05-23_saint-flour_transaction_severgol-mossier, 1665-05-24_saint-flour_donation_jordin-bougier, 1665-05-25_saint-flour_echange_bonnet-veyre, 1665-05-25_saint-flour_vente_cussat-soumeuroux, 1665-05-28_saint-flour_demission_bondurand-hugon, 1665-05-31_saint-flour_mariage_mournac-andrieu, 1665-05-31_saint-flour_vente_mounier-apchier, 1665-06-02_saint-flour_vente_combes-chanieres, 1665-06-02_saint-flour_vente_coutarel-darseulhe, 1665-06-02_saint-flour_vente_durand-hugon, 1665-06-03_saint-flour_donation_laurans, 1665-06-06_saint-flour_testament_bareyre, 1665-06-06_saint-flour_vente_chanson-bechot, 1665-06-07_saint-flour_mariage_marvighon-lisset, 1665-06-08_saint-flour_inventaire_barreyre-champolaux, 1665-06-10_saint-flour_vente_parra-bechot, 1665-06-11_saint-flour_vente_apchier-chanson, 1665-06-14_saint-flour_bail_hugon-bonyblanc, 1665-06-14_saint-flour_vente_bonyblanc-hugon, 1665-06-14_saint-flour_vente_mallet-chevallier, 1665-06-24_saint-flour_mariage_julhe-sauvaige, 1665-06-24_saint-flour_vente_berault-fayon, 1665-06-24_saint-flour_vente_masse-bastide, 1665-06-28_saint-flour_vente_andrieu-dupuy, 1665-06-28_saint-flour_vente_boissolles-dupuy, 1665-06-28_saint-flour_vente_hugon-tassy, 1665-06-28_saint-flour_vente_surrel-bastide, 1665-07-04_saint-flour_inventaire_grassalt-berthon, 1665-07-06_saint-flour_vente_odoul-sauret, 1665-07-11_roffiac_vente_sautheray-brassac, 1665-07-12_saint-flour_quittance_bongeyre-chanliague, 1665-07-12_saint-flour_vente_chapoulade-jury, 1665-07-12_saint-flour_vente_monet-broncy, 1665-07-14_saint-flour_vente_bechot-sauret, 1665-07-19_saint-flour_echange_coutre-rouffie, 1665-07-19_saint-flour_vente_oradour-paur, 1665-08-01_saint-flour_mariage_brugeirolles-chanson, 1665-08-05_saint-flour_echange_trabuc-vigier, 1665-08-09_saint-flour_testament_fayet, 1665-08-09_saint-flour_vente_jury-aujolet, 1665-08-11_saint-flour_vente_andrieu-bibrac, 1665-08-11_saint-flour_vente_bichot-saintheiry, 1665-08-20_saint-flour_donation_gastal, 1665-08-24_saint-flour_mariage_maury-pages, 1665-08-24_saint-flour_vente_dabladie-maury, 1665-08-30_saint-flour_mariage_page-delrieu, 1665-09-00_saint-flour_vente_cussac, 1665-09-05_saint-flour_transaction_dupuy-reginbalt, 1665-09-08_saint-flour_testament_salesses, 1665-09-13_saint-flour_vente_bo, 1665-09-15_saint-flour_vente_rigault-bonniol, 1665-09-21_saint-flour_mariage_chassoulle-seguy, 1665-09-21_saint-flour_vente_meylioi-jourlanche, 1665-09-21_saint-flour_vente_sauret-deloye, 1665-09-22_saint-flour_cession_grenier-bevaud, 1665-09-22_saint-flour_vente_rolland-juery, 1665-09-26_saint-flour_testament_chalier, 1665-09-27_saint-flour_vente_andrieu-nozeyres, 1665-09-29_saint-flour_testament_pouvert, 1665-10-04_saint-flour_mariage_chanalle-bourel, 1665-10-09_saint-flour_vente_brossy-destubartes, 1665-10-14_saint-flour_revente_rouget-berhot, 1665-10-22_saint-flour_vente_richard-andrieu, 1665-10-24_saint-flour_vente_gastal-fayron, 1665-10-25_saint-flour_echange_cormily-vechafol, 1665-10-25_saint-flour_mariage_vigier-chapoulle, 1665-10-27_saint-flour_donation_boudier-salesses, 1665-10-27_saint-flour_vente_brezit-vaissiere, 1665-10-28_saint-flour_transaction_senetaire-galauba, 1665-10-29_saint-flour_rente_sandrieu-chomel, 1665-10-31_saint-flour_donation_aubier-rougier, 1665-10-31_saint-flour_mariage_missonnier-salvat, 1665-11-00_saint-flour_vente_richard-bergoin, 1665-11-01_saint-flour_vente_chomel-tailhand, 1665-11-02_saint-flour_mariage_bechot-rougier, 1665-11-04_saint-flour_transaction_veyghalory-foutes, 1665-11-12_pompignac_cession_chabanier-rocquelaure, 1665-11-15_saint-flour_vente_juery, 1665-11-15_voffrac_cession_gazel-veyssiere, 1665-11-17_saint-flour_vente_missonnier-cayron, 1665-11-20_saint-flour_cession_hermier-berthot, 1665-11-21_saint-flour_donation_pignol-hebrarde, 1665-11-21_saint-flour_vente_sautheyrac-dubois, 1665-11-22_saint-flour_mariage_herault-champolaux, 1665-11-24_saint-flour_vente_hugon-larochette, 1665-11-24_saint-flour_vente_larochette-destubartes, 1665-11-28_saint-flour_vente_boudoz-bardoz, 1665-11-29_vedrenat_mariage_malet-malet, 1665-12-01_saint-flour_desistement_manson-solier, 1665-12-02_saint-flour_vente_coschet-fayon, 1665-12-06_saint-flour_vente_sentherain-verhoi, 1665-12-12_saint-flour_subrogation_charbonnel-charreyre, 1665-12-12_saint-flour_vente_galand, 1665-12-13_saint-flour_echange_chastre-jouve, 1665-12-13_vossiar_echange_chazalede-andrieu, 1665-12-15_saint-flour_vente_cristal-crespoul, 1665-12-16_saint-flour_vente_vezis-bertrand, 1665-12-18_saint-flour_vente_bechot-mallessaignes, 1665-12-21_saint-flour_transaction_leroa-atalar, 1665-12-29_saint-flour_vente_cussac-pelissier, 1665-12-29_saint-flour_vente_gaultier-daufeulhe, 1665-12-29_saint-flour_vente_giraldon-chavegre, 1665-12-31_saint-flour_cession_falgeyrac-montaigne, 1666-01-01_roffiac_mariage_david-vachal, 1666-01-02_saint-flour_echange_ballat-cassand, 1666-01-03_saint-flour_vente_malot-albepart, 1666-01-04_saint-flour_vente_odoul-debattut, 1666-01-05_saint-flour_vente_charbonnel-cibiel, 1666-01-15_saint-flour_vente_chastel-combes, 1666-01-15_saint-flour_vente_reynault-chavegne, 1666-01-16_saint-flour_mariage_coutel-chauzy, 1666-01-17_saint-flour_vente_bessolz-sabatier, 1666-01-17_saint-flour_vente_bessolz-sabatier_b, 1666-01-18_saint-flour_vente_sauvet-marighon, 1666-01-20_saint-flour_echange_david-caissiere, 1666-01-20_saint-flour_transaction_cussac-fontes, 1666-01-26_saint-flour_mariage_rouffilhe-cussac, 1666-01-27_alleuze_testament_daix, 1666-01-31_saint-flour_mariage_mounier-roudil, 1666-02-00_saint-flour_bail_bronsy-monchiavar, 1666-02-00_saint-flour_vente_hugon-sauve, 1666-02-02_saint-flour_donation_devaursse, 1666-02-04_saint-flour_cession_maury-rubene, 1666-02-04_saint-flour_subrogation_rodde-mallet, 1666-02-04_saint-flour_testament_bouvet-chevallier, 1666-02-07_saint-flour_mariage_amat-serrohan, 1666-02-07_saint-flour_mariage_chappoulle-cusset, 1666-02-10_la-fagholle_mariage_rigault-gendre, 1666-02-10_saint-flour_vente_sauret, 1666-02-15_saint-flour_mariage_andrieu-esbrard, 1666-02-17_saint-flour_desistement_crozat-bacon, 1666-02-20_saint-flour_donation_borde, 1666-02-20_saint-flour_mariage_nozieres-douze, 1666-02-20_saint-flour_vente_chassol-fontes, 1666-02-21_saint-flour_mariage_sabattier-delvor, 1666-02-23_saint-flour_bail_bechot-chaptard, 1666-02-24_saint-flour_testament_george, 1666-02-27_saint-flour_echange_badeul-delchier, 1666-02-27_saint-flour_echange_sevenes-fontes, 1666-02-27_saint-flour_mariage_bonnet-batiffolier, 1666-02-27_saint-flour_mariage_combes-boyer, 1666-02-27_saint-flour_testament_pastre-nicolas, 1666-02-27_saint-flour_vente_lagriffoul-pinillie, 1666-02-28_saint-flour_vente_lacombe-clavillier, 1666-02-28_saint-flour_vente_monchiaval-distubarthe, 1666-03-00_saint-flour_mariage_bonnet-sebattyer, 1666-03-03_villedieu_mariage_chaugeaygre-rolland, 1666-03-06_saint-flour_transaction_gibrat-blanc, 1666-03-06_saint-flour_vente_david-tisset, 1666-03-06_saint-flour_vente_mariol-mouliarat, 1666-03-07_vedrines_mariage_breze-chanson, 1666-03-08_saint-flour_mariage_buzet-rougier, 1666-03-10_saint-flour_donation_chapoulle, 1666-03-13_saint-flour_testament_lafaige, 1666-03-13_saint-flour_vente_chabrousse-debrons, 1666-03-14_saint-flour_vente_soubeiroux-serugol, 1666-03-16_saint-flour_vente_chapoulade-giraldon, 1666-03-20_saint-flour_vente_vchassol-parra, 1666-03-21_saint-flour_vente_masset-tissedre, 1666-03-22_saint-flour_vente_ciborny-aldigier, 1666-03-23_saint-flour_vente_dominique-bouthie, 1666-03-25_tossiac_testament_inguimbert-aliadieres, 1666-03-27_saint-flour_vente_jean-maury, 1666-03-27_saint-flour_vente_pouhvillet-bergoin, 1666-03-28_saint-flour_vente_fiou-cayron, 1666-03-30_saint-flour_vente_chassang-ventughol, 1666-04-02_aleuze_donation_bonniol, 1666-04-03_saint-flour_vente_vigier-sauvagol, 1666-04-12_saint-flour_echange_chargnaire-jouve, 1666-04-12_saint-flour_obligation_mounier-aureille, 1666-04-12_saint-flour_testament_chargenaire, 1666-04-13_saint-flour_echange_rolland-galvier, 1666-04-15_saint-flour_vente_roudil-blanchy, 1666-04-20_saint-flour_vente_andrieu-barthomeuf, 1666-04-22_saint-flour_vente_mouchiera-destubartes, 1666-04-26_saint-flour_echange_bardelle-paur, 1666-04-26_saint-flour_mariage_fontes-bouschet, 1666-04-26_saint-flour_vente_sabatier-apchier, 1666-04-27_saint-flour_vente_guadolle-paul, 1666-05-01_saint-flour_echange_lastic-chastre, 1666-05-01_saint-flour_partage_astier, 1666-05-01_saint-flour_vente_berault-falgeyrac, 1666-05-01_saint-flour_vente_debrons-cathala, 1666-05-02_saint-flour_subrogation_barthet-chauzon, 1666-05-05_saint-flour_mariage_montaigne-bo, 1666-05-06_saint-flour_echange_sabatier, 1666-05-06_saint-flour_vente_gibrat-girand, 1666-05-08_lagoyron_testament_tailhand, 1666-05-08_saint-flour_demission_dommergue-yzabel, 1666-05-08_saint-flour_vente_bertrand-bonnet, 1666-05-08_saint-flour_vente_gibrat-andrieu, 1666-05-15_saint-flour_obligation_vezin-lesiu, 1666-05-16_saint-flour_testament_marques-piron, 1666-05-16_saint-flour_vente_chastang-pontier, 1666-05-19_saint-flour_vente_manoy-brugeyre, 1666-05-20_roffiac_transaction_culhiere-gazel, 1666-05-21_saint-flour_vente_rolland-crouzatier, 1666-05-26_saint-flour_transaction_vezis-faure, 1666-05-29_saint-flour_donation_sourchere-girion, 1666-05-29_saint-flour_transaction_gibrat-rolland, 1666-05-29_saint-flour_vente_larocque-salvanhac, 1666-05-30_saint-flour_testament_andrieu-chanson, 1666-06-01_roffiac_testament_gibrat, 1666-06-01_saint-flour_vente_gibrat-rolland, 1666-06-02_saint-flour_vente_bavate-lafoy, 1666-06-02_saint-flour_vente_mercier-delolme, 1666-06-03_saint-flour_transaction_canhac-amat, 1666-06-04_saint-flour_mariage_picot-delort, 1666-06-05_saint-flour_ratification_meyre-hugon, 1666-06-05_saint-flour_vente_ferrand-roche, 1666-06-08_andelat_testament_auveille-bastide, 1666-06-08_saint-flour_testament_astier, 1666-06-12_saint-flour_vente_galand-dechalue, 1666-06-14_saint-flour_vente_barthet, 1666-06-14_saint-flour_vente_montaigne-brivines, 1666-06-15_saint-flour_vente_durand-vayron, 1666-06-20_saint-flour_mariage_albaret-espezolles, 1666-06-20_saint-flour_testament_chaorie-gillet, 1666-06-21_saint-flour_testament_louvrier, 1666-06-27_vedrenan_vente_mallet-izabre, 1666-06-29_saint-flour_subrogation_gibrat-jury, 1666-06-30_saint-flour_donation_viallard-berault, 1666-07-04_saint-flour_protestation_aureilhe-mounier, 1666-07-06_andelat_mariage_revel-jean, 1666-07-07_saint-flour_vente_missonnier-bruzit, 1666-07-09_saint-flour_vente_boussuge-trabuc, 1666-07-10_saint-flour_vente_rioz-crespoul, 1666-07-11_saint-flour_vente_rispal-bichot, 1666-07-14_saint-flour_vente_pasquet-basset, 1666-07-16_roffiac_mariage_bourheyre-gazel, 1666-07-16_saint-flour_donation_cussac, 1666-07-18_saint-flour_mariage_blanc-cahot, 1666-07-20_saint-flour_testament_raynauld, 1666-07-25_saint-flour_ratification_bonnal-bardon, 1666-07-26_saint-flour_donation_delort-mauvy, 1666-08-06_saint-flour_transaction_hugon-chavanie, 1666-08-06_saint-flour_vente_cussat-meyre, 1666-08-08_saint-flour_transaction_boyer-batiffolier, 1666-08-16_saint-flour_subrogation_rouget-tronchere, 1666-08-19_saint-flour_ratification_taliade, 1666-08-22_saint-flour_cession_jean-gastail, 1666-08-22_saint-flour_vente_delort-delcros, 1666-08-22_saint-flour_vente_fabry-trenchier, 1666-08-24_saint-flour_vente_cussat-esbrard, 1666-08-25_saint-flour_subrogation_brassac-tronchere, 1666-08-29_saint-flour_subrogation_beraud-grenier, 1666-08-30_saint-flour_mariage_jean-dufour, 1666-09-05_saint-flour_vente_polverelles-froment, 1666-09-06_saint-flour_vente_dabladie-jury, 1666-09-11_saint-flour_testament_mallessaigne-crozat, 1666-09-16_saint-flour_quittance_rigault-bonniol, 1666-09-19_saint-flour_vente_gazal-fromen, 1666-09-19_saint-flour_vente_lollier-jesuites, 1666-09-21_saint-flour_quittance_berault-grenier, 1666-09-21_saint-flour_vente_chauson-bechot, 1666-09-26_saint-flour_mariage_maury-vedrines, 1666-09-29_saint-flour_vente_douze-gibrat, 1666-09-30_saint-flour_subrogation_hugoz-destubartes, 1666-09-30_saint-flour_testament_teisset, 1666-09-30_saint-flour_vente_pitiot-chaulhiac, 1666-10-01_saint-flour_donation_caniat-galvier, 1666-10-01_saint-flour_testament_chinial-riou, 1666-10-02_saint-flour_donation_reynaud-dupuy, 1666-10-04_saint-flour_vente_bout-tronchere, 1666-10-04_saint-flour_vente_lastic-barthet, 1666-10-05_saint-flour_demission_albon-jean, 1666-10-07_saint-flour_demission_bo-vispal, 1666-10-07_saint-flour_vente_bertrand-chastang, 1666-10-08_saint-flour_testament_chazal-mollinier, 1666-10-11_fayet_testament_maury-vondie, 1666-10-16_saint-flour_vente_catalat-jouve, 1666-10-17_saint-flour_transaction_chastel-pouget, 1666-10-17_saint-flour_vente_larocque-salvaniac, 1666-10-19_inconnu_testament_ventengol, 1666-10-22_saint-flour_echange_crespone, 1666-10-23_saint-flour_obligation_crespoul-vidal, 1666-10-23_saint-flour_vente_baratte-lafoy, 1666-10-28_saint-flour_echange_petit-andel, 1666-10-28_saint-flour_vente_andel-hugon, 1666-10-30_saint-flour_testament_callijat-baldissard, 1667-11-11_saint-flour_requete_vuillon-lepelletier, 1672-12-10_saint-flour_requete_fauret-vedrines |
 | Saint-Flour (?) | 2 | 1628-11-25_saint-flour_quittance_simyrol-desfontz, 1656-04-01_saint-flour_vente_boudon-combes |
+| Saint-Flour (Cantal) — « dans la maon et chau de [Bouchein?] [Faure?] dandellac », lecture incertaine | 1 | 1633-01-25_saint-flour_mariage_gibrat-alhadieres |
 | Saint-Flour (Chagouze, forain de Saint-Flour) | 1 | 1665-08-09_saint-flour_testament_fayet |
 | Saint-Flour (Fraissinet, foraine de Saint-Flour) | 2 | 1660-03-16_saint-flour_testament_fromen-sentherain, 1662-06-14_saint-flour_donation_teissedre |
 | Saint-Flour (Roueyre Vielhe, forains de Saint-Flour) | 1 | 1664-04-26_saint-flour_donation_baratte-surrel |
 | Saint-Flour (Roueyre-Vieille, forain de Saint-Flour) | 1 | 1662-07-02_saint-flour_testament_bastide-arman |
 | Saint-Flour (S' Flo') | 1 | 1656-04-17_saint-flour_echange_boyer-bonnol |
 | Saint-Flour (S(ain)t flour) | 1 | 1654-11-06_saint-flour_vente_desfondz-boyer |
+| Saint-Flour (S(ain)t flour), lieu de l'acte [?] et résidence de l'acquéreur et des témoins | 1 | 1633-05-21_saint-flour_vente_bouycher-tassy |
 | Saint-Flour (S. Flour) | 2 | 1654-05-30_saint-flour_cession_valadier-bonniol, 1656-05-20_saint-flour_vente_rispal-rouget |
 | Saint-Flour (S. Flour, S.t flour), étude du notaire | 1 | 1653-09-29_saint-flour_donation_caillade-veynault |
 | Saint-Flour (S. Flour, St Flour), lieu de l'acte | 1 | 1652-06-16_saint-flour_vente_borchette-portefaix |
@@ -3125,20 +3316,23 @@
 | Saint-Flour (S.t flour), lieu de l'acte | 3 | 1652-04-01_saint-flour_vente_faigeolle-rouger, 1653-05-11_saint-flour_vente_vidal-chazot, 1653-05-31_saint-flour_vente_rouvi-baille |
 | Saint-Flour (S.t flour), étude du notaire | 1 | 1653-05-10_saint-flour_vente_rivore-mar |
 | Saint-Flour (S.t flour, ceste ville) | 1 | 1661-10-00_saint-flour_mariage_chastre-basset |
+| Saint-Flour (S[ain]t Flour) — chemin et mesure | 1 | 1633-05-09_andelat_bail_brugier-julhe |
 | Saint-Flour (S[ain]t flour) : maison de Mathieu Chaulhaguet | 1 | 1653-09-00_saint-flour_mariage_bechot-chaulhaguet |
 | Saint-Flour (S[t] Flour) | 1 | 1653-11-15_saint-flour_vente_louvo-chauvejon |
 | Saint-Flour (S[t] Flour, ville et paroisse) | 1 | 1653-12-20_saint-flour_vente_vendier-chambaron |
 | Saint-Flour (S[t] flour) | 1 | 1653-12-28_saint-flour_vente_pontsavre-vidal |
 | Saint-Flour (S[t]. flour) | 1 | 1653-10-18_saint-flour_vente_solier-daix |
+| Saint-Flour (S^t fl[our?], St flour) | 1 | 1634-03-06_saint-flour_vente_breseyrousse-fabry |
 | Saint-Flour (S^t flo^r) | 1 | 1657-01-29_bosfaultz_donation_vidal-chastel |
 | Saint-Flour (S^t flour) | 7 | 1651-07-01_saint-flour_vente_archer-maury, 1653-01-14_saint-flour_vente_bordes-chanson, 1653-03-22_saint-flour_vente_audieu-pomi, 1657-09-00_saint-flour_echange_boyer-delastre, 1657-11-00_saint-flour_transaction_dauche-montet, 1657-11-24_saint-flour_echange_chanson, 1657-11-24_saint-flour_testament_rolland |
 | Saint-Flour (S^t flour), lieu de l'acte | 2 | 1652-03-10_saint-flour_echange_chabot-vachier, 1657-05-25_saint-flour_testament_chazot |
 | Saint-Flour (S^t flour), étude du notaire | 1 | 1653-05-02_saint-flour_donation_solie-boudon |
 | Saint-Flour (Sainct Flor) | 1 | 1626-03-04_saint-flour_quittance_jurdy-desauret |
-| Saint-Flour (Sainct Flour) | 1 | 1660-06-26_villedieu_testament_foutez-teyssedre |
+| Saint-Flour (Sainct Flour) | 2 | 1634-02-19_saint-flour_echange_deleyre-simbes, 1660-06-26_villedieu_testament_foutez-teyssedre |
 | Saint-Flour (Sainct f[lour?], St flour), lieu de passation | 1 | 1652-04-13_saint-flour_vente_hugon |
 | Saint-Flour (Sainct flour | 1 | 1651-03-06_saint-flour_vente_sentherain-vouget |
 | Saint-Flour (Sainct flour) | 1 | 1658-01-30_saint-flour_vente_neufeglize-galdissard |
+| Saint-Flour (Sainct flour), boutique du notaire | 1 | 1634-03-25_saint-flour_vente_gastel |
 | Saint-Flour (Sainct flour, S.t flour), étude du notaire | 1 | 1653-05-03_saint-flour_vente_vaurilhac-bonnafos |
 | Saint-Flour (Saint flour) | 1 | 1626-08-14_saint-flour_sommation_faure |
 | Saint-Flour (Sflour, Stflour) | 1 | 1658-05-02_saint-flour_cession_lauriac-rolland |
@@ -3149,8 +3343,9 @@
 | Saint-Flour (St flo[ur?]) | 1 | 1656-02-23_saint-flour_vente_fraz-hugon |
 | Saint-Flour (St flor) | 1 | 1665-04-19_saint-flour_transaction_bastal-cussac |
 | Saint-Flour (St flor, St flour) | 1 | 1658-02-03_seriers_donation_chavvegne-cailliaud |
+| Saint-Flour (St flore, St flor, faubourgs) | 1 | 1633-12-17_saint-flour_testament_cristal |
 | Saint-Flour (St flour ; maison de Guillaume Chantal) | 1 | 1658-01-07_saint-flour_mariage_pelegry-passenau |
-| Saint-Flour (St flour) | 7 | 1653-03-29_saint-flour_vente_doumergue, 1653-04-08_saint-flour_vente_gaudelle-solier, 1653-04-22_saint-flour_mariage_dufour-vaur, 1653-04-26_saint-flour_vente_lamere-vigault, 1653-04-27_saint-flour_vente_bonnet-bernard, 1658-04-02_saint-flour_vente_pantard, 1660-06-26_saint-flour_vente_maury-boyer |
+| Saint-Flour (St flour) | 9 | 1634-03-25_saint-flour_vente_maury-jailhe, 1634-05-17_saint-flour_quittance_gibrat-mestre, 1653-03-29_saint-flour_vente_doumergue, 1653-04-08_saint-flour_vente_gaudelle-solier, 1653-04-22_saint-flour_mariage_dufour-vaur, 1653-04-26_saint-flour_vente_lamere-vigault, 1653-04-27_saint-flour_vente_bonnet-bernard, 1658-04-02_saint-flour_vente_pantard, 1660-06-26_saint-flour_vente_maury-boyer |
 | Saint-Flour (St flour), faubourg non lu, lieu de l'acte | 1 | 1652-06-00_saint-flour_echange_chazot-vidal |
 | Saint-Flour (St flour), faubourgs | 1 | 1632-02-13_mentieres_mariage_roudil-bonnet |
 | Saint-Flour (St flour), lieu de l'acte | 1 | 1652-06-10_saint-flour_echange_chazot-vidal |
@@ -3161,11 +3356,14 @@
 | Saint-Flour (St flour), étude du notaire | 3 | 1652-01-04_saint-flour_echange_galdissard-chalvet, 1653-04-26_saint-flour_vente_mauly, 1654-05-24_saint-flour_transaction_marly |
 | Saint-Flour (St flour, St flor) | 1 | 1653-09-07_saint-flour_transaction_hugon-favel |
 | Saint-Flour (St flour, St floure ; étude du notaire ; faubourgs) | 1 | 1657-09-09_saint-flour_mariage_tuffery-vedrines |
+| Saint-Flour (St flour, sainct flour) | 1 | 1634-03-27_saint-flour_vente_roux-aymeric |
 | Saint-Flour (St. flour), ville, paroisse et faubourgs (faulxbourgs) | 1 | 1654-05-09_saint-flour_desistement_reynalt-gaston |
 | Saint-Flour (Sᵗ Flour), étude du notaire | 1 | 1653-05-17_saint-flour_vente_combes-rouget |
 | Saint-Flour (Sᵗ flour) | 2 | 1653-11-15_saint-flour_vente_vigassol-pages, 1653-12-11_saint-flour_vente_fuvel-mas |
 | Saint-Flour (Sᵗ flour, Sᵗ flo.) | 1 | 1653-11-15_saint-flour_vente_combes-rouget |
 | Saint-Flour ([St Flour?]) | 1 | 1661-10-05_saint-flour_vente_bastide-brassac |
+| Saint-Flour ([St Flour?], l. 57) | 1 | 1634-03-26_saint-flour_vente_gastel-jurol |
+| Saint-Flour ([bureau du notaire royal soussigné?]) | 1 | 1633-06-10_saint-flour_vente_olliere-saintlagier |
 | Saint-Flour ([bureau?] du notaire) | 1 | 1657-03-24_saint-flour_obligation_bastide-mabot |
 | Saint-Flour ([chez?] le notaire) | 1 | 1661-10-08_saint-flour_vente_falhet-chaulhaguet |
 | Saint-Flour ([en l'?]hôtel du notaire) | 1 | 1666-06-02_saint-flour_vente_mercier-delolme |
@@ -3180,8 +3378,10 @@
 | Saint-Flour (bailliage, l. 25) | 1 | 1654-06-00_vastrier_transaction_bardon-brassac |
 | Saint-Flour (basse-cour des prisons royales) | 1 | 1657-01-08_saint-flour_sommation_audigier-bonnet |
 | Saint-Flour (biens vendus au lieu de Valuy) | 1 | 1658-01-27_saint-flour_vente_devaluy-ollier |
+| Saint-Flour (boutique du notaire) | 1 | 1634-06-08_saint-flour_vente_albepar-vedrine |
 | Saint-Flour (bureau du notaire ; hôtel-Dieu / Charité) | 1 | 1665-05-11_saint-flour_testament_vidal-parra |
-| Saint-Flour (bureau du notaire) | 2 | 1632-04-16_saint-flour_vente_chanson-bechot, 1632-04-17_saint-flour_vente_treuer-pons |
+| Saint-Flour (bureau du notaire) | 4 | 1632-04-16_saint-flour_vente_chanson-bechot, 1632-04-17_saint-flour_vente_treuer-pons, 1633-04-25_saint-flour_vente_crespoul-siuergol, 1634-05-13_saint-flour_echange_portefaix-dommergue |
+| Saint-Flour (bureau du notaire, lieu de l'acte) | 1 | 1633-12-29_saint-flour_vente_chastel-sentheven |
 | Saint-Flour (chez le notaire) | 1 | 1656-02-23_saint-flour_vente_fray-hugon |
 | Saint-Flour (collège des Jésuites) | 1 | 1665-03-17_saint-flour_vente_chauliac-jesuites |
 | Saint-Flour (d'après le registre ; ville non lue dans l'acte) | 1 | 1658-12-24_saint-flour_vente_brousse |
@@ -3191,15 +3391,18 @@
 | Saint-Flour (diocèse, ressort) | 1 | 1654-02-15_mons_mariage_galdissard-uchassol |
 | Saint-Flour (estude du notaire) | 1 | 1654-11-04_saint-flour_vente_souvel-mas |
 | Saint-Flour (faubourg ? lieu exact de passation non lu) | 1 | 1652-09-29_saint-flour_vente_sauvet-bouchez |
-| Saint-Flour (faubourg) | 8 | 1626-08-31_saint-flour_compromis_berault-bestel, 1626-12-14_saint-flour_quittance_bessiere-gerauld, 1628-01-14_saint-flour_testament_lafon-couprat, 1628-11-17_saint-flour_bail_chanlhaguet-baldissard, 1656-09-24_saint-flour_transaction_tissier-palmier, 1657-05-30_saint-flour_quittance_rolland-alboy, 1660-04-10_saint-flour_testament_chasbel, 1666-03-08_saint-flour_mariage_buzet-rougier |
+| Saint-Flour (faubourg) | 9 | 1626-08-31_saint-flour_compromis_berault-bestel, 1626-12-14_saint-flour_quittance_bessiere-gerauld, 1628-01-14_saint-flour_testament_lafon-couprat, 1628-11-17_saint-flour_bail_chanlhaguet-baldissard, 1633-02-06_saint-flour_mariage_tallon-dufour, 1656-09-24_saint-flour_transaction_tissier-palmier, 1657-05-30_saint-flour_quittance_rolland-alboy, 1660-04-10_saint-flour_testament_chasbel, 1666-03-08_saint-flour_mariage_buzet-rougier |
+| Saint-Flour (faubourg), maison de [Pierre?] Fayet | 1 | 1633-02-06_saint-flour_mariage_tallon-dufour |
 | Saint-Flour (faubourg, lieu de l'acte [?]) | 1 | 1632-10-21_saint-flour_vente_chastel-fauret |
 | Saint-Flour (faubourg, maison de Marguerite Rigault) | 1 | 1657-02-14_saint-flour_mariage_chappoulle-rigault |
 | Saint-Flour (faubourg, nom non lu), maison de la testatrice | 1 | 1653-09-29_saint-flour_testament_pages |
 | Saint-Flour (faubourgs : « [faulxbourgz?] de la ville [de?] Saint flor », l. 3 ; « aud. [faulxbourg?] », l. 39) | 1 | 1628-05-21_saint-flour_transaction_vidal-nicolas |
 | Saint-Flour (faubourgs ; étude du notaire) | 1 | 1656-05-02_saint-flour_vente_moyne-molinier |
 | Saint-Flour (faubourgs [?]) | 1 | 1628-03-25_saint-flour_bail_aymeric-courin |
-| Saint-Flour (faubourgs) | 44 | 1626-12-15_saint-flour_bail_meynier-combe, 1628-07-07_saint-flour_quittance_valgot-jourdan, 1632-01-19_saint-flour_vente_trymbal-espinchal, 1648-02-19_saint-flour_vente_coutarel-grassald, 1649-02-00_saint-flour_transaction_gatier-durand, 1649-05-24_saint-flour_bail_inbert-severgol, 1649-07-17_saint-flour_quittance_gardelle-giraldon, 1650-01-26_saint-flour_vente_doumergue-dupre, 1650-11-12_saint-flour_ratification_cayrou-dupre, 1651-04-19_saint-flour_quittance_dupre-bonnol, 1651-08-19_saint-flour_cession_caulle, 1652-02-26_saint-flour_echange_tissier-alboy, 1652-04-04_saint-flour_procuration_bouslhuge-roux, 1653-02-10_saint-flour_mariage_roudier-mourgue, 1653-06-21_saint-flour_mariage_daulhet-monnier, 1654-02-05_saint-flour_compromis_alloy-bertrand, 1656-01-18_saint-flour_vente_astorg-molinier, 1656-05-18_saint-flour_mariage_bonniol-gilbert, 1657-04-12_saint-flour_mariage_gallyer-barriol, 1658-02-26_saint-flour_ratification_vendrie-bechot, 1658-07-21_saint-flour_echange_jouve-borel, 1659-06-04_saint-flour_vente_choffy-sauvet, 1659-07-11_saint-flour_vente_saulheirou-bechot, 1659-09-22_saint-flour_inventaire_sauret, 1659-11-09_saint-flour_vente_boussuge-mollinier, 1660-04-17_saint-flour_vente_froys-coutel, 1660-06-27_saint-flour_transaction_parro-gastal, 1660-08-06_saint-flour_vente_guezes-chassang, 1661-06-23_saint-flour_testament_chastang-vigier, 1661-11-22_saint-flour_vente_grenier-dupre, 1662-05-03_saint-flour_mariage_galdissard-pignol, 1662-05-07_saint-flour_mariage_chanson-rion, 1662-06-17_saint-flour_testament_portefaix-fajon, 1663-03-02_saint-flour_testament_rigaud, 1663-11-28_saint-flour_mariage_vigier-bechot, 1664-02-06_saint-flour_donation_mallessaigne-fenal, 1664-03-22_saint-flour_testament_bonniol, 1664-05-20_saint-flour_testament_rossignol-calliand, 1664-06-16_saint-flour_testament_sauret-boudet, 1665-01-12_saint-flour_testament_gilbert-bonniol, 1665-02-01_saint-flour_mariage_chanson-chaumeil, 1665-05-23_saint-flour_mariage_begne-barthet, 1665-07-19_saint-flour_echange_coutre-rouffie, 1666-04-26_saint-flour_echange_bardelle-paur |
+| Saint-Flour (faubourgs) | 46 | 1626-12-15_saint-flour_bail_meynier-combe, 1628-07-07_saint-flour_quittance_valgot-jourdan, 1632-01-19_saint-flour_vente_trymbal-espinchal, 1634-04-06_saint-flour_testament_dumas, 1634-10-16_saint-flour_mariage_gonnet-malmert, 1648-02-19_saint-flour_vente_coutarel-grassald, 1649-02-00_saint-flour_transaction_gatier-durand, 1649-05-24_saint-flour_bail_inbert-severgol, 1649-07-17_saint-flour_quittance_gardelle-giraldon, 1650-01-26_saint-flour_vente_doumergue-dupre, 1650-11-12_saint-flour_ratification_cayrou-dupre, 1651-04-19_saint-flour_quittance_dupre-bonnol, 1651-08-19_saint-flour_cession_caulle, 1652-02-26_saint-flour_echange_tissier-alboy, 1652-04-04_saint-flour_procuration_bouslhuge-roux, 1653-02-10_saint-flour_mariage_roudier-mourgue, 1653-06-21_saint-flour_mariage_daulhet-monnier, 1654-02-05_saint-flour_compromis_alloy-bertrand, 1656-01-18_saint-flour_vente_astorg-molinier, 1656-05-18_saint-flour_mariage_bonniol-gilbert, 1657-04-12_saint-flour_mariage_gallyer-barriol, 1658-02-26_saint-flour_ratification_vendrie-bechot, 1658-07-21_saint-flour_echange_jouve-borel, 1659-06-04_saint-flour_vente_choffy-sauvet, 1659-07-11_saint-flour_vente_saulheirou-bechot, 1659-09-22_saint-flour_inventaire_sauret, 1659-11-09_saint-flour_vente_boussuge-mollinier, 1660-04-17_saint-flour_vente_froys-coutel, 1660-06-27_saint-flour_transaction_parro-gastal, 1660-08-06_saint-flour_vente_guezes-chassang, 1661-06-23_saint-flour_testament_chastang-vigier, 1661-11-22_saint-flour_vente_grenier-dupre, 1662-05-03_saint-flour_mariage_galdissard-pignol, 1662-05-07_saint-flour_mariage_chanson-rion, 1662-06-17_saint-flour_testament_portefaix-fajon, 1663-03-02_saint-flour_testament_rigaud, 1663-11-28_saint-flour_mariage_vigier-bechot, 1664-02-06_saint-flour_donation_mallessaigne-fenal, 1664-03-22_saint-flour_testament_bonniol, 1664-05-20_saint-flour_testament_rossignol-calliand, 1664-06-16_saint-flour_testament_sauret-boudet, 1665-01-12_saint-flour_testament_gilbert-bonniol, 1665-02-01_saint-flour_mariage_chanson-chaumeil, 1665-05-23_saint-flour_mariage_begne-barthet, 1665-07-19_saint-flour_echange_coutre-rouffie, 1666-04-26_saint-flour_echange_bardelle-paur |
+| Saint-Flour (faubourgs), maison [de la testatrice?] | 1 | 1633-01-20_saint-flour_testament_alby |
 | Saint-Flour (faubourgs), maison d'Estienne Albo | 1 | 1652-02-26_saint-flour_echange_tissier-alboy |
+| Saint-Flour (faubourgs), maison de Hugues Chaulliaguet, marchand | 1 | 1634-12-02_saint-flour_mariage_gastal-bonnol |
 | Saint-Flour (faubourgs), maison du testateur | 1 | 1666-06-08_saint-flour_testament_astier |
 | Saint-Flour (faubourgs, maison de M.re Estienne Basset) | 1 | 1661-04-07_saint-flour_testament_basset |
 | Saint-Flour (faubourgs, maison de Me Anthoine Beraud) | 1 | 1665-04-09_saint-flour_mariage_fayon-chaugebeuf |
@@ -3208,6 +3411,7 @@
 | Saint-Flour (faubourgs, maison de la future épouse [?]) | 1 | 1657-10-16_saint-flour_mariage_roux-reynaldy |
 | Saint-Flour (faubourgs, maison de sire Anthoine Gardelle) | 1 | 1664-03-22_saint-flour_testament_bonniol |
 | Saint-Flour (faubourgs, « du theuille »[?]) | 1 | 1662-01-26_saint-flour_vente_rispal-dabladie |
+| Saint-Flour (l. 94, acte étranger tête-bêche) | 1 | 1633-02-01_andelat_mariage_tronchier-jean |
 | Saint-Flour (la presant ville ; St flour) | 1 | 1657-09-09_saint-flour_partage_filiol-gazard |
 | Saint-Flour (la presente ville de s.t flour) | 1 | 1661-03-14_saint-flour_testament_herault-lacoste |
 | Saint-Flour (lecture douteuse au corps : « aud. [S.t flour?] [en l'estude?] ») | 1 | 1657-01-08_saint-flour_mariage_armand-bastide |
@@ -3216,6 +3420,7 @@
 | Saint-Flour (lieu de Farges) | 1 | 1663-01-28_saint-flour_mariage_costes-eschallier |
 | Saint-Flour (lieu de l'acte ; maison du bourgeois Vidal probable) | 1 | 1658-05-15_saint-flour_mariage_mourgues-martin |
 | Saint-Flour (lieu de l'acte ; résidence [?] de l'épouse) | 1 | 1655-05-16_saint-flour_mariage_delaspre-sostrousse |
+| Saint-Flour (lieu de l'acte ; résidence de l'acheteur) | 1 | 1633-12-21_saint-flour_vente_chapat-tassy |
 | Saint-Flour (lieu de l'acte) | 6 | 1628-04-19_saint-flour_cession_chavillier-berger, 1628-06-02_saint-flour_bail_bigot, 1628-06-07_saint-flour_bail_jehan-prolatier, 1628-06-13_saint-flour_bail_huguet-bodinne, 1628-06-24_saint-flour_bail_aymier-dolom, 1657-00-00_saint-flour_quittance_chevallier-boudon |
 | Saint-Flour (lieu de l'acte, lecture « S.t flour » douteuse, l. 6 et 28 ; siège du sénéchal ?) | 1 | 1658-04-24_saint-flour_subrogation_basset-roudil |
 | Saint-Flour (lieu de l'acte, maison de l'acquéreur) | 1 | 1628-06-25_saint-flour_rente_bugier-tibut |
@@ -3224,12 +3429,14 @@
 | Saint-Flour (lieu de passation, maison de Guillaume Juery) | 1 | 1656-06-23_saint-flour_subrogation_vossier-charbonnier |
 | Saint-Flour (lieu exact de passation non lu) | 1 | 1661-10-00_saint-flour_mariage_chastre-basset |
 | Saint-Flour (maison d'Agnès Metges) | 1 | 1656-10-07_saint-flour_mariage_combes-vallat |
+| Saint-Flour (maison d'Anthoine Vallarchier) | 1 | 1634-08-31_saint-flour_cession_chaulhaguet-vayron |
 | Saint-Flour (maison d'Antoine [Bayrrerdes ?], maçon) | 1 | 1665-02-02_saint-flour_mariage_mallet-mallet |
 | Saint-Flour (maison de Jean Mallessaigne) | 1 | 1661-09-26_saint-flour_testament_mallessaigne |
 | Saint-Flour (maison de Jeanne Estival) | 1 | 1664-01-20_saint-flour_mariage_cahot-albuisson |
 | Saint-Flour (maison de Me Estienne Chomie, lieu de l'acte) | 1 | 1653-02-10_saint-flour_vente_armand-chomie |
 | Saint-Flour (maison de Me François Bouvet) | 1 | 1665-01-22_saint-flour_mariage_missonnier-rouchez |
 | Saint-Flour (maison de Me François [Vidal?], écrivain) | 1 | 1657-04-08_saint-flour_mariage_vachier-bonnol |
+| Saint-Flour (maison de Me Guillaume Fazon, prêtre) | 1 | 1633-04-18_saint-flour_transaction_fazon |
 | Saint-Flour (maison de Me Pierre Fabry, avocat) | 1 | 1660-08-06_saint-flour_vente_guezes-chassang |
 | Saint-Flour (maison de [...] Nayron, cordonnier) | 1 | 1660-10-29_saint-flour_donation_rispal-bechot |
 | Saint-Flour (maison de l'acheteur) | 1 | 1663-10-24_saint-flour_vente_rispal-mirmande |
@@ -3248,18 +3455,22 @@
 | Saint-Flour (maison du notaire) | 2 | 1661-01-22_saint-flour_mariage_chastel-alezar, 1661-10-16_saint-flour_vente_bosseyre-bechot |
 | Saint-Flour (maison du sieur Dupuy) | 1 | 1665-06-28_saint-flour_vente_boissolles-dupuy |
 | Saint-Flour (maison du sieur Gillet) | 1 | 1665-03-18_saint-flour_vente_gillet-bertrand |
+| Saint-Flour (maison du sieur de La Rossière) | 1 | 1634-10-02_saint-flour_transaction_saure |
 | Saint-Flour (maison du testateur) | 1 | 1660-09-18_saint-flour_testament_barthet |
 | Saint-Flour (maison du vendeur) | 1 | 1652-03-05_saint-flour_vente_daby-boudon |
 | Saint-Flour (notaire, témoin Jordy) | 1 | 1656-03-05_alleuze_testament_pellegrin-grezes |
+| Saint-Flour (official ; lieu de passation [?]) | 1 | 1644-11-28_saint-flour_accord_negrier-hugon |
 | Saint-Flour (paroisse foraine) | 1 | 1658-02-26_saint-flour_ratification_vendrie-bechot |
 | Saint-Flour (paroisse foraine), lieu de Bouzernille [?], maison de la testatrice [?] | 1 | 1656-10-02_saint-flour_testament_bouzher |
 | Saint-Flour (place [publique?]) | 1 | 1653-07-28_saint-flour_sommation_missonnier-alboy |
 | Saint-Flour (place publique) | 5 | 1660-01-24_saint-flour_sommation_parra-boudet, 1662-06-01_saint-flour_vente_allegre-molinier, 1662-07-24_saint-flour_vente_martin-jean, 1662-11-02_saint-flour_retrait_estival-mallet, 1662-11-08_saint-flour_revente_rispal-charreyre |
 | Saint-Flour (probable ; lieu de passation non lisible) | 1 | 1650-12-16_saint-flour_donation_tailhandier-molede |
+| Saint-Flour (probable) | 1 | 1644-09-29_saint-flour_vente_albuisson-tissier |
 | Saint-Flour (probable, non lu dans l'acte) | 1 | 1657-10-06_saint-flour_mariage_david-mauranne |
 | Saint-Flour (probable, siège du notaire ; lieu de passation non lu) | 1 | 1657-04-00_saint-flour_mariage_boudie-portail |
 | Saint-Flour (s. flour) | 1 | 1654-01-15_saint-flour_transaction_buge-delrieu |
 | Saint-Flour (s.t flo.r) | 1 | 1658-02-09_saint-flour_mariage_meyliot-cussac |
+| Saint-Flour (sainct flour) | 1 | 1634-03-06_saint-flour_cession_trabuc |
 | Saint-Flour (st flour ; maison du notaire) | 1 | 1661-02-24_saint-flour_mariage_prat-pauc |
 | Saint-Flour (st flour ; étude du notaire) | 1 | 1657-11-10_saint-flour_transaction_cristal-crespoul |
 | Saint-Flour (st flour) | 2 | 1657-06-10_saint-flour_testament_gendre-vahon, 1660-02-10_saint-flour_mariage_portal-baldissard |
@@ -3280,6 +3491,7 @@
 | Saint-Flour (ville, collège, séminaire de l'évêché) | 1 | 1664-01-17_alleuze_mariage_chanson-vedrines |
 | Saint-Flour (ville, faubourg, église cathédrale) | 1 | 1665-03-04_saint-flour_vente_pons-trinsie |
 | Saint-Flour (« St flour », « Sainct flour ») | 1 | 1660-06-19_saint-flour_vente_pages |
+| Saint-Flour (« en St flour ») | 1 | 1644-08-27_saint-flour_donation_rolland-chalier |
 | Saint-Flour (élection de sainct flour) | 1 | 1653-11-16_tanavelle_sommation_fuzy-boude |
 | Saint-Flour (élection) | 2 | 1649-08-06_saint-flour_obligation_penel-volland, 1658-07-14_saint-flour_transaction_boude-rodel |
 | Saint-Flour (étude du notaire ; [faubourgs?]) | 1 | 1661-03-25_saint-flour_vente_cayron-dupre |
@@ -3296,12 +3508,17 @@
 | Saint-Flour ? | 1 | 0000-00-00_saint-flour_vente_chauva-chasal |
 | Saint-Flour ? (siège du notaire royal ; lieu de passation non lu) | 1 | 1651-11-08_saint-flour_vente_boudet-chauzy |
 | Saint-Flour ? (« lad. ville ») | 1 | 0000-00-00_saint-flour_vente_chauva-chasal |
-| Saint-Flour [?] | 31 | 1625-01-00_saint-flour_echange_murat-mourguet, 1626-02-08_saint-flour_transaction_malessaigne-lastic, 1626-04-21_saint-flour_vente_teschau, 1626-05-17_andelat_bail_teyssier-viallard, 1626-12-08_saint-flour_bail_baldassard-attalier, 1628-02-26_saint-flour_bail_durand-chaste, 1628-04-16_saint-flour_bail_missonnier-brughal, 1628-04-22_saint-flour_bail_cust-mergue, 1628-07-15_saint-flour_cession_baldissard-girard, 1628-07-31_saint-flour_obligation_chassy-montpeyrat, 1632-12-17_saint-flour_vente_gibrard-blanc, 1649-08-06_saint-flour_obligation_penel-volland, 1652-08-31_saint-flour_cession_detraussez-dufour, 1655-11-00_saint-flour_vente_monnier-mighoulx, 1655-11-10_saint-flour_vente_jourdes-courtavel, 1656-12-22_saint-flour_transaction_crespoul-crestail, 1657-07-16_saint-flour_transaction_rodel-correilh, 1657-11-17_saint-flour_mariage_filhol-mallet, 1658-07-14_saint-flour_transaction_boude-rodel, 1658-12-22_saint-flour_desistement_filhol-boudet, 1659-01-11_saint-flour_vente_prohan-verrel, 1659-02-01_saint-flour_vente_polvarelle-chapolat, 1659-11-15_saint-flour_mariage_hugon-juery, 1660-05-01_saint-flour_echange_bougier-meiliot, 1660-11-00_saint-flour_testament_anvielle-compaing, 1660-11-08_saint-flour_mariage_jouzelin-meyre, 1661-02-20_saint-flour_vente_blanchier-brassac, 1666-01-16_saint-flour_mariage_coutel-chauzy, 1666-02-06_saint-flour_vente_sestre-odoul, 1666-03-00_saint-flour_mariage_bonnet-sebattyer, 1666-03-06_saint-flour_mariage_bardoz-margidit |
+| Saint-Flour [?] | 41 | 1625-01-00_saint-flour_echange_murat-mourguet, 1626-02-08_saint-flour_transaction_malessaigne-lastic, 1626-04-21_saint-flour_vente_teschau, 1626-05-17_andelat_bail_teyssier-viallard, 1626-12-08_saint-flour_bail_baldassard-attalier, 1628-02-26_saint-flour_bail_durand-chaste, 1628-04-16_saint-flour_bail_missonnier-brughal, 1628-04-22_saint-flour_bail_cust-mergue, 1628-07-15_saint-flour_cession_baldissard-girard, 1628-07-31_saint-flour_obligation_chassy-montpeyrat, 1632-12-17_saint-flour_vente_gibrard-blanc, 1633-01-28_saint-flour_mariage_cammel-jarlier, 1633-05-11_saint-flour_ratification_albaret-malet, 1634-01-26_saint-flour_quittance_rouger-crespoul, 1634-01-28_saint-flour_echange_crespel-vibert, 1634-02-24_saint-flour_bail_brugier-bastide, 1634-03-13_saint-flour_echange_sibial-jolet, 1634-11-16_saint-flour_vente_gibrat-bechassol, 1638-00-00_saint-flour_transaction_inconnu, 1644-10-02_saint-flour_vente_teyssedre-bragier, 1644-11-19_saint-flour_demission_favier-amat, 1649-08-06_saint-flour_obligation_penel-volland, 1652-08-31_saint-flour_cession_detraussez-dufour, 1655-11-00_saint-flour_vente_monnier-mighoulx, 1655-11-10_saint-flour_vente_jourdes-courtavel, 1656-12-22_saint-flour_transaction_crespoul-crestail, 1657-07-16_saint-flour_transaction_rodel-correilh, 1657-11-17_saint-flour_mariage_filhol-mallet, 1658-07-14_saint-flour_transaction_boude-rodel, 1658-12-22_saint-flour_desistement_filhol-boudet, 1659-01-11_saint-flour_vente_prohan-verrel, 1659-02-01_saint-flour_vente_polvarelle-chapolat, 1659-11-15_saint-flour_mariage_hugon-juery, 1660-05-01_saint-flour_echange_bougier-meiliot, 1660-11-00_saint-flour_testament_anvielle-compaing, 1660-11-08_saint-flour_mariage_jouzelin-meyre, 1661-02-20_saint-flour_vente_blanchier-brassac, 1666-01-16_saint-flour_mariage_coutel-chauzy, 1666-02-06_saint-flour_vente_sestre-odoul, 1666-03-00_saint-flour_mariage_bonnet-sebattyer, 1666-03-06_saint-flour_mariage_bardoz-margidit |
+| Saint-Flour [?] ([S^t fle.?], lieu de l'acte) | 1 | 1644-05-09_saint-flour_delaissement_devaux-bertin |
+| Saint-Flour [?] (bureau du notaire) | 1 | 1644-05-09_saint-flour_delaissement_devaux-bertin |
 | Saint-Flour [?] (lieu de l'acte) | 1 | 1628-03-06_saint-flour_inventaire_cocher-bazard |
 | Saint-Flour [?] (lieu de passation non lu) | 1 | 1628-04-16_saint-flour_bail_missonnier-brughal |
 | Saint-Flour [?] (lieu de passation) | 1 | 1660-05-01_saint-flour_echange_bougier-meiliot |
+| Saint-Flour [?] (« [s^t flo..?] », « dud. [s^t flour?] ») | 1 | 1644-10-02_saint-flour_vente_teyssedre-bragier |
 | Saint-Flour, [flagnol?] et carrefour du quartier | 1 | 1658-05-19_saint-flour_mariage_archier-brassac |
+| Saint-Flour, bureau du notaire | 1 | 1633-09-29_saint-flour_echange_regimbal-bonhoure |
 | Saint-Flour, cathédrale | 1 | 1655-05-18_saint-flour_testament_blondin-gibrac |
+| Saint-Flour, cimetière de l'église cathédrale | 1 | 1634-04-06_saint-flour_testament_dumas |
 | Saint-Flour, dans la [boutique?] de Barthélemy Bigne [?] | 1 | 1628-02-20_saint-flour_offres_vergnol-bigne |
 | Saint-Flour, faubourg [?] | 1 | 1660-10-20_saint-flour_testament_palisse-bourdon |
 | Saint-Flour, faubourg du[s] thuille[?] | 1 | 1660-04-26_saint-flour_vente_bonnet-chauliaguet |
@@ -3318,9 +3535,10 @@
 | Saint-Flour[?] (« faict et passe aud. [...] [...] dud. Sr Gibrat » : maison du sieur Gibrat probable) | 1 | 1661-11-19_saint-flour_echange_gibrat-cussac |
 | Saint-Genest près Montluçon (St Genez, St Genetz, Sainct Geneix pres Molusson/montluçon) | 1 | 1654-06-25_saint-flour_vente_chaugelbuf-maury |
 | Saint-George (vicairie de François Baudoy) | 1 | 1654-11-04_saint-flour_vente_souvel-mas |
+| Saint-George [?] | 1 | 1633-09-06_saint-flour_testament_roudil |
 | Saint-George(s) [?] | 1 | 1626-12-15_saint-flour_bail_meynier-combe |
 | Saint-George[s] | 1 | 1650-12-30_saint-flour_vente_rouzeire-gillet |
-| Saint-Georges | 49 | 1632-04-17_saint-flour_revente_eschaubard, 1632-12-24_saint-flour_vente_delolme-delolme, 1648-03-07_saint-flour_transaction_tranchier-sudre, 1651-03-05_saint-flour_vente_aymeric-brousse, 1651-03-30_saint-flour_testament_chapavayre, 1653-02-18_saint-flour_mariage_commond-mallessaignes, 1653-03-03_saint-flour_vente_durand-gillet, 1653-03-03_saint-flour_vente_durand-gillet_b, 1653-07-06_saint-flour_mariage_ebrard-blanc, 1654-01-02_saint-flour_testament_mirmande, 1654-06-24_saint-flour_vente_rol-jouve, 1654-07-22_saint-flour_subrogation_delort-delaroche, 1657-03-19_saint-flour_subrogation_bonnault-canilhac, 1657-04-08_saint-flour_transaction_rechalier-basset, 1657-07-29_saint-flour_quittance_crouzat, 1658-05-18_saint-flour_mariage_chambaron-delmas, 1658-05-18_saint-flour_mariage_chambaron-delmas_b, 1658-06-08_saint-flour_donation_duviallard-fontes, 1658-07-04_saint-flour_vente_rous-mas, 1658-07-21_saint-flour_echange_jouve-borel, 1658-07-28_saint-flour_mariage_lavergne-loussert, 1658-09-24_saint-flour_vente_estival-rouchette, 1660-06-29_saint-flour_vente_missonnier-berault, 1660-07-02_saint-flour_transaction_boudon-vachier, 1660-08-16_saint-flour_vente_bossuge-bo, 1661-02-22_saint-flour_echange_missonnier-grezes, 1661-03-22_saint-flour_vente_delort-delaroche, 1661-09-18_saint-flour_echange_coutel-roudil, 1662-02-18_saint-flour_mariage_cussac-vachier, 1662-05-07_saint-flour_vente_chouvette-jouve, 1662-11-01_saint-flour_vente_franchier-ebrard, 1662-11-29_saint-flour_vente_missonnier-berault, 1663-02-05_saint-flour_mariage_ebrard-grenier, 1663-04-22_saint-flour_transaction_mossier-tranchier, 1663-05-26_saint-flour_obligation_trabuc-cairon, 1663-12-02_saint-flour_vente_moureyre-ebrard, 1664-02-26_saint-flour_vente_crabut-cairoz, 1664-09-06_saint-flour_vente_couliadire-roudil, 1665-02-07_saint-flour_mariage_delrieu-cussac, 1665-02-16_saint-flour_mariage_galvier-delort, 1665-04-15_saint-flour_vente_roudil-viol, 1665-09-22_saint-flour_cession_grenier-bevaud, 1666-02-15_saint-flour_mariage_andrieu-esbrard, 1666-04-15_saint-flour_vente_roudil-blanchy, 1666-07-07_saint-flour_vente_missonnier-bruzit, 1666-07-26_saint-flour_donation_delort-mauvy, 1666-08-22_saint-flour_vente_delort-delcros, 1666-08-29_saint-flour_subrogation_beraud-grenier, 1666-10-23_saint-flour_vente_baratte-lafoy |
+| Saint-Georges | 52 | 1632-04-17_saint-flour_revente_eschaubard, 1632-12-24_saint-flour_vente_delolme-delolme, 1633-01-28_saint-flour_mariage_cammel-jarlier, 1634-05-06_saint-flour_vente_bachier-messonnier, 1634-09-21_saint-flour_quittance_rolland-chapsolle, 1648-03-07_saint-flour_transaction_tranchier-sudre, 1651-03-05_saint-flour_vente_aymeric-brousse, 1651-03-30_saint-flour_testament_chapavayre, 1653-02-18_saint-flour_mariage_commond-mallessaignes, 1653-03-03_saint-flour_vente_durand-gillet, 1653-03-03_saint-flour_vente_durand-gillet_b, 1653-07-06_saint-flour_mariage_ebrard-blanc, 1654-01-02_saint-flour_testament_mirmande, 1654-06-24_saint-flour_vente_rol-jouve, 1654-07-22_saint-flour_subrogation_delort-delaroche, 1657-03-19_saint-flour_subrogation_bonnault-canilhac, 1657-04-08_saint-flour_transaction_rechalier-basset, 1657-07-29_saint-flour_quittance_crouzat, 1658-05-18_saint-flour_mariage_chambaron-delmas, 1658-05-18_saint-flour_mariage_chambaron-delmas_b, 1658-06-08_saint-flour_donation_duviallard-fontes, 1658-07-04_saint-flour_vente_rous-mas, 1658-07-21_saint-flour_echange_jouve-borel, 1658-07-28_saint-flour_mariage_lavergne-loussert, 1658-09-24_saint-flour_vente_estival-rouchette, 1660-06-29_saint-flour_vente_missonnier-berault, 1660-07-02_saint-flour_transaction_boudon-vachier, 1660-08-16_saint-flour_vente_bossuge-bo, 1661-02-22_saint-flour_echange_missonnier-grezes, 1661-03-22_saint-flour_vente_delort-delaroche, 1661-09-18_saint-flour_echange_coutel-roudil, 1662-02-18_saint-flour_mariage_cussac-vachier, 1662-05-07_saint-flour_vente_chouvette-jouve, 1662-11-01_saint-flour_vente_franchier-ebrard, 1662-11-29_saint-flour_vente_missonnier-berault, 1663-02-05_saint-flour_mariage_ebrard-grenier, 1663-04-22_saint-flour_transaction_mossier-tranchier, 1663-05-26_saint-flour_obligation_trabuc-cairon, 1663-12-02_saint-flour_vente_moureyre-ebrard, 1664-02-26_saint-flour_vente_crabut-cairoz, 1664-09-06_saint-flour_vente_couliadire-roudil, 1665-02-07_saint-flour_mariage_delrieu-cussac, 1665-02-16_saint-flour_mariage_galvier-delort, 1665-04-15_saint-flour_vente_roudil-viol, 1665-09-22_saint-flour_cession_grenier-bevaud, 1666-02-15_saint-flour_mariage_andrieu-esbrard, 1666-04-15_saint-flour_vente_roudil-blanchy, 1666-07-07_saint-flour_vente_missonnier-bruzit, 1666-07-26_saint-flour_donation_delort-mauvy, 1666-08-22_saint-flour_vente_delort-delcros, 1666-08-29_saint-flour_subrogation_beraud-grenier, 1666-10-23_saint-flour_vente_baratte-lafoy |
 | Saint-Georges (S. george, paroisse) | 1 | 1654-03-12_saint-flour_vente_lessedre-grassalt |
 | Saint-Georges (S.t george / S.t George), paroisse | 1 | 1653-05-11_saint-flour_vente_vidal-chazot |
 | Saint-Georges (S^t george) | 1 | 1651-07-01_saint-flour_vente_archer-maury |
@@ -3330,13 +3548,15 @@
 | Saint-Georges (Sainct george, St George) | 1 | 1660-05-09_saint-flour_echange_faurges-jarlier |
 | Saint-Georges (Saint George) | 1 | 1632-03-21_saint-flour_vente_missonnier-boucye |
 | Saint-Georges (St George), paroisse | 1 | 1652-06-00_saint-flour_echange_chazot-vidal |
-| Saint-Georges (St george) | 1 | 1663-03-10_saint-flour_vente_lastic-albepart |
+| Saint-Georges (St Georges), paroisse | 1 | 1634-05-17_saint-flour_quittance_gibrat-mestre |
+| Saint-Georges (St george) | 2 | 1634-02-01_saint-flour_vente_gibrat-rolland, 1663-03-10_saint-flour_vente_lastic-albepart |
 | Saint-Georges (lieu et paroisse) | 2 | 1662-11-09_saint-flour_mariage_pirou-bergoin, 1665-05-08_saint-flour_cession_missonier-chanson |
 | Saint-Georges (lieu et paroisse, diocèse de Saint-Flour) | 1 | 1657-09-09_saint-flour_mariage_tuffery-vedrines |
 | Saint-Georges (paroisse ; s: george) | 1 | 1664-05-03_saint-flour_mariage_fajon-desalut |
 | Saint-Georges (paroisse ; « Saint george », sans doute Saint-Georges, Cantal) | 1 | 1653-02-11_saint-flour_vente_bouy-galand |
 | Saint-Georges (paroisse ; écrit S^t. [Jore?], S^t. [Jorie?], S^t. George) | 1 | 1663-05-01_saint-flour_echange_chauliaguet-albiuf |
 | Saint-Georges (paroisse ?) | 1 | 1653-09-20_saint-flour_vente_salnaz-rolland |
+| Saint-Georges (paroisse du vendeur) | 1 | 1634-07-22_saint-flour_vente_vachier-rossignol |
 | Saint-Georges (paroisse) | 33 | 1628-07-07_saint-flour_bail_vergier-chastang, 1632-08-01_saint-flour_vente_esbrard-chaluet, 1648-03-12_saint-flour_obligation_delmas-chazaledes, 1648-07-14_saint-flour_vente_rougier-culhevrier, 1651-02-00_saint-flour_vente_missonnier-vezin, 1653-03-16_saint-flour_echange_delort-fornal, 1653-03-19_saint-flour_vente_vidal-chazot, 1653-04-01_saint-flour_vente_derames-missonnier, 1653-04-29_saint-flour_echange_assonnier-grezes, 1653-08-16_saint-flour_vente_boudie-ferrand, 1653-11-20_saint-flour_compromis_jourdy-fabry, 1654-02-16_villedieu_mariage_rolland-vidal, 1654-02-21_saint-flour_testament_teyssedre-chazalledez, 1654-06-03_saint-flour_renonciation_bardon, 1656-01-09_saint-flour_mariage_delort-bouchier, 1657-00-00_saint-flour_subrogation_tranchier-mirmande, 1657-01-08_saint-flour_mariage_armand-bastide, 1657-04-00_saint-flour_mariage_boudie-portail, 1657-04-08_saint-flour_mariage_vachier-bonnol, 1658-09-28_saint-flour_cession_duvoyet-boy, 1660-04-26_saint-flour_vente_bonnet-chauliaguet, 1660-06-24_saint-flour_vente_manoy-roudil, 1661-01-08_saint-flour_mariage_gastal-blanchier, 1661-03-00_saint-flour_vente_delort-delaroche, 1661-06-27_saint-flour_echange_saignes-delcros, 1661-09-23_saint-flour_echange_franchier-crozat, 1661-12-04_saint-flour_donation_delaroche, 1662-04-28_saint-flour_vente_fornal-bertrand, 1662-07-19_saint-flour_mariage_delaroche-gillet, 1664-02-26_saint-flour_mariage_bonnet-lombard, 1664-07-06_saint-flour_transaction_lastic-fargue, 1664-12-13_saint-flour_vente_franchier-jouve, 1665-12-16_saint-flour_vente_vezis-bertrand |
 | Saint-Georges (paroisse, « St gorge ») | 1 | 1628-02-20_saint-flour_louage_regimbalt-boudon |
 | Saint-Georges (paroisse, « saint Jorge ») | 1 | 1626-11-15_saint-flour_desistement_vergete-chambaron |
@@ -3345,7 +3565,7 @@
 | Saint-Georges (s.t George, paroisse) | 1 | 1658-02-09_saint-flour_mariage_meyliot-cussac |
 | Saint-Georges (sainct George) | 1 | 1665-05-10_saint-flour_mariage_deleron-odoul |
 | Saint-Georges (sainct george, paroisse) | 1 | 1664-02-09_saint-flour_mariage_jourde-chappoulle |
-| Saint-Georges [?] | 1 | 1666-01-31_saint-flour_mariage_mounier-roudil |
+| Saint-Georges [?] | 3 | 1633-08-23_saint-flour_mariage_mage-fuery, 1634-08-26_saint-flour_quittance_baratte-ebrard, 1666-01-31_saint-flour_mariage_mounier-roudil |
 | Saint-Georges [?] (S. george, l. 51) | 1 | 1656-09-24_saint-flour_transaction_tissier-palmier |
 | Saint-Georges [?] (paroisse) | 4 | 1632-12-17_saint-flour_vente_gibrard-blanc, 1654-08-25_saint-flour_vente_maury-delaroche, 1665-07-12_saint-flour_vente_monet-broncy, 1666-08-22_saint-flour_vente_fabry-trenchier |
 | Saint-Georges [?] (« S^t [George?] », l. 25) | 1 | 1628-03-25_saint-flour_bail_aymeric-courin |
@@ -3366,6 +3586,7 @@
 | Saint-Jacques-de-Galice | 1 | 1666-09-30_saint-flour_testament_teisset |
 | Saint-Jean | 1 | 1664-07-29_saint-flour_vente_benezit-bertrand |
 | Saint-Joseph (mention marginale) | 1 | 1651-09-06_saint-flour_testament_rigault |
+| Saint-Julien (paroisse de Montchamp, endos) | 1 | 1633-12-14_saint-flour_vente_mercier-aymeric |
 | Saint-Just | 5 | 1632-02-21_saint-flour_mariage_brissede-pons, 1661-03-12_saint-flour_testament_baster, 1662-06-17_saint-flour_testament_portefaix-fajon, 1662-11-10_saint-flour_mariage_crozat-malessaigne, 1663-04-21_saint-flour_vente_chalvon-coutel |
 | Saint-Just (paroisse) | 1 | 1651-06-02_saint-flour_vente_vezin-vazeilles |
 | Saint-Just (parr. de St Iust) | 1 | 1658-01-07_saint-flour_mariage_pelegry-passenau |
@@ -3399,16 +3620,18 @@
 | Saint-Michel des [Vaulxes?] de Saint-Flour | 1 | 1664-10-20_saint-flour_testament_detrausse |
 | Saint-Michel, paroisse de Saint-Flour | 1 | 1653-07-06_saint-flour_mariage_ebrard-blanc |
 | Saint-Nicolas de Mallet (prieuré) | 1 | 1664-02-24_saint-flour_mariage_delort-gibrat |
+| Saint-Paul-le-Froid | 1 | 1634-09-04_saint-flour_prixfait_chaulhaguet-tardieu |
 | Saint-Poncy (paroisse) | 1 | 1663-12-02_saint-flour_vente_moureyre-ebrard |
 | Saint-Poncy[?] | 1 | 1658-11-23_saint-flour_vente_marlhac-florand |
 | Saint-Remy[?] (paroisse) | 1 | 1654-01-07_saint-flour_vente_galliardy-albessard |
 | Saint-Saturnin | 2 | 1662-03-08_saint-flour_garantie_rodde-salesses, 1662-03-08_saint-flour_obligation_salesses-rodde |
 | Saint-Thilly? (paroisse) | 1 | 1652-03-00_saint-flour_testament_baldissard |
+| Saint-Thomas | 1 | 1634-08-26_saint-flour_quittance_baratte-ebrard |
 | Saint-[...] (paroisse du témoin Roudil) | 1 | 1651-02-17_villedieu_mariage_andrieu-chastel |
-| Saint-[Aubay?] | 1 | 1632-02-21_saint-flour_mariage_brissede-pons |
+| Saint-[Aubay?] | 2 | 1632-02-21_saint-flour_mariage_brissede-pons, 1634-09-04_saint-flour_prixfait_chaulhaguet-tardieu |
 | Saint-[Flavier?] | 1 | 1653-02-18_saint-flour_mariage_commond-mallessaignes |
 | Saint-[Gal?] | 1 | 1632-04-17_saint-flour_revente_eschaubard |
-| Saint-[Georges?] (paroisse) | 2 | 1624-11-19_saint-georges_vente_murat-celleyre, 1658-07-29_saint-flour_donation_andrieu-fontes |
+| Saint-[Georges?] (paroisse) | 3 | 1624-11-19_saint-georges_vente_murat-celleyre, 1634-07-05_saint-flour_vente_lafargette-murat, 1658-07-29_saint-flour_donation_andrieu-fontes |
 | Saint-[Ilpize?] | 1 | 1664-04-09_saint-flour_donation_dufour-coutel |
 | Saint-[Jeorge?] (Saint-Georges ?) | 1 | 1648-09-16_saint-flour_donation_rolland-boudon |
 | Saint-[Jore?] (paroisse) | 1 | 1665-03-28_saint-flour_quittance_bongeyre-chanliague |
@@ -3443,6 +3666,7 @@
 | Saliens [?] / Salians (seigneurie, peut-être Sailhant) | 1 | 1660-07-10_saint-flour_echange_beluze-margarit |
 | Salierne[?] | 1 | 1666-02-07_saint-flour_mariage_chappoulle-cusset |
 | Saliz (lieu du vendeur) | 1 | 1658-03-07_saint-flour_vente_delolme-delmar |
+| Sallans (Sailhans), baronnie | 1 | 1634-11-04_saint-flour_vente_liber |
 | Salles (village, paroisse d'Alleuze) | 1 | 1661-05-28_saint-flour_vente_clavillier-chanson |
 | Salleuzes (paroisse, lecture et identification à vérifier) | 1 | 1660-07-11_saint-flour_vente_brezer-monnier |
 | Salorre[?] (champ de Masse et pré de Leyssedre) | 1 | 1663-05-06_saint-flour_permission_masse-leyssedre |
@@ -3463,11 +3687,14 @@
 | Saugues | 1 | 1656-09-12_saint-flour_cession_larochefoucauld-pontran |
 | Saugues (Saulgues) | 1 | 1657-06-08_saint-flour_testament_giroux |
 | Sauignat / Sauigniat (Saugnat) | 1 | 1661-07-17_saint-flour_vente_bardon-david |
+| Sauinhac (Sauvignac) | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
 | Saulhans (seigneurie ; Sailhant ? Saulhac ?) | 1 | 1661-07-08_saint-flour_vente_achier-solier |
 | Saulignac[?] | 1 | 1661-02-04_saint-flour_vente_besseyre-david |
 | Sauniac / Saunihac [Savignac ?] (paroisse de Talizat) | 1 | 1663-05-15_saint-flour_transaction_rayat-yzabel |
 | Sauniac [?] (paroisse de Talizat) | 1 | 1659-10-01_roffiac_testament_estieu-daurs |
+| Sauniac [?] / Sauvingac [?] / Savignac [?] (endos), paroisse de Talizat | 1 | 1634-03-25_saint-flour_vente_maury-jailhe |
 | Sauuagnac[?] | 1 | 1654-01-26_saint-flour_mariage_ferauze-aussel |
+| Sauvagnac (Sauinhac, Sau[s?]agnac), paroisse de Talizat | 1 | 1633-02-11_saint-flour_vente_julhe-baille_b |
 | Sauviac (paroisse de Talizat) | 1 | 1660-02-25_saint-flour_testament_chastang |
 | Sauvignac (Sauignac), paroisse de Talizat (Talysac) | 1 | 1659-11-13_saint-flour_vente_carrier-chastang |
 | Sauvignac (village, paroisse de Talizac) | 1 | 1662-01-14_saint-flour_vente_cussac-david |
@@ -3490,6 +3717,7 @@
 | Sebeyrol | 1 | 1657-04-23_saint-flour_mariage_ferrand-chapoulade |
 | Sebinghol [?] | 1 | 1632-07-04_saint-flour_mariage_baille-chastel |
 | Sebonghol (?) / Sebaghol / Sebrugol — lieu d'origine de l'épouse | 1 | 1658-09-21_saint-flour_mariage_laurier-galdissard |
+| Sebuzol / Sebeughol / Sebugol (paroisse d'Andelat) | 1 | 1633-03-21_saint-flour_vente_apchier-serret |
 | Secourieux | 1 | 1659-02-22_saint-flour_echange_odoul-bastide |
 | Secourieux, paroisse de Celles | 1 | 1658-08-20_saint-flour_inventaire_delort-bechot |
 | Secourrioux (paroisse de Celles) | 1 | 1659-02-22_saint-flour_partage_aymeric-odoul |
@@ -3543,6 +3771,7 @@
 | Solchnis [?] (Solhnis / Sochnis) | 1 | 1651-08-28_saint-flour_vente_nouvel-boudoy |
 | Solhans | 1 | 1654-05-20_saint-flour_vente_lar-boymetton |
 | Solhier [?] | 1 | 1660-02-25_saint-flour_testament_chastang |
+| Soliguac / [Solignac?] (endos) | 1 | 1634-05-13_saint-flour_echange_portefaix-dommergue |
 | Sorbirac[?] | 1 | 1666-03-06_saint-flour_vente_mariol-mouliarat |
 | Sordesses | 1 | 1661-01-15_saint-flour_mariage_alboy-pellegrin |
 | Sordures[?] (ruelle allant à) | 1 | 1658-01-07_saint-flour_mariage_pelegry-passenau |
@@ -3567,10 +3796,13 @@
 | Spinzergues (Espinzergues ?), paroisse d'Alleuze | 1 | 1651-06-25_saint-flour_vente_audouin-matthaugier |
 | St George[s] (paroisse) | 1 | 1660-04-25_ruynes_mariage_archer-meyrone |
 | St Jail [?] (paroisse) | 1 | 1659-03-23_saint-flour_vente_bleyle-delmas |
+| St Julien de Mazerat (endos) | 1 | 1633-01-25_saint-flour_mariage_gibrat-alhadieres |
+| St Julien de [Mesteirin?] (endos) | 1 | 1633-01-25_saint-flour_mariage_gibrat-alhadieres |
 | St Mazeran (non identifié) | 1 | 1663-01-26_saint-flour_mariage_meiliot-jourdanne |
 | St [...] (résidence d'un témoin, l. 80) | 1 | 1660-04-10_saint-flour_testament_chasbel |
 | St [...] de [gras-][...]apon (cure du testateur, illisible) | 1 | 1657-02-05_saint-flour_mariage_brousy-fauret |
 | St [Bauglard?] (paroisse de la Gazelle, lecture douteuse ; Anglards ?) | 1 | 1657-00-00_saint-flour_subrogation_basset-roudil |
+| St [Bonnet?] en Bourbonnais (« St bomur en borbonois ») | 1 | 1634-03-03_saint-flour_cession_delaire-chalier |
 | St [Gilles?] (Languedoc) | 1 | 1661-10-29_saint-flour_vente_roux-pautard_b |
 | St [Iare?] (paroisse) | 1 | 1657-03-24_saint-flour_transaction_blanc |
 | St [Jail?] (paroisse) | 1 | 1665-12-12_saint-flour_vente_galand |
@@ -3588,6 +3820,7 @@
 | Sueyrac (seigneurie) | 1 | 1663-04-15_saint-flour_vente_mas-hugon |
 | Surgy | 2 | 1659-06-05_saint-flour_partage_vedrines-mirmande, 1659-06-08_saint-flour_vente_monnier-pauc |
 | Surgy (lu « Surzy »), paroisse d'Alleuze | 2 | 1664-02-16_saint-flour_mariage_guyon-teissedre, 1664-03-25_alleuze_testament_mallessaigne-vassal |
+| Surgz [?] (nom du pastural) | 1 | 1644-02-13_saint-flour_vente_debrion-alboy |
 | Sury | 1 | 1658-06-23_saint-flour_mariage_chausse-fourcharie |
 | Sury, paroisse de [Valuge?] | 1 | 1659-03-27_saint-flour_obligation_cussac-chaulhac |
 | Surzeg [?] / Surzj (paroisse d'Alleuze) | 1 | 1665-03-19_saint-flour_vente_chandon-pare |
@@ -3614,28 +3847,34 @@
 | Taleijat (Talizat) | 1 | 1661-01-04_saint-flour_vente_caumeilhand-boyer |
 | Taleizac | 1 | 1659-06-04_saint-flour_vente_choffy-sauvet |
 | Talezac (Talizat ?) — chemins de Coltines à Talezac | 1 | 1661-03-26_saint-flour_echange_defondz-bavoyre |
-| Talizat | 38 | 1609-01-20_andelat_mariage_farreyres-boudet, 1626-05-08_saint-flour_bail_boyer-malet, 1626-05-28_saint-flour_compromis_fabry-devanes, 1628-03-25_saint-flour_bail_aymeric-bigui, 1628-03-25_saint-flour_bail_aymeric-couriu, 1628-03-26_saint-flour_bail_aymeric-gotty, 1628-06-10_saint-flour_bail_aymier-sabuyrier, 1628-11-25_saint-flour_quittance_simyrol-desfontz, 1632-11-27_saint-flour_mariage_delhac-amat, 1632-12-08_saint-flour_vente_amat-salvan, 1632-12-31_saint-flour_vente_amat-sauret, 1648-06-14_saint-flour_vente_devauzesse-delrieu, 1650-02-02_saint-flour_vente_aymeric-marty, 1650-04-21_saint-flour_vente_sarguin-brassac, 1651-01-12_saint-flour_mariage_coulzie-bastide, 1654-06-15_saint-flour_vente_aymerit-sauve, 1656-09-30_saint-flour_donation_bertrand, 1658-07-04_saint-flour_vente_rous-mas, 1658-09-25_saint-flour_vente_delrieu-david, 1659-02-11_saint-flour_testament_chirol, 1659-02-22_saint-flour_echange_odoul-bastide, 1659-10-01_roffiac_testament_estieu-daurs, 1660-02-04_saint-flour_vente_chalvet-traverse, 1660-02-21_saint-flour_vente_cristal-odoul, 1660-02-25_saint-flour_testament_chastang, 1660-03-05_saint-flour_donation_sauor-tremolhol, 1661-05-26_saint-flour_vente_bertrand-lafaige, 1661-07-20_andelat_testament_chastel-alboy, 1662-12-28_saint-flour_vente_bigot-lafage, 1663-05-15_saint-flour_transaction_rayat-yzabel, 1664-06-03_saint-flour_vente_marlhiac-garand, 1664-07-29_saint-flour_vente_benezit-bertrand, 1665-03-17_saint-flour_vente_chauliac-jesuites, 1665-04-18_saint-flour_vente_jouy-david, 1666-01-20_saint-flour_echange_david-caissiere, 1666-02-27_saint-flour_mariage_combes-boyer, 1666-03-22_saint-flour_vente_ciborny-aldigier, 1666-05-19_saint-flour_vente_manoy-brugeyre |
+| Talisac (Talizat) | 1 | 1634-04-15_saint-flour_vente_rigal-bugo |
+| Talizat | 40 | 1609-01-20_andelat_mariage_farreyres-boudet, 1626-05-08_saint-flour_bail_boyer-malet, 1626-05-28_saint-flour_compromis_fabry-devanes, 1628-03-25_saint-flour_bail_aymeric-bigui, 1628-03-25_saint-flour_bail_aymeric-couriu, 1628-03-26_saint-flour_bail_aymeric-gotty, 1628-06-10_saint-flour_bail_aymier-sabuyrier, 1628-11-25_saint-flour_quittance_simyrol-desfontz, 1632-11-27_saint-flour_mariage_delhac-amat, 1632-12-08_saint-flour_vente_amat-salvan, 1632-12-31_saint-flour_vente_amat-sauret, 1633-06-03_saint-flour_vente_vigier-aymeric, 1634-09-16_saint-flour_vente_vigier-aymeric, 1648-06-14_saint-flour_vente_devauzesse-delrieu, 1650-02-02_saint-flour_vente_aymeric-marty, 1650-04-21_saint-flour_vente_sarguin-brassac, 1651-01-12_saint-flour_mariage_coulzie-bastide, 1654-06-15_saint-flour_vente_aymerit-sauve, 1656-09-30_saint-flour_donation_bertrand, 1658-07-04_saint-flour_vente_rous-mas, 1658-09-25_saint-flour_vente_delrieu-david, 1659-02-11_saint-flour_testament_chirol, 1659-02-22_saint-flour_echange_odoul-bastide, 1659-10-01_roffiac_testament_estieu-daurs, 1660-02-04_saint-flour_vente_chalvet-traverse, 1660-02-21_saint-flour_vente_cristal-odoul, 1660-02-25_saint-flour_testament_chastang, 1660-03-05_saint-flour_donation_sauor-tremolhol, 1661-05-26_saint-flour_vente_bertrand-lafaige, 1661-07-20_andelat_testament_chastel-alboy, 1662-12-28_saint-flour_vente_bigot-lafage, 1663-05-15_saint-flour_transaction_rayat-yzabel, 1664-06-03_saint-flour_vente_marlhiac-garand, 1664-07-29_saint-flour_vente_benezit-bertrand, 1665-03-17_saint-flour_vente_chauliac-jesuites, 1665-04-18_saint-flour_vente_jouy-david, 1666-01-20_saint-flour_echange_david-caissiere, 1666-02-27_saint-flour_mariage_combes-boyer, 1666-03-22_saint-flour_vente_ciborny-aldigier, 1666-05-19_saint-flour_vente_manoy-brugeyre |
 | Talizat (Talezat) | 1 | 1662-05-29_saint-flour_vente_maury-savel |
 | Talizat (Talizac) | 1 | 1665-05-04_saint-flour_vente_cristal-molinier |
 | Talizat (Talizac, talyzac) | 1 | 1662-01-14_saint-flour_vente_cussac-david |
 | Talizat (Tallizat) | 2 | 1664-02-20_saint-flour_mariage_lebre-combes, 1664-03-19_saint-flour_vente_challier-moureyre |
 | Talizat (Tallizat, [Tallizac?]) | 1 | 1656-04-01_saint-flour_vente_amat-bernuy |
 | Talizat (Talyzat) | 2 | 1628-03-25_saint-flour_bail_aymeric-courin, 1663-10-14_saint-flour_vente_surrel-mas |
+| Talizat ([Taliza(c)?], [Lalizat?]) | 1 | 1633-02-11_saint-flour_vente_julhe-baille |
 | Talizat ([Talleyza?] / [Talleyzac?] ; Alleuze non exclu) | 1 | 1657-12-21_saint-flour_mariage_delrieu-charbonnel |
 | Talizat (endos : [Taleyrat?]) | 1 | 1632-11-04_saint-flour_vente_delrieu-bonnafous |
+| Talizat (lecture douteuse « d talizat ») | 1 | 1634-03-26_saint-flour_vente_jouve-maury |
 | Talizat (lieu et paroisse) | 1 | 1628-03-25_saint-flour_bail_aymeric-borrel |
 | Talizat (paroisse ; talezat, tallizac) | 1 | 1651-12-09_saint-flour_vente_detrauesse-delride |
-| Talizat (paroisse) | 3 | 1628-03-25_saint-flour_bail_aymeric-dauze, 1628-03-26_saint-flour_bail_aymeric-julhien, 1632-06-19_saint-flour_vente_delrieu-detrassesse |
+| Talizat (paroisse) | 5 | 1628-03-25_saint-flour_bail_aymeric-dauze, 1628-03-26_saint-flour_bail_aymeric-julhien, 1632-06-19_saint-flour_vente_delrieu-detrassesse, 1634-08-27_saint-flour_vente_delbrun-traverse, 1634-08-31_saint-flour_cession_chaulhaguet-vayron |
 | Talizat (talezac) | 1 | 1661-08-28_saint-flour_mariage_chaulhac-meyliot |
 | Talizat (talezac, tallezac, talleziac, Taleizat) | 1 | 1660-06-09_saint-flour_vente_sauvet-marlhiac |
 | Talizat (talizac) | 1 | 1662-02-11_saint-flour_desistement_aureilhe-david |
+| Talizat (talizac, Tallizat[?]) | 1 | 1633-02-11_saint-flour_vente_julhe-baille_b |
 | Talizat (talizac, talisac) | 1 | 1662-10-18_saint-flour_vente_chalier |
 | Talizat (talizat, talisat) | 1 | 1661-07-17_saint-flour_vente_bardon-david |
 | Talizat (talleizat, Talleyzat) | 1 | 1658-05-25_saint-flour_vente_bertrand-debrons |
 | Talizat (talleizat[?]) | 1 | 1659-09-22_saint-flour_inventaire_sauret |
 | Talizat (talleyzat) | 1 | 1662-02-06_saint-flour_mariage_julhe-bertrand |
 | Talizat (tallizat) | 1 | 1651-02-20_saint-flour_echange_freual-maury |
+| Talizat (« Talizac », endos « Talizat ») | 1 | 1634-03-25_saint-flour_vente_maury-jailhe |
 | Talizat (« talizac ») | 1 | 1654-06-03_saint-flour_renonciation_bardon |
+| Talizat (église paroissiale) | 1 | 1638-06-30_saint-flour_partage_sauvat |
 | Talizat [?] | 2 | 1658-07-15_saint-flour_testament_delort, 1662-09-25_saint-flour_vente_pechau-durand |
 | Talizat [?] (paroisse) | 2 | 1653-07-13_saint-flour_vente_gibrac-gomez, 1662-10-05_saint-flour_vente_boudre-balde |
 | Talizat [?] (tallizat / tallizac) | 1 | 1657-01-23_saint-flour_demission_julhien |
@@ -3651,7 +3890,7 @@
 | Tallizat[?] | 1 | 1658-07-04_saint-flour_vente_roux-chassang |
 | Taluzac / Tallizac (Talizat), paroisse du pré | 1 | 1652-05-12_inconnu_vente_broussard-maury |
 | Tanauille (Tanavelle ?) | 1 | 1665-08-05_saint-flour_echange_trabuc-vigier |
-| Tanavelle | 65 | 1628-03-06_saint-flour_inventaire_cocher-bazard, 1650-05-07_saint-flour_vente_gibrat-chabot, 1651-06-17_saint-flour_vente_vazieu-boullette, 1651-06-18_saint-flour_echange_bouttelle, 1651-06-29_saint-flour_vente_chabot-boude, 1652-01-12_saint-flour_vente_cosches-chauliaguet, 1652-03-05_saint-flour_vente_mallessaigne-chauliaguet, 1653-04-01_saint-flour_vente_vispail-derames, 1653-11-16_tanavelle_sommation_fuzy-boude, 1653-12-22_saint-flour_vente_rodier-bouttette, 1654-01-29_saint-flour_donation_sauvet, 1654-03-01_saint-flour_vente_gibrat-marly, 1654-04-30_saint-flour_transaction_dommergue-torche, 1654-09-27_saint-flour_vente_doumergue-bonhomme, 1654-12-29_saint-flour_vente_cosches-segui, 1656-02-19_saint-flour_mariage_mouzeyres-bonhomme, 1656-05-01_tanavelle_vente_boude-faure, 1656-05-02_saint-flour_vente_moyne-molinier, 1657-11-18_saint-flour_mariage_feytheraz-frezol, 1658-04-13_saint-flour_desistement_apchier-julhe, 1658-05-13_tanavelle_transaction_richard-andrieu, 1658-07-13_saint-flour_donation_combes-mauly, 1658-07-14_saint-flour_transaction_boude-rodel, 1658-09-09_saint-flour_vente_lhoure-chauliaguet, 1658-09-09_saint-flour_vente_thoure-chauliaguet, 1658-10-08_saint-flour_echange_boude-filhol, 1658-10-08_saint-flour_quittance_boude-filhol, 1658-12-16_saint-flour_quittance_malestaigne-richard, 1659-01-04_saint-flour_echange_chauliaguet-clavilyer, 1659-04-27_saint-flour_vente_mallet-chauliaguet, 1659-05-11_saint-flour_echange_sauvet-david, 1659-07-05_saint-flour_mariage_seimen-rolland, 1659-07-05_saint-flour_vente_chavergne-chauliaguet, 1659-07-27_saint-flour_vente_mary-regimbalt, 1659-09-27_saint-flour_vente_pouneville-boutette, 1659-12-22_saint-flour_donation_broche-regimbalt, 1660-02-14_saint-flour_echange_chauliaguet-sauret, 1660-02-15_saint-flour_vente_sauret-chauliaguet, 1660-07-01_roffiac_vente_uchassol-saintheiry, 1661-01-15_saint-flour_mariage_alboy-pellegrin, 1661-03-05_saint-flour_mariage_chausoz-aurelle, 1661-06-11_saint-flour_vente_bousquet-nozieres, 1662-01-14_saint-flour_mariage_chalmete-marly, 1662-02-13_saint-flour_mariage_rocher-chapoulade, 1662-07-23_saint-flour_vente_canhac-chazaledes, 1662-11-08_saint-flour_vente_tisset-david, 1662-12-03_saint-flour_echange_cussac-mallet, 1662-12-06_saint-flour_vente_chaulmette-roux, 1663-01-02_saint-flour_vente_sauret-chazaledes, 1663-02-10_saint-flour_vente_serieys-tailliand, 1663-04-15_saint-flour_vente_combes-bergoin, 1663-05-08_saint-flour_transaction_regimbalt-berault, 1663-06-06_saint-flour_vente_bo-nouzeyres, 1663-08-01_saint-flour_transaction_mathieu-delangouroux, 1663-11-19_saint-flour_cession_charbonnier-trabuc, 1664-01-20_saint-flour_mariage_cahot-albuisson, 1664-06-12_saint-flour_testament_chalmette-mathieu, 1665-09-05_saint-flour_transaction_dupuy-reginbalt, 1665-10-22_saint-flour_vente_richard-andrieu, 1666-02-10_saint-flour_vente_sauret, 1666-02-20_saint-flour_mariage_nozieres-douze, 1666-03-23_saint-flour_vente_dominique-bouthie, 1666-05-16_saint-flour_vente_chastang-pontier, 1666-09-06_saint-flour_vente_dabladie-jury, 1666-10-07_saint-flour_vente_bertrand-chastang |
+| Tanavelle | 67 | 1628-03-06_saint-flour_inventaire_cocher-bazard, 1634-05-01_saint-flour_vente_cussac-filhol, 1634-07-19_saint-flour_vente_roussel-vigier, 1650-05-07_saint-flour_vente_gibrat-chabot, 1651-06-17_saint-flour_vente_vazieu-boullette, 1651-06-18_saint-flour_echange_bouttelle, 1651-06-29_saint-flour_vente_chabot-boude, 1652-01-12_saint-flour_vente_cosches-chauliaguet, 1652-03-05_saint-flour_vente_mallessaigne-chauliaguet, 1653-04-01_saint-flour_vente_vispail-derames, 1653-11-16_tanavelle_sommation_fuzy-boude, 1653-12-22_saint-flour_vente_rodier-bouttette, 1654-01-29_saint-flour_donation_sauvet, 1654-03-01_saint-flour_vente_gibrat-marly, 1654-04-30_saint-flour_transaction_dommergue-torche, 1654-09-27_saint-flour_vente_doumergue-bonhomme, 1654-12-29_saint-flour_vente_cosches-segui, 1656-02-19_saint-flour_mariage_mouzeyres-bonhomme, 1656-05-01_tanavelle_vente_boude-faure, 1656-05-02_saint-flour_vente_moyne-molinier, 1657-11-18_saint-flour_mariage_feytheraz-frezol, 1658-04-13_saint-flour_desistement_apchier-julhe, 1658-05-13_tanavelle_transaction_richard-andrieu, 1658-07-13_saint-flour_donation_combes-mauly, 1658-07-14_saint-flour_transaction_boude-rodel, 1658-09-09_saint-flour_vente_lhoure-chauliaguet, 1658-09-09_saint-flour_vente_thoure-chauliaguet, 1658-10-08_saint-flour_echange_boude-filhol, 1658-10-08_saint-flour_quittance_boude-filhol, 1658-12-16_saint-flour_quittance_malestaigne-richard, 1659-01-04_saint-flour_echange_chauliaguet-clavilyer, 1659-04-27_saint-flour_vente_mallet-chauliaguet, 1659-05-11_saint-flour_echange_sauvet-david, 1659-07-05_saint-flour_mariage_seimen-rolland, 1659-07-05_saint-flour_vente_chavergne-chauliaguet, 1659-07-27_saint-flour_vente_mary-regimbalt, 1659-09-27_saint-flour_vente_pouneville-boutette, 1659-12-22_saint-flour_donation_broche-regimbalt, 1660-02-14_saint-flour_echange_chauliaguet-sauret, 1660-02-15_saint-flour_vente_sauret-chauliaguet, 1660-07-01_roffiac_vente_uchassol-saintheiry, 1661-01-15_saint-flour_mariage_alboy-pellegrin, 1661-03-05_saint-flour_mariage_chausoz-aurelle, 1661-06-11_saint-flour_vente_bousquet-nozieres, 1662-01-14_saint-flour_mariage_chalmete-marly, 1662-02-13_saint-flour_mariage_rocher-chapoulade, 1662-07-23_saint-flour_vente_canhac-chazaledes, 1662-11-08_saint-flour_vente_tisset-david, 1662-12-03_saint-flour_echange_cussac-mallet, 1662-12-06_saint-flour_vente_chaulmette-roux, 1663-01-02_saint-flour_vente_sauret-chazaledes, 1663-02-10_saint-flour_vente_serieys-tailliand, 1663-04-15_saint-flour_vente_combes-bergoin, 1663-05-08_saint-flour_transaction_regimbalt-berault, 1663-06-06_saint-flour_vente_bo-nouzeyres, 1663-08-01_saint-flour_transaction_mathieu-delangouroux, 1663-11-19_saint-flour_cession_charbonnier-trabuc, 1664-01-20_saint-flour_mariage_cahot-albuisson, 1664-06-12_saint-flour_testament_chalmette-mathieu, 1665-09-05_saint-flour_transaction_dupuy-reginbalt, 1665-10-22_saint-flour_vente_richard-andrieu, 1666-02-10_saint-flour_vente_sauret, 1666-02-20_saint-flour_mariage_nozieres-douze, 1666-03-23_saint-flour_vente_dominique-bouthie, 1666-05-16_saint-flour_vente_chastang-pontier, 1666-09-06_saint-flour_vente_dabladie-jury, 1666-10-07_saint-flour_vente_bertrand-chastang |
 | Tanavelle (Tanauelle ; lieu, paroisse et appartenances) | 1 | 1657-09-09_saint-flour_partage_filiol-gazard |
 | Tanavelle (Tanauelle) | 3 | 1656-04-06_saint-flour_transaction_rouzeyres, 1657-11-17_saint-flour_mariage_filhol-mallet, 1658-04-08_saint-flour_vente_fizol |
 | Tanavelle (Tanauelle, tan^lle) | 1 | 1656-11-26_saint-flour_quittance_cussac-nouzeyre |
@@ -3661,20 +3900,23 @@
 | Tanavelle (lieu, paroisse, mandement) | 1 | 1665-07-19_saint-flour_echange_coutre-rouffie |
 | Tanavelle (lieu, terroir et mandement) | 1 | 1656-05-01_tanavelle_vente_boude-faure |
 | Tanavelle (mandement) | 1 | 1657-08-27_roffiac_transaction_uchassol-fontes |
-| Tanavelle (paroisse) | 2 | 1658-02-02_saint-flour_vente_gibrat-andrieu, 1665-09-27_saint-flour_vente_andrieu-nozeyres |
+| Tanavelle (paroisse) | 3 | 1634-01-16_saint-flour_echange_regimbal-roussel, 1658-02-02_saint-flour_vente_gibrat-andrieu, 1665-09-27_saint-flour_vente_andrieu-nozeyres |
 | Tanavelle (paroisse, mandement) | 1 | 1658-05-13_tanavelle_transaction_richard-andrieu |
 | Tanavelle (tanauelle) | 1 | 1666-09-29_saint-flour_vente_douze-gibrat |
 | Tanavelle (tanavelle / tanauelle) | 1 | 1653-05-01_saint-flour_vente_gibrat-sauret |
 | Tanavelle (tannavelle, tanauelle, tan.lle, tanawlle), église paroissiale | 1 | 1653-11-16_tanavelle_sommation_fuzy-boude |
+| Tanavelle (« Tanauelle ») | 1 | 1634-04-19_saint-flour_transaction_trabuc-vigasol |
 | Tanavelle (église, cimetière) | 1 | 1664-03-21_saint-flour_donation_bibrat |
-| Tanavelle [?] | 3 | 1628-02-20_saint-flour_offres_vergnol-bigne, 1665-11-15_saint-flour_vente_juery, 1665-11-15_voffrac_cession_gazel-veyssiere |
+| Tanavelle [?] | 4 | 1628-02-20_saint-flour_offres_vergnol-bigne, 1644-02-13_saint-flour_vente_debrion-alboy, 1665-11-15_saint-flour_vente_juery, 1665-11-15_voffrac_cession_gazel-veyssiere |
 | Tanavelle [?] (Tanauelle) | 1 | 1651-04-19_saint-flour_vente_chanson-bechot |
 | Tanavelle [?] (mandement) | 1 | 1655-05-23_saint-flour_transaction_yzabel-sentheraiz |
+| Tanavelle[?] | 1 | 1644-06-21_saint-flour_vente_bouchet-daude |
 | Tapelles / Tapioltz / Tapioles | 1 | 1664-11-25_saint-flour_partage_chassang |
 | Tappon [?] (village) | 1 | 1650-11-20_saint-flour_vente_delaroche-cinqpar |
 | Tarnie[?] (peut-être Les Ternes) | 1 | 1664-11-11_saint-flour_vente_pirolle-lollier |
 | Tarrieux (Lavastrie) | 1 | 1663-08-01_saint-flour_transaction_mathieu-delangouroux |
 | Tartouire / Tartouires (champ, au Piroz) | 1 | 1658-07-21_saint-flour_echange_jouve-borel |
+| Tavernolles (endos moderne) | 1 | 1634-09-04_saint-flour_prixfait_chaulhaguet-tardieu |
 | Termengros (paroisse de Mentières) | 1 | 1657-07-25_saint-flour_demission_cussac-martin |
 | Ternes | 1 | 1662-02-14_saint-flour_mariage_sautherey-jean |
 | Teronpessade [?] (Teroupessade), paroisse foraine de Saint-Flour | 1 | 1658-02-03_siviers_mariage_chanson-ventughol |
@@ -3689,9 +3931,11 @@
 | Tibrezac [?] (endos : Tibuzal ?), paroisse d'Alleuze | 1 | 1664-11-16_saint-flour_echange_cussac-monier |
 | Tissonneyre / tissonnerye (Tissonnière), lieu-dit des pré et pâtural | 1 | 1660-05-29_saint-flour_bail_vidal-rouve |
 | Tiuiers [Tiuiers / Tiuiez ?] (paroisse des Ternes) | 1 | 1665-04-25_saint-flour_vente_tafanel-douhet |
-| Tiviers | 13 | 1632-12-24_saint-flour_vente_delolme-delolme, 1647-11-17_saint-flour_quittance_rouger-attalin, 1648-03-07_saint-flour_transaction_tranchier-sudre, 1649-10-19_saint-flour_quittance_cussac-lauvie, 1654-08-24_saint-flour_quittance_peuch-gaillard, 1659-01-19_mentieres_mariage_eschallier-galdissard, 1659-09-29_saint-flour_cession_laurier, 1661-10-15_saint-flour_vente_delaspre-trabuc, 1663-08-05_saint-flour_vente_feulhet-chanson, 1664-08-17_saint-flour_vente_bissoller-domergue, 1664-10-04_saint-flour_echange_sauvet-attalin, 1666-01-17_saint-flour_vente_bessolz-sabatier, 1666-02-27_saint-flour_mariage_combes-boyer |
+| Tiure [?] / Coltines [?] | 1 | 1634-01-28_saint-flour_echange_crespel-vibert |
+| Tiviers | 15 | 1632-12-24_saint-flour_vente_delolme-delolme, 1633-03-12_saint-flour_vente_montaniac-bessolz, 1633-05-19_tiviers_mariage_chaulhaguet-duteil, 1647-11-17_saint-flour_quittance_rouger-attalin, 1648-03-07_saint-flour_transaction_tranchier-sudre, 1649-10-19_saint-flour_quittance_cussac-lauvie, 1654-08-24_saint-flour_quittance_peuch-gaillard, 1659-01-19_mentieres_mariage_eschallier-galdissard, 1659-09-29_saint-flour_cession_laurier, 1661-10-15_saint-flour_vente_delaspre-trabuc, 1663-08-05_saint-flour_vente_feulhet-chanson, 1664-08-17_saint-flour_vente_bissoller-domergue, 1664-10-04_saint-flour_echange_sauvet-attalin, 1666-01-17_saint-flour_vente_bessolz-sabatier, 1666-02-27_saint-flour_mariage_combes-boyer |
 | Tiviers (?) | 2 | 1664-07-29_saint-flour_vente_benezit-bertrand, 1664-11-24_saint-flour_vente_chargebeuf-mallessaigne |
 | Tiviers (Tiuier), paroisse des vendeurs | 1 | 1652-06-16_saint-flour_vente_borchette-portefaix |
+| Tiviers (Tiuiers) | 1 | 1633-05-19_tiviers_mariage_chaulhaguet-duteil |
 | Tiviers (Tiuiers), paroisse | 1 | 1653-06-21_saint-flour_mariage_daulhet-monnier |
 | Tiviers (Tiuiers, paroisse) | 1 | 1664-01-01_saint-flour_vente_debrons |
 | Tiviers (Tiuiers, tiuiers) | 1 | 1632-02-13_mentieres_mariage_roudil-bonnet |
@@ -3706,7 +3950,7 @@
 | Tiviers [?] (lieu de Veluze [?], maison de Jean Gendre) | 1 | 1657-10-18_tiviers_mariage_carmantrand-gendre |
 | Tiviers [?] (paroisse) | 1 | 1653-04-08_saint-flour_cession_ambiele-chastang |
 | Tiviers[?] | 1 | 1662-02-02_saint-flour_mariage_senhar-montgial |
-| Tiviers[?] (paroisse) | 1 | 1628-10-09_saint-flour_bail_boudre-laurie |
+| Tiviers[?] (paroisse) | 2 | 1628-10-09_saint-flour_bail_boudre-laurie, 1633-01-23_saint-flour_mariage_chapaneyre-lanne |
 | Tolles[?] (commanderie, l. 18) | 1 | 1658-03-14_saint-flour_echange_bardon-moreyre |
 | Tollouts[?] | 1 | 1661-11-27_saint-flour_echange_chaulhaguet-filiol |
 | Tossiac | 1 | 1666-03-25_tossiac_testament_inguimbert-aliadieres |
@@ -3737,9 +3981,11 @@
 | Trielus (treylus) | 1 | 1659-10-03_saint-flour_vente_coutarel-delmas |
 | Tromson (champ) | 1 | 1648-08-06_saint-flour_vente_lacrussol-rebeard |
 | Truyère (rivière) | 1 | 1664-03-28_saint-flour_vente_colomb-sadone |
+| Truyère (rivière, « trouyere ») | 1 | 1634-09-04_saint-flour_prixfait_chaulhaguet-tardieu |
 | Trymeyssadde | 1 | 1654-05-03_saint-flour_transaction_chanson |
 | Ussagues[?] | 1 | 1659-04-00_saint-flour_vente_roux |
 | Ussel | 10 | 1632-03-23_saint-flour_ratification_rouchier-julhes, 1648-08-14_saint-flour_obligation_lavergne-petit, 1658-08-18_saint-flour_donation_masset-chinaze, 1662-06-02_saint-flour_echange_ussel-boucheyre, 1663-11-25_saint-flour_testament_teilhard, 1664-12-06_saint-flour_vente_chastang-lassy, 1665-04-11_saint-flour_echange_fontes-vaissiere, 1665-05-17_saint-flour_vente_teissedre-blanc, 1665-11-28_saint-flour_vente_boudoz-bardoz, 1666-07-16_roffiac_mariage_bourheyre-gazel |
+| Ussel (Yssel) | 1 | 1634-10-11_saint-flour_testament_joullio-julhi |
 | Ussel [?] | 2 | 1649-08-06_saint-flour_obligation_penel-volland, 1662-05-14_saint-flour_vente_vijtail-ollivier |
 | Ussel [?] (paroisse) | 1 | 1632-03-03_saint-flour_vente_juillet-busseyre |
 | Ussel? (paroisse, lecture [dussel?]) | 1 | 1660-05-09_saint-flour_vente_rouget-lheritier |
@@ -3748,14 +3994,14 @@
 | Vabre (paroisse ; Vabres, Cantal ?) | 1 | 1628-11-17_saint-flour_bail_chanlhaguet-baldissard |
 | Vabre [?] (paroisse du créancier Laurail, l. 43) | 1 | 1653-12-28_saint-flour_vente_pontsavre-vidal |
 | Vabre(s) | 1 | 1662-01-22_saint-flour_vente_bruzie-mourthe |
-| Vabres | 28 | 1632-03-05_saint-flour_vente_tissier-soulier, 1648-01-01_saint-flour_obligation_berhot-mallet, 1651-10-28_saint-flour_mariage_joumbre-boyer, 1654-07-05_saint-flour_vente_jourdes-albaret, 1657-01-17_saint-flour_mariage_aurelle-chaumel, 1658-06-08_saint-flour_donation_duviallard-fontes, 1658-07-04_saint-flour_vente_rous-mas, 1659-03-01_saint-flour_demission_delort-vedrines, 1659-12-13_saint-flour_testament_rolland-faluet, 1660-11-08_saint-flour_mariage_jouzelin-meyre, 1662-01-23_saint-flour_cession_lacombe-chalvet, 1662-03-04_saint-flour_transaction_delmas, 1663-02-06_saint-flour_mariage_combes-daunya, 1663-03-10_saint-flour_vente_lastic-albepart, 1663-06-12_saint-flour_vente_lacombe-delort, 1665-03-06_saint-flour_donation_mallet-delvoi, 1665-03-28_saint-flour_vente_albaret-sabattier, 1665-05-06_saint-flour_echange_deleron-soucheire, 1665-05-25_saint-flour_vente_cussat-soumeuroux, 1665-12-21_saint-flour_transaction_leroa-atalar, 1665-12-29_saint-flour_vente_cussac-pelissier, 1666-01-04_saint-flour_vente_odoul-debattut, 1666-02-28_saint-flour_vente_lacombe-clavillier, 1666-03-00_saint-flour_mariage_bonnet-sebattyer, 1666-04-26_saint-flour_mariage_fontes-bouschet, 1666-05-06_saint-flour_echange_sabatier, 1666-06-20_saint-flour_mariage_albaret-espezolles, 1666-08-06_saint-flour_vente_cussat-meyre |
+| Vabres | 34 | 1632-03-05_saint-flour_vente_tissier-soulier, 1633-02-27_saint-flour_vente_tissier-debrun, 1633-03-10_saint-flour_vente_pons-gibrard, 1633-10-22_saint-flour_vente_boyer-vieulx, 1633-11-20_saint-flour_echange_delcros-attalec, 1634-10-21_saint-flour_testament_bical-maudre, 1634-11-27_saint-flour_vente_albaret-bonnes, 1648-01-01_saint-flour_obligation_berhot-mallet, 1651-10-28_saint-flour_mariage_joumbre-boyer, 1654-07-05_saint-flour_vente_jourdes-albaret, 1657-01-17_saint-flour_mariage_aurelle-chaumel, 1658-06-08_saint-flour_donation_duviallard-fontes, 1658-07-04_saint-flour_vente_rous-mas, 1659-03-01_saint-flour_demission_delort-vedrines, 1659-12-13_saint-flour_testament_rolland-faluet, 1660-11-08_saint-flour_mariage_jouzelin-meyre, 1662-01-23_saint-flour_cession_lacombe-chalvet, 1662-03-04_saint-flour_transaction_delmas, 1663-02-06_saint-flour_mariage_combes-daunya, 1663-03-10_saint-flour_vente_lastic-albepart, 1663-06-12_saint-flour_vente_lacombe-delort, 1665-03-06_saint-flour_donation_mallet-delvoi, 1665-03-28_saint-flour_vente_albaret-sabattier, 1665-05-06_saint-flour_echange_deleron-soucheire, 1665-05-25_saint-flour_vente_cussat-soumeuroux, 1665-12-21_saint-flour_transaction_leroa-atalar, 1665-12-29_saint-flour_vente_cussac-pelissier, 1666-01-04_saint-flour_vente_odoul-debattut, 1666-02-28_saint-flour_vente_lacombe-clavillier, 1666-03-00_saint-flour_mariage_bonnet-sebattyer, 1666-04-26_saint-flour_mariage_fontes-bouschet, 1666-05-06_saint-flour_echange_sabatier, 1666-06-20_saint-flour_mariage_albaret-espezolles, 1666-08-06_saint-flour_vente_cussat-meyre |
 | Vabres ([Vabres?] ; variante Vabour) | 1 | 1653-03-20_saint-flour_vente_bagail-mallet |
 | Vabres (lieu et paroisse) | 1 | 1656-11-15_saint-flour_vente_chevallier-lacombe |
-| Vabres (paroisse) | 3 | 1656-01-16_saint-flour_demission_fayon, 1656-11-05_saint-flour_vente_jonnenoux-pastre, 1665-11-04_saint-flour_transaction_veyghalory-foutes |
+| Vabres (paroisse) | 5 | 1633-04-28_saint-flour_vente_soucheire-fontes, 1633-10-23_saint-flour_vente_fontan, 1656-01-16_saint-flour_demission_fayon, 1656-11-05_saint-flour_vente_jonnenoux-pastre, 1665-11-04_saint-flour_transaction_veyghalory-foutes |
 | Vabres (parroisse deVabres) | 1 | 1654-01-15_saint-flour_transaction_buge-delrieu |
 | Vabres (église paroissiale) | 1 | 1664-08-20_saint-flour_testament_fontes-gendre |
 | Vabres [?] | 2 | 1632-02-14_saint-flour_vente_tissier-malet, 1665-04-19_saint-flour_vente_bagely-delcros |
-| Vabres [?] (paroisse) | 1 | 1666-08-24_saint-flour_vente_cussat-esbrard |
+| Vabres [?] (paroisse) | 3 | 1633-05-10_saint-flour_quittance_malassaigne-malet, 1633-05-11_saint-flour_ratification_albaret-malet, 1666-08-24_saint-flour_vente_cussat-esbrard |
 | Vabres[?] | 1 | 1666-02-21_saint-flour_mariage_sabattier-delvor |
 | Vabres[?] (paroisse du témoin Lacombe) | 1 | 1654-05-14_saint-flour_cession_rouget-faverge |
 | Vabres[?] / Vabrez[?], paroisse | 1 | 1652-06-16_saint-flour_vente_borchette-portefaix |
@@ -3800,10 +4046,12 @@
 | Valuejo[ls?] (paroisse ; Valuéjols ?) | 1 | 1654-12-02_saint-flour_ratification_gardelle-cussat |
 | Valuejol (Valuéjols) | 1 | 1658-07-06_saint-flour_vente_sauvaie-rouget |
 | Valuejols [?] | 1 | 1652-02-23_saint-flour_remission_pavva |
+| Valuejols [?] (Vabres ?) | 1 | 1644-04-10_saint-flour_mariage_maury-andrieu |
+| Valuejolz | 1 | 1634-02-24_saint-flour_bail_brugier-bastide |
 | Valuezol | 1 | 1632-03-03_saint-flour_vente_pages |
 | Valughol / [Valughol?] (Valuéjols) | 1 | 1660-06-00_saint-flour_vente_chalmete-julhe |
 | Valuy | 1 | 1658-01-27_saint-flour_vente_devaluy-ollier |
-| Valuéjols | 11 | 1632-03-03_saint-flour_vente_pages, 1648-05-31_saint-flour_vente_prady, 1659-01-00_valuejols_testament_sourzac-boussuge, 1659-02-20_roffiac_mariage_gibrat-judy, 1662-02-18_saint-flour_vente_amadieu-rouget, 1662-05-07_saint-flour_mariage_chanson-rion, 1662-11-08_saint-flour_vente_sobrat-chassang, 1663-05-08_saint-flour_transaction_regimbalt-berault, 1665-08-24_saint-flour_mariage_maury-pages, 1665-12-12_saint-flour_subrogation_charbonnel-charreyre, 1666-10-07_saint-flour_demission_bo-vispal |
+| Valuéjols | 12 | 1632-03-03_saint-flour_vente_pages, 1634-02-24_saint-flour_bail_brugier-bastide, 1648-05-31_saint-flour_vente_prady, 1659-01-00_valuejols_testament_sourzac-boussuge, 1659-02-20_roffiac_mariage_gibrat-judy, 1662-02-18_saint-flour_vente_amadieu-rouget, 1662-05-07_saint-flour_mariage_chanson-rion, 1662-11-08_saint-flour_vente_sobrat-chassang, 1663-05-08_saint-flour_transaction_regimbalt-berault, 1665-08-24_saint-flour_mariage_maury-pages, 1665-12-12_saint-flour_subrogation_charbonnel-charreyre, 1666-10-07_saint-flour_demission_bo-vispal |
 | Valuéjols (?) | 1 | 1659-11-09_saint-flour_vente_boussuge-mollinier |
 | Valuéjols (Valaughol) | 1 | 1656-05-20_saint-flour_vente_rispal-rouget |
 | Valuéjols (Valeugheol) | 1 | 1660-03-31_saint-flour_partage_bastide-cueyspoul |
@@ -3841,6 +4089,8 @@
 | Varelhetes [?] (mandement ; Varillettes ?) | 1 | 1660-04-26_saint-flour_vente_bonnet-chauliaguet |
 | Varenes[?] | 1 | 1662-09-11_saint-flour_testament_blanchy |
 | Varillettes | 1 | 1654-07-05_saint-flour_vente_jourdes-albaret |
+| Varillettes (Varilhettes) | 1 | 1633-01-28_saint-flour_mariage_cammel-jarlier |
+| Varillettes (varilhetes, château) | 1 | 1634-07-05_saint-flour_vente_lafargette-murat |
 | Varneughol [?] (Varnenghol ?), paroisse de Neuvéglise | 1 | 1659-03-13_saint-flour_donation_beaufet-juery |
 | Varneyre (Varnaire dans la copie), paroisse de Talizat | 1 | 1664-03-19_saint-flour_vente_challier-moureyre |
 | Varnilhes (Va[u?]rilhe[s?] / Varnilhe[s?]) | 1 | 1665-11-15_saint-flour_vente_juery |
@@ -3932,6 +4182,7 @@
 | Vedrines (Vidrines ?) | 1 | 1647-11-06_saint-flour_bail_roze-pages |
 | Vedrines (Védrines) | 1 | 1653-04-08_saint-flour_cession_ambiele-chastang |
 | Vedrines (Védrines), paroisse d'Alleuze | 1 | 1661-03-28_saint-flour_echange_grezes |
+| Vedrines (corps : [Vedrin?] / [Vedrine?] ; lieu des acquéreurs et situation du champ) | 1 | 1634-07-22_saint-flour_vente_vachier-rossignol |
 | Vedrines (lieu des parties ; paroisse non lue : Vedrines-Saint-Loup ou village de Roffiac / d'Alleuze ?) | 1 | 1661-02-13_saint-flour_vente_bourgier-arzalier |
 | Vedrines (paroisse d'Alleuze) | 2 | 1659-08-18_saint-flour_testament_grezes, 1661-02-22_saint-flour_echange_missonnier-grezes |
 | Vedrines (paroisse de Vieille-Brioude) | 1 | 1650-02-03_saint-flour_vente_crozet-delbelmon |
@@ -3951,6 +4202,7 @@
 | Veluze [?] (Beluze / Veluzet ; paroisse de Tiviers [?]) — résidence de l'épouse, lieu de l'acte | 1 | 1657-10-18_tiviers_mariage_carmantrand-gendre |
 | Veluzea (?) / Veluzec / Veluze — lieu d'origine de l'époux | 1 | 1658-09-21_saint-flour_mariage_laurier-galdissard |
 | Venault (terre du sieur de Venault) | 1 | 1632-07-06_saint-flour_vente_rispal-brugier |
+| Venaux (Venaulx, Venaux) — maison du seigneur | 1 | 1633-05-09_andelat_bail_brugier-julhe |
 | Vendeze ([Vendezer?]) | 1 | 1651-11-06_saint-flour_vente_rouffe-roche |
 | Vendeze [?] | 1 | 1666-04-12_saint-flour_obligation_mounier-aureille |
 | Vendeze[?] | 1 | 1658-05-31_saint-flour_echange_sauret-chossy |
@@ -3979,6 +4231,7 @@
 | Vergnaou[?] | 1 | 1654-01-26_saint-flour_mariage_ferauze-aussel |
 | Vergous [?] / Vurgous, autrement des Clapez [?] / clapetz (lieu-dit des deux champs, appartenances de Barry [?]) | 1 | 1653-04-27_saint-flour_vente_bonnet-bernard |
 | Vermelleire [?] | 1 | 1662-10-15_saint-flour_partage_chanson |
+| Vermeres [?] (seigneurie) | 1 | 1634-10-02_saint-flour_transaction_saure |
 | Vernegol (Varnegol[?]), paroisse de Neuvéglise | 1 | 1666-09-30_saint-flour_testament_teisset |
 | Vernieres [?] | 1 | 1662-01-19_saint-flour_testament_blanchi-girion |
 | Verninghol[?] / Varnunghol[?] | 1 | 1662-05-20_saint-flour_vente_boniol-salvanhac |
@@ -3991,11 +4244,14 @@
 | Veron | 1 | 1666-04-15_saint-flour_vente_roudil-blanchy |
 | Veroz [?] (Veroz / Leroz / Heroz), paroisse d'Anglards | 1 | 1664-11-30_saint-flour_vente_palazon-blanchi |
 | Verr[..]y[?] (paroisse de St Poncy[?]) | 1 | 1658-11-23_saint-flour_vente_marlhac-florand |
+| Verz[...]be[?], paroisse de Villedieu (résidence du vendeur, endos) | 1 | 1633-12-29_saint-flour_vente_chastel-sentheven |
 | Veyriers (terre et seigneurie) | 1 | 1656-09-12_saint-flour_cession_larochefoucauld-pontran |
 | Veyrlac[?] | 1 | 1664-11-06_saint-flour_vente_delaroche-portail |
+| Vezent ? | 1 | 1634-02-12_saint-flour_bail_combal-chastel |
 | Vezentieres (Vézentières, paroisse de Fournolz) | 1 | 1661-01-25_saint-flour_mariage_boyer-bonniol |
 | Vezol | 1 | 1666-01-15_saint-flour_vente_reynault-chavegne |
 | Vezols [?] / Vozols (village, paroisse de Villedieu) | 1 | 1652-03-17_saint-flour_vente_chastel-crozat |
+| Viallard / Biallard (lieu-dit) | 1 | 1634-11-04_saint-flour_vente_liber |
 | Vibe (paroisse de Roffiac ; lecture [Vibe?] p. 102, [Ruer?] à l'endos) | 1 | 1653-10-25_saint-flour_vente_bastide-cristal |
 | Vibejo[u]uille [?] (Vibejouille, lieu de la paroisse de Villedieu, non identifié) | 1 | 1666-10-01_saint-flour_donation_caniat-galvier |
 | Vibel (paroisse de Roffiac) | 1 | 1664-08-31_saint-flour_vente_crespoul-brassac |
@@ -4025,10 +4281,12 @@
 | Vibrzac (hameau non identifié, paroisse d'Alleuze) | 1 | 1654-02-01_villedieu_vente_monnier-chassang |
 | Vic ([Haut?]. de Vic) | 1 | 1664-08-17_saint-flour_transaction_challier-boyer |
 | Vic (bourg) | 1 | 1658-07-28_saint-flour_mariage_lavergne-loussert |
+| Vic (siège de bailliage | 1 | 1644-08-18_saint-flour_nomination_bonnault |
 | Vic (ville ; Vic-sur-Cère ?) | 1 | 1660-08-25_saint-flour_mariage_chausse-malgie |
 | Vic-en-Carladès | 1 | 1666-07-07_saint-flour_vente_missonnier-bruzit |
 | Vic-en-Carladès (siège) | 1 | 1665-05-08_saint-flour_cession_missonier-chanson |
 | Vic-en-Carladès (« Vic [en?] Carladez », juge d'appeaux) | 1 | 1660-06-27_saint-flour_transaction_parro-gastal |
+| Vic-en-Carladès) | 1 | 1644-08-18_saint-flour_nomination_bonnault |
 | Vidivuan / Vidivuat [?] (seigneurie de Gillet ; probablement Vedernat) | 1 | 1657-06-21_saint-flour_retrait_cathalan-gillet |
 | Vieille-Brioude | 3 | 1650-02-03_saint-flour_vente_crozet-delbelmon, 1658-07-16_saint-flour_vente_benezet-brassalt, 1663-04-21_saint-flour_vente_chalvon-coutel |
 | Vieille-Brioude (Veilhe brioude) | 1 | 1656-10-13_saint-flour_inventaire_berthier-johanny |
@@ -4057,7 +4315,7 @@
 | Villebret (Bourbonnais) | 1 | 1654-06-25_saint-flour_vente_chaugelbuf-maury |
 | Villede... [?] (lieu d'origine de l'époux, non lu) | 1 | 1665-10-04_saint-flour_mariage_chanalle-bourel |
 | Villedenfur[?] | 1 | 1653-03-03_saint-flour_vente_durand-gillet |
-| Villedieu | 111 | 1628-12-22_saint-flour_bail_conte-hugon, 1632-10-11_saint-flour_vente_chastel-fauret, 1632-10-26_saint-flour_testament_bechot, 1648-03-07_saint-flour_vente_derames-chastel, 1650-00-00_saint-flour_vente_chastel-sauret, 1650-01-22_saint-flour_vente_thiral-sauret, 1650-02-10_saint-flour_vente_chastel-sauret, 1650-04-18_villedieu_revente_grezes-gibrat, 1650-06-23_saint-flour_vente_sauret-mornac, 1650-09-25_saint-flour_vente_bonnault-fontz, 1650-11-26_saint-flour_transaction_chastel-fontz, 1650-12-02_saint-flour_cession_foulz, 1650-12-28_saint-flour_cession_teyssedre-bouget, 1650-12-31_saint-flour_vente_boniol-masset, 1651-02-17_villedieu_mariage_andrieu-chastel, 1651-03-06_saint-flour_vente_volland-chantal, 1652-03-26_villedieu_cession_david-lisset, 1652-04-26_saint-flour_cession_cosset-mallessaigne, 1652-06-08_villedieu_testament_missonnier, 1652-06-24_villedieu_vente_missonnier, 1652-07-18_saint-flour_testament_rappoz, 1653-03-22_saint-flour_vente_chastre-bechot, 1653-05-01_saint-flour_vente_gibrat-sauret, 1653-11-09_saint-flour_vente_cathala-bechot, 1654-01-02_saint-flour_mariage_chalier-fontes, 1654-01-29_saint-flour_donation_sauvet, 1654-02-01_villedieu_vente_monnier-chassang, 1654-02-09_saint-flour_mariage_vassond-courchaud, 1654-02-16_villedieu_mariage_rolland-vidal, 1654-03-01_fraissenet_testament_nouzeiroe-beche, 1654-03-14_saint-flour_echange_malleshargues-vidal, 1654-03-16_saint-flour_demission_daude-estiene, 1654-04-16_saint-flour_transaction_david-estienne, 1654-05-03_saint-flour_demission_estienne-tissot, 1654-05-26_saint-flour_vente_martial-missonnier, 1654-11-15_saint-flour_echange_rouget-estival, 1655-05-01_saint-flour_subrogation_chevallier-devarnes, 1656-01-31_saint-flour_mariage_gauthevaz-chastre, 1656-03-04_saint-flour_cession_caillandre-devames, 1656-03-13_saint-flour_echange_girard-chastel, 1656-04-07_saint-flour_transaction_mallespaignes-chomme, 1656-05-20_alleuze_mariage_catala-chanson, 1656-06-15_villedieu_cession_chastel-devaux, 1656-06-25_villedieu_mariage_bondoy-tissoil, 1658-01-03_roffiac_mariage_battide-fayon, 1658-02-09_saint-flour_mariage_meyliot-cussac, 1658-10-29_saint-flour_vente_cochinie, 1659-03-22_saint-flour_donation_coucherie-teyssedre, 1659-03-31_saint-flour_ratification_fayon-boudon, 1659-04-27_saint-flour_vente_mallet-chauliaguet, 1659-08-24_villedieu_testament_jouve, 1659-09-10_villedieu_inventaire_chavallier-tisset, 1659-09-22_saint-flour_inventaire_sauret, 1659-10-12_villedieu_mariage_gastail-daude, 1659-11-16_saint-flour_mariage_fazes-barthomeuf, 1660-01-30_saint-flour_testament_cathalla-trenchier, 1660-02-10_villedieu_mariage_berhot-couchaire, 1660-02-13_villedieu_testament_david-jouve, 1660-04-20_saint-flour_testament_valadier, 1660-05-15_saint-flour_vente_couzarie-chanson, 1660-05-17_saint-flour_vente_esteve-chevallier, 1660-05-18_saint-flour_donation_chavanier, 1660-05-29_saint-flour_bail_vidal-rouve, 1660-07-04_villedieu_testament_bastare, 1660-08-10_saint-flour_echange_mallessaignes-david, 1661-00-00_villedieu_testament_cathela-bedeuche, 1661-02-22_villedieu_testament_dapond, 1661-02-25_saint-flour_vente_coucharie-chanson, 1661-04-13_villedieu_testament_rolland, 1661-06-09_saint-flour_testament_audouin-fajon, 1662-01-31_villedieu_mariage_bacou-trenchier, 1662-02-18_saint-flour_mariage_cussac-vachier, 1662-02-21_villedieu_mariage_rappond-rolland, 1662-02-22_villedieu_mariage_fajon-tisset, 1662-04-17_saint-flour_vente_trenac, 1662-06-01_saint-flour_vente_allegre-molinier, 1662-06-18_villedieu_testament_fajon-rispal, 1662-11-19_saint-flour_echange_mallessaignes-rispail, 1663-02-26_saint-flour_vente_jouve-chastel, 1663-04-22_saint-flour_transaction_mossier-tranchier, 1663-05-06_saint-flour_permission_masse-leyssedre, 1663-10-24_saint-flour_vente_rispal-mirmande, 1663-11-20_saint-flour_desistement_esteve-david, 1663-12-13_saint-flour_vente_devaurs-chastel, 1664-02-17_saint-flour_vente_david-eschallier, 1664-03-09_saint-flour_bail_roux-sentheran, 1664-03-10_villedieu_donation_bouc, 1664-04-14_saint-flour_testament_chassang, 1664-07-19_saint-flour_vente_delort-pirsot, 1664-10-04_saint-flour_vente_david-sauret, 1665-02-01_villedieu_mariage_tisset-vedrines, 1665-02-06_saint-flour_mariage_jouve-castel, 1665-02-07_saint-flour_mariage_delrieu-cussac, 1665-03-01_saint-flour_vente_andrieu-tisset, 1665-03-01_saint-flour_vente_mial-tisset, 1665-03-16_saint-flour_vente_bastail-teissedre, 1665-03-24_saint-flour_echange_baccon-migoulle, 1665-04-16_saint-flour_vente_daude-chastel, 1665-05-31_saint-flour_mariage_mournac-andrieu, 1665-06-24_saint-flour_vente_berault-fayon, 1665-06-28_saint-flour_vente_boissolles-dupuy, 1665-08-09_saint-flour_testament_fayet, 1665-08-24_saint-flour_mariage_maury-pages, 1665-12-13_saint-flour_echange_chastre-jouve, 1666-02-17_saint-flour_desistement_crozat-bacon, 1666-03-03_villedieu_mariage_chaugeaygre-rolland, 1666-04-12_saint-flour_testament_chargenaire, 1666-05-01_saint-flour_echange_lastic-chastre, 1666-08-22_saint-flour_cession_jean-gastail, 1666-10-04_saint-flour_vente_lastic-barthet, 1666-10-11_fayet_testament_maury-vondie |
+| Villedieu | 114 | 1628-12-22_saint-flour_bail_conte-hugon, 1632-10-11_saint-flour_vente_chastel-fauret, 1632-10-26_saint-flour_testament_bechot, 1633-01-02_saint-flour_vente_chastel-fauret, 1634-03-09_saint-flour_vente_bondon-tissot, 1644-10-02_saint-flour_quittance_vidal-gastal, 1648-03-07_saint-flour_vente_derames-chastel, 1650-00-00_saint-flour_vente_chastel-sauret, 1650-01-22_saint-flour_vente_thiral-sauret, 1650-02-10_saint-flour_vente_chastel-sauret, 1650-04-18_villedieu_revente_grezes-gibrat, 1650-06-23_saint-flour_vente_sauret-mornac, 1650-09-25_saint-flour_vente_bonnault-fontz, 1650-11-26_saint-flour_transaction_chastel-fontz, 1650-12-02_saint-flour_cession_foulz, 1650-12-28_saint-flour_cession_teyssedre-bouget, 1650-12-31_saint-flour_vente_boniol-masset, 1651-02-17_villedieu_mariage_andrieu-chastel, 1651-03-06_saint-flour_vente_volland-chantal, 1652-03-26_villedieu_cession_david-lisset, 1652-04-26_saint-flour_cession_cosset-mallessaigne, 1652-06-08_villedieu_testament_missonnier, 1652-06-24_villedieu_vente_missonnier, 1652-07-18_saint-flour_testament_rappoz, 1653-03-22_saint-flour_vente_chastre-bechot, 1653-05-01_saint-flour_vente_gibrat-sauret, 1653-11-09_saint-flour_vente_cathala-bechot, 1654-01-02_saint-flour_mariage_chalier-fontes, 1654-01-29_saint-flour_donation_sauvet, 1654-02-01_villedieu_vente_monnier-chassang, 1654-02-09_saint-flour_mariage_vassond-courchaud, 1654-02-16_villedieu_mariage_rolland-vidal, 1654-03-01_fraissenet_testament_nouzeiroe-beche, 1654-03-14_saint-flour_echange_malleshargues-vidal, 1654-03-16_saint-flour_demission_daude-estiene, 1654-04-16_saint-flour_transaction_david-estienne, 1654-05-03_saint-flour_demission_estienne-tissot, 1654-05-26_saint-flour_vente_martial-missonnier, 1654-11-15_saint-flour_echange_rouget-estival, 1655-05-01_saint-flour_subrogation_chevallier-devarnes, 1656-01-31_saint-flour_mariage_gauthevaz-chastre, 1656-03-04_saint-flour_cession_caillandre-devames, 1656-03-13_saint-flour_echange_girard-chastel, 1656-04-07_saint-flour_transaction_mallespaignes-chomme, 1656-05-20_alleuze_mariage_catala-chanson, 1656-06-15_villedieu_cession_chastel-devaux, 1656-06-25_villedieu_mariage_bondoy-tissoil, 1658-01-03_roffiac_mariage_battide-fayon, 1658-02-09_saint-flour_mariage_meyliot-cussac, 1658-10-29_saint-flour_vente_cochinie, 1659-03-22_saint-flour_donation_coucherie-teyssedre, 1659-03-31_saint-flour_ratification_fayon-boudon, 1659-04-27_saint-flour_vente_mallet-chauliaguet, 1659-08-24_villedieu_testament_jouve, 1659-09-10_villedieu_inventaire_chavallier-tisset, 1659-09-22_saint-flour_inventaire_sauret, 1659-10-12_villedieu_mariage_gastail-daude, 1659-11-16_saint-flour_mariage_fazes-barthomeuf, 1660-01-30_saint-flour_testament_cathalla-trenchier, 1660-02-10_villedieu_mariage_berhot-couchaire, 1660-02-13_villedieu_testament_david-jouve, 1660-04-20_saint-flour_testament_valadier, 1660-05-15_saint-flour_vente_couzarie-chanson, 1660-05-17_saint-flour_vente_esteve-chevallier, 1660-05-18_saint-flour_donation_chavanier, 1660-05-29_saint-flour_bail_vidal-rouve, 1660-07-04_villedieu_testament_bastare, 1660-08-10_saint-flour_echange_mallessaignes-david, 1661-00-00_villedieu_testament_cathela-bedeuche, 1661-02-22_villedieu_testament_dapond, 1661-02-25_saint-flour_vente_coucharie-chanson, 1661-04-13_villedieu_testament_rolland, 1661-06-09_saint-flour_testament_audouin-fajon, 1662-01-31_villedieu_mariage_bacou-trenchier, 1662-02-18_saint-flour_mariage_cussac-vachier, 1662-02-21_villedieu_mariage_rappond-rolland, 1662-02-22_villedieu_mariage_fajon-tisset, 1662-04-17_saint-flour_vente_trenac, 1662-06-01_saint-flour_vente_allegre-molinier, 1662-06-18_villedieu_testament_fajon-rispal, 1662-11-19_saint-flour_echange_mallessaignes-rispail, 1663-02-26_saint-flour_vente_jouve-chastel, 1663-04-22_saint-flour_transaction_mossier-tranchier, 1663-05-06_saint-flour_permission_masse-leyssedre, 1663-10-24_saint-flour_vente_rispal-mirmande, 1663-11-20_saint-flour_desistement_esteve-david, 1663-12-13_saint-flour_vente_devaurs-chastel, 1664-02-17_saint-flour_vente_david-eschallier, 1664-03-09_saint-flour_bail_roux-sentheran, 1664-03-10_villedieu_donation_bouc, 1664-04-14_saint-flour_testament_chassang, 1664-07-19_saint-flour_vente_delort-pirsot, 1664-10-04_saint-flour_vente_david-sauret, 1665-02-01_villedieu_mariage_tisset-vedrines, 1665-02-06_saint-flour_mariage_jouve-castel, 1665-02-07_saint-flour_mariage_delrieu-cussac, 1665-03-01_saint-flour_vente_andrieu-tisset, 1665-03-01_saint-flour_vente_mial-tisset, 1665-03-16_saint-flour_vente_bastail-teissedre, 1665-03-24_saint-flour_echange_baccon-migoulle, 1665-04-16_saint-flour_vente_daude-chastel, 1665-05-31_saint-flour_mariage_mournac-andrieu, 1665-06-24_saint-flour_vente_berault-fayon, 1665-06-28_saint-flour_vente_boissolles-dupuy, 1665-08-09_saint-flour_testament_fayet, 1665-08-24_saint-flour_mariage_maury-pages, 1665-12-13_saint-flour_echange_chastre-jouve, 1666-02-17_saint-flour_desistement_crozat-bacon, 1666-03-03_villedieu_mariage_chaugeaygre-rolland, 1666-04-12_saint-flour_testament_chargenaire, 1666-05-01_saint-flour_echange_lastic-chastre, 1666-08-22_saint-flour_cession_jean-gastail, 1666-10-04_saint-flour_vente_lastic-barthet, 1666-10-11_fayet_testament_maury-vondie |
 | Villedieu (?) | 1 | 1659-04-06_saint-flour_vente_chassang-dabladie |
 | Villedieu (Rozerte / Rouzerte, maison de la testatrice) | 1 | 1662-06-18_villedieu_testament_fajon-rispal |
 | Villedieu (Velledieu) | 1 | 1662-01-31_villedieu_mariage_bacou-trenchier |
@@ -4074,14 +4332,17 @@
 | Villedieu (paroisse ; prêtres de Villedieu) | 1 | 1661-10-01_villedieu_testament_david |
 | Villedieu (paroisse ; « Commune de Villedieu » à l'endos) | 1 | 1653-04-01_saint-flour_vente_vispail-derames |
 | Villedieu (paroisse ; église et cimetière) | 1 | 1661-02-22_villedieu_testament_dapond |
-| Villedieu (paroisse) | 22 | 1628-02-25_saint-flour_bail_mary-durand, 1650-03-13_saint-flour_vente_chastel-fayon, 1651-07-10_saint-flour_vente_lyssandre-rouget, 1651-08-29_saint-flour_mariage_soubier-gibrac, 1652-03-05_saint-flour_vente_daby-boudon, 1652-03-17_saint-flour_vente_chastel-crozat, 1653-10-02_saint-flour_vente_ostmal-sauvet, 1654-01-04_saint-flour_vente_daud-devaux, 1654-01-27_saint-flour_mariage_tissandier-cailliandre, 1656-01-08_saint-flour_cession_david-prat, 1660-02-14_saint-flour_vente_fromen-chastel, 1660-04-24_saint-flour_vente_rouget-boudon, 1662-05-01_saint-flour_vente_fajon-chaugnazes, 1663-09-17_saint-flour_donation_rouget, 1664-02-09_saint-flour_mariage_jourde-chappoulle, 1664-04-23_saint-flour_vente_rousset-fabry, 1664-06-15_saint-flour_echange_estival-houre, 1664-06-22_saint-flour_echange_leynat-estival, 1665-03-20_saint-flour_donation_david-combes, 1666-01-16_saint-flour_mariage_coutel-chauzy, 1666-04-12_saint-flour_echange_chargnaire-jouve, 1666-10-01_saint-flour_donation_caniat-galvier |
+| Villedieu (paroisse) | 23 | 1628-02-25_saint-flour_bail_mary-durand, 1634-09-25_saint-flour_cession_chastel-jauvet, 1650-03-13_saint-flour_vente_chastel-fayon, 1651-07-10_saint-flour_vente_lyssandre-rouget, 1651-08-29_saint-flour_mariage_soubier-gibrac, 1652-03-05_saint-flour_vente_daby-boudon, 1652-03-17_saint-flour_vente_chastel-crozat, 1653-10-02_saint-flour_vente_ostmal-sauvet, 1654-01-04_saint-flour_vente_daud-devaux, 1654-01-27_saint-flour_mariage_tissandier-cailliandre, 1656-01-08_saint-flour_cession_david-prat, 1660-02-14_saint-flour_vente_fromen-chastel, 1660-04-24_saint-flour_vente_rouget-boudon, 1662-05-01_saint-flour_vente_fajon-chaugnazes, 1663-09-17_saint-flour_donation_rouget, 1664-02-09_saint-flour_mariage_jourde-chappoulle, 1664-04-23_saint-flour_vente_rousset-fabry, 1664-06-15_saint-flour_echange_estival-houre, 1664-06-22_saint-flour_echange_leynat-estival, 1665-03-20_saint-flour_donation_david-combes, 1666-01-16_saint-flour_mariage_coutel-chauzy, 1666-04-12_saint-flour_echange_chargnaire-jouve, 1666-10-01_saint-flour_donation_caniat-galvier |
 | Villedieu (paroisse, cimetière, église du chapitre et communauté, collégiale) | 1 | 1661-02-18_saint-flour_testament_lisset |
+| Villedieu (paroisse, endos) | 1 | 1633-12-29_saint-flour_vente_chastel-sentheven |
 | Villedieu (parr.e de Villedieu) | 1 | 1661-02-24_saint-flour_mariage_prat-pauc |
 | Villedieu (ratification à Saint-Flour) | 1 | 1662-02-21_villedieu_mariage_rappond-rolland |
 | Villedieu (village de « Libey vdnelle » / « [Liber?] vendelle », maison de la testatrice) | 1 | 1661-10-01_villedieu_testament_david |
 | Villedieu (villedieu, Villedieu ; église et cimetière) | 1 | 1660-06-26_villedieu_testament_foutez-teyssedre |
 | Villedieu (église, chapitre et communauté de prêtres) | 1 | 1661-02-25_saint-flour_testament_rigault |
-| Villedieu [?] | 3 | 1650-04-18_villedieu_vente_goizet-gibrat, 1657-10-06_saint-flour_mariage_david-mauranne, 1662-01-19_saint-flour_mariage_eschallier-masset |
+| Villedieu ? (lu [villedieu?]) | 1 | 1644-01-18_saint-flour_vente_david-sauvet |
+| Villedieu ? (paroisse) | 1 | 1634-02-12_saint-flour_bail_combal-chastel |
+| Villedieu [?] | 4 | 1634-02-05_saint-flour_transaction_chastel-lianniar, 1650-04-18_villedieu_vente_goizet-gibrat, 1657-10-06_saint-flour_mariage_david-mauranne, 1662-01-19_saint-flour_mariage_eschallier-masset |
 | Villedieu [?] (paroisse) | 1 | 1659-07-31_saint-flour_vente_bonafos-chanliague |
 | Villedieu[?] | 1 | 1666-01-27_alleuze_testament_daix |
 | Villedieu[?] (villed) | 1 | 1660-04-25_saint-flour_bail_chanson-rouva |
@@ -4114,8 +4375,10 @@
 | Viuide[?] (chemin de Montegut à ; peut-être Villedieu) | 1 | 1660-06-26_villedieu_testament_foutez-teyssedre |
 | Viuiere de Viuel[?] | 1 | 1664-08-11_saint-flour_echange_chassol-sermez |
 | Vobie[?] / Vobier[?] (paroisse de Lavastrie) | 1 | 1664-11-11_saint-flour_transaction_tassaud |
+| Voffiac? (Roffiac ?) | 1 | 1634-01-29_saint-flour_bail_brassac-estiou |
 | Voffrac | 1 | 1665-11-15_voffrac_cession_gazel-veyssiere |
 | Voffrac (voffrac, voufra, Vauffrac ?) | 1 | 1665-11-15_voffrac_cession_gazel-veyssiere |
+| Vojent[?] (lieu d'habitation du vendeur, corps) | 1 | 1633-12-29_saint-flour_vente_chastel-sentheven |
 | Vojentes | 1 | 1658-01-03_roffiac_mariage_battide-fayon |
 | Voluzac [?] (Voluz[ac?]) | 1 | 1664-04-29_saint-flour_protestation_bendre-chalvet |
 | Volzac | 1 | 1651-01-16_saint-flour_vente_maulhac-chauvet |
@@ -4130,6 +4393,7 @@
 | Vozdult / Rozdust [?] (village, paroisse de Villedieu) | 1 | 1651-08-29_saint-flour_mariage_soubier-gibrac |
 | Vozelut / Vozente (village, paroisse de Villedieu ; lecture douteuse) | 1 | 1654-01-27_saint-flour_mariage_tissandier-cailliandre |
 | Vozent [?] | 1 | 1655-11-20_saint-flour_vente_bonnel-devaure |
+| Vozent[...] / [Vozenten?] | 1 | 1634-03-09_saint-flour_vente_bondon-tissot |
 | Vozenta [?] | 1 | 1666-10-04_saint-flour_vente_lastic-barthet |
 | Vozentes | 2 | 1658-01-03_roffiac_mariage_battide-fayon, 1666-01-15_saint-flour_vente_chastel-combes |
 | Vozentes [?] (Bozentes, Vzentes, Vozentri) | 1 | 1660-04-24_saint-flour_vente_rouget-boudon |
@@ -4144,7 +4408,9 @@
 | Vrbouzai[?] (Vrbuzai / Ribouzai ?), paroisse d'Alleuze | 1 | 1651-06-25_saint-flour_vente_audouin-matthaugier |
 | Vredenat / Verdenac (Védernat ?, paroisse de Roffiac) | 1 | 1662-05-23_roffiac_mariage_david-cussac |
 | Vue de Mons[?] | 1 | 1664-08-11_saint-flour_echange_chassol-sermez |
+| Vulhagues[?] / Valhagues[?] / Bulhagues[?] (domaine affermé, résidence du bailleur) | 1 | 1634-01-14_saint-flour_bail_faury-fauret |
 | Vulnezal [?] | 1 | 1652-02-23_saint-flour_remission_pavva |
+| Vyprahat[?] / Vyrachat (lieu-dit du champ) | 1 | 1644-06-21_saint-flour_vente_bouchet-daude |
 | Védernat | 1 | 1662-11-08_saint-flour_vente_tisset-david |
 | Védernat (Vedernat) | 1 | 1650-10-01_saint-flour_transaction_gendre-pages |
 | Védernat (Vedernat), paroisse de Roffiac | 2 | 1658-12-07_saint-flour_vente_jean-bressolles, 1659-02-17_saint-flour_echange_malet-filhol |
@@ -4159,6 +4425,7 @@
 | Yronde [?] (dyronde / dyroude), paroisse de Sériers | 1 | 1661-05-14_saint-flour_vente_bastail-cayron |
 | Yssel (Ussel ?) | 1 | 1658-03-00_saint-flour_mariage_paesse-masset |
 | [...] (lieu non lu), résidence d'Antoine Roux, oncle | 1 | 1658-05-24_andelat_inventaire_roux-alboy |
+| [...] andrieu de s[ain]t flour (quartier ou rue Saint-Andrieu ?) | 1 | 1644-02-19_saint-flour_vente_geraud-trabuc |
 | [...] de Montbrun (directe ?) | 1 | 1651-12-05_saint-flour_vente_caillade-bourzette |
 | [...] de la Margière [?] (lieu-dit des champs, appartenances de Coren) | 1 | 1654-06-25_saint-flour_vente_chaugelbuf-maury |
 | [...] dela Cort[?] (confront) | 1 | 1660-06-29_saint-flour_vente_missonnier-berault |
@@ -4178,6 +4445,7 @@
 | [...]ghol (Sebelleghol / Andughol / Selabrighol ?) | 1 | 1660-12-11_saint-flour_vente_martin-suvert |
 | [...]goude | 1 | 1656-06-00_saint-flour_vente_chabot-bechot |
 | [...]haulx | 1 | 1666-02-00_saint-flour_vente_hugon-sauve |
+| [...]innoac[?] | 1 | 1633-05-09_andelat_bail_brugier-julhe |
 | [...]maghe | 1 | 1665-10-31_saint-flour_mariage_missonnier-salvat |
 | [...]maignat (lieu ou patronyme) | 1 | 1651-06-02_saint-flour_vente_vezin-vazeilles |
 | [...]moulhyere (la Tremoulhyere ? hypothèse) | 1 | 1651-10-28_saint-flour_mariage_joumbre-boyer |
@@ -4195,6 +4463,7 @@
 | [?]ygnon [?] (lieu de l'acquéreur, endos) | 1 | 1652-04-27_saint-flour_vente_chevallier-garson |
 | [Abbevuat?] | 1 | 1654-01-29_saint-flour_donation_sauvet |
 | [Abryvlat?] (Lebryvlat ?), village non identifié | 1 | 1657-00-00_saint-flour_quittance_chevallier-boudon |
+| [Abuer?] (lieu de Crespoul et de Gibrat) | 1 | 1634-01-26_saint-flour_quittance_rouger-crespoul |
 | [Advelles?] | 1 | 1660-05-18_saint-flour_vente_chappoulade-boudon |
 | [Agnielle?], paroisse St [Remise?] de Montaigne | 1 | 1664-06-16_saint-flour_testament_sauret-boudet |
 | [Aigueperse?] | 1 | 1652-09-28_saint-flour_transaction_crioullier-mauron |
@@ -4204,10 +4473,15 @@
 | [Alagne?] / [Alayne?] (lieu, paroisse de Tanavelle) | 1 | 1658-12-16_saint-flour_quittance_malestaigne-richard |
 | [Albaret?] | 1 | 1660-01-31_saint-flour_mariage_eschallier-montgial |
 | [Albe?] (chemin, incertain) | 1 | 1657-12-16_saint-flour_vente_leyssiedre-jourdy |
+| [Albeca?] (seigneurie du vendeur) | 1 | 1633-02-26_saint-flour_vente_soulet-cellier |
+| [Albegre?] (paroisse ; Albepierre ?) | 1 | 1634-02-04_saint-flour_bail_bender-missonnier |
 | [Albergue?] | 1 | 1666-04-22_saint-flour_vente_mouchiera-destubartes |
+| [Albis? / Albes? / Albet?] (seigneurie du vendeur, non identifiée) | 1 | 1633-05-02_saint-flour_vente_cortel-mourgue |
 | [Albize?] | 1 | 1652-02-20_saint-flour_cession_douhet |
 | [Alenge?] | 1 | 1654-07-19_saint-flour_echange_chanson-monnier |
 | [Aleuze?] (daleuzet) | 1 | 1661-09-08_saint-flour_vente_richard-chappoulade |
+| [Alexvartrie?] | 1 | 1633-09-06_saint-flour_testament_roudil |
+| [Alhinac?] | 1 | 1633-12-13_saint-flour_testament_chazal |
 | [Allanche?] | 1 | 1654-02-09_saint-flour_mariage_vassond-courchaud |
 | [Allanche?] (paroisse « [dalanze?] ») | 1 | 1658-07-29_saint-flour_donation_andrieu-fontes |
 | [Alleuze?] | 3 | 1658-02-09_saint-flour_mariage_meyliot-cussac, 1659-02-27_saint-flour_vente_buge-chauliaguet, 1665-02-04_saint-flour_vente_cussac-monnier |
@@ -4240,12 +4514,14 @@
 | [Angol?], paroisse d'[Alerzy?] (marge ; Anglards ? Alleuze ?) | 1 | 1653-09-03_saint-flour_transaction_chassang-fajoz |
 | [Angolle?] | 1 | 1654-07-19_saint-flour_echange_chanson-monnier |
 | [Anjoue ?] (paroisse de Comberchaude à l'endos, douteux) | 1 | 1660-11-08_saint-flour_mariage_jouzelin-meyre |
+| [Anomarge?] | 1 | 1634-05-15_saint-flour_transaction_garnier |
 | [Anterrieux?] (dauteroioux) | 1 | 1660-06-02_saint-flour_bail_ytual-fromen |
 | [Anterrions?] (paroisse ; ou Andelat ?) | 1 | 1660-06-02_saint-flour_transaction_ythual-durand |
 | [Antheil?] (prieuré) | 1 | 1661-05-22_saint-flour_mariage_roche-deschaptz |
 | [Antiran?] | 1 | 1626-09-22_vendeze_rente_armand-aymier |
 | [Anuoi?] (paroisse de Roffiac) | 1 | 1653-02-25_roffiac_mariage_cussac-uchassol |
 | [Anzat?] (douteux, l. 9) | 1 | 1628-11-15_saint-flour_bail_balaguier-gautier |
+| [Apolinye?] / [Apollinye?] | 1 | 1634-05-20_saint-flour_vente_roche-anglade |
 | [Aprans?] | 1 | 1659-03-01_saint-flour_demission_delort-vedrines |
 | [Arbey?] | 1 | 1661-05-22_saint-flour_mariage_roche-deschaptz |
 | [Arbi...elle ?] (par. de Villedieu) | 1 | 1650-11-26_saint-flour_transaction_chastel-fontz |
@@ -4255,6 +4531,7 @@
 | [Arloc ?] | 1 | 1663-05-27_alleuze_mariage_ventughol-vedrines |
 | [Aruelle?] | 1 | 1653-11-14_coren_vente_seurgol-mossier |
 | [Arvdessac?], paroisse foraine de Saint-Flour | 1 | 1653-01-14_saint-flour_vente_bordes-chanson |
+| [Asfalca?] (lieu) | 1 | 1634-11-21_saint-flour_vente_chadre-celier |
 | [Athilles?] | 1 | 1654-06-25_saint-flour_vente_bastid-andrieu |
 | [Atouire? / Abouire? / Avouire?] (village, paroisse d'Oradour) | 1 | 1661-07-15_saint-flour_testament_sauvet |
 | [Aubury?] | 1 | 1628-07-04_saint-flour_bail_aymier-bonnenfant |
@@ -4262,10 +4539,11 @@
 | [Auglands?] | 1 | 1653-02-24_saint-flour_inventaire_chanson-aujolet |
 | [Augustins?] (mention marginale p. 215) | 1 | 1652-04-14_saint-flour_transaction_hugon-bauny |
 | [Aulhiar?] (chemin allant au lieu de) | 1 | 1654-06-15_saint-flour_vente_aymerit-sauve |
+| [Aune?] a [Saingnyet?] (non identifié) | 1 | 1634-03-26_saint-flour_vente_jouve-maury |
 | [Aurach?], paroisse de la [Chan?] | 1 | 1664-05-13_saint-flour_testament_tisset-vallette |
 | [Aurignac?] | 1 | 1658-00-00_saint-flour_testament_bergoin-mirmande |
 | [Aurillac?] (l. 19, « [daurilhac?] », contexte incompris) | 1 | 1653-02-22_saint-flour_mariage_siccard-montgial |
-| [Aurillac?] (siège présidial) | 1 | 1651-04-19_saint-flour_quittance_dupre-bonnol |
+| [Aurillac?] (siège présidial) | 2 | 1634-10-17_saint-flour_quittance_vidal-bonder, 1651-04-19_saint-flour_quittance_dupre-bonnol |
 | [Aurillac?] (« Bailly [danrilhac?] ») | 1 | 1664-10-17_saint-flour_echange_bougier |
 | [Aus?] de [Bissel?] | 1 | 1661-02-22_saint-flour_echange_missonnier-grezes |
 | [Autebesse?] (affar) | 1 | 1665-02-17_mons_vente_blondin-parra |
@@ -4278,6 +4556,7 @@
 | [Auzolles?] | 1 | 1665-08-30_saint-flour_mariage_page-delrieu |
 | [Auzolles?] (« dud. [lieu?] [dauzolles?] ») | 1 | 1661-11-19_saint-flour_echange_gibrat-cussac |
 | [Ayronde?] | 1 | 1632-02-21_saint-flour_mariage_brissede-pons |
+| [Ayzy?] | 1 | 1633-10-22_saint-flour_vente_boyer-vieulx |
 | [Badessau?] | 1 | 1658-03-24_saint-flour_echange_chassaigne-boudil |
 | [Bagazelle?] / [Vagazeles?] (endos), paroisse d'Anglards — probablement La Gazelle | 1 | 1661-05-05_saint-flour_vente_roudil-benezit |
 | [Baigurlaye?] / [Baignelauze?] (Faigierlange ?) | 1 | 1657-04-16_saint-flour_transaction_bouchard-chauliaguet |
@@ -4289,6 +4568,7 @@
 | [Balnuze?] (Valnuze ? paroisse de Géraud CHASSANG) | 1 | 1658-03-17_saint-flour_cession_aurelle-chassang |
 | [Baniolz?] | 1 | 1666-08-29_saint-flour_subrogation_beraud-grenier |
 | [Barahon?] (Saint-Flour, rue ou quartier [?]) | 1 | 1628-10-07_saint-flour_bail_trigault-ballerusse |
+| [Baratte?] (confront ?) | 1 | 1634-11-04_saint-flour_vente_crozet-vossen |
 | [Barbaille?] | 1 | 1666-05-16_saint-flour_testament_marques-piron |
 | [Bardon?] (paroisse de Coltines) | 1 | 1653-03-04_saint-flour_transaction_hugon-quatveul |
 | [Bardoz?] | 1 | 1661-04-07_saint-flour_testament_basset |
@@ -4297,6 +4577,7 @@
 | [Barr.y?] de [Lauaulle?] (lieu) | 1 | 1654-07-29_saint-flour_echange_chauliagne-chabot |
 | [Barres ?] / [Farres ?] | 1 | 1659-05-31_saint-flour_vente_valarcher-parra |
 | [Barret ?] (lieu, paroisse d'Andelat ; lectures Barret / Cavret / Cadret) | 1 | 1659-01-14_saint-flour_vente_boyer-barthomeuf |
+| [Barrez?] (paroisse d'Andelat) | 1 | 1634-07-20_saint-flour_vente_desfondz-baudrongue |
 | [Barri?] | 1 | 1658-07-29_saint-flour_donation_andrieu-fontes |
 | [Barry ?], paroisse d'Alleuze | 1 | 1662-12-02_saint-flour_echange_giraldon-chanson |
 | [Barry?] | 2 | 1653-09-20_saint-flour_transaction_chassang-pages, 1665-02-01_villedieu_mariage_tisset-vedrines |
@@ -4306,9 +4587,11 @@
 | [Bartziane?] (lieu-dit, Andelat) | 1 | 1660-02-20_saint-flour_vente_grizet-suvvel |
 | [Basine?] | 1 | 1661-11-19_saint-flour_echange_gibrat-cussac |
 | [Bassar?] | 1 | 1651-11-06_saint-flour_vente_rouffe-roche |
+| [Bassou?] / Bapson | 1 | 1634-11-28_saint-flour_quittance_chadellac-brassac |
 | [Bastelhie?] (endos, lieu ou nom ?) | 1 | 1651-06-09_saint-flour_cession_chossy-boudoy |
 | [Bastide?] (douteux, l. 10) | 1 | 1626-07-20_saint-flour_bail_esprit-benezit |
 | [Bastides?] | 1 | 1628-07-04_saint-flour_bail_aymier-bonnenfant |
+| [Bastre?] (l. 25) | 1 | 1634-03-26_saint-flour_vente_gastel-jurol |
 | [Batguires?] / [Boutgieres?] / Batgieres (paroisse de Tallizac) | 1 | 1651-01-16_saint-flour_vente_maulhac-chauvet |
 | [Baudry?] (paroisse de Coltines) | 1 | 1632-08-31_saint-flour_vente_rogier-aymier |
 | [Bauge?] (l. 21, nature non établie) | 1 | 1653-02-08_saint-flour_vente_viallard-mavron |
@@ -4331,12 +4614,15 @@
 | [Begudre?] de [lesqui?] | 1 | 1651-09-06_saint-flour_testament_rigault |
 | [Beliac ?] (nom biffé) | 1 | 1658-11-18_saint-flour_donation_gaultier |
 | [Bellai?] (paroisse d'Alleuze) | 1 | 1659-12-13_saint-flour_mariage_coiffier-fabre |
+| [Bellat?] (village, confront) | 1 | 1633-09-26_saint-flour_vente_avinal-roussel |
 | [Belle?] | 1 | 1642-01-12_saint-flour_mariage_chandorat-aymerie |
 | [Bellefons?] (seigneurie ; Bessefons ; Bellefon dans une autre fiche) | 1 | 1661-00-00_saint-flour_partage_lassaigne-bonneval |
 | [Bellet ?] (bellet / bellec / bellac) | 1 | 1650-02-20_saint-flour_donation_mornac |
 | [Bellinac?] (Belinay, Paulhac ?) | 1 | 1632-07-06_saint-flour_vente_rispal-brugier |
+| [Bellouty?] de [Vougier?] (lieu-dit) | 1 | 1644-05-09_saint-flour_vente_sabatier-devannes |
 | [Beluzet?] / Belinzet / Belinet (village, paroisse de Tiviers) | 1 | 1654-08-24_saint-flour_quittance_peuch-gaillard |
 | [Benne?] / Bonne | 1 | 1628-05-08_saint-flour_bail_vossier-jehan |
+| [Bensyer?] (seigneurie du sieur de Belair) | 1 | 1634-01-17_saint-flour_promesse_tassy-belair |
 | [Bergier?] (lieu du témoin Missonnier) | 1 | 1653-09-20_saint-flour_vente_salnaz-rolland |
 | [Bernie? / Seurie? / Brunie?] (endos : origine de la testatrice) | 1 | 1658-06-02_saint-flour_testament_giraldon-durand |
 | [Berthes?] | 1 | 1665-02-16_roffiac_echange_parra-blondin |
@@ -4345,6 +4631,7 @@
 | [Bessemelle ?] | 1 | 1650-03-13_saint-flour_vente_chastel-fayon |
 | [Besserette?] (foraine de Saint-Flour) | 1 | 1657-03-31_saint-flour_quittance_seveyres-fazon |
 | [Bessettes ?] | 1 | 1650-03-13_saint-flour_vente_chastel-fayon |
+| [Bessetz?] | 1 | 1634-02-04_saint-flour_bail_bender-missonnier |
 | [Besseyres?] | 1 | 1662-02-05_saint-flour_echange_saignes-delcros |
 | [Besseyrettes?] | 1 | 1662-02-13_saint-flour_mariage_rocher-chapoulade |
 | [Bessol? / Vessol?] | 1 | 1656-01-20_saint-flour_mariage_odoul-chambaroz |
@@ -4354,6 +4641,7 @@
 | [Bessugol?] / [Lessugol?] / [Bessafol?] (lieu, paroisse de Paulhac) | 1 | 1632-07-06_saint-flour_vente_rispal-brugier |
 | [Bestoh?] (Bessols ?) | 1 | 1654-01-29_saint-flour_mariage_odoul-metgue |
 | [Beteguie?] (seigneurie, avec un domaine à Aloyzet) | 1 | 1654-12-28_saint-flour_vente_guimbal-bouniol |
+| [Betgue?] (seigneurie d'Anthoine [Laroche?]) | 1 | 1634-08-31_saint-flour_cession_chaulhaguet-vayron |
 | [Bevreyars ?] (Brugeyras / Bevrezars ?), paroisse de Talizat | 1 | 1626-05-28_saint-flour_compromis_fabry-devanes |
 | [Beynac ?] (Bennac ?), paroisse de Lavastrie | 1 | 1662-12-13_saint-flour_mariage_aujolet-falgeyrac |
 | [Beynac?] / Bezenac / Bezinac, paroisse de Celles | 1 | 1657-11-10_saint-flour_transaction_cristal-crespoul |
@@ -4371,6 +4659,7 @@
 | [Bindes?] / [Bindeze?] (paroisse foraine de Saint-Flour) | 1 | 1649-01-19_saint-flour_vente_rongier |
 | [Bine?] (paroisse de [Roffiac?]) | 1 | 1653-06-07_saint-flour_vente_belet-crespoul |
 | [Bissateyres ?] | 1 | 1659-09-22_saint-flour_vente_bonnal-rolland |
+| [Bitgue?] | 1 | 1634-09-04_saint-flour_prixfait_chaulhaguet-tardieu |
 | [Biuet ?] | 1 | 1662-01-28_saint-flour_mariage_delmar-marty |
 | [Bivre?] desmid | 1 | 1658-03-03_coltines_mariage_nicolas-bonnet |
 | [Bix?] / [Bize?] | 1 | 1653-03-03_saint-flour_vente_caucal-rouget |
@@ -4386,6 +4675,7 @@
 | [Blatgoes?] / [Bolagos?] / [Bouplech?] (paroisse de Lasgleizes, non identifiée) | 1 | 1661-06-19_saint-flour_vente_bousseyre-seguy |
 | [Blau?] | 1 | 1651-01-28_saint-flour_partage_milhot-aurelle |
 | [Blau?] / Blau (hameau du procureur) | 1 | 1652-05-12_inconnu_vente_broussard-maury |
+| [Blussac?] (appartenances) | 1 | 1644-05-09_saint-flour_vente_sabatier-devannes |
 | [Bo...er? / Bo...ochet?] (interligne, paroisse de Mentières) | 1 | 1653-02-15_saint-flour_mariage_eschallier-cebrousse |
 | [Bodimar?] | 1 | 1628-07-07_saint-flour_bail_vergier-chastang |
 | [Boisset?] | 1 | 1650-01-11_saint-flour_vente_gibrac-doumergue |
@@ -4395,11 +4685,13 @@
 | [Bonesfreuille?], paroisse de Saint-Flour | 1 | 1654-02-13_saint-flour_transaction_crozat-boudier |
 | [Bonnac?] (paroisse de Chazaux) | 1 | 1657-12-16_saint-flour_vente_leyssiedre-jourdy |
 | [Bonnac?] (seigneurie du chanoine Desrouel) | 1 | 1626-09-00_saint-flour_deliberation_desrouel-gazal |
+| [Bonne?] (Beaune / Beune), paroisse d'Andelat | 1 | 1634-02-27_saint-flour_bail_bellengreville-amigo |
 | [Bonnepradelle?], paroisse de Saint-Flour | 1 | 1653-01-23_andelat_testament_roux |
 | [Bonsac?] (incertain, l. 138) | 1 | 1660-11-14_saint-flour_mariage_brives-brugier |
 | [Bonsentir?] (endos) | 1 | 1653-03-19_saint-flour_vente_vidal-chazot |
 | [Bonyuenil?] (près de Saint-Flour) | 1 | 1658-02-09_saint-flour_mariage_meyliot-cussac |
 | [Bordie?] | 1 | 1666-10-04_saint-flour_vente_lastic-barthet |
+| [Bortandes?] | 1 | 1634-09-04_saint-flour_prixfait_chaulhaguet-tardieu |
 | [Bory?] | 1 | 1653-04-29_saint-flour_echange_assonnier-grezes |
 | [Borzet?] (Bozet, Bouzet, Boschet), paroisse d'Andelat | 1 | 1651-01-12_saint-flour_mariage_coulzie-bastide |
 | [Bosalorgue?] (Bousselargues ? hypothèse) | 1 | 1658-07-28_saint-flour_testament_veyle |
@@ -4407,11 +4699,14 @@
 | [Bossezelle?] | 1 | 1650-06-26_saint-flour_vente_boucher-berthon |
 | [Bossi?] (paroisse de Chaudes-Aigues) | 1 | 1664-03-10_villedieu_donation_bouc |
 | [Bossiar?] | 1 | 1654-02-09_saint-flour_mariage_vassond-courchaud |
+| [Botgaa?] | 1 | 1633-10-22_saint-flour_vente_boyer-vieulx |
 | [Bouche?] (fragment de confins, l. 15) | 1 | 1651-05-13_saint-flour_echange_chastang-cusset |
+| [Bouchet?] | 1 | 1634-10-11_saint-flour_testament_joullio-julhi |
 | [Bouchrouze?] (lieu-dit du pré) | 1 | 1654-10-28_saint-flour_vente_rigault-deramis |
 | [Bougeyre?] (Brugeyre / Bougeyro), lieu | 1 | 1654-04-30_saint-flour_mariage_chassang-rigault |
 | [Bourfaut?] | 1 | 1647-11-17_saint-flour_bail_rouger-attalin |
 | [Bourgueres?] | 1 | 1660-06-09_saint-flour_vente_sauvet-marlhiac |
+| [Bouriz?] | 1 | 1633-06-03_saint-flour_vente_vigier-aymeric |
 | [Bournonclar?] | 1 | 1653-02-24_saint-flour_inventaire_chanson-aujolet |
 | [Bourzin?] | 1 | 1651-11-06_saint-flour_vente_rouffe-roche |
 | [Bouscharal?] (l. 79) | 1 | 1653-06-06_saint-flour_ratification_daude-dupre |
@@ -4425,7 +4720,9 @@
 | [Bouyret?] / [Bouygret?] | 1 | 1658-05-18_saint-flour_mariage_chazalledez-chauses |
 | [Bouyx?] (Bouix) | 1 | 1660-11-20_saint-flour_mariage_chausoz-montgial |
 | [Bouz?] | 1 | 1652-07-01_saint-flour_quittance_blanc |
+| [Bouzah?] / [Bouzeuts?] (Bouzentès ?) | 1 | 1634-04-15_saint-flour_vente_rigal-bugo |
 | [Bouzargues?] (ou Vouzargues, Couzargues), lieu aux appartenances duquel est le pré | 1 | 1665-02-28_saint-flour_vente_vidal-brassac |
+| [Bouzatz?] | 1 | 1633-06-03_saint-flour_vente_vigier-aymeric |
 | [Bouzentes?] | 1 | 1654-03-16_saint-flour_demission_daude-estiene |
 | [Bouzentes?] (probablement Bouzentès, paroisse de Villedieu) | 1 | 1664-06-22_saint-flour_echange_leynat-estival |
 | [Bouzentes?] / Bozentes | 1 | 1654-03-01_fraissenet_testament_nouzeiroe-beche |
@@ -4449,6 +4746,7 @@
 | [Bragzar?] | 1 | 1658-02-13_saint-flour_vente_sauron-jean |
 | [Brainc?] | 1 | 1656-11-20_saint-flour_vente_bougeyre-rochier |
 | [Brainhac?] / Braincac | 1 | 1655-00-00_saint-flour_vente_bardon-bugo |
+| [Brancheto?] | 1 | 1634-05-20_saint-flour_vente_roche-anglade |
 | [Brannal ?] | 1 | 1665-03-28_saint-flour_vente_chassang-chanson |
 | [Branziac?] | 1 | 1659-02-27_saint-flour_vente_buge-chauliaguet |
 | [Brassallye?] | 1 | 1665-09-29_saint-flour_testament_pouvert |
@@ -4456,10 +4754,13 @@
 | [Braurous?] (fonds, lecture douteuse) | 1 | 1656-11-14_saint-flour_transaction_albert-salvanhac |
 | [Brauroys?] (domaine) | 1 | 1657-03-24_saint-flour_transaction_blanc |
 | [Bre?] Cheylar (bois, lieu-dit) | 1 | 1663-02-10_saint-flour_vente_serieys-tailliand |
+| [Brea?] | 1 | 1633-12-13_saint-flour_testament_chazal |
+| [Breanna?] | 1 | 1633-01-25_saint-flour_mariage_gibrat-alhadieres |
 | [Bredille?] | 1 | 1666-03-06_saint-flour_vente_david-tisset |
 | [Brejac ?] du [Moulin ?] (confront du pré, lecture douteuse) | 1 | 1659-09-18_saint-flour_testament_tissier-broussy |
 | [Brela?] / [Brelaz?] (paroisse d'Aleuze) | 1 | 1666-04-02_aleuze_donation_bonniol |
 | [Brenielac?] | 1 | 1666-02-20_saint-flour_donation_borde |
+| [Breoux?] (paroisse de Saint-Georges ; lecture concurrente Brioude écartée) | 1 | 1634-09-21_saint-flour_quittance_rolland-chapsolle |
 | [Bressidelier?] (paroisse de Saint-Genest) | 1 | 1654-06-25_saint-flour_vente_chaugelbuf-maury |
 | [Bretaghol?] (paroisse d'Andelat) | 1 | 1659-02-10_saint-flour_subrogation_suvert-bechot |
 | [Breugol?] / [Breughol?] (chemin d'Andelat à) | 1 | 1660-05-01_saint-flour_echange_bougier-meiliot |
@@ -4500,14 +4801,18 @@
 | [Brughat?] (seigneurie censière) | 1 | 1664-01-20_saint-flour_vente_ballat-fabry |
 | [Brunel?] | 1 | 1628-07-04_saint-flour_bail_aymier-bonnenfant |
 | [Brunte?] (paroisse du témoin Durand) | 1 | 1661-10-08_saint-flour_vente_falhet-chaulhaguet |
+| [Bruogs?] (Siuogs), paroisse d'Alleuze | 1 | 1634-11-29_saint-flour_accord_montsal-landeiral |
 | [Bruyere?] (l. 3) | 1 | 1657-05-12_inconnu_echange_voustre-vercholles |
 | [Bruzols? / Brizols?] (seigneurie du bailleur) | 1 | 1628-07-04_saint-flour_bail_aymier-bonnenfant |
+| [Buaimone?] (lieu ou surnom d'un confront) | 1 | 1634-12-21_saint-flour_vente_jourdane-ruel |
 | [Buge?] [neufue?] (lieu-dit, lecture douteuse) | 1 | 1657-12-02_saint-flour_vente_fontanier-charbonnier |
 | [Bugier?] / [Rugie?] de [Valle?] (lieu de l'épouse) | 1 | 1656-12-31_saint-flour_mariage_benedict-debrun |
 | [Bugniere?] | 1 | 1665-04-19_saint-flour_transaction_bastal-cussac |
+| [Buic?] (village de Jean Mestre, paroisse de Saint-Georges) | 1 | 1634-05-17_saint-flour_quittance_gibrat-mestre |
 | [Buisson?] (mandement) | 1 | 1654-07-06_saint-flour_echange_chanson-teyssedre |
 | [Buisson?] / [Buysson?] (mandement) | 1 | 1653-05-18_vibrezac_partage_chanson-vedrines |
 | [Buissou?] (lieu-dit, l. 20) | 1 | 1654-09-00_saint-flour_vente_chastang-defondz |
+| [Bulzat?] / Bulhat / Bolzat / [Yolzat?] / Eyolzat, village de la paroisse de Talizat | 1 | 1634-08-27_saint-flour_vente_delbrun-traverse |
 | [Bume?] (village) | 1 | 1628-07-07_saint-flour_bail_vergier-chastang |
 | [Bunes?] | 1 | 1653-03-15_saint-flour_ratification_fion-cussac |
 | [Burzain?] | 1 | 1653-03-16_saint-flour_echange_delort-fornal |
@@ -4527,6 +4832,7 @@
 | [Caraze?] (lieu-dit) | 1 | 1656-03-08_saint-flour_vente_polverelles-chirol |
 | [Cardenam?] (annexe, l. 145, sens non établi) | 1 | 1658-05-15_saint-flour_mariage_mourgues-martin |
 | [Carrestan?] (lieu-dit, l. 8) | 1 | 1653-01-25_saint-flour_vente_coudre-salvatge |
+| [Cassieure?] | 1 | 1633-05-09_andelat_bail_brugier-julhe |
 | [Castal?] (l. 11, lecture très incertaine) | 1 | 1654-12-21_saint-flour_vente_gardelle-bussat |
 | [Castanier?] (terre d'Antoine Pagès, non résolu) | 1 | 1650-06-15_saint-flour_testament_durand |
 | [Castavaule?] (l. 12, sens obscur) | 1 | 1658-11-16_saint-flour_vente_baoreyre-odoul |
@@ -4541,9 +4847,13 @@
 | [Cavaudlle?] (mot biffé, l. 4) | 1 | 1656-04-01_saint-flour_vente_boudon-combes |
 | [Cavril?] de Morle | 1 | 1654-08-06_saint-flour_donation_portal |
 | [Celau?] (Cellau ?) | 1 | 1657-02-20_roffiac_testament_delolme-vautherin |
+| [Celesgieu?] (l. 25, non identifié) | 1 | 1634-05-01_saint-flour_transaction_cussat-filhol |
 | [Cellar?] (Celles ?) | 1 | 1658-03-03_coltines_mariage_nicolas-bonnet |
 | [Celles?] (paroisse) | 2 | 1658-03-14_coltines_echange_hugon-nicolas, 1659-02-22_saint-flour_echange_odoul-bastide |
 | [Cerea?] (village) | 1 | 1632-04-17_saint-flour_vente_treuer-pons |
+| [Ceren? / Cerou?] (endos) | 1 | 1634-01-17_saint-flour_promesse_tassy-belair |
+| [Cerieva? / Cerieira? / Cerier?] (paroisse de l'acquéreur et situation des biens, non identifiée) | 1 | 1633-09-26_saint-flour_vente_avinal-roussel |
+| [Cevause?] (village de Tanavelle ?) | 1 | 1644-06-21_saint-flour_vente_bouchet-daude |
 | [Cezan?] (lieu et appartenances, paroisse de Paulhac ; peut-être Cézens) | 1 | 1662-12-04_saint-flour_vente_delpeuch-faulcon |
 | [Cezen ?] | 1 | 1647-11-02_saint-flour_mariage_monier-autin |
 | [Cezens?] | 1 | 1647-11-17_saint-flour_quittance_rouger-attalin |
@@ -4559,8 +4869,14 @@
 | [Chabrilliac?] | 1 | 1661-04-07_saint-flour_testament_basset |
 | [Chabrinhac?] | 1 | 1666-04-22_saint-flour_vente_mouchiera-destubartes |
 | [Chabro?] (métairie) | 1 | 1651-09-22_saint-flour_transaction_chauliaguet |
+| [Chadalla?] (Chadalle ? Chadalles ? endos « Chad[...] »), paroisse de Coren | 1 | 1633-05-19_tiviers_mariage_chaulhaguet-duteil |
+| [Chadarr?] (l. 14, lieu ou personne ?) | 1 | 1634-08-27_saint-flour_vente_delbrun-traverse |
+| [Chadeleur?] / [Chadelon?] (l. 11-12, toponyme des confronts) | 1 | 1634-01-17_saint-flour_vente_perriel-tassy |
+| [Chadellat?] (résidence du témoin [Chaulsaguet?]) | 1 | 1634-12-21_saint-flour_vente_jourdane-ruel |
 | [Chadillac?] (ruisseau descendant de) | 1 | 1653-04-05_saint-flour_vente_dufaure-chauliaguet |
 | [Chadvelle?] | 1 | 1660-05-01_saint-flour_echange_bougier-meiliot |
+| [Chaila?] | 1 | 1634-02-14_saint-flour_mariage_clavieres-aymeric |
+| [Chailade?] | 1 | 1634-05-15_saint-flour_transaction_garnier |
 | [Chalbyre?] | 1 | 1662-02-05_saint-flour_echange_saignes-delcros |
 | [Chalchieres?] | 1 | 1665-08-24_saint-flour_vente_dabladie-maury |
 | [Chaliers ?] (église) | 1 | 1663-08-05_saint-flour_vente_feulhet-chanson |
@@ -4581,6 +4897,7 @@
 | [Chambeyssel?] | 1 | 1666-09-19_saint-flour_vente_lollier-jesuites |
 | [Chamblard?] | 1 | 1628-10-31_saint-flour_bail_dutheil-vendel |
 | [Chambolz?] | 1 | 1661-11-22_saint-flour_vente_estival-malet |
+| [Chambon?] (confront ?) | 1 | 1634-11-04_saint-flour_vente_crozet-vossen |
 | [Chamerit?] | 1 | 1666-06-27_vedrenan_vente_mallet-izabre |
 | [Champclaux?] (l. 4, fief ou nom ?) | 1 | 1628-12-02_saint-flour_diminution_champclaux-puyoy |
 | [Champiere?] | 1 | 1666-10-04_saint-flour_vente_lastic-barthet |
@@ -4600,8 +4917,10 @@
 | [Charbiar?] | 1 | 1662-07-19_saint-flour_mariage_delaroche-gillet |
 | [Charbier?] (lieu) | 1 | 1654-02-16_villedieu_mariage_rolland-vidal |
 | [Charbin ?] | 1 | 1632-03-21_saint-flour_vente_missonnier-boucye |
+| [Charentinge?] (Quarantinge / Duarentinge ?) | 1 | 1634-05-17_saint-flour_quittance_gibrat-mestre |
 | [Charmensac ?] | 1 | 1659-09-26_saint-flour_testament_blanc |
 | [Charmensac?] (cure) | 1 | 1661-03-15_saint-flour_testament_boyer-boudon |
+| [Charmensac?] (très douteux) | 1 | 1634-07-05_saint-flour_vente_lafargette-murat |
 | [Charmezol?] | 1 | 1628-07-04_saint-flour_bail_aymier-bonnenfant |
 | [Charoux?] (paroisse des [Ternes?]) | 1 | 1664-03-10_villedieu_donation_bouc |
 | [Charrel?] (biffé, l. 7) | 1 | 1656-02-21_saint-flour_subrogation_villemault-albepart |
@@ -4629,6 +4948,7 @@
 | [Chassanittes?] (Chassagnettes ?), paroisse de Coltines | 2 | 1656-06-14_saint-flour_echange_salgues-hugon, 1658-03-03_coltines_mariage_nicolas-bonnet |
 | [Chassans?] (Chassang / Chassagnes) | 1 | 1628-10-31_saint-flour_bail_dutheil-vendel |
 | [Chassant?] (pré) | 1 | 1661-07-14_saint-flour_echange_mas-bardon |
+| [Chassanyolles?] (Gassanyol(l)es / Chassanyoles), endos « Chassaignelles[?] » ou « Chassaignettes[?] », village de la paroisse de Coltines | 1 | 1633-05-21_saint-flour_vente_bouycher-tassy |
 | [Chassauuel? / Chassaunet?] | 1 | 1652-05-06_coltines_echange_crossoul-defoudz |
 | [Chassignonet?] (l. 2) | 1 | 1655-04-24_saint-flour_vente_fabre-vachassol |
 | [Chastaignettes?] (lieu de Barreyre et du pré ; endos : [Chasauenty?]) | 1 | 1658-05-21_saint-flour_echange_tassy-barreyre |
@@ -4648,6 +4968,7 @@
 | [Chaubernoz?] (chemin de Neuvéglise à) | 1 | 1655-05-25_saint-flour_subrogation_vezis-brousse |
 | [Chaudazou?] (chemin allant au) | 1 | 1652-07-00_saint-flour_echange_margerit-boudoz |
 | [Chaudegueil?] / [Chautgoisel?] (par. Chaliers) | 1 | 1656-11-19_saint-flour_vente_falvet-boulon |
+| [Chaudernac?] | 1 | 1634-02-16_saint-flour_quittance_bastide-andrieu |
 | [Chaudesaigues?] | 2 | 1652-09-28_saint-flour_transaction_crioullier-mauron, 1666-01-02_saint-flour_echange_ballat-cassand |
 | [Chaudesaigues?] (l. 21) | 1 | 1657-05-12_inconnu_echange_voustre-vercholles |
 | [Chaudesaigues?] (« Gaudirlaigue » apparent) | 1 | 1661-10-29_saint-flour_cession_roux-boudon |
@@ -4655,6 +4976,7 @@
 | [Chaugea?] / Chauges | 1 | 1652-02-10_saint-flour_vente_dommergue-sautherez |
 | [Chaugiac?] (seigneurie) | 1 | 1664-02-04_saint-flour_vente_meyliac-bonafos |
 | [Chaugros?] (terroir, lecture douteuse) | 1 | 1662-11-09_saint-flour_vente_rolland-chauliaguet |
+| [Chaulhac?] (Chauliac, Chaliers), lieu et paroisse d'origine de l'épouse | 1 | 1634-10-16_saint-flour_mariage_gonnet-malmert |
 | [Chauliac ?] [dessus ?] | 1 | 1659-09-10_villedieu_inventaire_chavallier-tisset |
 | [Chaulinnes?] (paroisse de La Vastrie) | 1 | 1647-09-17_saint-flour_testament_vernhe |
 | [Chaumalauher?] | 1 | 1664-09-06_saint-flour_vente_couliadire-roudil |
@@ -4714,6 +5036,7 @@
 | [Chazauelle?] (interligne l. 14, lieu-dit du champ, douteux) | 1 | 1653-12-20_saint-flour_vente_vendier-chambaron |
 | [Chazaux?] | 1 | 1664-06-16_saint-flour_testament_sauret-boudet |
 | [Chazaux?], paroisse [d'Estellar?] | 1 | 1657-04-08_saint-flour_mariage_vachier-bonnol |
+| [Chaze?] des Prés (terroir) | 1 | 1634-09-16_saint-flour_vente_vigier-aymeric |
 | [Chazelle?] (lieu et paroisse, résidence du cédant) | 1 | 1653-02-10_saint-flour_cession_barthe |
 | [Chazelles?] | 1 | 1648-06-14_saint-flour_vente_devauzesse-delrieu |
 | [Chazelles?] (paroisse) | 1 | 1654-02-21_saint-flour_testament_teyssedre-chazalledez |
@@ -4721,6 +5044,7 @@
 | [Chazes?] | 1 | 1664-02-20_saint-flour_mariage_lebre-combes |
 | [Chazouze?] (Chazoux / Chazeuze) | 1 | 1656-02-20_saint-flour_mariage_fages-chastang |
 | [Chazy?] (paroisse d'Alleuze) | 1 | 1654-07-18_saint-flour_vente_pouget-faure |
+| [Chebotmas? / Chebolmar?] (seigneurie ?) | 1 | 1634-03-21_saint-flour_vente_gorce-andrieu |
 | [Chessevard?] / [Villevard?] | 1 | 1656-04-01_saint-flour_vente_boudon-combes |
 | [Chesteyrou?] (appartenances, Neuvéglise) | 1 | 1653-05-13_saint-flour_vente_chabert-fabry |
 | [Cheun?] (lieu de Jean Crespoul, paroisse [Roffiac?]) | 1 | 1656-12-22_saint-flour_transaction_crespoul-crestail |
@@ -4728,14 +5052,17 @@
 | [Chevrugue?] (l. 39, lecture très incertaine) | 1 | 1656-03-05_alleuze_testament_pellegrin-grezes |
 | [Chezelle?] (domicile du donateur, l. 4) | 1 | 1661-12-04_saint-flour_donation_delaroche |
 | [Chonbonne?] | 1 | 1659-07-05_saint-flour_mariage_seimen-rolland |
+| [Choudevo?] (boria) | 1 | 1633-02-28_saint-flour_vente_vigouroux-brassac |
 | [Chouguiron?] (terroir, Mons) | 1 | 1649-03-27_inconnu_echange_rolland |
 | [Chouiran?] | 1 | 1657-03-00_saint-flour_echange_pascal-boyer |
 | [Chrans? / Graus?] (l. 3) | 1 | 1660-07-04_villedieu_testament_bastare |
+| [Chugussat?] (Chauguessat / Clauzussat ?), l. 4 | 1 | 1634-03-25_saint-flour_vente_gastel |
 | [Churetieres?] en Limousin | 1 | 1662-07-04_saint-flour_mariage_chirol-charloton |
 | [Ciaudo?] | 1 | 1664-11-29_saint-flour_bail_rolland-esthie |
 | [Cinguessat?] (lieu de la métairie, lecture très douteuse) | 1 | 1626-11-12_saint-flour_bail_barthomieu-vidal |
 | [Ciroue?] (lieu de la mère) | 1 | 1632-05-08_saint-flour_vente_treual-hisseire |
 | [Clam?] (l. 15) | 1 | 1660-12-11_saint-flour_vente_martin-suvert |
+| [Clarcou?] | 1 | 1634-02-14_saint-flour_mariage_clavieres-aymeric |
 | [Clarensac?] | 1 | 1665-11-15_voffrac_cession_gazel-veyssiere |
 | [Clauiere?] (paroisse) | 1 | 1662-10-09_saint-flour_vente_hugon |
 | [Clauyer?] (interligne l. 23) | 1 | 1653-11-14_coren_vente_seurgol-mossier |
@@ -4748,8 +5075,10 @@
 | [Clermont?] | 1 | 1665-08-09_saint-flour_vente_jury-aujolet |
 | [Clermont?] (l. 39, douteux) | 1 | 1628-07-06_saint-flour_transaction_reynalt-chavanon |
 | [Clevrou?] | 1 | 1666-09-30_saint-flour_subrogation_hugoz-destubartes |
+| [Clidonne?] (Lidonne ?), l. 5 | 1 | 1634-03-25_saint-flour_vente_gastel |
 | [Clingat ?] | 1 | 1659-06-16_saint-flour_vente_gardret-chanson |
 | [Cloudreves?] (seigneurie) | 1 | 1660-07-25_saint-flour_vente_lebre-joune |
+| [Cmeria?] (endos) | 1 | 1634-11-16_saint-flour_vente_gibrat-bechassol |
 | [Cobrat?] | 1 | 1656-12-21_saint-flour_testament_bechot-dupre |
 | [Cochnie?] / Coltnie (Coltines ?) | 1 | 1653-08-12_saint-flour_vente_cussac-defondz |
 | [Codebelle?] (commun) | 1 | 1659-06-05_saint-flour_echange_fareyre-siomy |
@@ -4764,9 +5093,12 @@
 | [Coffier?] / [Coffiar?] (paroisse) | 1 | 1654-04-14_saint-flour_echange_bouffre-chastang |
 | [Coffinac?] | 2 | 1652-01-18_saint-flour_mariage_brassac-chevallier, 1659-06-23_saint-flour_vente_mournat-bonniol |
 | [Coffine?] (ressort du greffier, très douteux) | 1 | 1661-06-25_saint-flour_donation_chassang-barthet |
+| [Cogaussa?] / Fogaussa (Cougoussa probable), l. 5 | 1 | 1634-03-26_saint-flour_vente_gastel-jurol |
+| [Cognassac?], paroisse d'Andelat (« dandelhac ») | 1 | 1634-03-25_saint-flour_vente_maury-jailhe |
 | [Coiltines?] (peut-être Coltines) | 1 | 1659-04-27_saint-flour_vente_mallet-chauliaguet |
 | [Coiz?] | 1 | 1658-03-03_coltines_mariage_nicolas-bonnet |
 | [Col]tines[?] (Coltines ?) | 1 | 1655-11-20_saint-flour_vente_fournier-chastang |
+| [Colhen?] | 1 | 1644-10-06_saint-flour_mariage_chastang-colomb |
 | [Collarons?] | 1 | 1653-06-22_saint-flour_mariage_astier-noel |
 | [Colleige?] (Saint-Flour) | 1 | 1632-02-21_saint-flour_mariage_brissede-pons |
 | [Collme?] (endos, sans doute Coltines) | 1 | 1654-09-00_saint-flour_vente_chastang-defondz |
@@ -4776,12 +5108,13 @@
 | [Colomie?] | 1 | 1653-01-14_saint-flour_vente_barthomieuf-jomarte |
 | [Colsiaz?] (seigneurie) | 1 | 1663-09-01_saint-flour_testament_bonafos |
 | [Coltines ?] (paroisse, lecture incertaine) | 1 | 1659-07-00_saint-flour_echange_fabry-raymond |
-| [Coltines?] | 5 | 1651-01-12_saint-flour_mariage_coulzie-bastide, 1653-10-14_saint-flour_vente_riourde, 1657-11-17_saint-flour_mariage_sauvet-jean, 1661-04-07_saint-flour_testament_basset, 1666-02-00_saint-flour_vente_hugon-sauve |
+| [Coltines?] | 6 | 1634-02-18_saint-flour_mariage_combes-prieghau, 1651-01-12_saint-flour_mariage_coulzie-bastide, 1653-10-14_saint-flour_vente_riourde, 1657-11-17_saint-flour_mariage_sauvet-jean, 1661-04-07_saint-flour_testament_basset, 1666-02-00_saint-flour_vente_hugon-sauve |
 | [Coltines?] (Colhuis / Coltuis / Coltines / Coltmis ; endos [Cochneu?]) | 1 | 1653-03-18_saint-flour_vente_bardon-hugon |
 | [Coltines?] (appartenances et chemin) | 1 | 1654-03-22_saint-flour_desistement_martin-broz |
 | [Coltines?] (lieu et paroisse) | 1 | 1653-07-27_saint-flour_mariage_teyssedre-pignol |
 | [Coltines?] (paroisse ; lecture concurrente Holtines) | 1 | 1660-10-23_saint-flour_vente_bardon-odoul |
 | [Coltines?] (paroisse) | 2 | 1654-05-09_saint-flour_vente_fabre-crespoul, 1658-04-20_saint-flour_vente_combes-deloire |
+| [Coltines?] / [Colhac?] / [Colhan?] / [Coltinier?] (paroisse, église paroissiale) | 1 | 1644-11-28_saint-flour_accord_negrier-hugon |
 | [Coltinis?] (Coltines ?, l. 48) | 1 | 1654-07-19_saint-flour_vente_chavallier-chastang |
 | [Coltures?] / Coltures (endos), paroisse — probablement Coltines | 1 | 1661-05-23_saint-flour_echange_hugon-barreyre |
 | [Coltz? / Coltines?] (juridiction du juge) | 1 | 1652-04-14_saint-flour_transaction_hugon-bauny |
@@ -4792,6 +5125,7 @@
 | [Comberhande?] | 1 | 1656-09-29_saint-flour_transaction_bouchard-chauliaguet |
 | [Comberobert?] | 1 | 1661-07-14_saint-flour_echange_mas-bardon |
 | [Combes?] (faubourg de Saint-Flour) | 1 | 1653-07-27_saint-flour_mariage_teyssedre-pignol |
+| [Combes?] / [lou Combes?], lieu-dit du bien vendu aux appartenances de [Lebrigat?] | 1 | 1633-11-14_saint-flour_vente_monnier-mossine |
 | [Combezande?] (paroisse de Tiviers) | 1 | 1656-07-09_saint-flour_mariage_estival-chaulhaguet |
 | [Combordous?] (nom du champ) | 1 | 1654-04-20_saint-flour_vente_andrieu-cussac |
 | [Combret?] | 1 | 1663-09-02_saint-flour_echange_chanson |
@@ -4799,7 +5133,10 @@
 | [Combret?] (Combre / Combrède ?), paroisse de Lavastrie | 1 | 1652-04-28_saint-flour_obligation_chanson |
 | [Combrettes?] | 1 | 1632-09-11_saint-flour_titreclerical_attalec-nabou |
 | [Combro?] (confront, l. 21) | 1 | 1660-06-23_coltines_vente_reuel-verdier |
+| [Comeaulx?] | 1 | 1633-01-25_saint-flour_mariage_gibrat-alhadieres |
+| [Commanderie?] (l. 27, non nommée) | 1 | 1634-11-19_saint-flour_vente_vigier-missonier |
 | [Compautyr ?] | 1 | 1662-02-18_saint-flour_mariage_cussac-vachier |
+| [Conhe?] (ville de la procuration) | 1 | 1633-04-09_saint-flour_vente_arnal-tissedre |
 | [Consolay?] (seigneurie de Simon de [Thiry?]) | 1 | 1656-05-16_saint-flour_subrogation_jourdy-chanuel |
 | [Contesin?] (paroisse, ville d'Issoire) | 1 | 1658-06-18_coltines_donation_rouby-pelegry |
 | [Conyguer?] / [Conzerguer?] (village de l'épouse) | 1 | 1658-02-09_saint-flour_mariage_meyliot-cussac |
@@ -4814,14 +5151,17 @@
 | [Coren ?] (paroisse, non résolue) | 1 | 1665-03-22_saint-flour_vente_chassang |
 | [Coren ?] (paroisse, très incertain) | 1 | 1658-09-15_saint-flour_mariage_vaylet-fernail |
 | [Coren?] | 3 | 1659-03-08_saint-flour_vente_chastang-maury, 1660-01-00_ferrin_procuration_mossier-maury, 1664-11-22_saint-flour_mariage_gautheron-bussollier |
+| [Coren?] (baronnie dont Vayron est greffier) | 1 | 1634-08-31_saint-flour_cession_chaulhaguet-vayron |
 | [Coren?] (chemin de Coren au moulin) | 1 | 1653-02-00_saint-flour_vente_barthomeuf-chanlaguet |
 | [Coren?] (l. 11) | 1 | 1654-02-10_alleuze_mariage_mosnier-meyhoulle |
+| [Coren?] (ou Ceren) | 1 | 1634-01-17_saint-flour_vente_perriel-tassy |
 | [Coren?] (ou Forez/Foreix) | 1 | 1657-05-24_saint-flour_transaction_mauvy-mossier |
 | [Coren?] (paroisse ; variante Doran) | 1 | 1653-07-27_saint-flour_mariage_teyssedre-pignol |
 | [Coren?] (paroisse de la métairie) | 1 | 1628-11-17_saint-flour_bail_chanlhaguet-baldissard |
 | [Coren?] (paroisse) | 2 | 1653-04-05_saint-flour_vente_dufaure-chauliaguet, 1661-04-02_saint-flour_echange_fucal-alissard |
 | [Coren?] (paroisse, l. 17) | 1 | 1626-11-14_saint-flour_cession_pons-reynaldy |
 | [Coren?] / [Corenz?] (concurrent : Covitz) | 1 | 1660-09-21_la-brousse_testament_maury |
+| [Coreuilvie?] | 1 | 1633-12-13_saint-flour_testament_chazal |
 | [Cormyers?] / [Cormeyer?] (village, paroisse de Chaudes-Aigues) | 1 | 1632-11-27_saint-flour_mariage_delhac-amat |
 | [Cornas?] (l. 21) | 1 | 1657-05-12_inconnu_echange_voustre-vercholles |
 | [Cornies ?] (paroisse) | 1 | 1650-00-00_saint-flour_vente_chastel-sauret |
@@ -4831,6 +5171,7 @@
 | [Cosn...?] (bailliage ?) | 1 | 1626-02-08_saint-flour_transaction_malessaigne-lastic |
 | [Cossiac?] / [Coffiac?] (paroisse) | 1 | 1657-03-28_saint-flour_echange_alboy-gibrat |
 | [Cossroue?] des vendeurs (partie de leur maison) | 1 | 1661-08-06_saint-flour_vente_brassac-lavergne |
+| [Costade?] | 1 | 1634-01-02_saint-flour_vente_sandou-jean |
 | [Coste?] de Murat | 1 | 1664-08-11_saint-flour_mariage_chadel-rolland |
 | [Costechieu?] | 1 | 1666-01-31_saint-flour_mariage_mounier-roudil |
 | [Costellade?] | 1 | 1628-07-17_saint-flour_bail_sauret-chastang |
@@ -4848,6 +5189,7 @@
 | [Coudere?] (couderc) commun del lac, Sériers | 1 | 1656-05-03_saint-flour_vente_bressolles-chanson |
 | [Coudesshes?] / [Courdeshes?] (Cordesse ?) | 1 | 1662-08-27_saint-flour_vente_grisson-salvanhac |
 | [Coulac fajet?] (pastural, Coltines) | 1 | 1666-10-28_saint-flour_vente_andel-hugon |
+| [Couloumie?] (l. 31) | 1 | 1644-10-02_saint-flour_vente_teyssedre-bragier |
 | [Coultinez?] | 1 | 1666-02-00_saint-flour_vente_hugon-sauve |
 | [Coulz? / Coultz? / Coalh?] (village, paroisse de Coltines) | 1 | 1653-11-27_saint-flour_vente_dolz-mar |
 | [Coulzat?] | 1 | 1665-08-30_saint-flour_mariage_page-delrieu |
@@ -4860,6 +5202,9 @@
 | [Courdesses?] (Cordesse ?) | 1 | 1662-07-01_saint-flour_vente_grisson-mousset |
 | [Couren?] (Coren ?) | 1 | 1663-04-23_saint-flour_obligation_champaniac-delrhieu |
 | [Couren?] / [Coren?] (Coren ?) | 1 | 1656-07-00_saint-flour_mariage_chaluet-costerousse |
+| [Courgona?], paroisse de Coren (endos) | 1 | 1634-03-25_saint-flour_vente_gastel |
+| [Courgoulzes?] (endos) | 1 | 1634-03-26_saint-flour_vente_gastel-jurol |
+| [Couriou?] (lieu d'habitation, corps de l'acte) | 1 | 1633-11-13_saint-flour_testament_rouchea |
 | [Cournac?] (confront, chemin) | 1 | 1653-06-29_saint-flour_vente_mallet-bergier |
 | [Cournasse?] | 1 | 1665-12-29_saint-flour_vente_gaultier-daufeulhe |
 | [Cours?] / Coren ? (paroisse, l. 5) | 1 | 1654-07-22_saint-flour_subrogation_delort-delaroche |
@@ -4881,9 +5226,12 @@
 | [Coute ?] | 1 | 1650-03-18_saint-flour_vente_vigier |
 | [Couteau?] | 1 | 1657-03-00_inconnu_donation_langournes-hugon |
 | [Coutens?] / [Coutuns?] / Cou[t?]h[e?]ns, paroisse de Saint-Flour (résidence de l'acquéreur) | 1 | 1652-01-31_saint-flour_vente_chauvi-barrou |
+| [Coutes?] (Coltines ?) | 1 | 1634-02-07_saint-flour_vente_chapoulade-fevrane |
 | [Coutsounet?] | 1 | 1659-06-05_saint-flour_echange_fareyre-siomy |
 | [Couttenau?] (pré ou champ) | 1 | 1653-02-05_saint-flour_vente_canilhac-bourdiol |
 | [Coutures?] (Coutures, Cottures, coutoture ; Courtines ? hypothèse), lieu des parties | 1 | 1660-11-14_saint-flour_vente_polverelles |
+| [Couvent?] [?] | 1 | 1638-00-00_saint-flour_transaction_inconnu |
+| [Coux?] (chappellanie) | 1 | 1644-11-28_saint-flour_accord_negrier-hugon |
 | [Couzan?] | 1 | 1665-12-13_saint-flour_echange_chastre-jouve |
 | [Couzan?] (Courzan ? Cousan ?) | 1 | 1660-06-15_saint-flour_vente_chappus-patissoulx |
 | [Couzdobro?] (paroisse) | 1 | 1664-08-17_saint-flour_vente_ayme-lollier |
@@ -4897,6 +5245,7 @@
 | [Craffeuls?] | 1 | 1661-01-15_saint-flour_mariage_alboy-pellegrin |
 | [Crastival?] | 1 | 1658-02-09_roffiac_mariage_blondy-parra |
 | [Cravre?] | 1 | 1666-10-19_inconnu_testament_ventengol |
+| [Cravre?] (village de Roffiac) | 1 | 1633-02-28_saint-flour_vente_vigouroux-brassac |
 | [Cremat?] | 1 | 1660-03-30_saint-flour_vente_roussel-chirol |
 | [Crestail?] | 1 | 1654-05-09_saint-flour_echange_fabre-crespoul |
 | [Cretin?] (terroir des champs ?) | 1 | 1654-10-14_saint-flour_vente_maury-comte |
@@ -4921,8 +5270,9 @@
 | [Cuirgues?] | 1 | 1662-11-08_saint-flour_revente_rispal-charreyre |
 | [Cumbettes?] (confront, lecture très douteuse) | 1 | 1632-11-29_saint-flour_vente_nougier-grassal |
 | [Cummay?] (l. 48, chemin) | 1 | 1661-01-25_saint-flour_mariage_boyer-bonniol |
+| [Cuny?] | 1 | 1644-10-06_saint-flour_mariage_chastang-colomb |
 | [Cussac ?] | 1 | 1659-05-11_saint-flour_testament_delchier |
-| [Cussac?] | 1 | 1661-10-29_saint-flour_cession_roux-boudon |
+| [Cussac?] | 2 | 1633-11-13_saint-flour_testament_boucher, 1661-10-29_saint-flour_cession_roux-boudon |
 | [Cussac?] (paroisse) | 1 | 1659-02-05_saint-flour_rente_saumade-polverelles |
 | [Cussac?] (seigneurie ou prieuré, l. 28 et quittance) | 1 | 1653-05-11_saint-flour_vente_vidal-chazot |
 | [Cussac?] / Coffrac (paroisse ; église et cimetière) | 1 | 1660-04-16_cussac_testament_ceyssedre-filhol |
@@ -4934,14 +5284,18 @@
 | [Dalhuze?] (Alleuze ?) | 1 | 1665-05-23_saint-flour_mariage_begne-barthet |
 | [Dandelat?] (Andelat ?) | 1 | 1632-03-14_saint-flour_transaction_delaire-combe |
 | [Dasplanes ?] / Las planes | 1 | 1664-03-09_saint-flour_bail_roux-sentheran |
+| [Daudelat?] (endos) | 1 | 1633-02-11_saint-flour_vente_julhe-baille_b |
 | [Daudlau?] | 1 | 1665-09-29_saint-flour_testament_pouvert |
 | [Daufedoue?] / [Dadridou?] (paroisse de Ruynes) | 1 | 1666-08-06_saint-flour_transaction_hugon-chavanie |
 | [Daugeres?] (lieu et paroisse de Pierre Chaulhaguet oncle) | 1 | 1656-07-09_saint-flour_mariage_estival-chaulhaguet |
+| [Daugsaloux / Dausaloux ?], lieu, paroisse de Cezens | 1 | 1633-12-24_saint-flour_vente_delpiron-bozona |
+| [Dausay?] | 1 | 1633-12-13_saint-flour_testament_chazal |
 | [Dauzas?] | 1 | 1666-01-05_saint-flour_vente_charbonnel-cibiel |
 | [Daze?] (endos, l. 91) | 1 | 1665-09-26_saint-flour_testament_chalier |
 | [Delamaneng?] (l. 18) | 1 | 1652-12-16_inconnu_testament_gauthier |
 | [Delmar?] / Delmas | 1 | 1651-06-16_saint-flour_rente_pignol-boubolane |
 | [Delubu?] | 1 | 1652-05-13_saint-flour_vente_castel-chanson |
+| [Derzerlery?] (endos) | 1 | 1633-12-24_saint-flour_vente_delpiron-bozona |
 | [Despinasse?] | 1 | 1632-09-06_saint-flour_vente_corspoul-delaire |
 | [Destalopes?] (paroisse de Bredons) | 1 | 1656-02-25_saint-flour_mariage_labroha-gillet |
 | [Deuzey ?] | 1 | 1628-03-06_saint-flour_inventaire_cocher-bazard |
@@ -4949,8 +5303,11 @@
 | [Deyrni?] / [Deyrin?] / [Teyrni?] (lieu des prés, sans doute un seul lieu) | 1 | 1652-07-17_saint-flour_vente_chazalledes-dausfilhe |
 | [Dienne?], paroisse | 1 | 1654-04-30_saint-flour_mariage_chassang-rigault |
 | [Dienz?] pr[es] [Vreze?], paroisse de Saint-Flour (endos) | 1 | 1626-09-21_saint-flour_obligation_roux-vendre |
+| [Distoriva?] | 1 | 1633-10-22_saint-flour_vente_boyer-vieulx |
 | [Dolaboou?] (paroisse d'Andelat) | 1 | 1660-05-01_saint-flour_echange_bougier-meiliot |
 | [Doleuze?] (paroisse de la Barge, lecture incertaine) | 1 | 1660-05-15_saint-flour_vente_couzarie-chanson |
+| [Dolsieu?] (pièce de terre) | 1 | 1634-11-16_saint-flour_vente_gibrat-bechassol |
+| [Dordessa?] | 1 | 1633-11-13_saint-flour_testament_boucher |
 | [Doucy?] | 1 | 1665-08-30_saint-flour_mariage_page-delrieu |
 | [Douge?] | 1 | 1632-10-26_saint-flour_testament_bechot |
 | [Doyze?] | 1 | 1632-10-26_saint-flour_testament_bechot |
@@ -4965,12 +5322,14 @@
 | [Esfavrels?] [dandrean?] / [Aondreau?] (lieu de la cédante, non identifié) | 1 | 1656-04-16_saint-flour_demission_sendoux-andelat |
 | [Esparnes?] de Molo[...][?] | 1 | 1660-06-20_saint-flour_vente_albaret-ygonnet |
 | [Espaville ?] | 1 | 1662-06-08_saint-flour_donation_boisseyre-pignol |
+| [Esplaure?] | 1 | 1633-07-00_saint-flour_testament_bardon |
 | [Estiue?] (Estiene / Esture ?), paroisse de Roffiac | 1 | 1661-02-27_saint-flour_partage_gibrat |
 | [Estrieus?] (Estriers / Estreurs), paroisse de Montchamp | 1 | 1654-10-24_saint-flour_mariage_albarie-majre |
 | [Estubarts?] | 1 | 1657-03-24_saint-flour_transaction_blanc |
 | [Ezlas?] | 1 | 1626-02-15_saint-flour_bail_sauret-vergette |
 | [F?]reyssenet (surnom ou lieu d'origine d'un témoin, incertain) | 1 | 1665-06-24_saint-flour_mariage_julhe-sauvaige |
 | [Fadasoux?] | 1 | 1659-06-05_saint-flour_echange_fareyre-siomy |
+| [Fadconac?] | 1 | 1634-02-16_saint-flour_quittance_bastide-andrieu |
 | [Fage ?] | 1 | 1659-02-19_saint-flour_echange_foraud-frenal |
 | [Fagemaure?] | 1 | 1659-02-27_saint-flour_vente_buge-chauliaguet |
 | [Fageou ?] | 1 | 1665-03-22_saint-flour_vente_chassang |
@@ -4980,6 +5339,7 @@
 | [Faillitur?] | 1 | 1665-11-29_vedrenat_mariage_malet-malet |
 | [Falisse?] | 1 | 1628-07-04_saint-flour_bail_aymier-bonnenfant |
 | [Falitoiche?], paroisse de Saint-Georges | 1 | 1650-05-14_saint-flour_mariage_jouvenhe-aujolet |
+| [Fanlou?], paroisse d'Andelat (lieu de l'acte, maison d'Antoine [Servain?] ; ou graphie liée de « au lieu ») | 1 | 1633-07-27_andelat_testament_sarrel |
 | [Farge / Fage / Fages ?] (lieu des parties) | 1 | 1665-03-22_saint-flour_vente_chassang |
 | [Fargeline?] / [Audelon?] / [du Roure?] (incertain, l. 136) | 1 | 1660-11-14_saint-flour_mariage_brives-brugier |
 | [Fargues?] | 1 | 1660-11-06_saint-flour_declaration_miallet |
@@ -4988,11 +5348,14 @@
 | [Fauges?] / [Fauger?] (lieu, paroisse de Lavastrie) | 1 | 1652-07-06_saint-flour_transaction_rolland-bourzet |
 | [Faugiers?] | 1 | 1665-11-15_voffrac_cession_gazel-veyssiere |
 | [Fauinoux?] (champ) | 1 | 1654-03-16_saint-flour_demission_daude-estiene |
+| [Faumiac?] | 1 | 1634-10-11_saint-flour_testament_joullio-julhi |
 | [Fauriz?] | 1 | 1654-10-14_saint-flour_vente_maury-comte |
 | [Fauvays?] (lieu de Chambaron) | 1 | 1626-11-15_saint-flour_desistement_vergete-chambaron |
 | [Fauves?] | 1 | 1660-09-21_la-brousse_testament_maury |
-| [Faverolles?] | 3 | 1650-01-26_saint-flour_vente_doumergue-dupre, 1660-06-02_saint-flour_bail_ytual-fromen, 1662-06-17_saint-flour_testament_portefaix-fajon |
-| [Faverolles?] (paroisse) | 1 | 1651-08-04_saint-flour_mariage_vessiere-tisset |
+| [Fauxbourgh?] | 1 | 1633-05-09_andelat_bail_brugier-julhe |
+| [Faverolles?] | 4 | 1634-09-28_saint-flour_transaction_chanson-vaudeye, 1650-01-26_saint-flour_vente_doumergue-dupre, 1660-06-02_saint-flour_bail_ytual-fromen, 1662-06-17_saint-flour_testament_portefaix-fajon |
+| [Faverolles?] (Fazerolles), lieu et paroisse d'origine de l'époux | 1 | 1634-10-16_saint-flour_mariage_gonnet-malmert |
+| [Faverolles?] (paroisse) | 2 | 1634-09-03_saint-flour_obligation_cormoul-chalier, 1651-08-04_saint-flour_mariage_vessiere-tisset |
 | [Faverolles?] (« Fauerolles », paroisse ; lecture incertaine) | 1 | 1626-11-04_saint-flour_compromis_desauret-cinqfougeran |
 | [Faveyrolles ?] (paroisse) | 1 | 1650-09-27_saint-flour_vente_berthier-farges |
 | [Favols?] | 1 | 1653-10-20_saint-flour_mariage_borel-mollinier |
@@ -5012,12 +5375,14 @@
 | [Fenier?] / Fener / Fenez (lieu et paroisse du vendeur et du témoin Guillien [Senuen?] ; non identifié) | 1 | 1653-02-03_saint-flour_vente_bressolles-rolland |
 | [Feniz?] | 1 | 1658-02-09_saint-flour_mariage_meyliot-cussac |
 | [Feore?] (seigneurie) | 1 | 1660-07-18_saint-flour_vente_peutgere-montgial |
+| [Feoreza?] | 1 | 1633-11-19_saint-flour_vente_pons-chastel |
 | [Feorne?] / [Teorne?] près [Sade?] | 1 | 1660-06-19_saint-flour_vente_chanson |
 | [Ferghuerrie?] (lieu de passation ?) | 1 | 1628-07-01_saint-flour_bail_cruzetin-bertier |
 | [Ferrauvcoux?] (lieu) | 1 | 1653-10-16_saint-flour_cession_mosnier-madieu |
 | [Ferrin?] | 1 | 1660-01-00_ferrin_procuration_mossier-maury |
 | [Ferrouhurge?] | 1 | 1628-07-04_saint-flour_bail_aymier-bonnenfant |
 | [Fessyolles?] | 1 | 1654-09-16_andelat_testament_sauvet-chalmette |
+| [Feutgières?] (feutgieres / Fentgières ; endos [Freugieres?]), paroisse de Talizat | 1 | 1634-09-16_saint-flour_vente_vigier-aymeric |
 | [Feuvdon?] (lieu du vendeur, endos ; Fenodon, Ferrodon ?) | 1 | 1653-09-20_saint-flour_vente_salnaz-rolland |
 | [Feyrolles?] (appartenances du bien) | 1 | 1653-09-20_saint-flour_vente_salnaz-rolland |
 | [Feyzber?] (appartenances ; Seyzber ?) | 1 | 1653-01-14_saint-flour_echange_goussier-rolland |
@@ -5030,15 +5395,19 @@
 | [Flamargues?] (seigneurie de feu Pierre Chabot) | 1 | 1652-03-10_saint-flour_echange_chabot-vachier |
 | [Flamarguin?] (confront ; cf. Flamargun) | 1 | 1652-06-10_saint-flour_echange_chazot-vidal |
 | [Flamarguin?], paroisse de Saint-Georges | 1 | 1654-02-16_villedieu_mariage_rolland-vidal |
+| [Flamarguière?] | 1 | 1634-09-04_saint-flour_prixfait_chaulhaguet-tardieu |
 | [Flamboir?] | 1 | 1653-03-19_saint-flour_vente_vidal-chazot |
 | [Flamenc?] | 1 | 1657-04-00_saint-flour_mariage_boudie-portail |
+| [Flamenge?] | 1 | 1644-05-09_saint-flour_vente_sabatier-devannes |
 | [Flanagues?] | 1 | 1664-01-13_saint-flour_mariage_deleros-roux |
 | [Fleurzin?] | 1 | 1658-05-25_saint-flour_testament_rigault |
 | [Florghes?] (origine du vendeur, endos) | 1 | 1652-05-23_saint-flour_vente_boissolier-rolland |
 | [Floriban?] (lieu-dit aux appartenances de Saint-Flour) | 1 | 1661-11-11_saint-flour_vente_chazaledes-deleph |
+| [Floribeau?] (Florbeau), aux appartenances de Saint-Flour (jardin) | 1 | 1634-11-01_saint-flour_donation_fayon-valarchier |
 | [Flourtoun?] | 1 | 1652-04-13_saint-flour_vente_domergue-dupuy |
 | [Flourtz?] (juridiction du juge, l. 27) | 1 | 1653-05-10_saint-flour_vente_rivore-mar |
 | [Fo?] / del [fe?] (lieu d'habitation des parties, paroisse de Paulhac ; Fo / Fe / Fau / Fer ?) | 1 | 1653-04-26_saint-flour_vente_mauly |
+| [Fodieres?] | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
 | [Foldon ?] (seigneurie) | 1 | 1660-01-06_saint-flour_mariage_martin-cussac |
 | [Fonbirgues?] / [Fonbiergues?] (métairie de Pierre Grassalt) | 1 | 1665-07-04_saint-flour_inventaire_grassalt-berthon |
 | [Fonbonne?] | 1 | 1664-11-20_saint-flour_partage_regimbalt-faucon |
@@ -5052,14 +5421,20 @@
 | [Fontbouine?] (Fontbonne, paroisse de La Vastrie ?) | 1 | 1651-08-12_saint-flour_vente_cayrou-dupre |
 | [Fontel?] / [Fontet?] | 1 | 1661-08-28_saint-flour_mariage_chaulhac-meyliot |
 | [Fontenam?] | 1 | 1666-03-13_saint-flour_vente_chabrousse-debrons |
-| [Fontes?] | 1 | 1656-02-20_saint-flour_mariage_fages-chastang |
+| [Fontes?] | 2 | 1634-11-21_saint-flour_vente_chadre-celier, 1656-02-20_saint-flour_mariage_fages-chastang |
 | [Fontez ?] (lieu douteux : Fontez / Jontez / Joutiz) | 1 | 1664-06-12_saint-flour_testament_chalmette-mathieu |
 | [Fontfleys?] | 1 | 1659-06-05_saint-flour_echange_fareyre-siomy |
 | [Fontgivar?] (métairie) | 1 | 1660-03-05_saint-flour_donation_sauor-tremolhol |
 | [Fontgières?] | 1 | 1659-06-04_saint-flour_vente_choffy-sauvet |
+| [Fontlabre?] (village) | 1 | 1634-09-03_saint-flour_obligation_cormoul-chalier |
+| [Fontu?] | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
 | [Fontvadoumi?] | 1 | 1656-05-20_alleuze_mariage_catala-chanson |
 | [Fonvielle?] | 1 | 1666-06-14_saint-flour_vente_barthet |
+| [Fordaveo?] (l. 5) | 1 | 1634-03-25_saint-flour_vente_maury-juniet |
+| [Fordicoex?] | 1 | 1634-10-11_saint-flour_testament_joullio-julhi |
+| [Fordiure?] (ou Forsiuni, Fondiure), lieu d'origine des parties, l. 5 | 1 | 1634-03-25_saint-flour_retrocession_maury |
 | [Forgie?] / Fargie / Farges[?], paroisse de Lavastrie (la Vastrie) | 1 | 1632-04-16_saint-flour_vente_chanson-bechot |
+| [Fornols?] (Fournols ?) | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | [Fornolz ?] | 1 | 1659-09-26_saint-flour_testament_blanc |
 | [Fortuniers ?] | 1 | 1647-11-02_saint-flour_mariage_monier-autin |
 | [Fosche?] | 1 | 1666-06-27_vedrenan_vente_mallet-izabre |
@@ -5067,6 +5442,7 @@
 | [Foudere?] | 1 | 1658-09-04_saint-flour_vente_moynie-vezin |
 | [Fougnie?] (ville, non lu) | 1 | 1654-06-25_saint-flour_vente_chaugelbuf-maury |
 | [Fougoussac?] / [Fongoussac?] | 1 | 1653-02-24_saint-flour_inventaire_chanson-aujolet |
+| [Fouhege?] (champ) | 1 | 1633-04-09_saint-flour_vente_arnal-tissedre |
 | [Fourbouliou?] (pré) | 1 | 1653-03-15_saint-flour_ratification_fion-cussac |
 | [Fourdesser?] (fourdessez, fourdesses ; à rapprocher de Courdesses / Coudesshes / Coundessier = Cordesse ?, paroisse de Neuvéglise) | 1 | 1664-01-20_saint-flour_vente_ballat-fabry |
 | [Fourdinges ?] (lieu et paroisse, non identifié) | 1 | 1659-05-31_saint-flour_vente_valarcher-parra |
@@ -5079,9 +5455,12 @@
 | [Fouziac?] (seigneurie de Coutel) | 1 | 1653-11-14_coren_vente_seurgol-mossier |
 | [Fouzusti?] | 1 | 1632-10-09_saint-flour_partage_gualdissard-alboy |
 | [Fovez?] (Fouez / Forez), lieu et paroisse | 1 | 1654-10-24_saint-flour_mariage_albarie-majre |
+| [Fradigue?] | 1 | 1633-06-24_saint-flour_vente_sicard-maury |
+| [Fraguier?] | 1 | 1633-06-24_saint-flour_vente_sicard-maury |
 | [Fraine?] (paroisse) | 1 | 1656-04-16_saint-flour_demission_sendoux-andelat |
 | [Fraisse?] | 1 | 1661-00-00_saint-flour_partage_lassaigne-bonneval |
 | [Fraisse?] (confront, l. 29) | 1 | 1657-09-00_saint-flour_echange_boyer-delastre |
+| [Fraissene?] / [frissina?] (paroisse foraine de Saint-Flour) | 1 | 1634-01-23_saint-flour_transport_delfour |
 | [Fraissenet?] | 1 | 1653-10-05_saint-flour_declaration_rouget-vidal |
 | [Fraissenghes?] (Fraissenges / Fressanges, lu aussi Proissenghes / Frayssinhes), paroisse de Neuvéglise | 1 | 1654-05-30_saint-flour_cession_valadier-bonniol |
 | [Fraissine ?] (var. Fressine / Fraissinet), lieu et village | 1 | 1628-06-02_saint-flour_bail_bigot |
@@ -5098,19 +5477,27 @@
 | [Freisinget?] | 1 | 1666-03-28_saint-flour_vente_fiou-cayron |
 | [Freissan?] / [Fraissan?] (lieu, paroisse d'Oradour) | 1 | 1661-02-12_saint-flour_testament_daude |
 | [Freissenet?] [prodomat?] | 1 | 1666-10-04_saint-flour_vente_lastic-barthet |
+| [Freissinges?] | 1 | 1633-01-25_saint-flour_mariage_gibrat-alhadieres |
 | [Frelughac ?] (seigneurie, non identifiée) | 1 | 1665-04-19_saint-flour_vente_bagely-delcros |
 | [Fremiguer?] (seigneurie, endos) | 1 | 1660-04-26_saint-flour_vente_jacques-traverse |
 | [Frenssinet?] (Fressinet / Fraissinet / Freissinie), lieu de résidence du preneur et des champs | 1 | 1628-06-08_saint-flour_bail_chotty-masse |
+| [Freyssines?] (endos : Freyssines) | 1 | 1633-08-29_saint-flour_mariage_moussier-valette |
 | [Fribesse?], paroisse de Saint-Léger de [Peire?] | 1 | 1664-05-13_saint-flour_testament_tisset-vallette |
 | [Fridier?] | 1 | 1665-08-24_saint-flour_mariage_maury-pages |
 | [Fridières?] | 2 | 1632-01-19_saint-flour_mariage_rigault-albier, 1664-03-11_saint-flour_vente_viallard-veissiere |
+| [Fridières?] / [Fredière?] | 1 | 1634-03-26_saint-flour_testament_maury |
 | [Fridon?] (seigneurie du s.r de [Chaussé?]) | 1 | 1658-05-18_saint-flour_vente_chaluet-charlotes |
 | [Fridou?] (seigneurie) | 1 | 1653-04-05_saint-flour_vente_dufaure-chauliaguet |
+| [Frigneroque?] | 1 | 1634-02-16_saint-flour_quittance_bastide-andrieu |
+| [Frinquergues?] | 1 | 1634-02-16_saint-flour_quittance_bastide-andrieu |
+| [Friquiere?] | 1 | 1633-06-24_saint-flour_vente_sicard-maury |
+| [Frissenet?] (Fraissenet ?), direction du chemin ou viol confrontant le jardin | 1 | 1633-04-18_saint-flour_transaction_fazon |
 | [Froiviers?] / [Freuviers?] (seigneurie de l'acquéreur) | 1 | 1660-06-02_saint-flour_vente_chassat-chastrac |
 | [Frons dessoubz?] (lecture douteuse) | 1 | 1650-06-15_saint-flour_testament_durand |
 | [Froylu… ?] (endos) | 1 | 1659-07-02_saint-flour_transaction_fabre-bossuge |
 | [Frozet?] | 1 | 1654-11-15_saint-flour_echange_rouget-estival |
 | [Frozet?] (Rozet / Brozet) | 1 | 1654-11-21_saint-flour_vente_daund-devaurs |
+| [Fru...?] (lieu de Pierre Burin) | 1 | 1634-08-31_saint-flour_cession_chaulhaguet-vayron |
 | [Frutraon?] (lieu-dit, l. 22, douteux) | 1 | 1653-05-01_saint-flour_convention_volland-uchassol |
 | [Fuidz? / Fudz? / Sudz?] (lieu d'habitation de la testatrice et lieu de l'acte, près les faubourgs de Saint-Flour) | 1 | 1628-01-08_saint-flour_testament_desrabre-maury |
 | [Fumols?] (seigneurie d'Isaac Aymier) | 1 | 1628-07-04_saint-flour_bail_aymier-bonnenfant |
@@ -5118,12 +5505,15 @@
 | [Gallerie?] | 1 | 1662-02-06_saint-flour_mariage_julhe-bertrand |
 | [Galvier?] | 1 | 1626-09-22_vendeze_rente_armand-aymier |
 | [Garaliers ?] | 1 | 1659-05-31_saint-flour_vente_valarcher-parra |
+| [Garraby?] = Garabit (pont emporté) | 1 | 1634-09-04_saint-flour_prixfait_chaulhaguet-tardieu |
 | [Gatinges?] | 1 | 1626-09-13_inconnu_bail_boyer-maury |
 | [Gaudesange?] | 1 | 1632-11-25_saint-flour_mariage_chalme-bergein |
 | [Gaure?] | 1 | 1626-11-26_saint-flour_procuration_jarguin-merzault |
 | [Gauthomille?] (l. 4, nom de lieu ou de personne, très douteux) | 1 | 1652-04-26_saint-flour_cession_cosset-mallessaigne |
 | [Gaymard?] | 1 | 1654-03-01_fraissenet_testament_nouzeiroe-beche |
 | [Gazanbo...?] (l. 34, nom ou lieu) | 1 | 1632-01-21_saint-flour_mariage_chapsoulh-bossuge |
+| [Gennes?], l. 16 (toponyme ou nom ?) | 1 | 1634-03-25_saint-flour_vente_gastel |
+| [Geodroe?] | 1 | 1633-10-22_saint-flour_vente_boyer-vieulx |
 | [Gibrun?] | 1 | 1626-09-13_inconnu_bail_boyer-maury |
 | [Giroude?] / [Iroude?] (endos [diroude?]) | 1 | 1657-10-16_saint-flour_mariage_roux-reynaldy |
 | [Gogossat?] | 1 | 1658-05-18_saint-flour_mariage_chazalledez-chauses |
@@ -5131,18 +5521,22 @@
 | [Gourbattut?] | 1 | 1658-12-11_saint-flour_vente_serieys-rolland |
 | [Gourdinet?] des [fuilles?] / Couneot (?) de Tuille (?) (lieu-dit douteux) | 1 | 1656-03-13_saint-flour_vente_sauvaige-boudon |
 | [Gouuelin?] (Gonnelin, Couvelin) | 1 | 1654-06-28_saint-flour_vente_courette-sauret |
+| [Gragnion?] | 1 | 1634-01-02_saint-flour_vente_sandou-jean |
 | [Grand?] Vall[aux?] | 1 | 1654-05-09_saint-flour_echange_fabre-crespoul |
 | [Grandvaud?] | 1 | 1661-09-02_saint-flour_testament_chalui |
 | [Grantual?] (Grandval ?) | 1 | 1660-06-19_saint-flour_vente_chanson |
 | [Grantvail?] (Grandval ?), paroisse de Lavastrie | 1 | 1654-05-30_saint-flour_cession_valadier-bonniol |
+| [Grauzaule?] | 1 | 1644-10-06_saint-flour_mariage_chastang-colomb |
 | [Gravel ? / Cravel ?] (lieu de Tanavelle) | 1 | 1666-03-23_saint-flour_vente_dominique-bouthie |
 | [Graves?] (endos, domicile de l'acquéreur) | 1 | 1653-06-03_saint-flour_vente_chadollac-chastang |
 | [Grena?] (paroisse de Saint-Georges) | 1 | 1632-12-24_saint-flour_vente_delolme-delolme |
 | [Grou?] (village, paroisse de Neuvéglise) | 1 | 1658-02-25_saint-flour_mariage_gardolle-colomb |
 | [Gruizol?] | 1 | 1657-12-27_saint-flour_mariage_mazamblard-mauvy |
+| [Guagmon?] (Gaymond ?), paroisse d'Andelat | 1 | 1634-02-18_saint-flour_mariage_combes-prieghau |
 | [Guebert?] (Guibert ?) | 1 | 1663-11-04_saint-flour_mariage_bonnenfan-chalvet |
 | [Gueilhatte?] | 1 | 1654-05-20_saint-flour_vente_lar-boymetton |
 | [Guerine?] (l. 12 ; lieu ou personne, non établi) | 1 | 1656-02-23_saint-flour_vente_fray-hugon |
+| [Gufauldes?] | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
 | [Guilhes?] | 1 | 1653-01-04_saint-flour_vente_tourrette-sauret |
 | [Guilly?] | 1 | 1653-11-09_saint-flour_vente_cathala-bechot |
 | [Guizolz?] (paroisse de Saint-Georges) | 1 | 1666-08-29_saint-flour_subrogation_beraud-grenier |
@@ -5154,7 +5548,10 @@
 | [Hauandels?] (Avandels ?) | 1 | 1661-11-14_saint-flour_vente_mallet-mallet |
 | [Hauires ?] ([hauiryrez?]) | 1 | 1650-09-27_saint-flour_vente_berthier-farges |
 | [Haute-Auvergne?] (« [en hault?] [dauvergne?] ») | 1 | 1651-06-14_rezallerie_donation_brassac-boutes |
+| [Haute?]-Auvergne (bailliage, pour l'insinuation) | 1 | 1633-04-17_saint-flour_donation_crozat-bourdon |
 | [Herac?] (village, paroisse d'Anglards) | 1 | 1656-02-25_saint-flour_mariage_labroha-gillet |
+| [Hesac?] (paroisse) | 1 | 1633-02-28_saint-flour_vente_vigouroux-brassac |
+| [Heuze?] (seigneurie) | 1 | 1634-03-21_saint-flour_vente_gorce-andrieu |
 | [Horry?], résidence d'André Mossier | 1 | 1658-05-24_andelat_inventaire_roux-alboy |
 | [Hozat? / Rozat?] | 1 | 1632-08-31_saint-flour_vente_rogier-aymier |
 | [Huzy?] | 1 | 1666-04-26_saint-flour_echange_bardelle-paur |
@@ -5162,6 +5559,7 @@
 | [Iaminhac?] | 1 | 1656-02-20_saint-flour_mariage_fages-chastang |
 | [Icy?] (paroisse, l. 5, douteux) | 1 | 1660-04-28_saint-flour_echange_clatty-rolland |
 | [Ihagonze?] | 1 | 1666-02-15_saint-flour_mariage_andrieu-esbrard |
+| [Ingenyer?] (toponyme ? ou « ingénieur ») | 1 | 1633-06-10_saint-flour_vente_olliere-saintlagier |
 | [Innoatle?] (seigneurie de J. de Bonafos) | 1 | 1664-02-04_saint-flour_vente_meyliac-bonafos |
 | [Iolhary?] | 1 | 1666-06-20_saint-flour_mariage_albaret-espezolles |
 | [Irande?] (lieu ; lecture concurrente Irondes) | 1 | 1658-01-06_saint-flour_subrogation_fayon |
@@ -5205,6 +5603,7 @@
 | [La Capm?] (lieu) | 1 | 1654-03-14_saint-flour_echange_malleshargues-vidal |
 | [La Chaux?] (delachaux, lieu du notaire Guichard Boyer, douteux) | 1 | 1658-05-02_saint-flour_testament_boyer |
 | [La Chazavergne?] | 1 | 1651-08-28_saint-flour_vente_nouvel-boudoy |
+| [La Farge?] (lecture concurrente l. 5) | 1 | 1633-11-14_saint-flour_vente_monnier-mossine |
 | [La Fontaine?] de [Ardoubes?] (lieu-dit du champ) | 1 | 1651-05-01_saint-flour_obligation_mallespaigne-boussuge |
 | [La Gua?] | 1 | 1659-04-00_saint-flour_vente_raymond-fabry |
 | [La Hugarguie?] (delahugarguie ; de Lagarrigue ?), paroisse de Roffiac | 1 | 1655-05-18_saint-flour_transaction_vautheran-cussac |
@@ -5232,7 +5631,9 @@
 | [Ladyrac? / Lodyers?] (seigneurie d'Olivier) | 1 | 1626-07-04_saint-flour_quittance_olivier-vandre |
 | [Lafolle?] | 1 | 1653-11-14_coren_vente_seurgol-mossier |
 | [Lafolle?] (l. 11, sens incertain) | 1 | 1658-05-08_saint-flour_vente_hugon-lassy |
+| [Lafon?] (lieu, paroisse d'Anglards) | 1 | 1634-11-04_saint-flour_vente_crozet-vossen |
 | [Laforge?] (p. 179, l. 34, lecture douteuse) | 1 | 1661-02-01_saint-flour_testament_reguibal-vidal |
+| [Lafreusam ?] (lieu d'origine du vendeur) | 1 | 1633-03-21_saint-flour_vente_apchier-serret |
 | [Lagarde ?] (l. 95, lecture très incertaine) | 1 | 1665-02-02_saint-flour_mariage_mallet-mallet |
 | [Lagarde?] | 1 | 1656-09-29_saint-flour_transaction_bouchard-chauliaguet |
 | [Lagarde?] (l. 3, très incertain) | 1 | 1654-11-00_saint-flour_subrogation_fendouze-chalmette |
@@ -5246,6 +5647,7 @@
 | [Laglauzou?] / [Laglauzoe?] (champ, Vedernat) | 1 | 1662-05-01_saint-flour_echange_teissedre-mallessaignes |
 | [Lagnilles?] (l. 28) | 1 | 1656-04-01_saint-flour_vente_boudon-combes |
 | [Lagnu?] (l. 6, lieu ou rue de Saint-Flour ?, non identifié) | 1 | 1655-05-16_saint-flour_mariage_delaspre-sostrousse |
+| [Lagrossac?] (Lagnossac ?), paroisse d'Andelat | 1 | 1634-02-18_saint-flour_mariage_combes-prieghau |
 | [Laguagelle?] (la Gazelle ?) | 1 | 1654-02-05_saint-flour_compromis_alloy-bertrand |
 | [Laguelle?] (l. 3) | 1 | 1654-07-19_saint-flour_vente_chavallier-chastang |
 | [Laguere?] / [Leguire?] (lieu ou surnom ?) | 1 | 1653-09-20_saint-flour_transaction_fajon-delmar |
@@ -5260,8 +5662,10 @@
 | [Lanau?] | 1 | 1657-03-00_inconnu_donation_langournes-hugon |
 | [Lanaudre?] | 1 | 1656-06-00_saint-flour_quittance_boude-uchassol |
 | [Landzaiguier?] | 1 | 1654-11-07_saint-flour_testament_chaluet-berault |
+| [Lanfac?] | 1 | 1634-02-16_saint-flour_quittance_bastide-andrieu |
 | [Langac?] (Langeac ?) | 1 | 1661-10-29_saint-flour_cession_roux-boudon |
 | [Langeac?] | 2 | 1661-10-29_saint-flour_vente_roux-pautard_b, 1663-08-14_saint-flour_mariage_cassy-rousson |
+| [Langeac?] (lieu de l'étude de [Sainthivan?], illisible) | 1 | 1634-10-17_saint-flour_quittance_vidal-bonder |
 | [Langhac?] (Langeac ?) | 1 | 1663-02-00_saint-flour_donation_martinon-lafoy |
 | [Langoyrou?] (Langeyroux ?) | 1 | 1657-01-31_alleuze_donation_fabre-chanson |
 | [Lanpinbet?] (champ, terroir de Nozerolles ; ou Lanpimbert) | 1 | 1654-03-14_saint-flour_echange_malleshargues-vidal |
@@ -5289,6 +5693,7 @@
 | [Las Garlistes?] (champ) | 1 | 1650-01-26_saint-flour_vente_doumergue-dupre |
 | [Lasaignite?] / la [Saignite?], paroisse de Paulhac (domaine et métairie) | 1 | 1664-10-17_saint-flour_echange_bougier |
 | [Lascadrie?] | 1 | 1658-12-16_saint-flour_vente_dejarques-berault |
+| [Lascal? / Laschal?] (l. 16, lieu-dit ?) | 1 | 1634-01-16_saint-flour_echange_regimbal-roussel |
 | [Laschaigne?] del Bernard (affar) | 1 | 1665-02-17_mons_vente_blondin-parra |
 | [Laspinasse ?] / [Las pinias ?] (commun) | 1 | 1659-07-27_saint-flour_vente_vidal-estival |
 | [Laspinelle?] | 1 | 1653-01-06_saint-flour_transaction_trabuc-sauret |
@@ -5305,7 +5710,9 @@
 | [Latgua?] / [alatgua?] | 1 | 1653-01-06_saint-flour_transaction_trabuc-sauret |
 | [Latos?] | 1 | 1628-07-04_saint-flour_bail_aymier-bonnenfant |
 | [Latour?] (paroisse de Tanavelle) | 1 | 1660-07-01_roffiac_vente_uchassol-saintheiry |
+| [Lau..?] / [Lair? / Laur?] (Neuvéglise) | 1 | 1633-05-28_saint-flour_vente_perillier |
 | [Lauan?] | 1 | 1666-08-22_saint-flour_vente_fabry-trenchier |
+| [Lauaulle] / Lauaselle (Lavaulle ? Lavaselle ? Lavazelle ?), lieu et village non identifié | 1 | 1633-10-22_saint-flour_echange_regimbal-roussel |
 | [Lauaurgnie?] | 1 | 1657-04-08_saint-flour_mariage_vachier-bonnol |
 | [Lauder?] (chemin) | 1 | 1661-11-22_saint-flour_vente_grenier-dupre |
 | [Lauedaus?] (endos, l. 99) | 1 | 1657-04-00_saint-flour_mariage_boudie-portail |
@@ -5317,6 +5724,7 @@
 | [Lauron?] | 1 | 1653-03-03_saint-flour_vente_caucal-rouget |
 | [Lautrelle?] | 1 | 1656-11-29_saint-flour_vente_delrieu-reuel |
 | [Lauvilhete?] | 1 | 1661-03-12_saint-flour_testament_baster |
+| [Lauzac?] | 1 | 1644-05-09_saint-flour_vente_sabatier-devannes |
 | [Lauzol?] (confront, lecture douteuse) | 1 | 1624-11-19_saint-georges_vente_murat-celleyre |
 | [Laval?] | 2 | 1653-05-18_vibrezac_partage_chanson-vedrines, 1663-01-31_saint-flour_mariage_coucherie-chanson |
 | [Lavarenne?] (Labauene / Lavauene dans la copie) | 1 | 1666-01-02_saint-flour_echange_ballat-cassand |
@@ -5335,11 +5743,13 @@
 | [Layrolle?] (l. 12, rue ou lieu, douteux) | 1 | 1626-10-05_saint-flour_bail_martin-bergoin |
 | [Lazet?] | 1 | 1660-01-31_saint-flour_mariage_eschallier-montgial |
 | [Le Brusson?] | 1 | 1657-03-19_saint-flour_subrogation_bonnault-canilhac |
+| [Le Pouget?] | 1 | 1634-10-21_saint-flour_testament_bical-maudre |
 | [Le Vedrenac?] | 1 | 1651-04-00_saint-flour_vente_benezit-pages |
 | [Le blou?] | 1 | 1666-03-27_saint-flour_vente_jean-maury |
 | [Lebeughol?] | 1 | 1664-02-21_saint-flour_mariage_rayne-lombard |
 | [Lebonchet?] (village, au lieu de Mentières) | 1 | 1654-07-12_saint-flour_vente_chauliaguet-lalieure |
 | [Lebos?] (champ, à Combre) | 1 | 1652-05-13_saint-flour_vente_castel-chanson |
+| [Lebrigat?] (Lebrugat ? Lebrejat ?), village de la paroisse d'Alleuze | 1 | 1633-11-14_saint-flour_vente_monnier-mossine |
 | [Lebuder?] (lieu, paroisse de Lavastrie ; variantes Lebudes / Le Bedur) | 1 | 1653-03-15_saint-flour_ratification_fion-cussac |
 | [Lebughol?] (Le Bughol / Le Buchol ; peut-être Sebeughol = Sébeuge), paroisse d'Andelat | 1 | 1653-01-23_andelat_testament_roux |
 | [Lechallet?] | 1 | 1653-02-24_saint-flour_inventaire_chanson-aujolet |
@@ -5376,6 +5786,7 @@
 | [Lestableu?] (l. 11, désignation douteuse) | 1 | 1654-09-29_saint-flour_vente_cussac-rial |
 | [Lestarguet?] | 1 | 1659-06-04_saint-flour_vente_choffy-sauvet |
 | [Lesthirac?] / [Losthirac?] (lieu du vendeur, non identifié) | 1 | 1664-10-31_saint-flour_vente_bayle-fabri |
+| [Lestmazes?] / Les Mazes (l. 7, très douteux) | 1 | 1634-02-19_saint-flour_echange_deleyre-simbes |
 | [Lestottail?] (appartenances du pré) | 1 | 1657-06-21_saint-flour_retrait_cathalan-gillet |
 | [Lestoui?] (l. 5) | 1 | 1657-04-00_saint-flour_mariage_boudie-portail |
 | [Lestrech?] | 1 | 1626-05-01_saint-flour_partage_aymier-bonnefon |
@@ -5405,6 +5816,7 @@
 | [Lidu?] (l. 81-82) | 1 | 1661-10-01_villedieu_testament_david |
 | [Lieusargues?] (paroisse de [Roffiac?]) | 1 | 1657-07-25_saint-flour_demission_cussac-martin |
 | [Lieuzargues?] (Liozargues, paroisse de Roffiac) | 1 | 1654-02-15_roffiac_mariage_malle-aurelle |
+| [Lieve?] (l. 57) | 1 | 1634-03-26_saint-flour_vente_gastel-jurol |
 | [Ligert?] (l. 3, non interprété) | 1 | 1656-09-10_saint-flour_testament_aussel |
 | [Ligounez?] | 1 | 1658-03-17_saint-flour_convention_boy-duvoyet |
 | [Limaigne?] | 1 | 1659-03-27_saint-flour_obligation_cussac-chaulhac |
@@ -5425,6 +5837,7 @@
 | [Lioz?] / [Lior?] / [Lavolz?] | 1 | 1653-03-03_saint-flour_vente_durand-gillet_b |
 | [Lire?] (lieu natal de Tronchère) | 1 | 1666-08-25_saint-flour_subrogation_brassac-tronchere |
 | [Liriaux?] / [Lirraux?] (seigneurie, lieu de résidence d'Admins) | 1 | 1626-09-01_andelat_obligation_admins-brugier |
+| [Lisiere?] | 1 | 1634-12-02_saint-flour_mariage_gastal-bonnol |
 | [Lissaogue?] (Lissargues ?), paroisse de Talizat | 1 | 1660-03-05_saint-flour_donation_sauor-tremolhol |
 | [Lissavigues?] | 1 | 1660-06-09_saint-flour_vente_sauvet-marlhiac |
 | [Liuan?] | 1 | 1666-02-20_saint-flour_mariage_nozieres-douze |
@@ -5436,18 +5849,22 @@
 | [Lobridge?] / [Doyme?] (paroisse de Saint-Flour) | 1 | 1632-01-21_saint-flour_mariage_chapsoulh-bossuge |
 | [Lobrius?] (seigneurie) | 1 | 1628-07-17_saint-flour_bail_sauret-chastang |
 | [Lohassainthe?] / [Lohasse...?] (habitation de l'acquéreur, paroisse de Coltines ; La Chassaigne ?) | 1 | 1653-05-10_saint-flour_vente_rivore-mar |
+| [Lona?] | 1 | 1633-09-06_saint-flour_testament_roudil |
 | [Longoyrou?] | 1 | 1665-04-25_saint-flour_echange_ventuighol-souchari |
 | [Longue?]ville (cour du baille / bailliage ?) | 1 | 1661-04-26_saint-flour_vente_richard-coutel |
 | [Longuespre?] (métairie, Villedieu) | 1 | 1628-12-22_saint-flour_bail_conte-hugon |
+| [Longuevre?] | 1 | 1633-09-06_saint-flour_testament_roudil |
 | [Lonjaigues?] (lieu des constituants) | 1 | 1659-02-05_saint-flour_rente_saumade-polverelles |
 | [Lonnve?] (endos) | 1 | 1653-01-04_saint-flour_vente_tourrette-sauret |
 | [Lorary?] | 1 | 1652-06-10_saint-flour_echange_chazot-vidal |
 | [Lorcières ?] | 1 | 1663-08-01_saint-flour_transaction_mathieu-delangouroux |
 | [Lorcières? / Lorandes?] | 1 | 1653-10-20_saint-flour_testament_aymeric |
 | [Lordour?] | 1 | 1651-05-20_saint-flour_vente_mighoulle-froment |
+| [Lorg...?] (lieu où est situé le jardin, lecture douteuse) | 1 | 1633-01-18_saint-flour_vente_crespon-cristal |
 | [Lorrieres?] (lecture très douteuse) | 1 | 1656-11-15_saint-flour_vente_chaldoreille-durand |
 | [Lostagie?] | 1 | 1657-01-20_saint-flour_mariage_marchiar-chalier |
 | [Lotzargues?] (probablement Liouzargues / Liozargues), paroisse de Roffiac | 1 | 1661-06-14_saint-flour_testament_saumade-chopy |
+| [Lou Borie?] de la [Margude?] | 1 | 1634-01-02_saint-flour_vente_sandou-jean |
 | [Lou Varnez?] | 1 | 1666-06-02_saint-flour_vente_bavate-lafoy |
 | [Lou champ?] Grand (champ à Fontbonne) | 1 | 1652-07-20_saint-flour_ratification_dommergue-dupuy |
 | [Lou pastural?] (nom du champ) | 1 | 1652-01-31_saint-flour_vente_chauvi-barrou |
@@ -5464,28 +5881,38 @@
 | [Lousteyrne?] haute (pré) | 1 | 1658-01-27_saint-flour_vente_ollier-delolme |
 | [Lousteyrnes?] bas (pré) | 1 | 1658-01-27_saint-flour_vente_ollier-delolme |
 | [Lovadas?] (endos) | 1 | 1655-11-10_saint-flour_vente_jourdes-courtavel |
+| [Lovet?] (endos) | 1 | 1634-02-01_saint-flour_vente_gibrat-rolland |
 | [Lovignac?] | 1 | 1665-09-05_saint-flour_transaction_dupuy-reginbalt |
 | [Lozier / Alozier ?] (paroisse des Ternes) | 1 | 1647-12-06_saint-flour_vente_combes-bonniol |
 | [Lue ?] (paroisse d'Ussel) | 1 | 1632-03-23_saint-flour_ratification_rouchier-julhes |
+| [Lue?] (l. 18, lieu non identifié) | 1 | 1634-04-19_saint-flour_transaction_trabuc-vigasol |
 | [Lunam?] (pré commun) | 1 | 1658-03-03_coltines_mariage_nicolas-bonnet |
 | [Lunghac?] / [Linghat?] (endos), lieu non identifié | 1 | 1661-05-22_saint-flour_mariage_roche-deschaptz |
 | [Lurhau?] (lieu-dit) | 1 | 1658-04-13_saint-flour_desistement_apchier-julhe |
+| [Luri?] (l. 5, lieu non identifié, paroisse de Coltines ?) | 1 | 1634-03-30_saint-flour_transaction_valarchier-dolmiere |
 | [Luselade?] | 1 | 1660-03-05_saint-flour_donation_sauor-tremolhol |
 | [Lussac?] | 1 | 1661-10-29_saint-flour_vente_roux-pautard_b |
+| [Lussac?] (appartenances où sont situés les moulins ; ou Lussat) | 1 | 1644-05-09_saint-flour_delaissement_devaux-bertin |
 | [Luzargues ?] | 1 | 1662-11-19_saint-flour_echange_mallessaignes-rispail |
 | [Luzargues?] | 1 | 1662-12-15_saint-flour_vente_pages-soubre |
 | [Luzelle?] | 1 | 1663-11-25_saint-flour_testament_teilhard |
 | [Luzer?] (Luzery / Lozer ?) | 1 | 1660-11-20_saint-flour_mariage_chausoz-montgial |
 | [Lyon?] | 1 | 1653-06-22_saint-flour_mariage_astier-noel |
+| [Lyvadol?] (paroisse d'Allanche) | 1 | 1643-04-00_saint-flour_vente_solignac-dufour |
 | [Madat...?] | 1 | 1666-09-19_saint-flour_vente_lollier-jesuites |
 | [Maillon?] | 1 | 1656-09-13_saint-flour_testament_bray-cussat |
+| [Maison?] / [mayson?] (lieu, paroisse de Vabres) | 1 | 1633-05-11_saint-flour_ratification_albaret-malet |
+| [Maisonnas?] (l. 45, nature incertaine) | 1 | 1633-11-13_saint-flour_testament_rouchea |
 | [Malbe?] (paroisse) | 1 | 1660-03-05_saint-flour_donation_sauor-tremolhol |
 | [Malbengne?] (chemin allant du lieu à) | 1 | 1632-11-16_saint-flour_vente_trinchier-aymeric |
 | [Maldogue?], paroisse de Paulhac | 1 | 1664-03-02_saint-flour_subrogation_rouvel-charbonnel |
 | [Malefetier?], paroisse de [Lasteyrie?] | 1 | 1656-05-18_saint-flour_mariage_bonniol-gilbert |
+| [Malh?] | 1 | 1634-04-15_saint-flour_vente_rigal-bugo |
 | [Malhes?] (confront) | 1 | 1628-03-25_saint-flour_bail_aymeric-courin |
 | [Malhesaignes ?] (lieu de situation des biens) | 1 | 1656-06-00_saint-flour_vente_chabot-bechot |
 | [Malla?] | 1 | 1666-06-01_roffiac_testament_gibrat |
+| [Mallade?] (lieu de résidence de Gilibert Veissiere) | 1 | 1634-02-07_saint-flour_mariage_veissiere-aufolet |
+| [Maller?] | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | [Mallet?] | 2 | 1651-05-20_saint-flour_vente_mighoulle-froment, 1660-06-09_saint-flour_vente_sauvet-marlhiac |
 | [Mallet?] (l. 18, « de fauerolles a [malle?] ») | 1 | 1656-05-24_saint-flour_subrogation_bigot |
 | [Mallezargues?] | 1 | 1654-02-16_villedieu_mariage_rolland-vidal |
@@ -5506,6 +5933,7 @@
 | [Marchambre?] | 1 | 1654-02-09_saint-flour_mariage_vassond-courchaud |
 | [Marchier?] (Marchastel ?), paroisse | 1 | 1654-04-30_saint-flour_mariage_chassang-rigault |
 | [Marchoute?] | 1 | 1657-03-24_saint-flour_transaction_blanc |
+| [Marcsac?] | 1 | 1633-12-02_saint-flour_testament_galvier-vidal |
 | [Marcy?] | 1 | 1653-09-20_saint-flour_transaction_chassang-pages |
 | [Mardaigne?] (seigneurie ; Mardogne ?) | 1 | 1651-12-09_saint-flour_vente_detrauesse-delride |
 | [Mardogne?] | 1 | 1632-08-31_saint-flour_vente_rogier-aymier |
@@ -5523,7 +5951,9 @@
 | [Mas?] (l. 3, douteux) | 1 | 1652-04-26_saint-flour_cession_cosset-mallessaigne |
 | [Maserat ?] (paroisse de Roffiac) | 1 | 1651-06-29_saint-flour_vente_chabot-boude |
 | [Masgerat?] (ou Mazerat) | 1 | 1661-01-16_saint-flour_echange_sibrac-fiou |
+| [Massa?] | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | [Massales?] (l. 66, lieu ou personne ?) | 1 | 1656-12-31_saint-flour_mariage_benedict-debrun |
+| [Massenac?] | 1 | 1634-05-20_saint-flour_vente_roche-anglade |
 | [Masseyrolle?] | 1 | 1656-12-13_saint-flour_testament_cuzelle-rouget |
 | [Masshol?] / [Massehiol?] | 1 | 1665-06-14_saint-flour_bail_hugon-bonyblanc |
 | [Massiac?] | 2 | 1656-08-04_saint-flour_testament_gauil, 1662-01-19_saint-flour_testament_baldissard |
@@ -5535,6 +5965,7 @@
 | [Maur?] | 1 | 1659-06-23_saint-flour_vente_mournat-bonniol |
 | [Mauressangues?] (paroisse de Maurines) | 1 | 1664-03-10_villedieu_donation_bouc |
 | [Mauret ?], paroisse d'Andelat | 1 | 1659-01-22_andelat_donation_roux-alboy |
+| [Maurglys?] | 1 | 1634-10-21_saint-flour_testament_bical-maudre |
 | [Maurialle?] | 1 | 1666-06-01_roffiac_testament_gibrat |
 | [Mauriatte?] | 1 | 1654-02-21_saint-flour_testament_teyssedre-chazalledez |
 | [Maurinar?] | 1 | 1651-01-29_saint-flour_testament_vouge |
@@ -5558,15 +5989,18 @@
 | [Mazuo?] | 1 | 1663-11-28_saint-flour_mariage_mounier-chavreyre |
 | [Megry?], [Lescharp?] (confronts, l. 16, nature incertaine) | 1 | 1653-05-10_saint-flour_vente_rivore-mar |
 | [Meir?] (village) | 1 | 1654-02-21_saint-flour_testament_teyssedre-chazalledez |
+| [Meison?] / [maison?] (La Maison ?, par. de Vabres) | 1 | 1633-11-20_saint-flour_echange_delcros-attalec |
 | [Melane?] | 1 | 1628-11-17_saint-flour_bail_chanlhaguet-baldissard |
 | [Mellac?] (hameau, paroisse d'Alleuze ; Mellac / Mallac / Mellat) | 1 | 1650-01-29_saint-flour_echange_douhet-taillade |
 | [Menac?] | 1 | 1659-06-05_saint-flour_partage_vedrines-mirmande |
 | [Mende?] (serge de Mande) | 1 | 1666-07-06_andelat_mariage_revel-jean |
 | [Mende?] (serge de) | 1 | 1665-08-30_saint-flour_mariage_page-delrieu |
+| [Mensun?] (Menson / Mansun), village | 1 | 1633-05-10_saint-flour_vente_albaret-malet |
 | [Mentieres?] | 1 | 1657-09-09_saint-flour_mariage_tuffery-vedrines |
 | [Mentières ?] | 1 | 1659-02-19_saint-flour_echange_foraud-frenal |
-| [Mentières?] | 1 | 1632-08-31_saint-flour_vente_rogier-aymier |
+| [Mentières?] | 2 | 1632-08-31_saint-flour_vente_rogier-aymier, 1634-01-11_inconnu_bail_bouges-maolat |
 | [Mentyes?] (seigneurie) | 1 | 1628-07-04_saint-flour_bail_aymier-bonnenfant |
+| [Merali?] (l. 20) | 1 | 1634-03-26_saint-flour_vente_gastel-jurol |
 | [Mercerye?] (herbes / pâturage) | 1 | 1653-11-20_saint-flour_compromis_jourdy-fabry |
 | [Mercoeur? / Mercuriere?] (endos) | 1 | 1626-11-12_saint-flour_compromis_mauran-aymier |
 | [Merouuis ?] (paroisse de [Tallizat ?]) | 1 | 1659-01-19_mentieres_mariage_eschallier-galdissard |
@@ -5591,13 +6025,18 @@
 | [Moissoux?] (champ) | 1 | 1648-08-06_saint-flour_vente_lacrussol-rebeard |
 | [Molar?] (Molat ? lieu d'Antoine AURELLE) | 1 | 1658-03-17_saint-flour_cession_aurelle-chassang |
 | [Moler? / Molar? / Mona?] (paroisse de Roffiac) | 1 | 1654-02-15_roffiac_mariage_malle-aurelle |
+| [Molin?] | 1 | 1634-06-08_saint-flour_vente_albepar-vedrine |
 | [Molleres?] | 1 | 1661-05-22_saint-flour_mariage_roche-deschaptz |
 | [Molomps?] (Molompize ?) | 1 | 1661-01-15_montaignaguet_mariage_crabier-baldissard |
 | [Molteyre ?] | 1 | 1628-08-20_saint-flour_vente_gualdi-saurier |
 | [Moly?/molin?] [dol?] [porte?/pnte?] (lieu-dit ou surnom du testateur, incertain) | 1 | 1661-03-04_saint-flour_testament_rossignol |
 | [Mom?] (l. 30, lieu ou nom ?) | 1 | 1653-10-25_saint-flour_vente_bastide-cristal |
-| [Mona?] | 1 | 1653-03-03_saint-flour_vente_durand-gillet_b |
+| [Mome?] | 1 | 1633-11-12_saint-flour_vente_roux-rouchea |
+| [Mona?] | 2 | 1633-01-25_saint-flour_mariage_gibrat-alhadieres, 1653-03-03_saint-flour_vente_durand-gillet_b |
 | [Mona?] (lieu où est situé le pré ; lu aussi [mono?]) | 1 | 1661-02-18_saint-flour_vente_coutel-bertrand |
+| [Mona?] / [Mons?] (paroisse de Saint-Georges) | 1 | 1634-02-01_saint-flour_vente_gibrat-rolland |
+| [Monchamp?] (lieu et paroisse ; Mon champ dans l'endos) | 1 | 1633-03-26_saint-flour_vente_trencher |
+| [Mondenge?] (l. 14, lieu ou personne ?) | 1 | 1634-08-27_saint-flour_vente_delbrun-traverse |
 | [Mondin?] | 1 | 1654-11-21_saint-flour_vente_daund-devaurs |
 | [Mone?] (Mone / Moue / Mona ; Mons ?), paroisse de Roffiac | 1 | 1657-05-30_saint-flour_quittance_rolland-alboy |
 | [Monfauure ?] | 1 | 1665-03-18_saint-flour_vente_gillet-bertrand |
@@ -5628,6 +6067,7 @@
 | [Montaugut?] | 1 | 1658-06-23_saint-flour_testament_culhiere |
 | [Montauri?] | 1 | 1651-08-28_saint-flour_vente_nouvel-boudoy |
 | [Montaves?] | 1 | 1659-00-00_saint-flour_vente_broche-hugon |
+| [Montbrun?] (fief, douteux) | 1 | 1634-07-05_saint-flour_vente_lafargette-murat |
 | [Montchamp ?] (commanderie) | 1 | 1662-05-01_saint-flour_vente_fajon-chaugnazes |
 | [Montchamp?] | 2 | 1657-01-17_saint-flour_mariage_aurelle-chaumel, 1663-02-10_saint-flour_vente_serieys-tailliand |
 | [Montchamp?] (commanderie) | 1 | 1663-09-17_saint-flour_donation_rouget |
@@ -5637,6 +6077,8 @@
 | [Montchaugny?] (lieu) | 1 | 1653-04-05_saint-flour_vente_dufaure-chauliaguet |
 | [Montchaz?] | 1 | 1653-05-18_vibrezac_partage_chanson-vedrines |
 | [Monteil?] (faubourgs de Saint-Flour) | 1 | 1657-01-17_saint-flour_mariage_aurelle-chaumel |
+| [Montejas?] | 1 | 1633-10-22_saint-flour_vente_boyer-vieulx |
+| [Montemague?] | 1 | 1634-01-11_inconnu_bail_bouges-maolat |
 | [Montessan?] (quittance, l. 123) | 1 | 1657-09-09_saint-flour_mariage_tuffery-vedrines |
 | [Montevin ?] | 1 | 1648-03-07_saint-flour_transaction_tranchier-sudre |
 | [Montezun?] | 1 | 1654-01-02_saint-flour_mariage_chalier-fontes |
@@ -5644,12 +6086,15 @@
 | [Montferrand?] | 1 | 1665-01-29_saint-flour_mariage_barthomeuf-bonnet |
 | [Montferrand?] (ou Murat ?) | 1 | 1628-12-02_saint-flour_diminution_champclaux-puyoy |
 | [Montgieux?] | 1 | 1665-01-21_saint-flour_mariage_delort-sauret |
+| [Montgon?] (confront, douteux) | 1 | 1633-06-02_saint-flour_vente_delayre-maury |
+| [Montgon?] (seigneurie) | 1 | 1634-01-17_saint-flour_vente_perriel-tassy |
 | [Montgouffour?] (métairie, interligne) | 1 | 1651-12-29_saint-flour_partage_pages-vidal |
 | [Montgrelliaume?] | 1 | 1657-01-20_saint-flour_mariage_marchiar-chalier |
 | [Montgut?] | 1 | 1658-06-23_saint-flour_mariage_chausse-fourcharie |
 | [Monthomie?] | 1 | 1654-04-20_saint-flour_vente_andrieu-cussac |
 | [Montjoy?] | 1 | 1659-03-27_saint-flour_obligation_cussac-chaulhac |
 | [Montlegume?] (marge gauche p. 115, non interprété) | 1 | 1656-08-00_saint-flour_codicille_aussel |
+| [Montlhac?] | 1 | 1633-01-25_saint-flour_mariage_gibrat-alhadieres |
 | [Montmayrol?] | 1 | 1660-08-22_saint-flour_mariage_blanc-pignol |
 | [Montorgue?] (personne ou lieu, douteux) | 1 | 1658-05-03_roffiac_sommation_aurelle-rolland |
 | [Montouillet?] (l. 36, nature du mot incertaine) | 1 | 1653-04-08_saint-flour_cession_ambiele-chastang |
@@ -5658,6 +6103,7 @@
 | [Montroux?] | 1 | 1653-10-16_saint-flour_cession_mosnier-madieu |
 | [Montsalvy?] | 1 | 1628-03-23_saint-flour_bail_vergne |
 | [Montsalvy?] (ou Fontanges, Montsauge) | 1 | 1626-10-11_saint-flour_accord_cellerier-sabrie |
+| [Montsalvy?] (témoin Lacombe) | 1 | 1634-09-09_saint-flour_vente_guillaud-orfulhe |
 | [Montsuboi?] | 1 | 1653-11-14_coren_vente_seurgol-mossier |
 | [Monty?] de [Mareges?] | 1 | 1654-06-07_saint-flour_transaction_maury-chastang |
 | [Mor...?] (lieu et paroisse) | 1 | 1666-04-22_saint-flour_vente_mouchiera-destubartes |
@@ -5670,15 +6116,19 @@
 | [Moulin?] (confront du pré) | 1 | 1658-03-00_roffiac_echange_blondin-cristal |
 | [Moulin?] [Vrllenj?] | 1 | 1658-01-27_saint-flour_vente_devaluy-ollier |
 | [Moulinifontenam?] (lieu-dit du pré ?, lecture non comprise) | 1 | 1656-02-21_saint-flour_subrogation_villemault-albepart |
+| [Moulis?] | 1 | 1633-10-22_saint-flour_vente_boyer-vieulx |
 | [Moun?] (Mons ?) | 1 | 1653-05-01_saint-flour_convention_volland-uchassol |
 | [Mounam?] [dict?] de la [Chamette?] (l. 16) | 1 | 1654-07-22_saint-flour_subrogation_delort-delaroche |
 | [Mounau?] | 1 | 1661-11-19_saint-flour_echange_gibrat-cussac |
 | [Mour?] (lieu de Gastal) | 1 | 1658-01-06_saint-flour_subrogation_fayon |
 | [Mour?] (ou Mons) | 1 | 1651-03-30_saint-flour_testament_chapavayre |
 | [Moure?] / [Moni?] (lieu de l'acquéreur et du bien ; More ; peut-être Mons, paroisse de Roffiac) | 1 | 1655-04-24_saint-flour_vente_fabre-vachassol |
+| [Mourghe?] | 1 | 1644-10-06_saint-flour_mariage_chastang-colomb |
 | [Mours?] | 1 | 1653-01-06_saint-flour_transaction_trabuc-sauret |
 | [Moutchan?] | 1 | 1666-01-17_saint-flour_vente_bessolz-sabatier |
+| [Moutis?] | 1 | 1634-01-02_saint-flour_vente_sandou-jean |
 | [Mouzets?] (lieu de Jean Reynault) | 1 | 1664-04-23_saint-flour_vente_rousset-fabry |
+| [Mouzieres?] | 1 | 1634-01-02_saint-flour_vente_sandou-jean |
 | [Moyra?] | 1 | 1666-03-27_saint-flour_vente_jean-maury |
 | [Moyrendhe?] | 1 | 1656-04-16_saint-flour_demission_sendoux-andelat |
 | [Moysset?] (l. 63, personne ou lieu) | 1 | 1657-09-08_saint-flour_echange_thourrette-daude |
@@ -5686,6 +6136,7 @@
 | [Mozerat?] | 1 | 1666-03-27_saint-flour_vente_jean-maury |
 | [Mozeroy?], paroisse de Saint-Flour | 1 | 1652-04-14_saint-flour_mariage_rochier-lassy |
 | [Mul?] | 1 | 1653-03-03_saint-flour_vente_caucal-rouget |
+| [Mun?] (lieu) | 1 | 1634-11-16_saint-flour_vente_gibrat-bechassol |
 | [Muntgin?] | 1 | 1626-05-08_saint-flour_bail_boyer-malet |
 | [Muraille?] (l. 50, toponyme ou confront douteux) | 1 | 1654-11-06_saint-flour_vente_desfondz-boyer |
 | [Murat?] | 5 | 1649-00-00_saint-flour_vente_mauy-mourgan, 1660-06-17_saint-flour_donation_vezin, 1661-02-27_saint-flour_partage_gibrat, 1663-03-20_saint-flour_echange_rispal-pautard_b, 1665-04-19_saint-flour_transaction_bastal-cussac |
@@ -5699,13 +6150,16 @@
 | [Narolle?] (confront, l. 21) | 1 | 1660-06-23_coltines_vente_reuel-verdier |
 | [Narvihac?] (paroisse) | 1 | 1661-03-15_saint-flour_testament_boyer-boudon |
 | [Naucaze ?] | 1 | 1665-02-07_saint-flour_mariage_combes-chargebeuf |
+| [Naumale?] (lieu ou personne, l. 25) | 1 | 1644-11-19_saint-flour_demission_favier-amat |
 | [Navuelz ?] | 1 | 1663-03-23_saint-flour_testament_gendre |
 | [Navvarez?] (prés et jardins) | 1 | 1659-04-27_saint-flour_vente_mallet-chauliaguet |
+| [Nayac?] | 1 | 1634-07-22_saint-flour_vente_vachier-rossignol |
 | [Neufueglise?] (Neuvéglise ?) | 1 | 1661-05-22_saint-flour_mariage_roche-deschaptz |
 | [Neufvesglise?] (Neuvéglise ?) | 1 | 1660-01-31_saint-flour_mariage_eschallier-montgial |
 | [Neussarglez?] (paroisse ; Neussargues ou Neuvéglise) | 1 | 1661-12-10_inconnu_vente_bo |
 | [Neussargues?] | 1 | 1665-09-29_saint-flour_testament_pouvert |
 | [Neuueglize?] (Neuvéglise / Molompize ?) | 1 | 1651-12-05_saint-flour_vente_caillade-bourzette |
+| [Neuvebrousse?], seigneurie | 1 | 1633-12-24_saint-flour_vente_delpiron-bozona |
 | [Neuveglize?] (Neuvéglise ?) | 1 | 1654-02-21_saint-flour_testament_teyssedre-chazalledez |
 | [Neuvéglise ?] | 2 | 1656-06-00_saint-flour_vente_chabot-bechot, 1659-11-07_roffiac_vente_rolland-brugier |
 | [Neuvéglise?] (Neufueglise) | 1 | 1661-10-29_saint-flour_cession_roux-boudon |
@@ -5719,7 +6173,9 @@
 | [Nouiran?] | 1 | 1657-03-00_saint-flour_echange_pascal-boyer |
 | [Nouix?] (paroisse de Roffiac) | 1 | 1649-12-04_saint-flour_vente_fontes-gralher |
 | [Nous?] (Nous / Nouz / Noux), paroisse d'Alleuze | 1 | 1662-12-02_saint-flour_vente_giraldon-chanson |
+| [Nouuyrevalle?] (endos) | 1 | 1633-11-13_saint-flour_testament_boucher |
 | [Nouvegielle ?] (endos) | 1 | 1632-09-13_saint-flour_donation_fouchier-boussuge |
+| [Nouvia...?] [veille?] (village du testateur) | 1 | 1633-11-13_saint-flour_testament_boucher |
 | [Nouzadial?] | 1 | 1653-10-16_saint-flour_cession_mosnier-madieu |
 | [Nouzerolles?] (Nozerolles ?) | 1 | 1651-01-29_saint-flour_testament_vouge |
 | [Nouzes?] | 1 | 1666-03-30_saint-flour_vente_chassang-ventughol |
@@ -5734,6 +6190,7 @@
 | [Nussargues?] (Neussargues) | 1 | 1626-12-30_saint-flour_bail_dommergue-tourte |
 | [Nuz?] (paroisse [Vedrinne?] St Loup) | 1 | 1647-09-17_saint-flour_testament_vernhe |
 | [Nyet?] | 1 | 1653-01-14_saint-flour_echange_goussier-rolland |
+| [Ofournol?] / [Tournola?] (paroisse du vendeur) | 1 | 1634-04-15_saint-flour_vente_rigal-bugo |
 | [Oliers?] | 1 | 1632-05-10_saint-flour_vente_sauret-bastide |
 | [Orbeyrenolle?] (lieu de la métairie, paroisse de Villedieu) | 1 | 1663-09-17_saint-flour_donation_rouget |
 | [Orbeyrevalhe?], paroisse [d'Andelat?] | 1 | 1659-11-20_saint-flour_testament_esbrard |
@@ -5761,9 +6218,11 @@
 | [Parrer?] / Barrer / Bovrer (village, paroisse d'Andelat) | 1 | 1661-01-25_saint-flour_mariage_boyer-bonniol |
 | [Paterol ?] | 1 | 1658-08-20_saint-flour_inventaire_delort-bechot |
 | [Paterva?] | 1 | 1662-07-02_saint-flour_testament_bastide-arman |
+| [Patgua?] (ruisseau descendant de …) | 1 | 1633-09-29_saint-flour_echange_regimbal-bonhoure |
 | [Patriodre?], paroisse d'Andelat | 1 | 1661-10-05_saint-flour_testament_boyer |
 | [Patroir?] | 1 | 1658-12-16_saint-flour_vente_dejarques-berault |
 | [Pattarnau?] (lieu des héritages du bail, l. 15) | 1 | 1657-00-00_saint-flour_subrogation_basset-roudil |
+| [Paucsaguet / Pautiaguet?], seigneurie | 1 | 1633-12-24_saint-flour_vente_delpiron-bozona |
 | [Paulhac ?] (paulhiac à l'endos ; Paulhac ou Paulhenc) | 1 | 1659-02-20_roffiac_mariage_gibrat-judy |
 | [Paulhac?] | 7 | 1648-06-14_saint-flour_vente_devauzesse-delrieu, 1653-04-08_saint-flour_vente_gaudelle-solier, 1653-06-21_saint-flour_mariage_daulhet-monnier, 1653-11-02_saint-flour_mariage_lolier-durand, 1660-06-16_saint-flour_transaction_seugrac-dubois, 1665-11-00_saint-flour_vente_richard-bergoin, 1666-04-22_saint-flour_vente_mouchiera-destubartes |
 | [Paulhac?] (paroisse) | 2 | 1658-04-20_saint-flour_vente_combes-deloire, 1665-01-12_saint-flour_donation_grenier-vezis |
@@ -5772,6 +6231,7 @@
 | [Paulhiguel?] | 1 | 1654-02-21_saint-flour_testament_teyssedre-chazalledez |
 | [Pauliagol?] | 1 | 1654-03-01_fraissenet_testament_nouzeiroe-beche |
 | [Paulinyol?] (seigneurie de Henry de Brugier, incertain) | 1 | 1660-11-14_saint-flour_mariage_brives-brugier |
+| [Paysbrand?] (mention en tête p. 140) | 1 | 1634-03-21_saint-flour_vente_gorce-andrieu |
 | [Payssenc ?] | 1 | 1648-03-07_saint-flour_vente_derames-chastel |
 | [Pegoussac?] | 1 | 1651-11-06_saint-flour_vente_rouffe-roche |
 | [Peiguegues?] (paroisse de Coren) | 1 | 1654-06-07_saint-flour_transaction_maury-chastang |
@@ -5811,6 +6271,7 @@
 | [Pinnegre ?] / [Finnegre ?] (lieu d'habitation des vendeurs) | 1 | 1628-06-25_saint-flour_rente_bugier-tibut |
 | [Pinsargues?] (Pinsarguet ?) | 1 | 1657-06-10_saint-flour_partage_vaysseyre-chapoulle |
 | [Pinsergues?] (paroisse d'Alleuze) | 1 | 1665-06-28_saint-flour_vente_andrieu-dupuy |
+| [Piquerogue?] (résidence de Vayron) | 1 | 1634-08-31_saint-flour_cession_chaulhaguet-vayron |
 | [Pireye?] de [Couonac?] | 1 | 1665-11-29_vedrenat_mariage_malet-malet |
 | [Pirlhy?] (l. 3, non compris) | 1 | 1626-10-05_saint-flour_bail_martin-bergoin |
 | [Piroy?] (Pirou ?), paroisse de Saint-Georges | 1 | 1657-00-00_saint-flour_subrogation_tranchier-mirmande |
@@ -5826,16 +6287,22 @@
 | [Pontet?] | 1 | 1657-03-00_saint-flour_echange_pascal-boyer |
 | [Pontgarni?] | 1 | 1661-09-07_saint-flour_testament_colrac |
 | [Portal?] | 1 | 1666-06-27_vedrenan_vente_mallet-izabre |
+| [Portis?] (lieu-dit du second champ) | 1 | 1633-09-26_saint-flour_vente_avinal-roussel |
 | [Poumyer?] | 1 | 1628-07-04_saint-flour_bail_aymier-bonnenfant |
 | [Pouncyre?] / [Prunezre?] (village des vendeurs, paroisse de Chaudesaigues) | 1 | 1664-03-28_saint-flour_vente_colomb-sadone |
 | [Pouzeirol ?], paroisse de [Cuzenc ?] | 1 | 1650-11-05_saint-flour_vente_alboy-bualet |
 | [Pouzha?] La [Chassaigne?] | 1 | 1660-06-16_saint-flour_transaction_seugrac-dubois |
 | [Pouzols?] (Pouyols) | 1 | 1651-05-20_saint-flour_vente_mighoulle-froment |
+| [Prats?] Cros (endos, lieu du vendeur ; même lieu que Patras ?) | 1 | 1633-04-25_saint-flour_vente_crespoul-siuergol |
 | [Pratt?] (champ) | 1 | 1661-11-19_saint-flour_echange_gibrat-cussac |
 | [Pravet?] | 1 | 1652-03-22_saint-flour_vente_solier-gilles |
+| [Prea?] / [Lerm? Lorm?] (paroisse du vendeur, douteux) | 1 | 1633-09-26_saint-flour_vente_avinal-roussel |
 | [Prezalin?] | 1 | 1628-07-04_saint-flour_bail_aymier-bonnenfant |
 | [Prieux?] | 1 | 1654-10-30_saint-flour_quittance_viallard-apchier |
 | [Pro?] (appartenances) | 1 | 1632-04-17_saint-flour_revente_eschaubard |
+| [Prodolanges?] | 1 | 1634-10-21_saint-flour_testament_bical-maudre |
+| [Prodolanges?] / Prodelanges (l. 57) | 1 | 1634-03-26_saint-flour_vente_gastel-jurol |
+| [Proudalanges?] | 1 | 1633-12-13_saint-flour_testament_chazal |
 | [Prouzal?] (paroisse, Languedoc) | 1 | 1662-10-05_saint-flour_vente_boudre-balde |
 | [Pruzanzon?], paroisse de [Nouvia...?] | 1 | 1648-05-06_saint-flour_testament_bertier |
 | [Puech?] | 1 | 1628-03-23_saint-flour_bail_vergne |
@@ -5858,6 +6325,7 @@
 | [Rapon?] (paroisse de Malbo) | 1 | 1665-01-14_saint-flour_donation_polollion-fallie |
 | [Rauaille?] | 1 | 1661-11-14_saint-flour_vente_mallet-mallet |
 | [Raux?] (Vaux / Haux ?), paroisse de Chaliers | 1 | 1653-05-11_saint-flour_vente_roudil-mendre |
+| [Ravanyon?] (note marginale non lue) | 1 | 1634-09-09_saint-flour_vente_guillaud-orfulhe |
 | [Ravoisse?] (lieu, paroisse de Valhs) | 1 | 1660-09-30_saint-flour_vente_chapus-batiffolier |
 | [Ravoux?] | 1 | 1651-08-12_saint-flour_vente_cayrou-dupre |
 | [Raymon... ?] | 1 | 1659-09-10_villedieu_inventaire_chavallier-tisset |
@@ -5869,15 +6337,18 @@
 | [Recaparieu?] | 1 | 1654-03-14_saint-flour_vente_jourdy-richard |
 | [Recoulles?] | 1 | 1660-06-02_saint-flour_bail_ytual-fromen |
 | [Rediers?] (paroisse d'Alleuze) | 1 | 1662-06-01_saint-flour_vente_allegre-molinier |
+| [Redondethe?] (champ) | 1 | 1634-05-01_saint-flour_vente_cussac-filhol |
 | [Rejede?] de [Gombatta?] (Combatta ?) | 1 | 1654-07-19_saint-flour_vente_chavallier-chastang |
 | [Relac?] (paroisse d'Alleuze) | 1 | 1662-10-15_saint-flour_vente_gastal-ventinghol |
 | [Relat?] | 1 | 1659-06-23_saint-flour_vente_mournat-bonniol |
+| [Rellac?] / [Relac?] (Velac, Arlac ?) | 1 | 1634-07-01_saint-flour_cession_bonamy |
 | [Rellac?], paroisse d'Alleuze | 1 | 1661-06-09_saint-flour_testament_audouin-fajon |
 | [Remy?] | 1 | 1660-06-06_saint-flour_vente_rolland-chastang |
 | [Respan?] | 1 | 1659-05-14_saint-flour_donation_foulto-vigier |
 | [Reyrolles?] | 1 | 1659-03-01_saint-flour_demission_delort-vedrines |
 | [Rezallerie?] (Rezallerie / Dezallerie / Sezalliere) | 1 | 1651-06-14_rezallerie_donation_brassac-boutes |
 | [Rezallerie?] (lecture douteuse : Rezallerie / Dezallerie / Sezalliere ; non identifié) | 1 | 1651-06-14_rezallerie_donation_brassac-boutes |
+| [Rezent?] / [Rezente?] (Villedieu) | 1 | 1633-01-02_saint-flour_vente_chastel-fauret |
 | [Rezente?] / [Rozentes?] (paroisse de Villedieu) | 1 | 1632-10-11_saint-flour_vente_chastel-fauret |
 | [Riaut?] | 1 | 1653-03-03_saint-flour_vente_caucal-rouget |
 | [Ribes?] (seigneurie de Barthélemy Curtil) | 1 | 1632-10-11_saint-flour_vente_curtil-nivelon |
@@ -5895,16 +6366,19 @@
 | [Ricrouvion?] | 1 | 1656-01-18_saint-flour_vente_astorg-molinier |
 | [Ridernat?] / [Ribrat?] (paroisse de Roffiac, non identifié) | 1 | 1659-04-27_saint-flour_vente_mallet-chauliaguet |
 | [Rieu?] de Chazes | 1 | 1653-04-26_saint-flour_vente_chomel-eschalier |
+| [Rieuge?] (Ruynes ?) | 1 | 1644-10-06_saint-flour_mariage_chastang-colomb |
 | [Rigegnet?], lieu de la paroisse de [Neufeyglise?] (Neuvéglise ?) | 1 | 1626-08-31_saint-flour_compromis_berault-bestel |
 | [Riliard ?] (champ) | 1 | 1664-09-22_saint-flour_vente_chambaron-giraldon |
 | [Rinet ?] | 1 | 1660-03-16_saint-flour_testament_fromen-sentherain |
 | [Rio?] (siège du procès, peut-être Riom) | 1 | 1657-04-16_saint-flour_transaction_bouchard-chauliaguet |
 | [Riom ?] | 2 | 1650-01-19_saint-flour_mariage_allegre-mollinier, 1650-11-05_saint-flour_vente_alboy-bualet |
-| [Riom?] | 1 | 1657-12-09_saint-flour_vente_jarlier-celarier |
+| [Riom?] | 2 | 1634-07-01_saint-flour_cession_bonamy, 1657-12-09_saint-flour_vente_jarlier-celarier |
+| [Riom?] (siège du sénéchal) | 1 | 1634-05-17_saint-flour_quittance_gibrat-mestre |
 | [Riom?] (sénéchaussée d'Auvergne) | 1 | 1632-02-13_mentieres_mariage_roudil-bonnet |
 | [Rionde?] (appellation du jardin ; sentier allant du [Rionde?] à [Vella?]) | 1 | 1653-09-29_saint-flour_donation_caillade-veynault |
 | [Rioulat?] | 1 | 1665-07-04_saint-flour_inventaire_grassalt-berthon |
 | [Riourvon? / Riourroc?] (seigneurie) | 1 | 1661-00-00_saint-flour_partage_lassaigne-bonneval |
+| [Rissaugues?] | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
 | [Rissonneyres?] (seigneurie du vendeur) | 1 | 1663-07-24_saint-flour_vente_salesses-roussilhe |
 | [Riuet?] (paroisse de Roffiac) | 2 | 1650-12-05_roffiac_vente_bolland-gibrat, 1658-05-27_saint-flour_subrogation_bougier-fontes |
 | [Rivet?] | 1 | 1664-12-10_saint-flour_vente_chassol-brassac |
@@ -5937,7 +6411,7 @@
 | [Roffiac?] | 13 | 1653-03-28_saint-flour_vente_tesse-ambiele, 1654-04-20_saint-flour_vente_andrieu-cussac, 1656-02-19_saint-flour_mariage_mouzeyres-bonhomme, 1656-11-19_saint-flour_testament_combes-polmeiller, 1657-05-15_saint-flour_quittance_mallet-caurail, 1657-07-25_saint-flour_demission_cussac-martin, 1660-03-06_saint-flour_donation_fontanier-recoudier, 1661-03-06_saint-flour_vente_bonniol-rolland, 1661-05-26_liouzargues_mariage_cussac-fromens, 1664-11-29_saint-flour_bail_rolland-esthie, 1665-01-09_saint-flour_mariage_cailliaud-vaylet, 1665-11-29_vedrenat_mariage_malet-malet, 1666-07-04_saint-flour_protestation_aureilhe-mounier |
 | [Roffiac?] (justice ordinaire et paroisse ; lu Offiar / Rossiar) | 1 | 1656-12-22_saint-flour_transaction_crespoul-crestail |
 | [Roffiac?] (paroisse du vendeur ; lu aussi Coffiat, Doffiar) | 1 | 1655-04-24_saint-flour_vente_fabre-vachassol |
-| [Roffiac?] (paroisse) | 2 | 1654-03-22_saint-flour_desistement_martin-broz, 1656-08-20_saint-flour_mariage_rolland-cussac |
+| [Roffiac?] (paroisse) | 3 | 1634-11-16_saint-flour_vente_gibrat-bechassol, 1654-03-22_saint-flour_desistement_martin-broz, 1656-08-20_saint-flour_mariage_rolland-cussac |
 | [Rogiere?] (Rozières ?) | 1 | 1656-11-20_saint-flour_vente_bougeyre-rochier |
 | [Roizain?] (paroisse d'Andelat) | 1 | 1660-02-20_saint-flour_vente_grizet-suvvel |
 | [Rolla?] (village, paroisse [...]) | 1 | 1660-02-18_saint-flour_mariage_chargebeuf-chalier |
@@ -5948,28 +6422,38 @@
 | [Rosanaille?] | 1 | 1659-11-22_saint-flour_vente_combes-barres |
 | [Rossiac?] | 1 | 1663-03-17_saint-flour_inventaire_grezes-bechot |
 | [Rossiat?] | 1 | 1656-11-29_saint-flour_vente_delrieu-reuel |
+| [Rossille?] / [Rossilhe?] | 1 | 1634-07-19_saint-flour_vente_roussel-vigier |
 | [Rossoles?] | 1 | 1653-04-29_saint-flour_echange_assonnier-grezes |
 | [Rossolz?] (lieu des appartenances ; lecture incertaine) | 1 | 1664-05-01_saint-flour_revente_molinier-grezes |
 | [Rossuel?] (village du vendeur, douteux) | 1 | 1660-01-10_saint-flour_vente_albepart-daufeulhe |
 | [Roth?] (l. 78) | 1 | 1653-06-06_saint-flour_ratification_daude-dupre |
 | [Rou de Chaubiar?] (couderc commun) | 1 | 1661-02-22_saint-flour_echange_missonnier-grezes |
+| [Roua?] (Rona ? Roue ?) | 1 | 1634-07-01_saint-flour_cession_bonamy |
 | [Rouchain ?] (chemin allant à Coren) | 1 | 1663-01-28_saint-flour_mariage_jean-jourdanne |
 | [Rouchegrendelle?] | 1 | 1656-01-20_saint-flour_mariage_odoul-chambaroz |
+| [Rouchein?] | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
+| [Rouchein?] / [Bouchein?] / [Louchein?] (Andelat) | 1 | 1633-01-25_saint-flour_mariage_gibrat-alhadieres |
 | [Roude?] (village, non identifié) | 1 | 1650-05-17_saint-flour_vente_fabre-chastang |
 | [Roue ?] (Roua, Noue, Roya ; Nous dans l'acte n° 66), paroisse d'Alleuze | 1 | 1662-12-02_saint-flour_echange_giraldon-chanson |
-| [Rouergue?] | 1 | 1653-03-28_saint-flour_vente_tesse-ambiele |
+| [Rouergue?] | 2 | 1634-09-04_saint-flour_prixfait_chaulhaguet-tardieu, 1653-03-28_saint-flour_vente_tesse-ambiele |
 | [Roueyraueille?] | 1 | 1660-01-11_saint-flour_vente_rispal-gerault |
 | [Roueyre?] | 1 | 1659-02-10_saint-flour_subrogation_suvert-bechot |
+| [Roueyre?] [Valle?] (Rauero, Raucro ; Valle, Ville), paroisse foraine de Saint-Flour | 1 | 1634-11-29_saint-flour_accord_montsal-landeiral |
+| [Roueyre?] [valle?] (Rouevre, Rouaire), paroisse [foraine?] de Saint-Flour | 1 | 1634-09-29_saint-flour_obligation_roudil-bonnet |
 | [Roueyreueille?] (endos : [viberreueille?] ; autres lectures Ribeyreueille), paroisse foraine de Saint-Flour | 1 | 1656-12-27_saint-flour_vente_fayon-odoul |
 | [Roueyrevielle?] (Roueyrevielles à l'endos ; Rouzevielle possible), paroisse de Saint-Flour | 1 | 1662-02-13_saint-flour_mariage_rocher-chapoulade |
 | [Rouffiergue ?] (paroisse de Fraissinges) | 1 | 1663-11-07_saint-flour_vente_fabre-aujolet |
 | [Roufiers?] | 1 | 1658-11-16_saint-flour_mariage_daunis-rouget |
+| [Rouhein?] (lieu de livraison du cens) | 1 | 1633-05-09_andelat_bail_brugier-julhe |
 | [Rouig? / Vouig?] | 1 | 1664-10-20_saint-flour_testament_detrausse |
 | [Rouilhac?] | 1 | 1659-02-22_saint-flour_partage_aymeric-odoul |
 | [Rouliouze?] (terroir, appartenances de Villedieu) | 1 | 1664-03-13_saint-flour_vente_rolland-baccou |
+| [Rouria vecge?] / [Rouyre vielle?] | 1 | 1633-11-12_saint-flour_vente_roux-rouchea |
 | [Rousseres?] (seigneurie) | 1 | 1660-02-04_saint-flour_vente_fayon-rongier |
+| [Roussilhe?] | 1 | 1633-09-06_saint-flour_testament_roudil |
 | [Rouuieres ?] (paroisse de [Tallizat ?]) | 1 | 1659-01-19_mentieres_mariage_eschallier-galdissard |
 | [Rouuy?] (paroisse d'Alleuze) | 1 | 1659-04-06_saint-flour_vente_delaspre-chaulaguet |
+| [Rouvie? / Roueyre?] (Roueyre-Vieille ?) | 1 | 1634-02-07_saint-flour_vente_chapoulade-fevrane |
 | [Rouy?] (l. 4) | 1 | 1666-02-06_saint-flour_vente_sestre-odoul |
 | [Rouyre?] / [Rouyet?] (par. d'Anglards) | 1 | 1659-06-14_saint-flour_revente_vedrines-albepard |
 | [Rouyventelle?] / [Brouyventelle?] | 1 | 1666-02-06_saint-flour_vente_sestre-odoul |
@@ -5995,15 +6479,18 @@
 | [Rugiers?] | 1 | 1666-05-08_lagoyron_testament_tailhand |
 | [Ruiei?] (village ; Ruiei / Ruiet / Rivet / Ruines) | 1 | 1659-06-08_saint-flour_transaction_crespoul-cristal |
 | [Ruiet?] | 1 | 1661-09-08_saint-flour_testament_charreyre |
+| [Ruin?] / [Rua?] (paroisse de Roffiac) | 1 | 1634-02-01_saint-flour_vente_gibrat-rolland |
 | [Ruines?] (Ruynes-en-Margeride ?) | 3 | 1656-11-23_saint-flour_desistement_missonnier-monnier, 1662-06-06_saint-flour_vente_jaquet, 1662-06-12_saint-flour_testament_jaquet |
 | [Ruinne?] (Ruynes ?) | 1 | 1632-04-17_saint-flour_revente_eschaubard |
 | [Ruionde ?] | 1 | 1663-04-07_saint-flour_echange_ventughol |
+| [Rumes?] | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | [Rumied?] (Ruines / Ruynes ?) | 1 | 1661-10-08_saint-flour_vente_falhet-chaulhaguet |
 | [Ruynes?] | 3 | 1662-11-21_saint-flour_donation_delmas-albepart, 1664-11-25_saint-flour_partage_chassang, 1665-06-08_saint-flour_inventaire_barreyre-champolaux |
 | [Ruynes?] (paroisse foraine ; Ruynes-en-Margeride ?) | 1 | 1658-01-27_saint-flour_vente_ollier-delolme |
 | [Ruynes?] (paroisse) | 1 | 1660-04-25_ruynes_mariage_archer-meyrone |
 | [Rymensy?] (toponyme ou nom, l. 18) | 1 | 1626-03-22_saint-flour_prixfait_rymbal-cavallier |
 | [S. George ?] / Seriers (paroisse) | 1 | 1659-05-06_saint-flour_vente_merle-traverse |
+| [S. George?] (l. 1, souligné ou biffé, très douteux) | 1 | 1634-02-19_saint-flour_echange_deleyre-simbes |
 | [S. Iuran?] (S. Viuran / Siuran ; lieu et paroisse de la testatrice, avec église paroissiale) | 1 | 1657-11-24_saint-flour_testament_rolland |
 | [S. Thoman?] / Saint-Thomas [?], paroisse de Saint-Georges | 1 | 1653-07-06_saint-flour_mariage_ebrard-blanc |
 | [S. Vidal?] (endos, origine du garant) | 1 | 1661-01-20_saint-flour_vente_doumergue-bechot |
@@ -6035,9 +6522,11 @@
 | [Sainct?] [Madlen?] (chemin de Freissenet à) | 1 | 1662-05-01_saint-flour_echange_teissedre-mallessaignes |
 | [Sainct?] [Nouuin?] (douteux) | 1 | 1651-12-23_saint-flour_testament_pages-dubourd |
 | [Saint plaix?] | 1 | 1651-07-18_saint-flour_transaction_teilhard-jarquin |
+| [Saint-Damnange?] (seigneurie du témoin de La [Fagghe?]) | 1 | 1633-05-19_tiviers_mariage_chaulhaguet-duteil |
 | [Saint-Esprit?] (quartier de Saint-Flour) | 1 | 1665-09-29_saint-flour_testament_pouvert |
 | [Saint-Flour ?] | 1 | 1628-03-06_saint-flour_inventaire_cocher-bazard |
 | [Saint-Flour?] | 3 | 1657-05-20_saint-flour_demission_cussac-monnier, 1658-06-21_saint-flour_vente_firolle-rochallier, 1660-12-02_saint-flour_transaction_parra-rolland |
+| [Saint-Flour?] (l. 2, 5, 8, 21, 22, 24 ; lecture probable) | 1 | 1634-06-27_saint-flour_quittance_gastaing |
 | [Saint-Flour?] (lu « aud. [S. Flo.?] », douteux) | 1 | 1657-05-20_saint-flour_demission_cussac-monnier |
 | [Saint-Flour?] (maison d'Anthoine Chapal dit Massot) | 1 | 1660-12-02_saint-flour_transaction_parra-rolland |
 | [Saint-Flour?] (maison de Me Anthoine [Gallerye?], lecture très incertaine) | 1 | 1660-08-25_saint-flour_mariage_chausse-malgie |
@@ -6048,13 +6537,17 @@
 | [Saint-Georges ?] (paroisse) | 1 | 1659-07-27_saint-flour_vente_vidal-estival |
 | [Saint-Georges?] (paroisse) | 1 | 1661-09-25_saint-flour_vente_franchier-crozat |
 | [Saint-Urcize?] (S.t Vrcize) | 1 | 1660-05-08_saint-flour_vente_charreyre-esserand |
+| [Saint-Vioulet?] | 1 | 1633-09-06_saint-flour_testament_roudil |
 | [Saissenin?] / [Saissenet?] (endos), paroisse de Saint-Flour | 1 | 1653-11-15_saint-flour_vente_combes-rouget |
 | [Salecrux? / Salecroux?] (paroisse de Saint-Georges l. 4 et endos ; [paroisse?] de Ruynes l. 112) | 1 | 1664-05-03_saint-flour_mariage_fajon-desalut |
+| [Saler?] (lieu d'origine du vendeur, de résidence de l'acquéreur et de situation du champ ; Salor ?) | 1 | 1633-10-06_saint-flour_vente_apchier-aurillac |
 | [Salern?] | 1 | 1665-08-30_saint-flour_mariage_page-delrieu |
 | [Salers?] | 1 | 1660-06-06_saint-flour_vente_rolland-chastang |
+| [Sales?] (Alleuze) | 1 | 1633-05-28_saint-flour_vente_perillier |
 | [Salez?] / Chalez (paroisse d'Allanche) | 1 | 1660-01-31_saint-flour_mariage_eschallier-montgial |
 | [Salgues?] (confronts, l. 32) | 1 | 1660-04-28_saint-flour_echange_clatty-rolland |
 | [Salham?] = le Sailhant (Andelat) [?] | 1 | 1632-12-03_andelat_donation_dalzon-vendre |
+| [Salhez?] (Saluze ? Salers ?) | 1 | 1634-07-01_saint-flour_cession_bonamy |
 | [Salhiaus?] | 1 | 1660-07-01_roffiac_vente_uchassol-saintheiry |
 | [Salieux?] (chemin de Chenfolz à… ; peut-être la même paroisse) | 1 | 1652-04-13_saint-flour_vente_hugon |
 | [Saliguac?] | 1 | 1660-06-06_saint-flour_vente_rolland-chastang |
@@ -6068,6 +6561,7 @@
 | [Saneyrolles?] / [Sauneyrolles?] | 1 | 1660-08-22_saint-flour_cession_vaysseyre-dobax |
 | [Santhoni?] | 1 | 1665-11-22_saint-flour_mariage_herault-champolaux |
 | [Sapchon?] (l. 116) | 1 | 1660-07-04_villedieu_testament_bastare |
+| [Saphin?] | 1 | 1644-06-25_saint-flour_vente_bichot-sauvar |
 | [Sarazac?] | 1 | 1661-02-18_saint-flour_testament_lisset |
 | [Sarginbaudelemens?] | 1 | 1653-10-16_saint-flour_cession_mosnier-madieu |
 | [Sargnar?] (champ) | 1 | 1656-06-25_villedieu_mariage_bondoy-tissoil |
@@ -6083,11 +6577,14 @@
 | [Saugnolauze?] | 1 | 1661-10-15_saint-flour_vente_delaspre-trabuc |
 | [Saugre?] / [Sanegre?] (hameau de la paroisse d'Oradour, non identifié) | 1 | 1657-03-08_saint-flour_testament_bonal-culhiere |
 | [Sauignac?] / [Sauniac?] / Saunhac (village de l'époux, paroisse de Talizat) | 1 | 1661-08-28_saint-flour_mariage_chaulhac-meyliot |
+| [Sauingac?] / [Sauvagnac?] | 1 | 1633-02-11_saint-flour_vente_julhe-baille |
 | [Saulhac?] | 1 | 1656-12-21_saint-flour_testament_bechot-dupre |
+| [Saulhac?] / [Faulhac?] (lieu d'habitation des parties et du jardin, corps de l'acte) | 1 | 1634-05-13_saint-flour_echange_portefaix-dommergue |
 | [Saulx?] (paroisse de Roffiac) | 1 | 1659-12-06_roffiac_vente_rolland-brassac |
 | [Sauriac?] (seigneurie) | 1 | 1664-09-13_saint-flour_echange_hugon-vivel |
 | [Saurige?] | 1 | 1658-05-27_saint-flour_vente_tafanel-combes |
 | [Sauuiat?] (paroisse de Saint-Chély) | 1 | 1657-09-09_saint-flour_mariage_tuffery-vedrines |
+| [Sauvatges?] | 1 | 1633-12-13_saint-flour_testament_chazal |
 | [Sauvegrolles?] | 1 | 1653-02-24_saint-flour_inventaire_chanson-aujolet |
 | [Sauvet?] / [Fauvet?] (lieu, l. 3) | 1 | 1654-07-19_saint-flour_vente_chavallier-chastang |
 | [Sauvet?] / [Sauuet?] | 1 | 1661-08-28_saint-flour_mariage_chaulhac-meyliot |
@@ -6101,6 +6598,8 @@
 | [Sebenghol?] / [Sebuegol?] (paroisse d'Andelat) | 1 | 1632-01-22_saint-flour_mariage_missonnier-roudier |
 | [Sebeuge?] | 1 | 1659-05-06_saint-flour_vente_andrieu-cesserdre |
 | [Sebeughol ?] | 1 | 1658-08-20_saint-flour_inventaire_delort-bechot |
+| [Sebrugol?] | 1 | 1633-11-13_saint-flour_testament_boucher |
+| [Sebughol?] | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
 | [Sebugol?] | 1 | 1654-12-31_saint-flour_vente_grezes-bastide |
 | [Sechiviers?] | 1 | 1666-03-13_saint-flour_vente_chabrousse-debrons |
 | [Sedaighac?] (seigneurie) | 1 | 1665-05-21_saint-flour_vente_parrot-brousse |
@@ -6109,16 +6608,21 @@
 | [Seigeregue?] / Freigeregue (lieu d'habitation des vendeurs) | 1 | 1660-04-26_saint-flour_vente_jacques-traverse |
 | [Seigne...?] (seigneurie directe) | 1 | 1661-03-03_saint-flour_vente_maury-apchier |
 | [Seignemoutte?] | 1 | 1656-06-03_saint-flour_vente_miche-sibrogol |
+| [Seigneurie?] de [Coltines?] (l. 11) | 1 | 1633-12-21_saint-flour_vente_chapat-tassy |
 | [Seigneyrac ?] | 1 | 1665-04-09_saint-flour_mariage_fayon-chaugebeuf |
 | [Seireuil ?] | 1 | 1659-09-22_saint-flour_vente_bonnal-rolland |
 | [Seleuor?] (résidence de Chastang, endos) | 1 | 1651-05-13_saint-flour_echange_chastang-cusset |
 | [Sellevez?] (chemin de … à Saint-Flour) | 1 | 1663-05-01_saint-flour_echange_chauliaguet-albiuf |
+| [Selu?] (endos, lieu de l'acquéreur ; Salu / Seliu ?) | 1 | 1633-10-06_saint-flour_vente_apchier-aurillac |
 | [Semberoube?] (chemin allant à) | 1 | 1653-03-04_saint-flour_transaction_hugon-quatveul |
 | [Senbram?] | 1 | 1626-09-22_vendeze_rente_armand-aymier |
+| [Sendrieu?] | 1 | 1644-10-06_saint-flour_mariage_chastang-colomb |
 | [Senegrac?] | 1 | 1652-05-06_coltines_echange_crossoul-defoudz |
 | [Seney?] (paroisse du témoin prêtre) | 1 | 1653-01-25_saint-flour_vente_coudre-salvatge |
 | [Seneyrac?] / Senezrac | 1 | 1653-08-12_saint-flour_vente_cussac-defondz |
+| [Senhzergue?] (lieu du fonds dotal, illisible) | 1 | 1633-02-06_saint-flour_mariage_tallon-dufour |
 | [Senzolles?] (deux champs) | 1 | 1653-03-18_saint-flour_vente_bardon-hugon |
+| [Seramin?] (paroisse du testateur) | 1 | 1633-11-13_saint-flour_testament_boucher |
 | [Seres?] (seigneurie, Sériers ?) | 1 | 1658-10-14_saint-flour_vente_uchafol-bergoin |
 | [Serez?] (baronnie) | 1 | 1658-04-10_saint-flour_echange_alboy-pirolle |
 | [Sergaymond?] / [Chagaymond?] (surnom ou lieu, l. 4 et endos) | 1 | 1661-02-20_saint-flour_vente_blanchier-brassac |
@@ -6169,6 +6673,7 @@
 | [Sieujac?] | 1 | 1665-02-04_saint-flour_vente_cussac-monnier |
 | [Sieujac?] (seigneurie) | 1 | 1665-05-04_saint-flour_vente_galdissaud-delort |
 | [Sigme?] (paroisse ? graphies possibles Signe, Seigne) | 1 | 1628-10-17_saint-flour_declaration_meynier |
+| [Siguffie?] (l. 56) | 1 | 1634-03-26_saint-flour_vente_gastel-jurol |
 | [Simarel?] | 1 | 1661-02-27_saint-flour_partage_gibrat |
 | [Sinieyrguez?] | 1 | 1658-12-16_saint-flour_vente_dejarques-berault |
 | [Sintuguier?] (lieu d'origine de Galdessard) | 1 | 1653-02-09_saint-flour_subrogation_galdessard-mallet |
@@ -6188,6 +6693,7 @@
 | [Sonthdre?] (provenance de la serge) | 1 | 1654-10-15_saint-flour_mariage_pages-chappoulle |
 | [Sorelle?] | 1 | 1658-02-24_saint-flour_testament_boyer |
 | [Sorghe?] | 1 | 1653-10-16_saint-flour_cession_mosnier-madieu |
+| [Soriane?] (l. 5, peut-être « foraine » : paroisse foraine de Saint-Flour ?) | 1 | 1634-03-25_saint-flour_retrocession_maury |
 | [Soriz?] (Sériers ?), paroisse et seigneurie | 1 | 1658-12-16_saint-flour_vente_dejarques-berault |
 | [Soriz?] / [Sorez?] (paroisse ; Coren probable, Sériers possible) | 1 | 1658-04-00_saint-flour_vente_pirolle-chalbre |
 | [Sortumi?] (terroir du champ) | 1 | 1654-04-25_saint-flour_vente_durhard-caueal |
@@ -6219,6 +6725,7 @@
 | [Sporet?] | 1 | 1653-03-03_saint-flour_vente_caucal-rouget |
 | [Ssassagne... ? / Chassaignes ?] (village, paroisse de Coltines) | 1 | 1651-12-09_saint-flour_vente_jean-margarit |
 | [St Georges?] | 1 | 1657-06-10_saint-flour_testament_gendre-vahon |
+| [St Ibartes?] | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | [St Laup?] (paroisse du témoin Sarreyre) | 1 | 1653-01-13_saint-flour_quittance_challier-boubolene |
 | [St Michel?] (l. 24, douteux) | 1 | 1661-09-23_saint-flour_echange_franchier-crozat |
 | [St. Guillaume?] | 1 | 1653-09-20_saint-flour_transaction_fajon-delmar |
@@ -6231,7 +6738,9 @@
 | [Sue?] | 1 | 1660-07-01_roffiac_vente_uchassol-saintheiry |
 | [Suez?] | 1 | 1660-05-15_saint-flour_vente_couzarie-chanson |
 | [Sugradal ?] | 1 | 1659-08-00_saint-flour_mariage_reynalt-alladier |
+| [Sulhac?] | 1 | 1634-07-22_saint-flour_vente_vachier-rossignol |
 | [Suniac?] (seigneurie directe) | 1 | 1661-03-03_saint-flour_vente_maury-apchier_b |
+| [Sunial?] (lieu de Jean Marly) | 1 | 1634-08-31_saint-flour_cession_chaulhaguet-vayron |
 | [Surgi ?] | 1 | 1663-05-27_alleuze_mariage_ventughol-vedrines |
 | [Surgy?] | 2 | 1664-03-09_saint-flour_vente_monnier-brousse, 1665-05-21_saint-flour_cession_parrot-cussac |
 | [Surzy?] | 1 | 1666-03-30_saint-flour_vente_chassang-ventughol |
@@ -6245,10 +6754,12 @@
 | [Taignac ?] | 1 | 1660-03-29_saint-flour_vente_chambaron-ferrand |
 | [Tailliane?] | 1 | 1664-02-20_saint-flour_mariage_lebre-combes |
 | [Tal...?] (lieu de Pierre Fontanier) | 1 | 1658-06-02_saint-flour_subrogation_bonafos-jourdy |
+| [Taleizat?] (Talizat ? paroisse du vendeur selon l'endos) | 1 | 1634-12-21_saint-flour_vente_jourdane-ruel |
 | [Talevzac?] | 1 | 1661-04-29_saint-flour_testament_bagues |
 | [Taleysat?] (probablement Talizat) | 1 | 1654-11-04_saint-flour_vente_souvel-mas |
 | [Talguin?] | 1 | 1652-10-07_saint-flour_partage_coutel-malbec |
 | [Talicoa?] (Talizat ?) | 1 | 1632-10-26_saint-flour_testament_bechot |
+| [Talizac?] (Talizat ?) | 1 | 1634-02-06_saint-flour_transaction_nozieres-espinouze |
 | [Talizat ?] | 2 | 1665-02-07_saint-flour_mariage_delrieu-cussac, 1665-05-06_saint-flour_vente_chalier |
 | [Talizat?] | 5 | 1628-07-04_saint-flour_bail_aymier-bonnenfant, 1653-11-14_coren_vente_seurgol-mossier, 1661-02-04_saint-flour_vente_besseyre-david, 1661-07-14_saint-flour_echange_mas-bardon, 1664-06-16_saint-flour_testament_sauret-boudet |
 | [Talizat?] (paroisse ; lu « Salizen ») | 1 | 1661-04-23_saint-flour_vente_colomb-borde |
@@ -6261,6 +6772,9 @@
 | [Tallizat?] (paroisse, Talizat ?) | 1 | 1650-09-15_saint-flour_vente_marty-brassac |
 | [Talue?] | 1 | 1654-02-14_saint-flour_mariage_reynaud-tourde |
 | [Talughol?] | 1 | 1664-10-27_saint-flour_vente_mallet |
+| [Taluuet?] (endos) | 1 | 1634-04-15_saint-flour_vente_rigal-bugo |
+| [Talyac?] (Talizat ?) | 1 | 1634-10-11_saint-flour_testament_joullio-julhi |
+| [Talzac?] | 1 | 1634-04-15_saint-flour_vente_rigal-bugo |
 | [Tanauelle?] (Tanavelle ?) | 1 | 1666-05-29_saint-flour_transaction_gibrat-rolland |
 | [Tanauelle?] (Tanavelle ?), lieu et paroisse | 1 | 1661-06-12_saint-flour_vente_mallet-teissedre |
 | [Tanauelle?] / Tananelle (Tanavelle ?) | 1 | 1656-03-13_saint-flour_vente_sauvaige-boudon |
@@ -6285,6 +6799,7 @@
 | [Tibrezat?] (Tibezac / Tiberzat), paroisse d'Alleuze | 1 | 1665-02-01_villedieu_mariage_tisset-vedrines |
 | [Tibyrolle?] | 1 | 1628-07-04_saint-flour_bail_aymier-bonnenfant |
 | [Tidanat?] | 1 | 1664-12-05_saint-flour_vente_vschaffolz-rispal |
+| [Tiezac?] (Thiézac ?) | 1 | 1633-02-11_saint-flour_vente_julhe-baille |
 | [Tilhospiter?] / [Belhospitar?] | 1 | 1664-08-19_saint-flour_retrait_marliac-chalvet |
 | [Tinaut?] | 1 | 1662-11-01_saint-flour_vente_franchier-ebrard |
 | [Tirrofayte?] (village ; endos [Tirrofaut?]) | 1 | 1626-02-15_saint-flour_bail_sauret-lassu |
@@ -6309,6 +6824,7 @@
 | [Toriengros?] (village, paroisse de Mentières) | 1 | 1662-08-15_mentieres_testament_basset |
 | [Tornahel / Tarnohel / Tornatel / bournatel / Varnatel?] | 1 | 1664-11-25_saint-flour_partage_chassang |
 | [Tossiat? / Pierrefitte?] | 1 | 1628-07-17_saint-flour_bail_sauret-chastang |
+| [Tossieu?] (Tessieu / Tossiat ; Tossiac ?), paroisse, l. 6 | 1 | 1634-03-25_saint-flour_vente_gastel |
 | [Toueyrouneille?] / [Toueyroneille?] / [Toueyronnelle?] (lieu, paroisse foraine de Saint-Flour) | 1 | 1658-02-26_saint-flour_ratification_vendrie-bechot |
 | [Toulet?] (l. 19) | 1 | 1657-09-08_saint-flour_echange_thourrette-daude |
 | [Toult?] / [Coult?] (lieu et mandement, paroisse de Coltines ; Touls ?) | 1 | 1656-01-18_saint-flour_vente_astorg-molinier |
@@ -6333,6 +6849,7 @@
 | [Trisylmi?] | 1 | 1657-03-24_saint-flour_transaction_blanc |
 | [Troizpa de bault?], paroisse foraine de Saint-Flour | 1 | 1653-07-06_saint-flour_mariage_ebrard-blanc |
 | [Trolhyer?] | 1 | 1661-01-16_saint-flour_mariage_rolland-cussac |
+| [Tromingrove?] (lieu de Jean Basse) | 1 | 1634-08-31_saint-flour_cession_chaulhaguet-vayron |
 | [Trovat Clau ?] (champ) | 1 | 1659-07-27_saint-flour_vente_vidal-estival |
 | [Tuier?] / [Atuier?] (lieu de l'acquéreur) | 1 | 1654-05-09_saint-flour_vente_fabre-crespoul |
 | [Tulle?] | 1 | 1666-02-15_saint-flour_mariage_andrieu-esbrard |
@@ -6342,10 +6859,13 @@
 | [V...?] | 1 | 1659-05-06_saint-flour_vente_andrieu-cesserdre |
 | [V?]offiac | 1 | 1666-05-08_saint-flour_demission_dommergue-yzabel |
 | [Vabres ?] | 1 | 1659-05-11_saint-flour_testament_delchier |
-| [Vabres?] | 3 | 1652-02-20_saint-flour_cession_douhet, 1658-02-09_saint-flour_mariage_meyliot-cussac, 1661-08-30_saint-flour_testament_levat |
+| [Vabres?] | 4 | 1633-12-13_saint-flour_testament_chazal, 1652-02-20_saint-flour_cession_douhet, 1658-02-09_saint-flour_mariage_meyliot-cussac, 1661-08-30_saint-flour_testament_levat |
+| [Vabres?] (ou Valuejols), paroisse | 1 | 1633-05-10_saint-flour_vente_albaret-malet |
+| [Vabres?] / [Valres?] (lieu et paroisse de Guillaume Chapsolle) | 1 | 1634-09-21_saint-flour_quittance_rolland-chapsolle |
 | [Vabrignes?] (p. 170) | 1 | 1653-09-29_saint-flour_donation_caillade-veynault |
 | [Vachergues?] | 1 | 1661-01-15_montaignaguet_mariage_crabier-baldissard |
 | [Vacherie?] de la [Vergne?] | 1 | 1660-06-00_saint-flour_vente_chalmete-julhe |
+| [Vacheugues?] | 1 | 1633-10-22_saint-flour_vente_boyer-vieulx |
 | [Vaddilles?] | 1 | 1654-03-14_saint-flour_vente_jourdy-richard |
 | [Vaiguelongie?] (nom du tènement, non résolu) | 1 | 1654-02-20_saint-flour_vente_chalvet-boudet |
 | [Vaigueslaux?] (Vaiguelaux à l'endos ; lieu non identifié ; cf. « Saignelauze [?] / Saiguelauze » des fiches de 1663 concernant Gilbert Chauliaguet) | 1 | 1658-12-18_saint-flour_vente_lamerie-chauliaguet |
@@ -6406,6 +6926,7 @@
 | [Varenne?] (l. 66, sens indéterminé) | 1 | 1654-02-05_saint-flour_compromis_alloy-bertrand |
 | [Varent?] | 1 | 1660-06-02_saint-flour_vente_chassat-chastrac |
 | [Vareu..?] (paroisse de [S...?]) | 1 | 1659-02-22_saint-flour_mariage_faure-grezes |
+| [Varfaladica?] (terroir, lecture conjecturale) | 1 | 1644-01-18_saint-flour_vente_david-sauvet |
 | [Varilhete?] (Varillettes ?, seigneurie de F. de Murat) | 1 | 1626-09-20_saint-flour_association_mareschal-vmell |
 | [Varilhetes?] (Varillettes ?, château) | 1 | 1624-11-19_saint-georges_vente_murat-celleyre |
 | [Varilhettes?] | 1 | 1659-03-14_saint-flour_vente_herault-fouchier |
@@ -6413,6 +6934,7 @@
 | [Varmeres?] | 1 | 1660-06-09_saint-flour_vente_sauvet-marlhiac |
 | [Varnac ?] | 1 | 1665-02-07_saint-flour_mariage_combes-chargebeuf |
 | [Varnenghol?] (lieu d'Antoine Bouniol ; ou Varneughol) | 1 | 1656-05-17_saint-flour_echange_salvatge-chassang |
+| [Varonne?] | 1 | 1633-07-00_saint-flour_testament_bardon |
 | [Vatieyguere?] | 1 | 1665-05-25_saint-flour_echange_bonnet-veyre |
 | [Vatzal?] (paroisse ; Talizat ou Valuéjols ?) | 1 | 1626-12-20_saint-flour_bail_lachau-vendre |
 | [Vaucherque?] (interligne, nature non établie) | 1 | 1653-03-20_saint-flour_vente_bagail-mallet |
@@ -6420,9 +6942,10 @@
 | [Vaudry?] (l. 2, douteux) | 1 | 1626-03-18_saint-flour_transaction_breton-delorme |
 | [Vauilherie?] / [Gautrez?] (incertain, l. 135) | 1 | 1660-11-14_saint-flour_mariage_brives-brugier |
 | [Vaulbes?] (l. 24) | 1 | 1652-07-24_saint-flour_vente_boudoz-durand |
+| [Vaulhac?] | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | [Vaulheac?] (paroisse de Mejanal ; Valuéjols ?) | 1 | 1660-05-18_saint-flour_vente_chappoulade-boudon |
 | [Vaulughol?] (Vauclughol / Voulughol ; probablement le même lieu que Savinghol de l'acte n° 35 et Varninghol d'autres fiches) | 1 | 1662-10-14_saint-flour_vente_bonniol-daude |
-| [Vaulx?] | 1 | 1653-07-17_saint-flour_vente_reynault-gaston |
+| [Vaulx?] | 2 | 1633-07-00_saint-flour_testament_bardon, 1653-07-17_saint-flour_vente_reynault-gaston |
 | [Vaulx?] [Velly?] | 1 | 1653-11-20_saint-flour_compromis_jourdy-fabry |
 | [Vaulx?] de [Bouygues?] (douteux, peut-être un nom de personne) | 1 | 1654-02-07_saint-flour_mariage_galand-nauthonnier |
 | [Vaur?] / [Vinci?] (lieu d'habitation du vendeur, paroisse de Roffiac) | 1 | 1661-10-05_saint-flour_vente_bastide-brassac |
@@ -6452,6 +6975,7 @@
 | [Vedelnac?] (seigneurie de J. Billet) | 1 | 1664-07-06_saint-flour_transaction_lastic-fargue |
 | [Vedernac?] | 2 | 1656-06-14_saint-flour_ratification_tassy-lanes, 1658-09-09_saint-flour_vente_lhoure-chauliaguet |
 | [Vedernat?] | 2 | 1659-06-07_saint-flour_transaction_gillet-labroha, 1665-05-04_saint-flour_vente_galdissaud-delort |
+| [Vedernat?] / Vedrenat (paroisse de Roffiac) | 1 | 1633-10-20_saint-flour_vente_cussac-hebrard |
 | [Vedeunat?] (Vedernat ?, paroisse de Roffiac) | 1 | 1661-06-12_saint-flour_vente_mallet-teissedre |
 | [Vedr...?] (Vedrines ?) | 1 | 1664-02-20_saint-flour_mariage_lebre-combes |
 | [Vedrenac?] | 1 | 1665-11-29_vedrenat_mariage_malet-malet |
@@ -6467,6 +6991,8 @@
 | [Vedrinac?] (Vedrinac / Vedrenac / Vedernac), paroisse de Roffiac | 1 | 1661-03-05_saint-flour_mariage_chausoz-aurelle |
 | [Vedrinac?] (Vedrinac / Vedrines), paroisse de Roffiac | 1 | 1661-01-16_saint-flour_mariage_rolland-cussac |
 | [Vedrinac?] (Vedrines ?) | 1 | 1661-03-03_saint-flour_vente_maury-apchier_b |
+| [Vedrinac?] / [Vedrenat?] | 1 | 1634-05-01_saint-flour_vente_cussac-filhol |
+| [Vedrinac?] / [Vedrenat?] (lieu des parties, paroisse de Roffiac) | 1 | 1634-05-01_saint-flour_transaction_cussat-filhol |
 | [Vedrinal?] (V.drinal à l'endos), paroisse de [Roffiac?] | 1 | 1657-09-09_saint-flour_partage_filiol-gazard |
 | [Vedrinat?] | 1 | 1657-05-15_saint-flour_quittance_mallet-caurail |
 | [Vedrinat?] (chemin allant à) | 1 | 1656-05-01_tanavelle_vente_boude-faure |
@@ -6493,6 +7019,7 @@
 | [Vellespesse?] (Vieillespesse ?) | 1 | 1656-11-20_saint-flour_vente_bougeyre-rochier |
 | [Vellouze?] / [Vellore?] (l. 31, sens inconnu) | 1 | 1654-03-22_saint-flour_desistement_martin-broz |
 | [Vemazes?] (Vemazes / Remazes / Vernazes), paroisse de Saint-Marc | 1 | 1663-12-02_saint-flour_vente_sensac-chazaledes |
+| [Venaux?] | 1 | 1634-02-07_saint-flour_vente_chapoulade-fevrane |
 | [Vendeze ?] | 1 | 1647-11-02_saint-flour_mariage_monier-autin |
 | [Vendeze?] | 3 | 1664-05-03_saint-flour_mariage_fajon-desalut, 1664-06-16_saint-flour_testament_sauret-boudet, 1665-03-12_saint-flour_vente_chassol-dubois |
 | [Vendeze?] (Vendèze ? lecture douteuse), maison d'Antoine [Bermesfam?] | 1 | 1626-09-22_vendeze_rente_armand-aymier |
@@ -6501,6 +7028,7 @@
 | [Vendugros?] (lieu, paroisse de Mentières ; ou Verdugros / Vindugros / Vernugros) | 1 | 1662-12-13_saint-flour_vente_basset |
 | [Vendy?] | 1 | 1666-05-01_saint-flour_vente_debrons-cathala |
 | [Vendèze?] (fief et directe) | 1 | 1660-03-30_saint-flour_vente_roussel-chirol |
+| [Venoulx?] | 1 | 1634-04-15_saint-flour_vente_rigal-bugo |
 | [Venoux ?] (paroisse de Roffiac) | 1 | 1659-06-16_saint-flour_vente_gardret-chanson |
 | [Ventou?] (ligne biffée) | 1 | 1661-04-29_saint-flour_testament_bagues |
 | [Ventuegles?] (paroisse ; Ventuéjols, Cantal ?) | 1 | 1628-12-09_saint-flour_bail_dufaud-combes |
@@ -6511,6 +7039,7 @@
 | [Verdinac?] / [Verdisuac?] / [Verdilinac?] | 1 | 1658-01-06_roffiac_testament_chevallier-mallet |
 | [Verdunac?] (endos) | 1 | 1653-07-05_saint-flour_cession_chauliaguet-biller |
 | [Vergel?] (l. 46) | 1 | 1661-00-00_villedieu_testament_cathela-bedeuche |
+| [Verges?] | 1 | 1633-09-06_saint-flour_testament_roudil |
 | [Vergier?] / [Pezetz?] (paroisse de Saint-Georges) | 1 | 1653-04-29_saint-flour_echange_assonnier-grezes |
 | [Vergn?] | 1 | 1660-05-03_coltines_vente_costail-hugon |
 | [Vergne?] | 1 | 1654-05-06_saint-flour_vente_gibrat-severin |
@@ -6542,6 +7071,8 @@
 | [Vezhoguer?], paroisse [Sainte-Marie?] | 1 | 1651-09-06_saint-flour_testament_rigault |
 | [Vezolz? / Rezolz?] (seigneurie d'Isaac Aymeric) | 1 | 1626-11-12_saint-flour_cession_pons-reynaldy |
 | [Vialland?] | 1 | 1653-02-24_saint-flour_inventaire_chanson-aujolet |
+| [Viallard?] | 1 | 1633-10-22_saint-flour_vente_boyer-vieulx |
+| [Viallard?] (Andelat) | 1 | 1634-11-21_saint-flour_vente_chadre-celier |
 | [Viau.lle?] (lieu d'origine de l'acquéreur, non identifié) | 1 | 1651-03-06_saint-flour_vente_langenagre-boude |
 | [Vibeyreville?] (mandement) | 1 | 1665-05-17_saint-flour_vente_teissedre-blanc |
 | [Vibezreville?] (Vibezeville / Viberzeville), paroisse de Villedieu | 1 | 1665-02-01_villedieu_mariage_tisset-vedrines |
@@ -6558,6 +7089,7 @@
 | [Viburzat?] | 1 | 1665-02-01_villedieu_mariage_tisset-vedrines |
 | [Vibuzac?] / Vib[...] | 1 | 1666-03-07_vedrines_mariage_breze-chanson |
 | [Vic?] (Vir ? siège du juge) | 1 | 1658-03-17_saint-flour_cession_aurelle-chassang |
+| [Vic?] (paroisse ?) | 1 | 1633-09-29_saint-flour_echange_regimbal-bonhoure |
 | [Viculac?] / [Vibulac?] (pré et champ) | 1 | 1654-03-29_saint-flour_partage_spezolles |
 | [Vidernac?] / [Vedernac?] (Védernat ?, paroisse de Roffiac) | 1 | 1664-03-13_saint-flour_vente_rolland-baccou |
 | [Videsche?] (non identifié) | 1 | 1659-02-25_saint-flour_mariage_mounier-leyssandre |
@@ -6586,7 +7118,7 @@
 | [Villedieu ?] | 4 | 1650-11-12_saint-flour_ratification_cayrou-dupre, 1659-01-19_mentieres_mariage_eschallier-galdissard, 1659-02-18_saint-flour_echange_monnier-mirmande, 1659-08-24_villedieu_testament_jouve |
 | [Villedieu ?] (paroisse) | 1 | 1632-03-23_saint-flour_ratification_rouchier-julhes |
 | [Villedieu? / Alleuze?] | 1 | 1662-10-07_saint-flour_donation_julhe |
-| [Villedieu?] | 9 | 1650-12-31_saint-flour_desistement_masset-teissedre, 1652-01-18_saint-flour_mariage_brassac-chevallier, 1653-02-24_saint-flour_inventaire_chanson-aujolet, 1654-03-02_saint-flour_vente_martial-cramon, 1654-11-21_saint-flour_vente_daund-devaurs, 1656-02-20_saint-flour_mariage_fages-chastang, 1656-11-20_saint-flour_vente_bougeyre-rochier, 1659-09-10_inconnu_testament_chanson, 1661-03-12_saint-flour_testament_baster |
+| [Villedieu?] | 10 | 1634-09-28_saint-flour_transaction_chanson-vaudeye, 1650-12-31_saint-flour_desistement_masset-teissedre, 1652-01-18_saint-flour_mariage_brassac-chevallier, 1653-02-24_saint-flour_inventaire_chanson-aujolet, 1654-03-02_saint-flour_vente_martial-cramon, 1654-11-21_saint-flour_vente_daund-devaurs, 1656-02-20_saint-flour_mariage_fages-chastang, 1656-11-20_saint-flour_vente_bougeyre-rochier, 1659-09-10_inconnu_testament_chanson, 1661-03-12_saint-flour_testament_baster |
 | [Villedieu?] (l. 14) | 1 | 1653-05-01_saint-flour_echange_sauret-gibrat |
 | [Villedieu?] (lieu du four ; ou Villeneuve, faubourg de Saint-Flour ?) | 1 | 1626-09-20_saint-flour_association_mareschal-vmell |
 | [Villedieu?] (paroisse ; lu aussi Villedue) | 1 | 1657-00-00_saint-flour_quittance_chevallier-boudon |
@@ -6604,6 +7136,7 @@
 | [Viller?] (chemin allant de [Viller?] au [...]) | 1 | 1653-09-29_saint-flour_donation_caillade-veynault |
 | [Villerdite?] | 1 | 1658-06-23_saint-flour_mariage_chausse-fourcharie |
 | [Villesaire?] | 1 | 1650-05-14_saint-flour_mariage_jouvenhe-aujolet |
+| [Villevert?] (seigneurie du témoin Faucon) | 1 | 1633-05-19_tiviers_mariage_chaulhaguet-duteil |
 | [Villinaye?] (seigneurie ou lieu ; pré et rivière dudit) | 1 | 1662-12-04_saint-flour_vente_delpeuch-faulcon |
 | [Vimbes? / Vabres?] (rue ou quartier de Saint-Flour ?) | 1 | 1656-11-15_saint-flour_vente_chevallier-lacombe |
 | [Vines?] (lieu du vendeur) | 1 | 1654-05-06_saint-flour_vente_gibrat-severin |
@@ -6635,6 +7168,7 @@
 | [Volac ?] (Velac / Vialac) | 1 | 1659-10-09_saint-flour_testament_bouniol |
 | [Volaure?] (ou Colaure) | 1 | 1653-01-14_saint-flour_vente_andrieu-solie |
 | [Volhezial?] | 1 | 1661-11-22_saint-flour_vente_grenier-dupre |
+| [Volieu?] | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
 | [Volladie?] | 1 | 1647-11-17_saint-flour_bail_rouger-attalin |
 | [Volleat?] | 1 | 1655-11-10_saint-flour_vente_jourdes-courtavel |
 | [Vollis?] (confront, douteux) | 1 | 1654-07-17_saint-flour_ratification_sentheray-mallet |
@@ -6653,10 +7187,12 @@
 | [Vorzey?] / Torzey (seigneurie) | 1 | 1656-05-07_saint-flour_echange_jonchieres-roche |
 | [Vossiac?] | 1 | 1665-12-29_saint-flour_vente_cussac-pelissier |
 | [Vossiac?] (paroisse) | 1 | 1654-05-03_saint-flour_demission_estienne-tissot |
+| [Vougier?] (lieu d'habitation des vendeurs et terroir des biens) | 1 | 1644-05-09_saint-flour_vente_sabatier-devannes |
 | [Vouillot?] | 1 | 1651-01-16_saint-flour_vente_maulhac-chauvet |
 | [Voullere?] (l. 12, sens incertain) | 1 | 1654-02-13_saint-flour_transaction_crozat-boudier |
 | [Vousilhon?] | 1 | 1658-10-02_saint-flour_echange_daufeulhe-hugon |
 | [Vouzac?] / [Vezac?] | 1 | 1652-02-12_saint-flour_subrogation_folhe-chausy |
+| [Vouze?] (lieu lié aux moulins ; ou Vouge) | 1 | 1644-05-09_saint-flour_delaissement_devaux-bertin |
 | [Vouzironeille?] (endos [Vouzirneilles?]), foraine de Saint-Flour, maison de M.e Balthazar de [Sanoct?], avocat | 1 | 1658-03-24_vouzironeille_testament_merliot |
 | [Vouzironeille?] (endos [Vouzirneilles?], abrégé [Vouzi...?]) | 1 | 1658-03-24_vouzironeille_testament_merliot |
 | [Voxapaud?] | 1 | 1651-03-06_saint-flour_vente_sentherain-vouget |
@@ -6665,6 +7201,7 @@
 | [Vozax?] (Vazax ; peut-être Vosac / Vozac / Bozac / Volzac), paroisse foraine de Saint-Flour | 1 | 1653-02-04_saint-flour_mariage_parroche-tisset |
 | [Vozax?] / [bozax?] (Volzac ?), paroisse foraine de Saint-Flour | 1 | 1662-11-06_saint-flour_vente_fabri-vallette |
 | [Vozeires?] | 1 | 1663-04-22_saint-flour_transaction_mossier-tranchier |
+| [Vozenbe?] / [Bozenbe?] / [Bozentes?] (lieu du cédant et des débiteurs, paroisse de Villedieu, non identifié) | 1 | 1634-09-25_saint-flour_cession_chastel-jauvet |
 | [Vozente?] | 1 | 1653-10-02_saint-flour_vente_ostmal-sauvet |
 | [Vozente?] (Vozente / Vogente / Lozente ; Bouzentès ?), paroisse de Villedieu | 1 | 1656-06-15_villedieu_cession_chastel-devaux |
 | [Vozente?] / Vozente / Bozente / Vogente (Bouzentès ?) | 1 | 1653-04-01_saint-flour_vente_vispail-derames |
@@ -6675,11 +7212,14 @@
 | [Vrez renelle?] / Vrezrenelle / ruyrenelle (lieu d'origine de Roux, non identifié) | 1 | 1656-12-27_saint-flour_transaction_roux-bousoure |
 | [Vrines?] (paroisse) | 1 | 1665-12-12_saint-flour_vente_galand |
 | [Vrinez?] / [Vetrujurs?] (paroisse du vendeur, non identifiée) | 1 | 1658-03-07_saint-flour_vente_delolme-delmar |
+| [Vrondure?] / [Vruidure?] (village, paroisse d'Anglards) | 1 | 1634-06-08_saint-flour_vente_albepar-vedrine |
 | [Vronge?] / Dironge (lieu du vendeur, paroisse de [Tiviers?]) | 1 | 1654-06-25_saint-flour_vente_bastid-andrieu |
 | [Vssel?] (Ussel ?) | 1 | 1666-07-25_saint-flour_ratification_bonnal-bardon |
 | [Vssiar?] | 1 | 1654-03-16_saint-flour_demission_daude-estiene |
 | [Vtusen?] (l. 3, nature incertaine) | 1 | 1661-02-16_saint-flour_mariage_jarlier-surrel |
+| [Vulleysscou?] (Valuéjols ?) | 1 | 1634-05-20_saint-flour_vente_roche-anglade |
 | [Vulteng?] (l. 35) | 1 | 1653-09-03_saint-flour_transaction_chassang-fajoz |
+| [Vyrguibolle?] | 1 | 1644-06-21_saint-flour_vente_bouchet-daude |
 | [Vze?] (Uze ? Vèze ?) | 1 | 1658-03-03_coltines_mariage_nicolas-bonnet |
 | [Védrines?]-Saint-Loup | 1 | 1658-06-23_saint-flour_testament_culhiere |
 | [Weilux?] / [Creyliz?] (lieu de l'acquéreur et des biens) | 1 | 1658-03-07_saint-flour_vente_delolme-delmar |
@@ -6692,6 +7232,7 @@
 | [a plot?] | 1 | 1660-06-09_saint-flour_vente_sauvet-marlhiac |
 | [a salavert?] | 1 | 1665-03-17_saint-flour_vente_chauliac-jesuites |
 | [adnenaus?] (seigneurie) | 1 | 1656-05-07_saint-flour_echange_jonchieres-roche |
+| [agholle?] (lieu d'origine du témoin Gendre ?) | 1 | 1633-02-26_saint-flour_vente_soulet-cellier |
 | [alabachausse?] | 1 | 1666-10-04_saint-flour_vente_bout-tronchere |
 | [alesbluere?] | 1 | 1660-06-09_saint-flour_vente_sauvet-marlhiac |
 | [allaus?] de [Coltines?] | 1 | 1653-03-18_saint-flour_vente_bardon-hugon |
@@ -6699,6 +7240,7 @@
 | [antzet ?] | 1 | 1660-03-16_saint-flour_testament_fromen-sentherain |
 | [apezralade?] (l. 16) | 1 | 1653-06-06_saint-flour_ratification_daude-dupre |
 | [au Bouisson?] (l. 69) | 1 | 1653-02-09_saint-flour_subrogation_galdessard-mallet |
+| [au ploch?] | 1 | 1634-06-25_saint-flour_vente_barthomeuf-dufour |
 | [audanzay?] | 1 | 1666-05-29_saint-flour_transaction_gibrat-rolland |
 | [aulhe?] (pré) | 1 | 1659-05-14_saint-flour_donation_foulto-vigier |
 | [aulte?] | 1 | 1659-06-05_saint-flour_echange_fareyre-siomy |
@@ -6720,6 +7262,7 @@
 | [bessayrolle ?] | 1 | 1664-03-09_saint-flour_bail_roux-sentheran |
 | [bessiac ?] | 1 | 1664-03-09_saint-flour_bail_roux-sentheran |
 | [biluiges?] / [Bilueges?] (lieu du vendeur ; cf. Veluzea[?] et Belinge[?] dans d'autres fiches) | 1 | 1663-12-09_saint-flour_vente_laurier-hugon |
+| [blauradoalla?] | 1 | 1644-06-25_saint-flour_vente_bichot-sauvar |
 | [bochet?] de [hiuern?] (l. 13-14) | 1 | 1661-02-20_saint-flour_vente_blanchier-brassac |
 | [bois?] de l'évêque de Saint-Flour | 1 | 1648-08-06_saint-flour_vente_lacrussol-rebeard |
 | [borzlin?] (l. 16) | 1 | 1661-02-20_saint-flour_vente_blanchier-brassac |
@@ -6727,6 +7270,7 @@
 | [bouguez?] (champ, Petges) | 1 | 1661-02-22_saint-flour_echange_missonnier-grezes |
 | [boutique?] (lieu de passation, l. 2) | 1 | 1626-03-22_saint-flour_bail_fabre-fayet |
 | [bouzinges?] / [gouzinges?] (champ, [rivière?]) | 1 | 1665-02-16_roffiac_echange_parra-blondin |
+| [bozonha?] | 1 | 1644-06-25_saint-flour_vente_bichot-sauvar |
 | [breul?] | 1 | 1666-10-07_saint-flour_vente_bertrand-chastang |
 | [bri-lhante?] [?] | 1 | 1626-11-12_saint-flour_cession_pons-reynaldy |
 | [brian?] | 1 | 1653-03-18_saint-flour_vente_bardon-hugon |
@@ -6742,6 +7286,7 @@
 | [chalierz?] (Chaliers ?) | 1 | 1663-11-04_saint-flour_mariage_bonnenfan-chalvet |
 | [chalvac?] | 1 | 1663-05-01_saint-flour_echange_chauliaguet-albiuf |
 | [champ del roudel?] | 1 | 1647-09-16_saint-flour_bail_chauliaguet-esbrard |
+| [champ du bois?] (douteux) | 1 | 1633-12-14_saint-flour_vente_mercier-aymeric |
 | [chancellerie?] [dauvilher? / dauvergne?] | 1 | 1654-05-09_saint-flour_desistement_reynalt-gaston |
 | [chanpeschasmin?] / [chanfe dechasmui?] | 1 | 1658-01-27_saint-flour_vente_devaluy-ollier |
 | [chaola?] (pré) | 1 | 1658-02-09_roffiac_mariage_blondy-parra |
@@ -6761,9 +7306,11 @@
 | [chazeir?] (cure) | 1 | 1662-11-29_saint-flour_vente_missonnier-berault |
 | [chazes?] | 1 | 1665-03-17_saint-flour_vente_chauliac-jesuites |
 | [chemin ?] d'Auzolles à Spinzergues appelé [...]chazallo[...] | 1 | 1651-06-25_saint-flour_vente_audouin-matthaugier |
+| [chemin?] [?] | 1 | 1638-00-00_saint-flour_transaction_inconnu |
 | [chemin?] allant de [...] à [...] (confront) | 1 | 1652-06-00_inconnu_vente_dousse-salvatge |
 | [chemin?] allant à [Muran?] (Murat ?) | 1 | 1658-04-13_saint-flour_vente_rabue-mouliarac |
 | [chirol ?] | 1 | 1659-05-31_saint-flour_vente_valarcher-parra |
+| [chodelles?] | 1 | 1634-12-02_saint-flour_mariage_gastal-bonnol |
 | [châtellenie?] de Saint-Flour | 1 | 1659-06-08_saint-flour_vente_begon-bechot |
 | [cimetière?] de Saint-Georges | 1 | 1660-02-00_saint-flour_testament_grandet |
 | [cimetière?] de l'église cathédrale | 1 | 1657-09-00_saint-flour_testament_meunier-cazot |
@@ -6782,10 +7329,12 @@
 | [confrérie?] du Saint-Sacrement de Saint-Flour | 1 | 1663-03-22_saint-flour_testament_molinier |
 | [corch?] (seigneurie) | 1 | 1666-05-19_saint-flour_vente_manoy-brugeyre |
 | [coredeor?] commun de Tanavelle | 1 | 1653-05-01_saint-flour_vente_gibrat-sauret |
+| [corey?] (seigneurie) | 1 | 1634-06-25_saint-flour_vente_barthomeuf-dufour |
 | [couderc ?] de la [Saiguette ?] (ou Saignette) | 1 | 1665-03-07_saint-flour_vente_regimbalt-teissedre |
 | [couderc?] commun d'Anglards appelé de la [?] | 1 | 1653-02-00_saint-flour_vente_barthomeuf-chanlaguet |
 | [couderc?] commun de la Fage | 1 | 1665-06-28_saint-flour_vente_andrieu-dupuy |
 | [couderc?] communal de Mour | 1 | 1656-04-03_saint-flour_subrogation_ceomes-rolland |
+| [couderc?] comun de [Lauaulle] | 1 | 1633-10-22_saint-flour_echange_regimbal-roussel |
 | [coudere ?] de l'Arbre / terroir de la Brugeire, à Auzolle | 1 | 1665-03-24_saint-flour_echange_baccon-migoulle |
 | [coudere?] commune du [boer?] (couderc ?) | 1 | 1663-01-06_saint-flour_vente_siruen-pons |
 | [coudert ?] commun de Saint-Flour | 1 | 1650-07-09_saint-flour_vente_dupre-vidal |
@@ -6793,23 +7342,31 @@
 | [cros?] de [triual?] | 1 | 1659-06-05_saint-flour_donation_soulhier-boudon |
 | [d'Esparvi?] (l. 5) | 1 | 1657-04-00_saint-flour_mariage_boudie-portail |
 | [d'Icard?] | 1 | 1660-06-06_saint-flour_vente_rolland-chastang |
+| [d'Olanges?] | 1 | 1634-03-25_saint-flour_vente_maury-juniet |
 | [d'Vauthoume?] (l. 15) | 1 | 1651-05-18_saint-flour_vente_andrieu-volland |
 | [d'avig...?] (ville d'étude, non lue) | 1 | 1648-05-06_saint-flour_testament_bertier |
 | [dAdsadour?] (lieu du futur époux) | 1 | 1656-07-09_saint-flour_mariage_estival-chaulhaguet |
 | [dAlember?] (champ de Combaloubeyre) | 1 | 1666-10-23_saint-flour_vente_baratte-lafoy |
+| [dJroude? / d'Ironde?] (appartenances) | 1 | 1644-07-02_saint-flour_vente_gibrat-gastal |
 | [dVellefougles?] (Vellefougles / Ollefougles) | 1 | 1651-03-06_saint-flour_vente_volland-chantal |
 | [dablau?] | 1 | 1663-12-22_saint-flour_vente_bresseyre-chanson |
 | [dadindou?] / [dadindau?] (lieu ou surnom du bailleur) | 1 | 1665-06-14_saint-flour_bail_hugon-bonyblanc |
+| [dagulier?] (chasal confrontant) | 1 | 1633-02-26_saint-flour_vente_soulet-cellier |
+| [dagullion?] / d'Aguillon (terroir du champ, au Viallard) | 1 | 1633-02-26_saint-flour_vente_soulet-cellier |
 | [dal agrah?] (pastural et champ) | 1 | 1654-03-29_saint-flour_partage_spezolles |
 | [dalboullon?] | 1 | 1653-01-14_saint-flour_vente_andrieu-solie |
 | [dalidour ?] (hameau ou surnom) | 1 | 1665-06-14_saint-flour_vente_bonyblanc-hugon |
+| [dalinsea?] | 1 | 1633-12-13_saint-flour_testament_chazal |
 | [dallauct?] (seigneurie de Jacques Macques) | 1 | 1657-02-04_saint-flour_donation_champaignac-missonnier |
 | [dallenze?] (Alleuze ?) | 1 | 1656-04-07_saint-flour_transaction_mallespaignes-chomme |
+| [dalluge?] / [derluge?] / [rluge?] (paroisse des acquéreurs, non résolue ; Alleuze ? non vérifié) | 1 | 1634-07-22_saint-flour_vente_vachier-rossignol |
 | [dalo prestade?] | 1 | 1661-11-22_saint-flour_vente_estival-malet |
 | [daltize?] (paroisse) | 1 | 1663-04-21_saint-flour_vente_aurilhe-chanson |
+| [dalu...et?] | 1 | 1633-11-13_saint-flour_testament_boucher |
 | [dalueze?] (Alleuze ?) | 1 | 1659-05-11_saint-flour_quittance_bernard-bonniol |
 | [dambragine?] | 1 | 1654-06-06_saint-flour_vente_cosserand |
 | [dandellat?] | 1 | 1653-02-24_saint-flour_inventaire_chanson-aujolet |
+| [dantevrioux? / dantrevrieux?] (domaine et métairie) | 1 | 1634-02-14_saint-flour_mariage_clavieres-aymeric |
 | [das Lussau?] (terroir) | 1 | 1649-12-04_saint-flour_vente_fontes-gralher |
 | [daselue?] | 1 | 1663-03-11_saint-flour_vente_gibrat-cristal |
 | [dasol?] | 1 | 1666-07-25_saint-flour_ratification_bonnal-bardon |
@@ -6824,6 +7381,7 @@
 | [de Lespital?] (champ) | 1 | 1661-01-16_saint-flour_echange_sibrac-fiou |
 | [de Tourniac?] | 1 | 1628-07-17_saint-flour_bail_sauret-chastang |
 | [de Valle?] | 1 | 1656-04-28_saint-flour_vente_alliadier-regimbalt |
+| [de Vergnes?] (confront, douteux) | 1 | 1633-06-02_saint-flour_vente_delayre-maury |
 | [de Volatte / de la Latte?] (lieu-dit, Treylhac) | 1 | 1665-12-12_saint-flour_vente_galand |
 | [de la gazelle?] / Lagazelle (endos, l. 36 : surnom ou lieu de Roudil) | 1 | 1658-04-24_saint-flour_subrogation_basset-roudil |
 | [de la?] [Coste?] (l. 15) | 1 | 1626-03-26_saint-flour_bail_defaure-bondy |
@@ -6847,9 +7405,11 @@
 | [delangre?] | 1 | 1661-01-15_montaignaguet_mariage_crabier-baldissard |
 | [delcroc?] / del Cro[c?] (paroisse d'Anglards) | 1 | 1654-11-04_saint-flour_mariage_barriol-petit |
 | [delfiu?] / del fo[?] (lieu, village des parties, paroisse de Paulhac) | 1 | 1663-01-06_saint-flour_vente_volland-chastel |
+| [delmas?] | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | [delongueux?] (l. 12, douteux) | 1 | 1654-09-29_saint-flour_vente_cussac-rial |
 | [delpuig?] (lieu de Pierre DELMAS) | 1 | 1657-04-16_saint-flour_transaction_bouchard-chauliaguet |
 | [demoroeur?] (seigneurie, lecture très douteuse) | 1 | 1665-07-19_saint-flour_echange_coutre-rouffie |
+| [des Bessoles?] (lieu-dit du pastural) | 1 | 1634-05-06_saint-flour_vente_bachier-messonnier |
 | [des Fauz?] (habitation des cédantes, incertain) | 1 | 1664-03-02_saint-flour_subrogation_rouvel-charbonnel |
 | [des Pradis?] (l. 4, incertain) | 1 | 1653-08-16_saint-flour_vente_boudie-ferrand |
 | [des tours?] | 1 | 1663-10-07_saint-flour_vente_cayron-dupre |
@@ -6880,6 +7440,8 @@
 | [dour?] (lieu d'origine du bailleur, non identifié) | 1 | 1628-08-20_saint-flour_bail_berthier-mathieu |
 | [dourseireles?] / dourceyrles (Orceyrolles ?), paroisse d'Anglards | 1 | 1663-05-26_saint-flour_obligation_trabuc-cairon |
 | [dourseyroles?] (lieu, paroisse d'Anglards) | 1 | 1657-04-29_saint-flour_transaction_rochier-maury |
+| [douze?] | 1 | 1634-10-21_saint-flour_testament_bical-maudre |
+| [drond.? / de Rond.?] | 1 | 1644-07-02_saint-flour_vente_gibrat-gastal |
 | [dslayue?] (non identifié) | 1 | 1660-00-00_saint-flour_mariage_bardolle-falgeyrac |
 | [dufaige?] de Montbouz (champ) | 1 | 1654-05-26_saint-flour_vente_martial-missonnier |
 | [dufalhez ?] (du Falhez ?) | 1 | 1663-07-30_alleuze_testament_gardelle-delolme |
@@ -6901,15 +7463,21 @@
 | [faulxbourg?] de Saint-Flour (l. 2, incertain) | 1 | 1632-01-21_saint-flour_mariage_chapsoulh-bossuge |
 | [faulxbourgs?] (l. 29) | 1 | 1632-07-00_saint-flour_demission_jaber-aymier |
 | [faulxbourgs?] (l. 76) | 1 | 1632-11-07_saint-flour_vente_cendre-felis |
+| [faulxbourgs?] du Sainct [fl..?] (très douteux) | 1 | 1633-05-28_saint-flour_vente_perillier |
 | [fauruz?] (paroisse de Fridefont, non identifiée) | 1 | 1651-06-06_saint-flour_vente_chauzes-cayssedre |
+| [fauxbourg?] (l. 32) | 1 | 1644-10-02_saint-flour_vente_teyssedre-bragier |
 | [fauxbourg?] (l. 35) | 1 | 1628-04-16_saint-flour_bail_missonnier-brughal |
+| [fayer?] | 1 | 1634-05-20_saint-flour_vente_roche-anglade |
 | [fayt?] | 1 | 1658-07-25_saint-flour_transaction_surrel |
 | [faze?] | 1 | 1657-07-02_saint-flour_transaction_combes-vidal |
 | [feulhat?] [vur?] chauvet[?] | 1 | 1653-01-22_saint-flour_vente_chausse-devarnes |
 | [ffoissenet?] / [foeissenet?] (endos) ; hyp. Fraissinet, paroisse de Saint-Flour | 1 | 1653-05-17_saint-flour_vente_combes-rouget |
+| [flamargues?] | 1 | 1634-02-06_saint-flour_transaction_nozieres-espinouze |
 | [flamargun?] (lieu, chemin vers Cussague et vers la chapelle de Cussague) | 1 | 1653-05-11_saint-flour_vente_vidal-chazot |
 | [flet?] | 1 | 1661-10-08_saint-flour_vente_falhet-chaulhaguet |
 | [fondz?] de [Sommier?] appelle de [Clar?] | 1 | 1654-04-25_saint-flour_vente_durhard-caueal |
+| [fongfreid?] (Fonfreide ?), champ à Fraissinet | 1 | 1644-06-25_saint-flour_vente_bichot-sauvar |
+| [fonhu?] (lieu de demeure du vendeur, non identifié) | 1 | 1633-02-11_saint-flour_vente_julhe-baille_b |
 | [fonofillie?] | 1 | 1658-01-03_roffiac_mariage_battide-fayon |
 | [fontaine?] (chemin du [Piroy?] à la fontaine) | 1 | 1661-09-23_saint-flour_echange_franchier-crozat |
 | [fontayne?] [pierrefiguens?] | 1 | 1650-02-02_saint-flour_vente_aymeric-marty |
@@ -6917,6 +7485,7 @@
 | [fontfreide?] | 1 | 1664-10-04_saint-flour_vente_david-sauret |
 | [foraine?] de Saint-Flour | 1 | 1664-09-14_saint-flour_vente_maury-rouget |
 | [formier?] (paroisse de l'épouse ?) | 1 | 1656-12-31_saint-flour_mariage_benedict-debrun |
+| [fougerat?] (toponyme ou terrain à fougères, douteux) | 1 | 1633-12-14_saint-flour_vente_mercier-aymeric |
 | [four ?] commun de Fayet | 1 | 1659-02-02_saint-flour_vente_brol-eschallier |
 | [fourchaud?] | 1 | 1665-08-24_saint-flour_mariage_maury-pages |
 | [fourg?] | 1 | 1666-04-27_saint-flour_vente_guadolle-paul |
@@ -6928,6 +7497,7 @@
 | [franchessoy?] (bois ?) | 1 | 1658-05-13_saint-flour_vente_bonnafos-rispal |
 | [frau?] de [louv?] (petit pradel, confront ; sens non compris) | 1 | 1653-02-11_saint-flour_vente_bouy-galand |
 | [freysenet?] / freisenet (paroisse d'Oradour) | 1 | 1654-11-04_saint-flour_mariage_barriol-petit |
+| [fridiere?] (Fridière / Frideyre ?, village, très douteux) | 1 | 1634-07-05_saint-flour_vente_lafargette-murat |
 | [fromau?] | 1 | 1659-06-05_saint-flour_echange_fareyre-siomy |
 | [fronne?] (paroisse de Roux ?, non identifiée) | 1 | 1656-12-27_saint-flour_transaction_roux-bousoure |
 | [frosteyrac?] / [Dousteyrac?] | 1 | 1659-04-15_saint-flour_echange_bonniol-colomb |
@@ -6943,6 +7513,7 @@
 | [goyoh?] | 1 | 1662-07-19_saint-flour_mariage_delaroche-gillet |
 | [grand Vollouh?] | 1 | 1656-11-15_saint-flour_vente_chevallier-lacombe |
 | [grand?] (lieu, l. 5, douteux) | 1 | 1660-04-28_saint-flour_echange_clatty-rolland |
+| [grand?] rue de [Lauaulle] | 1 | 1633-10-22_saint-flour_echange_regimbal-roussel |
 | [grantvalle?] / Grandval ? (paroisse de Lavastrie) | 1 | 1659-09-10_inconnu_testament_chanson |
 | [grenier?] | 1 | 1626-10-25_saint-flour_bail_redinier-volland |
 | [grizolz?] | 1 | 1651-05-20_saint-flour_vente_mighoulle-froment |
@@ -6960,6 +7531,7 @@
 | [houre?] (paroisse, l. 4) | 1 | 1632-05-08_saint-flour_vente_treual-hisseire |
 | [hôpital?] de Saint-Flour | 2 | 1661-08-06_saint-flour_testament_deltort-teller, 1662-01-19_saint-flour_testament_baldissard |
 | [hôpital?] des pauvres | 1 | 1657-04-00_saint-flour_mariage_boudie-portail |
+| [l Chassang?] (lieu de Jacques [Coudil?]) | 1 | 1634-08-31_saint-flour_cession_chaulhaguet-vayron |
 | [l'Hallier?] | 1 | 1653-02-24_saint-flour_inventaire_chanson-aujolet |
 | [l'Ort?] de [Vudix?] | 1 | 1666-05-01_saint-flour_vente_debrons-cathala |
 | [l'église?] dudit lieu | 1 | 1653-03-22_saint-flour_vente_chastre-bechot |
@@ -6968,6 +7540,7 @@
 | [la Borie?] (terroir) | 1 | 1652-03-05_saint-flour_vente_daby-boudon |
 | [la Boulisse?] (lieu-dit, terroir del Roy) | 1 | 1657-12-12_saint-flour_vente_rispal-bonafos |
 | [la Bugle?] de Nauts | 1 | 1654-01-04_saint-flour_vente_daud-devaux |
+| [la Chalmete?] | 1 | 1633-06-24_saint-flour_vente_sicard-maury |
 | [la Chanagoune?] (champ, appartenances de Mentières) | 1 | 1656-04-17_saint-flour_echange_boyer-bonnol |
 | [la Charambe?] (chemin de la Combe à) | 1 | 1661-11-24_saint-flour_vente_charbonnel-faulcon |
 | [la Chirol?] (champ) | 1 | 1661-11-22_saint-flour_vente_grenier-dupre |
@@ -6978,7 +7551,9 @@
 | [la Fargnette?] | 1 | 1661-11-24_saint-flour_vente_charbonnel-faulcon |
 | [la Forge?] | 1 | 1653-09-20_saint-flour_transaction_chassang-pages |
 | [la Ganivade?] (Ganiunade / Ganivade), paroisse d'Anglards — origine du futur | 1 | 1651-10-28_saint-flour_mariage_joumbre-boyer |
+| [la Gassaigne?] | 1 | 1644-10-02_saint-flour_vente_teyssedre-bragier |
 | [la Gazelle?] (paroisse de Ségur) | 1 | 1663-05-20_saint-flour_vente_rispal-pautard |
+| [la Graniere?] (lieu-dit) | 1 | 1633-02-28_saint-flour_vente_vigouroux-brassac |
 | [la Gravière?] (jardin, l. 10) | 1 | 1654-06-06_saint-flour_vente_cosserand_b |
 | [la Grifoulyere?] / grifoulhyre (champ) | 1 | 1656-04-17_saint-flour_echange_boyer-bonnol |
 | [la Javeyre?] | 1 | 1663-03-20_saint-flour_echange_rispal-pautard |
@@ -6989,10 +7564,12 @@
 | [la Pradel?] … [Fortuneyre?] (pré) | 1 | 1661-09-25_saint-flour_vente_franchier-crozat |
 | [la Riviere?] | 1 | 1662-10-09_saint-flour_vente_hugon |
 | [la Roche?] (l. 47) | 1 | 1657-04-00_saint-flour_mariage_boudie-portail |
+| [la Rubeyre?] (lieu d'habitation, endos) | 1 | 1633-11-13_saint-flour_testament_rouchea |
 | [la Stique?] | 1 | 1651-06-16_saint-flour_rente_pignol-boubolane |
 | [la Vacheyre?] | 1 | 1666-02-20_saint-flour_donation_borde |
 | [la Vastrie?] (ala vastrie) | 1 | 1656-12-23_saint-flour_vente_solie-roussel |
 | [la Vastrie?] (paroisse de l'époux) | 1 | 1656-12-31_saint-flour_mariage_benedict-debrun |
+| [la Verner?] (Lavernhe / la Vernière ?) | 1 | 1634-07-26_saint-flour_vente_boncheorne-faulcon |
 | [la Veyssere ?] (paroisse de Védrines-Saint-Loup) | 1 | 1659-11-16_saint-flour_mariage_fazes-barthomeuf |
 | [la Vignolle?] (champ, l. 15) | 1 | 1654-06-06_saint-flour_vente_cosserand_b |
 | [la boutte?] | 1 | 1661-11-22_saint-flour_vente_estival-malet |
@@ -7005,6 +7582,8 @@
 | [la palo?] (nom du jardin, très incertain) | 1 | 1658-06-29_saint-flour_vente_lallandier-noslac |
 | [la tagna?] | 1 | 1653-01-07_saint-flour_vente_trabuc-fabry |
 | [la terrier?] (paroisse, endos) | 1 | 1632-05-08_saint-flour_vente_treual-hisseire |
+| [la?] [Bonnet?] (l. 19, appellation de pièce ?) | 1 | 1634-03-26_saint-flour_vente_gastel-jurol |
+| [la?] [Sembelle?] (ou [Fembelle?]), pré aux appartenances de [Coltines?] | 1 | 1633-12-21_saint-flour_vente_chapat-tassy |
 | [laberreyre ?] (paroisse de [Challiers ?]) | 1 | 1650-01-19_saint-flour_mariage_allegre-mollinier |
 | [labrauio?] (expédition « Laborioir / labourier ») | 1 | 1664-03-15_saint-flour_transaction_bassa |
 | [labur?] (lieu ou qualité, douteux) | 1 | 1626-03-18_saint-flour_transaction_breton-delorme |
@@ -7018,26 +7597,33 @@
 | [las Rasseyres?] (pastural, appartenances de Saulignac[?]) | 1 | 1661-02-04_saint-flour_vente_besseyre-david |
 | [las coste?] (vigne, Saint-Cirgues) | 1 | 1659-10-19_saint-flour_testament_dulac |
 | [las va...?], pré | 1 | 1652-09-16_saint-flour_vente_champanhac-volp |
+| [lasbaisse?] (champ) | 1 | 1633-10-22_saint-flour_vente_boyer-vieulx |
 | [laspez?] / la [Peyre?] | 1 | 1660-06-11_saint-flour_vente_juery-gibrat |
 | [lastiguet ?] (paroisse de [Villedieu ?]) | 1 | 1659-01-19_mentieres_mariage_eschallier-galdissard |
 | [lasulz?] | 1 | 1663-03-20_saint-flour_echange_rispal-pautard_b |
 | [lauze?] | 1 | 1653-09-29_saint-flour_vente_defoudz-bugier |
+| [laz ouchen?] (terroir du champ, appartenances d'Andelat ; las Ouches ?) | 1 | 1634-12-21_saint-flour_vente_jourdane-ruel |
 | [laz.lle?] (l. 17, paroisse non lue — Tanavelle ?) | 1 | 1654-03-14_saint-flour_vente_bastide-nouzeyres |
+| [lb...?] (appartenances du bien vendu, non lu) | 1 | 1644-10-02_saint-flour_vente_teyssedre-bragier |
 | [le Bois?] de [lesglise?] | 1 | 1653-07-08_saint-flour_vente_vayle-gaston |
 | [le Buge de la Marga?] (terre, au Mas) | 1 | 1662-02-07_saint-flour_echange_sabatier-souchayre |
 | [le Lac?] (quartier de Saint-Flour ?) | 1 | 1626-05-01_saint-flour_partage_aymier-bonnefon |
+| [le Pelgeu?] / [Pelger?] (lieu du vendeur, paroisse de Saint-Georges) | 1 | 1634-07-22_saint-flour_vente_vachier-rossignol |
 | [le Pradel?] (pré) | 1 | 1661-09-23_saint-flour_echange_franchier-crozat |
+| [lenfrugolle?] / lenfruyrolle | 1 | 1634-05-20_saint-flour_vente_roche-anglade |
 | [lere ?] (paroisse de [Challiers ?]) | 1 | 1650-01-19_saint-flour_mariage_allegre-mollinier |
 | [les Planches?] | 1 | 1656-02-25_saint-flour_mariage_labroha-gillet |
 | [les fossés?] de Saint-Flour | 1 | 1652-10-07_saint-flour_partage_coutel-malbec |
 | [lesquin?] | 1 | 1651-09-06_saint-flour_testament_rigault |
 | [lestraband?] [dyor?] | 1 | 1663-12-16_saint-flour_testament_dufour-coulbe |
 | [lieu ?] del [pouy ?] | 1 | 1659-12-29_saint-flour_vente_barthet |
+| [lieuzauguee?] (l. 43, lieu possible, non compris) | 1 | 1634-04-19_saint-flour_transaction_trabuc-vigasol |
 | [lincivand?] (surnom ou lieu associé aux Chastel) | 1 | 1661-01-22_saint-flour_mariage_chastel-alezar |
 | [lodere?] commun du lieu d'Andelat (confront) | 1 | 1656-12-27_saint-flour_transaction_roux-bousoure |
 | [londe?] (l. 9, lecture et sens incertains) | 1 | 1653-05-04_saint-flour_vente_mauly-vaurs |
 | [lornbast?] (marge p. 155) | 1 | 1653-02-23_saint-flour_testament_chanson |
 | [lou Courbu?] (pré) | 1 | 1661-12-28_saint-flour_echange_chambaret-costes |
+| [lou?] [Semblades?] del Monner (lieu-dit, lecture très douteuse) | 1 | 1634-09-24_saint-flour_vente_crespel-bertin |
 | [lou?] ribar (nom du champ) | 1 | 1661-07-08_saint-flour_vente_achier-solier_b |
 | [lousuelz?] (tertre) | 1 | 1662-12-06_saint-flour_vente_chaulmette-roux |
 | [maison Bertraz?] (lieu de passation, faubourg de Saint-Flour) | 1 | 1653-07-06_saint-flour_mariage_ebrard-blanc |
@@ -7053,8 +7639,10 @@
 | [mesmal?] / [meymal?] (lieu du vendeur ; le Meynial probable) | 1 | 1661-09-08_saint-flour_vente_richard-chappoulade |
 | [mestrier?] (appartenances) | 1 | 1653-04-05_saint-flour_vente_dufaure-chauliaguet |
 | [mions?] | 1 | 1660-04-26_saint-flour_vente_bonnet-chauliaguet |
+| [mizanes?] | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | [moly?] | 1 | 1659-06-05_saint-flour_echange_fareyre-siomy |
 | [monastère?] de [Bressac?] | 1 | 1653-03-19_saint-flour_vente_vidal-chazot |
+| [moulin?] | 1 | 1633-09-29_saint-flour_echange_regimbal-bonhoure |
 | [moulin?] (l. 15) | 1 | 1661-00-00_saint-flour_echange_bertoi-brunel |
 | [moulin?] de … (non lu) | 1 | 1626-06-08_saint-flour_bail_falgat-thomas |
 | [moutballat?] | 1 | 1666-05-19_saint-flour_vente_manoy-brugeyre |
@@ -7084,6 +7672,7 @@
 | [pierefort?] (Pierrefort ?) | 1 | 1659-10-25_saint-flour_vente_couderc-mounier |
 | [piron?] (chemin allant au …) | 1 | 1654-03-29_saint-flour_partage_spezolles |
 | [pissarelles ?] | 1 | 1659-12-29_saint-flour_vente_barthet |
+| [place?] de la ville (l. 3, lecture conjecturale) | 1 | 1644-08-27_saint-flour_donation_rolland-chalier |
 | [place?] du [...] | 1 | 1662-03-02_saint-flour_vente_auquier-chazalede |
 | [place?] publique de Saint-Flour | 1 | 1656-04-28_saint-flour_vente_alliadier-regimbalt |
 | [placette?] (Saint-Flour, près de la collégiale) | 1 | 1653-04-01_saint-flour_vente_frougoux-jean |
@@ -7122,13 +7711,16 @@
 | [prouince?] [estrangere?] | 1 | 1658-07-28_saint-flour_testament_veyle |
 | [pré?] ayant appartenu à Pierre Fontanier (objet adjugé, lecture très incertaine) | 1 | 1658-06-02_saint-flour_subrogation_bonafos-jourdy |
 | [puech Sombre?] (de Vozeut) | 1 | 1654-01-04_saint-flour_vente_daud-devaux |
+| [puy?] de lacrou[?] | 1 | 1634-06-25_saint-flour_vente_barthomeuf-dufour |
 | [quayre ?] | 1 | 1664-03-09_saint-flour_bail_roux-sentheran |
+| [randal?] | 1 | 1634-06-25_saint-flour_vente_barthomeuf-dufour |
 | [rase?] descendant de Roffiac | 1 | 1658-04-13_saint-flour_vente_rabue-mouliarac |
 | [rayne?] de stflour (endos, douteux) | 1 | 1661-03-20_saint-flour_vente_dorpheulle-baldissard |
 | [rezeahiere?] / [rezenhiere?] / [rezeahire?] (Rézentières ?) | 1 | 1658-06-29_saint-flour_vente_lallandier-noslac |
 | [ribeyre?] | 1 | 1664-10-00_saint-flour_revente_savrazy-apchier |
 | [riboyre?] de [boyre?] | 1 | 1666-06-14_saint-flour_vente_barthet |
 | [rive?] allant del [Conde?] au pont del Chassang | 1 | 1658-04-09_saint-flour_transaction_hugon-volland |
+| [riviere?] de [...] | 1 | 1644-05-09_saint-flour_vente_sabatier-devannes |
 | [riviere?] de [lime?] | 1 | 1632-01-31_saint-flour_vente_missonnier-hirle |
 | [riviere?] descendant au pont de [Gonvbatin?] | 1 | 1654-06-25_saint-flour_vente_bastid-andrieu |
 | [rivière?] de Lauzet | 1 | 1663-01-02_saint-flour_vente_sauret-chazaledes |
@@ -7136,8 +7728,11 @@
 | [rivière?] du [Vallaignez?] | 1 | 1654-06-06_saint-flour_vente_cosserand |
 | [rochigo ?] | 1 | 1659-05-31_saint-flour_vente_valarcher-parra |
 | [rondebet?] / [rondabet?] | 1 | 1659-06-05_saint-flour_echange_fareyre-siomy |
+| [rouchey?] (confront, l. 15) | 1 | 1634-03-27_saint-flour_vente_roux-aymeric |
+| [roussac?] | 1 | 1644-06-25_saint-flour_vente_bichot-sauvar |
 | [rue?] allant de la fontaine à [l'église?] | 1 | 1653-03-22_saint-flour_vente_chastre-bechot |
 | [rue?] de Mons à [Roffiac?] | 1 | 1658-01-07_saint-flour_echange_uchafol-estienne |
+| [rue?] de [Muret?] (Saint-Flour) | 1 | 1644-02-19_saint-flour_vente_geraud-trabuc |
 | [rue?] des Lacs, Saint-Flour (maison et jardin saisis) | 1 | 1656-06-23_saint-flour_subrogation_vossier-charbonnier |
 | [rue?] des [Olliers?], faubourgs de Saint-Flour | 1 | 1653-02-18_saint-flour_mariage_commond-mallessaignes |
 | [rue?] du [Bedent?] (Saint-Flour) | 1 | 1653-06-16_saint-flour_partage_gaultier |
@@ -7165,9 +7760,12 @@
 | [tronar?] | 1 | 1666-10-04_saint-flour_vente_lastic-barthet |
 | [tunayrade?] | 1 | 1666-10-19_inconnu_testament_ventengol |
 | [vaisseau?] d[haudan?] de montaigniac a [vallievgues?] (ruisseau ? confront) | 1 | 1653-04-19_saint-flour_vente_dion-ferrand |
+| [valueghol?] (Valuéjols ?) | 1 | 1644-06-25_saint-flour_vente_bichot-sauvar |
+| [vaucllere?] (seigneurie) | 1 | 1634-06-25_saint-flour_vente_barthomeuf-dufour |
 | [vedenne?] / [vedrenne?] (Védrines ?) | 1 | 1660-03-25_saint-flour_donation_ambrols-baldissard |
 | [vie?] d'Auvillar (voie ou ville d'Auvillar, confront) | 1 | 1651-03-30_saint-flour_testament_chapavayre |
 | [viellespessea?] / [viellespesse?] (Vieillespesse ?) | 1 | 1666-08-08_saint-flour_transaction_boyer-batiffolier |
+| [villecontat?] (l. 8, douteux) | 1 | 1633-09-26_saint-flour_vente_avinal-roussel |
 | [villefranche?] (biffé) | 1 | 1665-12-29_saint-flour_vente_cussac-pelissier |
 | [vraz delban?] & [Peault?] (autres noms des pièces, interligne très incertain) | 1 | 1653-02-05_saint-flour_vente_canilhac-bourdiol |
 | [ytheurs?] (paroisse non identifiée ; Tiviers ?) | 1 | 1653-07-22_saint-flour_cession_colrat-vergne |
@@ -7175,8 +7773,18 @@
 | [église paroissiale?] (nom perdu, l. 19) | 1 | 1651-12-26_saint-flour_testament_pouzin |
 | […]besaint[?] (résidence de Jean Borchette père) | 1 | 1652-06-16_saint-flour_vente_borchette-portefaix |
 | a Ortiger (pré) | 1 | 1648-01-25_saint-flour_vente_salvan-rolland |
+| a [Lange?] [Darnye?], terroir de [Mensun?] | 1 | 1633-05-10_saint-flour_vente_albaret-malet |
+| a l'isue | 1 | 1634-01-04_saint-flour_desistement_sandoul-pontsavet |
+| a la Chalmete [?] | 1 | 1634-05-06_saint-flour_vente_bachier-messonnier |
+| a la Combette (champ, appartenances de [Lauaulle]) | 1 | 1633-10-22_saint-flour_echange_regimbal-roussel |
+| a la [Brande?] (nom du champ, l. 13-14) | 1 | 1634-11-04_saint-flour_vente_bacon-sibial |
+| a la [Brueyssol?] / [Bressolz?] | 1 | 1634-05-06_saint-flour_vente_bachier-messonnier |
+| a lou [...] (champ) | 1 | 1634-05-06_saint-flour_vente_bachier-messonnier |
 | a mont Vissy (champ) | 1 | 1664-03-01_saint-flour_vente_barthomeuf-montel |
 | a salliant (non interprété) | 1 | 1665-00-00_saint-flour_vente_vigier-trabuc |
+| a[s]salme[?] / a[s]solme[?] | 1 | 1633-05-09_andelat_bail_brugier-julhe |
+| al Monty (lieu-dit) | 1 | 1644-05-09_saint-flour_vente_sabatier-devannes |
+| al [baas?] (pré et pâtural) | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | al clauze [bousse?] (lieu-dit) | 1 | 1651-00-00_saint-flour_vente_faurail-rouzeyres |
 | albrezal[?] | 1 | 1657-08-26_borry_testament_barthet-chassang |
 | alliadiers[?] | 1 | 1664-12-28_roffiac_vente_aurelhe-mauvy |
@@ -7204,19 +7812,23 @@
 | bailliage [de Saint-Flour ?] (l. 9) | 1 | 1655-10-00_saint-flour_mariage_vidal-rossignol |
 | bailliage [de Saint-Flour?] | 2 | 1653-03-04_saint-flour_transaction_hugon-quatveul, 1657-01-00_saint-flour_mariage_hugon-broha |
 | bailliage [de haute Auvergne?] | 1 | 1626-08-14_saint-flour_sommation_faure |
+| bailliage [des Montagnes d'Auvergne?] (« haulte auvergne » biffé) | 1 | 1634-03-30_saint-flour_transaction_valarchier-dolmiere |
 | bailliage d'Andelat | 2 | 1653-04-01_saint-flour_vente_vispail-derames, 1662-10-07_saint-flour_donation_julhe |
+| bailliage d'Aurillac | 1 | 1644-02-13_saint-flour_vente_dufour-geraud |
 | bailliage d'appeaux de Saint-Flour | 1 | 1661-00-00_saint-flour_partage_lassaigne-bonneval |
-| bailliage de Haute-Auvergne | 3 | 1658-01-03_roffiac_mariage_battide-fayon, 1661-01-16_saint-flour_mariage_rolland-cussac, 1661-03-05_saint-flour_mariage_chausoz-aurelle |
+| bailliage de Haute-Auvergne | 5 | 1633-10-22_saint-flour_echange_regimbal-roussel, 1634-02-06_saint-flour_transaction_nozieres-espinouze, 1658-01-03_roffiac_mariage_battide-fayon, 1661-01-16_saint-flour_mariage_rolland-cussac, 1661-03-05_saint-flour_mariage_chausoz-aurelle |
 | bailliage de Haute-Auvergne (Saint-Flour) | 2 | 1658-01-07_saint-flour_mariage_pelegry-passenau, 1661-02-04_saint-flour_donation_traverse-benezit |
 | bailliage de Haute-Auvergne (hault auuergne) | 1 | 1658-02-09_saint-flour_mariage_meyliot-cussac |
 | bailliage de Haute-Auvergne (haulte auvergne) | 1 | 1660-01-16_saint-flour_donation_maraygue |
-| bailliage de Haute-Auvergne (siège de Saint-Flour) | 1 | 1664-02-06_saint-flour_mariage_marthomeuf-albos |
+| bailliage de Haute-Auvergne (siège de Saint-Flour) | 2 | 1633-02-07_saint-flour_mariage_faulier-tissier, 1664-02-06_saint-flour_mariage_marthomeuf-albos |
 | bailliage de Haute-Auvergne (« bailli du hault auvergne »), siège de Saint-Flour | 1 | 1660-06-17_saint-flour_donation_vezin |
+| bailliage de Haute-Auvergne [?] | 1 | 1633-09-29_saint-flour_echange_regimbal-bonhoure |
 | bailliage de Haute-Auvergne, siège de Saint-Flour | 1 | 1658-05-18_saint-flour_mariage_chambaron-delmas_b |
 | bailliage de Haute-Auvergne, siège présidial de Saint-Flour | 1 | 1658-05-08_saint-flour_vente_hugon-lassy |
-| bailliage de Saint-Flour | 99 | 1626-03-30_saint-flour_bail_brugier-sauret, 1648-10-13_saint-flour_vente_travesse-chauliaguet, 1650-05-18_saint-flour_transaction_bastide-sauvaige, 1650-09-24_saint-flour_mariage_boyer-bauthet, 1651-01-00_saint-flour_transaction_guerin-castaing, 1651-02-12_saint-flour_vente_mallessaigues-sauret, 1651-03-18_saint-flour_obligation_fajon-monier, 1651-04-19_saint-flour_quittance_dupre-bonnol, 1651-07-14_saint-flour_transaction_sanson-lebre, 1651-09-06_saint-flour_transaction_valarchier-trabuc, 1652-01-27_saint-flour_mariage_dufour-albuisson, 1652-04-14_saint-flour_mariage_rochier-lassy, 1652-04-30_saint-flour_cession_challier-auzolle, 1652-05-17_saint-flour_cession_delrieu-tassy, 1652-05-17_saint-flour_cession_hugon-tassy, 1652-06-16_saint-flour_vente_borchette-portefaix, 1652-08-05_saint-flour_vente_paulhard-fabry, 1652-08-31_saint-flour_cession_detraussez-dufour, 1652-09-26_saint-flour_donation_chappoulle, 1653-01-23_saint-flour_transaction_saignes-gillet, 1653-02-14_saint-flour_donation_chaumeil-sauve, 1653-02-18_saint-flour_mariage_commond-mallessaignes, 1653-03-23_saint-flour_transaction_souchier-sauvaige, 1653-04-01_saint-flour_vente_vispail-derames, 1653-04-19_saint-flour_vente_dion-ferrand, 1653-07-02_saint-flour_vente_jean-noailles, 1653-09-02_saint-flour_testament_chazelles-fraisse, 1653-09-18_saint-flour_testament_ferrand, 1653-11-20_saint-flour_compromis_jourdy-fabry, 1653-11-30_saint-flour_quittance_gibrat-lolier, 1653-12-09_saint-flour_quittance_desauve-beaufilz, 1653-12-17_saint-flour_rente_sauvet-tours, 1654-01-26_saint-flour_mariage_ferauze-aussel, 1654-02-05_saint-flour_compromis_alloy-bertrand, 1654-02-09_saint-flour_mariage_vassond-courchaud, 1654-02-13_saint-flour_transaction_crozat-boudier, 1654-02-16_villedieu_mariage_rolland-vidal, 1654-02-23_saint-flour_quittance_sicaud-vougier, 1654-07-26_saint-flour_mariage_monnier-brassac, 1654-08-20_saint-flour_vente_delcros-vollant, 1654-11-04_saint-flour_mariage_barriol-petit, 1655-05-23_saint-flour_transaction_yzabel-sentheraiz, 1656-03-08_saint-flour_vente_polverelles-chirol, 1656-03-13_saint-flour_vente_sauvaige-boudon, 1656-04-07_saint-flour_transaction_mallespaignes-chomme, 1656-06-23_saint-flour_subrogation_vossier-charbonnier, 1656-09-13_saint-flour_testament_bray-cussat, 1656-09-24_saint-flour_transaction_tissier-palmier, 1656-10-15_saint-flour_transaction_rol, 1656-11-18_saint-flour_donation_chazal-molinier, 1656-12-22_saint-flour_transaction_crespoul-crestail, 1657-03-20_saint-flour_testament_aumergnoz, 1657-04-21_saint-flour_quittance_julhien-vazieu, 1657-07-22_saint-flour_transaction_mallesaigne-portal, 1657-11-25_seriers_mariage_doumergue-chevallier, 1657-12-00_saint-flour_transaction_grassalt-chevallier, 1657-12-27_saint-flour_mariage_mazamblard-mauvy, 1658-02-03_seriers_donation_chavvegne-cailliaud, 1658-02-25_saint-flour_mariage_vigier-chevalier, 1658-03-03_coltines_mariage_nicolas-bonnet, 1658-03-18_saint-flour_ratification_coutarel-chausson, 1658-04-01_saint-flour_transaction_cussac-chausse, 1658-04-02_saint-flour_donation_roche-bondurand, 1658-05-27_saint-flour_vente_tafanel-combes, 1658-08-04_saint-flour_mariage_brounet-polverelles, 1658-10-18_saint-flour_transaction_mallessaignes-beaufilz, 1659-03-22_saint-flour_vente_valdissard-fabry, 1660-03-25_saint-flour_donation_aubiole-cussac, 1660-08-02_saint-flour_mariage_brassac-brugon, 1660-12-04_saint-flour_ratification_aguet-delort, 1661-11-11_saint-flour_donation_anequin, 1661-11-27_saint-flour_echange_chaulhaguet-filiol, 1662-01-19_saint-flour_vente_boyer-tassy, 1662-03-11_saint-flour_testament_detrauesse, 1662-05-20_saint-flour_mariage_fontes-bonnet, 1662-07-19_saint-flour_mariage_delaroche-gillet, 1663-03-02_saint-flour_transaction_anequin-chazaledes, 1663-05-08_saint-flour_transaction_regimbalt-berault, 1663-11-02_saint-flour_donation_juery-molinier, 1663-11-10_saint-flour_echange_tassy-gaudel, 1664-02-26_saint-flour_mariage_bonnet-lombard, 1664-05-07_saint-flour_testament_anequin-mollinier, 1664-07-06_saint-flour_transaction_lastic-fargue, 1664-08-12_saint-flour_testament_detrausse, 1664-08-16_saint-flour_vente_allissar-sauvagel, 1664-08-17_saint-flour_vente_bissoller-domergue, 1664-09-14_saint-flour_vente_maury-rouget, 1664-10-12_saint-flour_vente_malle-fizol, 1665-03-28_saint-flour_echange_bruict-desfondz, 1665-04-25_saint-flour_vente_delorme-chirol, 1665-05-18_saint-flour_vente_buge-blanchy, 1665-06-28_saint-flour_vente_andrieu-dupuy, 1665-11-15_voffrac_cession_gazel-veyssiere, 1666-04-13_saint-flour_echange_rolland-galvier, 1666-05-29_saint-flour_donation_sourchere-girion, 1666-06-30_saint-flour_donation_viallard-berault, 1666-07-09_saint-flour_vente_boussuge-trabuc, 1666-10-28_saint-flour_echange_petit-andel, 1672-12-10_saint-flour_requete_fauret-vedrines |
+| bailliage de Saint-Flour | 102 | 1626-03-30_saint-flour_bail_brugier-sauret, 1634-01-16_saint-flour_echange_regimbal-roussel, 1634-05-15_saint-flour_transaction_garnier, 1634-07-25_saint-flour_vente_chanut-chambon, 1648-10-13_saint-flour_vente_travesse-chauliaguet, 1650-05-18_saint-flour_transaction_bastide-sauvaige, 1650-09-24_saint-flour_mariage_boyer-bauthet, 1651-01-00_saint-flour_transaction_guerin-castaing, 1651-02-12_saint-flour_vente_mallessaigues-sauret, 1651-03-18_saint-flour_obligation_fajon-monier, 1651-04-19_saint-flour_quittance_dupre-bonnol, 1651-07-14_saint-flour_transaction_sanson-lebre, 1651-09-06_saint-flour_transaction_valarchier-trabuc, 1652-01-27_saint-flour_mariage_dufour-albuisson, 1652-04-14_saint-flour_mariage_rochier-lassy, 1652-04-30_saint-flour_cession_challier-auzolle, 1652-05-17_saint-flour_cession_delrieu-tassy, 1652-05-17_saint-flour_cession_hugon-tassy, 1652-06-16_saint-flour_vente_borchette-portefaix, 1652-08-05_saint-flour_vente_paulhard-fabry, 1652-08-31_saint-flour_cession_detraussez-dufour, 1652-09-26_saint-flour_donation_chappoulle, 1653-01-23_saint-flour_transaction_saignes-gillet, 1653-02-14_saint-flour_donation_chaumeil-sauve, 1653-02-18_saint-flour_mariage_commond-mallessaignes, 1653-03-23_saint-flour_transaction_souchier-sauvaige, 1653-04-01_saint-flour_vente_vispail-derames, 1653-04-19_saint-flour_vente_dion-ferrand, 1653-07-02_saint-flour_vente_jean-noailles, 1653-09-02_saint-flour_testament_chazelles-fraisse, 1653-09-18_saint-flour_testament_ferrand, 1653-11-20_saint-flour_compromis_jourdy-fabry, 1653-11-30_saint-flour_quittance_gibrat-lolier, 1653-12-09_saint-flour_quittance_desauve-beaufilz, 1653-12-17_saint-flour_rente_sauvet-tours, 1654-01-26_saint-flour_mariage_ferauze-aussel, 1654-02-05_saint-flour_compromis_alloy-bertrand, 1654-02-09_saint-flour_mariage_vassond-courchaud, 1654-02-13_saint-flour_transaction_crozat-boudier, 1654-02-16_villedieu_mariage_rolland-vidal, 1654-02-23_saint-flour_quittance_sicaud-vougier, 1654-07-26_saint-flour_mariage_monnier-brassac, 1654-08-20_saint-flour_vente_delcros-vollant, 1654-11-04_saint-flour_mariage_barriol-petit, 1655-05-23_saint-flour_transaction_yzabel-sentheraiz, 1656-03-08_saint-flour_vente_polverelles-chirol, 1656-03-13_saint-flour_vente_sauvaige-boudon, 1656-04-07_saint-flour_transaction_mallespaignes-chomme, 1656-06-23_saint-flour_subrogation_vossier-charbonnier, 1656-09-13_saint-flour_testament_bray-cussat, 1656-09-24_saint-flour_transaction_tissier-palmier, 1656-10-15_saint-flour_transaction_rol, 1656-11-18_saint-flour_donation_chazal-molinier, 1656-12-22_saint-flour_transaction_crespoul-crestail, 1657-03-20_saint-flour_testament_aumergnoz, 1657-04-21_saint-flour_quittance_julhien-vazieu, 1657-07-22_saint-flour_transaction_mallesaigne-portal, 1657-11-25_seriers_mariage_doumergue-chevallier, 1657-12-00_saint-flour_transaction_grassalt-chevallier, 1657-12-27_saint-flour_mariage_mazamblard-mauvy, 1658-02-03_seriers_donation_chavvegne-cailliaud, 1658-02-25_saint-flour_mariage_vigier-chevalier, 1658-03-03_coltines_mariage_nicolas-bonnet, 1658-03-18_saint-flour_ratification_coutarel-chausson, 1658-04-01_saint-flour_transaction_cussac-chausse, 1658-04-02_saint-flour_donation_roche-bondurand, 1658-05-27_saint-flour_vente_tafanel-combes, 1658-08-04_saint-flour_mariage_brounet-polverelles, 1658-10-18_saint-flour_transaction_mallessaignes-beaufilz, 1659-03-22_saint-flour_vente_valdissard-fabry, 1660-03-25_saint-flour_donation_aubiole-cussac, 1660-08-02_saint-flour_mariage_brassac-brugon, 1660-12-04_saint-flour_ratification_aguet-delort, 1661-11-11_saint-flour_donation_anequin, 1661-11-27_saint-flour_echange_chaulhaguet-filiol, 1662-01-19_saint-flour_vente_boyer-tassy, 1662-03-11_saint-flour_testament_detrauesse, 1662-05-20_saint-flour_mariage_fontes-bonnet, 1662-07-19_saint-flour_mariage_delaroche-gillet, 1663-03-02_saint-flour_transaction_anequin-chazaledes, 1663-05-08_saint-flour_transaction_regimbalt-berault, 1663-11-02_saint-flour_donation_juery-molinier, 1663-11-10_saint-flour_echange_tassy-gaudel, 1664-02-26_saint-flour_mariage_bonnet-lombard, 1664-05-07_saint-flour_testament_anequin-mollinier, 1664-07-06_saint-flour_transaction_lastic-fargue, 1664-08-12_saint-flour_testament_detrausse, 1664-08-16_saint-flour_vente_allissar-sauvagel, 1664-08-17_saint-flour_vente_bissoller-domergue, 1664-09-14_saint-flour_vente_maury-rouget, 1664-10-12_saint-flour_vente_malle-fizol, 1665-03-28_saint-flour_echange_bruict-desfondz, 1665-04-25_saint-flour_vente_delorme-chirol, 1665-05-18_saint-flour_vente_buge-blanchy, 1665-06-28_saint-flour_vente_andrieu-dupuy, 1665-11-15_voffrac_cession_gazel-veyssiere, 1666-04-13_saint-flour_echange_rolland-galvier, 1666-05-29_saint-flour_donation_sourchere-girion, 1666-06-30_saint-flour_donation_viallard-berault, 1666-07-09_saint-flour_vente_boussuge-trabuc, 1666-10-28_saint-flour_echange_petit-andel, 1672-12-10_saint-flour_requete_fauret-vedrines |
 | bailliage de Saint-Flour (Haut-Auvergne) | 1 | 1658-07-13_saint-flour_donation_combes-mauly |
 | bailliage de Saint-Flour (bailli des Montagnes d'Auvergne) | 1 | 1650-05-14_saint-flour_mariage_jouvenhe-aujolet |
+| bailliage de Saint-Flour (cour du balliage) | 1 | 1634-07-12_saint-flour_cession_brouzy-bourel |
 | bailliage de Saint-Flour (cour du) | 1 | 1651-12-30_saint-flour_transaction_bouffe-rolland |
 | bailliage de Saint-Flour (greffe des insinuations) | 1 | 1665-01-27_saint-flour_donation_vailet-trabuc |
 | bailliage de Saint-Flour (haut Auvergne) | 1 | 1656-10-07_saint-flour_mariage_combes-vallat |
@@ -7226,7 +7838,7 @@
 | bailliage de Saint-Flour [?] (p. 170) | 1 | 1653-09-29_saint-flour_donation_caillade-veynault |
 | bailliage de Saint-Flour, Haute-Auvergne (insinuation) | 1 | 1658-05-15_saint-flour_mariage_mourgues-martin |
 | bailliage de [Saint-Flour ?] | 1 | 1664-02-28_saint-flour_demission_rolland |
-| bailliage des Montagnes d'Auvergne | 9 | 1649-01-26_saint-flour_transaction_dubois-pages, 1652-05-17_saint-flour_vente_pages-lassy, 1654-01-07_saint-flour_vente_galliardy-albessard, 1654-01-26_saint-flour_mariage_ferauze-aussel, 1654-08-00_saint-flour_transaction_bardoz-boussuge, 1656-01-09_saint-flour_mariage_delort-bouchier, 1658-02-07_saint-flour_inventaire_bonafos-pademorgue, 1660-06-29_saint-flour_vente_missonnier-berault, 1662-08-08_saint-flour_mariage_mollinier-chaulet |
+| bailliage des Montagnes d'Auvergne | 10 | 1644-08-18_saint-flour_donation_bonnault, 1649-01-26_saint-flour_transaction_dubois-pages, 1652-05-17_saint-flour_vente_pages-lassy, 1654-01-07_saint-flour_vente_galliardy-albessard, 1654-01-26_saint-flour_mariage_ferauze-aussel, 1654-08-00_saint-flour_transaction_bardoz-boussuge, 1656-01-09_saint-flour_mariage_delort-bouchier, 1658-02-07_saint-flour_inventaire_bonafos-pademorgue, 1660-06-29_saint-flour_vente_missonnier-berault, 1662-08-08_saint-flour_mariage_mollinier-chaulet |
 | bailliage des Montagnes d'Auvergne (Saint-Flour) | 1 | 1654-02-15_roffiac_mariage_malle-aurelle |
 | bailliage des Montagnes d'Auvergne (siège de Saint-Flour) | 3 | 1650-02-06_saint-flour_donation_bondurand-delcros, 1653-09-30_saint-flour_testament_galiot-marquis, 1654-04-16_saint-flour_quittance_chaluet-senteraiz |
 | bailliage des Montagnes d'Auvergne, siège de Saint-Flour | 1 | 1660-11-14_saint-flour_mariage_brives-brugier |
@@ -7237,15 +7849,17 @@
 | bailliage des Montagnes du haut pays d'Auvergne | 1 | 1650-07-02_saint-flour_mariage_eschallier-monnier |
 | bailliage du Haut pays d'Auvergne à Saint-Flour | 1 | 1661-02-19_fayet_mariage_chanson-eschallier |
 | bailliage du Haut-Auvergne | 4 | 1658-02-03_seriers_donation_chavvegne-cailliaud, 1659-10-05_saint-flour_donation_cussac, 1660-11-22_saint-flour_donation_missonnier-counord, 1663-01-28_saint-flour_mariage_costes-eschallier |
-| bailliage du Haut-Auvergne (siège de Saint-Flour) | 1 | 1656-11-23_saint-flour_desistement_missonnier-monnier |
+| bailliage du Haut-Auvergne (siège de Saint-Flour) | 2 | 1634-06-11_saint-flour_vente_bruguier-chareyre, 1656-11-23_saint-flour_desistement_missonnier-monnier |
 | bailliage du [haut?] pays d'Auvergne, siège de Saint-Flour | 1 | 1652-04-04_saint-flour_procuration_bouslhuge-roux |
-| bailliage du haut Auvergne | 1 | 1650-06-13_saint-flour_transaction_ausole-tassaul |
+| bailliage du haut Auvergne | 2 | 1634-01-15_saint-flour_vente_regimbal-roussel, 1650-06-13_saint-flour_transaction_ausole-tassaul |
 | bailliage du haut Auvergne (Saint-Flour) | 2 | 1656-08-20_saint-flour_mariage_rolland-cussac, 1663-04-25_saint-flour_mariage_vezis-teilhard |
 | bailliage du haut [...] (Haute-Auvergne ?) | 1 | 1657-01-31_alleuze_donation_fabre-chanson |
+| bailliage du haut pays d'Auvergne | 1 | 1634-07-05_saint-flour_vente_lafargette-murat |
 | bailliage du haut pays d'Auvergne (Saint-Flour) | 3 | 1656-03-31_saint-flour_donation_rongier-beaufilz, 1656-12-27_saint-flour_transaction_roux-bousoure, 1661-08-13_saint-flour_donation_talezar |
 | bailliage du haut pays d'Auvergne à Saint-Flour ([hault...?]) | 1 | 1661-02-24_saint-flour_mariage_prat-pauc |
 | bailliage du haut pays d'Auvergne, siège de Saint-Flour | 1 | 1652-03-10_saint-flour_echange_chabot-vachier |
 | bailliage et prévôté de Saint-Flour | 1 | 1657-02-05_saint-flour_mariage_brousy-fauret |
+| bailliage et siège de Saint-Flour | 1 | 1644-08-18_saint-flour_donation_bonnault |
 | bailliage et siège présidial de Saint-Flour | 1 | 1660-05-08_saint-flour_mariage_dupre-traverse |
 | bailliage et élection de Saint-Flour | 2 | 1654-04-02_saint-flour_vente_bonnault-papavin, 1657-04-25_saint-flour_testament_girion-combettes |
 | bailliage et élection de [...] (ressort de Pierre Bonnault, non lu) | 1 | 1664-01-14_saint-flour_mariage_bouffet-teilhard |
@@ -7261,7 +7875,12 @@
 | baronnie de Savery (lecture douteuse) | 1 | 1665-06-24_saint-flour_vente_masse-bastide |
 | baronnie de [...] (non lue) | 1 | 1659-05-13_saint-flour_cession_eschallier-vigier |
 | baronnie de [Brossadol ?] | 1 | 1659-07-27_saint-flour_vente_vidal-estival |
+| baronnie de [Cirvy?/Ceren?/Celoux?] | 1 | 1634-03-25_saint-flour_vente_maury-juniet |
+| baronnie de [Couffen?] | 1 | 1634-01-23_saint-flour_transport_delfour |
+| baronnie de [Couriq?] / Courig (Courgoul ?), l. 10, 30 | 1 | 1634-03-26_saint-flour_vente_gastel-jurol |
 | baronnie de [Moratz?] | 1 | 1655-12-05_saint-flour_quittance_brassac-parra |
+| baronnie de [Saillans?] | 1 | 1634-01-23_saint-flour_transport_delfour |
+| baronnie de [Saillant?] (Sailhant) | 1 | 1634-11-21_saint-flour_vente_chadre-celier |
 | baronnie de [Saint-Flour? / Celoux?] (mandement du vendeur) | 1 | 1652-01-31_saint-flour_vente_chauvi-barrou |
 | baronnie de [Salhan?] (Sailhant ?) | 1 | 1626-09-01_andelat_obligation_admins-brugier |
 | baronnie de la [Valsmollier?] | 1 | 1666-02-28_saint-flour_vente_lacombe-clavillier |
@@ -7292,6 +7911,7 @@
 | bois de La Planchette | 1 | 1626-02-15_saint-flour_bail_sauret-vergette |
 | bois de La [Margelou ?] | 1 | 1664-04-17_saint-flour_bail_roumiol-teissedre |
 | bois de Laugeyroux [?] / langoyroux | 1 | 1653-04-27_saint-flour_vente_bonnet-bernard |
+| bois de Maugual | 1 | 1634-01-04_saint-flour_desistement_sandoul-pontsavet |
 | bois de Pleneveissere (plene veisse[p?]re) | 1 | 1658-06-04_saint-flour_vente_espinal-albuisson |
 | bois de Pontilz (Lou Pontilz ?), appartenances de [Sériers?] | 1 | 1654-07-19_saint-flour_vente_chavallier-chastang |
 | bois de Saint-Flour | 1 | 1658-07-21_saint-flour_mariage_alboy-benezit |
@@ -7318,6 +7938,7 @@
 | bois de la [Rochou?] | 1 | 1656-07-01_saint-flour_echange_derames-chastang |
 | bois de la dame de [Vibrezat?] | 1 | 1657-05-20_saint-flour_demission_cussac-monnier |
 | bois de lou[?] Costhe[?] | 1 | 1626-07-01_saint-flour_bail_aymeric-mestre |
+| bois del [Bautra?] | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
 | bois del [Bougerou?] | 1 | 1660-04-00_saint-flour_vente_chanson |
 | bois del [Truchat?] (le Cros) | 1 | 1663-11-10_saint-flour_cession_charbonnier-rancillac |
 | bois delenbiz[?] | 1 | 1651-03-03_saint-flour_vente_malleschaignes-parra |
@@ -7335,11 +7956,13 @@
 | bouchier [Coutus?] | 1 | 1665-11-29_vedrenat_mariage_malet-malet |
 | bouchier [mazejrial?] | 1 | 1665-11-29_vedrenat_mariage_malet-malet |
 | bouchier del [doulnier?] | 1 | 1665-11-29_vedrenat_mariage_malet-malet |
+| bouige du vendeur (confront) | 1 | 1633-01-18_saint-flour_vente_crespon-cristal |
 | bourg de Villedieu | 1 | 1653-11-09_saint-flour_vente_cathala-bechot |
 | bourg de [Betizac?] | 1 | 1652-02-12_saint-flour_subrogation_folhe-chausy |
 | bourg de [Celles?] | 1 | 1661-11-22_saint-flour_vente_estival-malet |
 | bourg de [Chamez?] | 1 | 1652-09-26_saint-flour_donation_chappoulle |
 | bourg de [Chavault…?] / [Chavaulton?] (non identifié) | 1 | 1652-09-14_saint-flour_mariage_piguiol-dussac |
+| bourg de la Nouaulhe en Limousin (endos : La [naille?]) — La Nouaille, Creuse ? | 1 | 1634-04-06_saint-flour_testament_dumas |
 | boutayre de [Lobetz?] | 1 | 1653-05-18_vibrezac_partage_chanson-vedrines |
 | boutique au-dessous de la maison de [Gounon ?] à Saint-Flour | 1 | 1660-03-10_saint-flour_donation_cibial |
 | boutique de la Planchette | 1 | 1665-07-14_saint-flour_vente_bechot-sauret |
@@ -7357,7 +7980,7 @@
 | buisson de Crozet | 1 | 1657-09-08_saint-flour_echange_thourrette-daude |
 | buisson de [Sourtiny?] | 1 | 1657-09-08_saint-flour_echange_thourrette-daude |
 | buisson de la Bergeyre | 1 | 1662-10-15_saint-flour_partage_chanson |
-| bureau du notaire à Saint-Flour | 1 | 1632-12-24_saint-flour_vente_delolme-delolme |
+| bureau du notaire à Saint-Flour | 3 | 1632-12-24_saint-flour_vente_delolme-delolme, 1633-05-11_saint-flour_mariage_rouget-galvier, 1634-03-25_saint-flour_retrocession_maury |
 | buron [?] | 1 | 1628-06-10_saint-flour_bail_aymier-sabuyrier |
 | cathédrale [de Saint-Flour?] | 1 | 1632-10-11_saint-flour_testament_regimbal |
 | cathédrale de Saint-Flour | 39 | 1651-02-00_saint-flour_obligation_sauvaige-blanc, 1651-04-00_saint-flour_vente_coutel-gibrat, 1653-03-03_saint-flour_vente_durand-gillet, 1653-03-03_saint-flour_vente_durand-gillet_b, 1653-09-30_saint-flour_testament_galiot-marquis, 1653-10-05_saint-flour_declaration_rouget-vidal, 1653-11-20_saint-flour_compromis_jourdy-fabry, 1654-01-02_saint-flour_testament_mirmande, 1654-01-29_saint-flour_donation_sauvet, 1654-02-07_saint-flour_mariage_galand-nauthonnier, 1656-03-31_saint-flour_donation_rongier-beaufilz, 1656-03-31_saint-flour_ratification_gaudelle-chanson, 1656-09-10_saint-flour_testament_aussel, 1658-02-18_saint-flour_vente_mallessaigne-hoteldieu, 1658-08-04_saint-flour_demission_juery-chanson, 1659-03-24_saint-flour_vente_talizat-vedrines, 1659-04-01_saint-flour_vente_vicard, 1659-09-08_saint-flour_testament_chauliaguet-chabot, 1660-04-04_saint-flour_testament_fontes, 1660-05-08_saint-flour_mariage_dupre-traverse, 1660-10-29_saint-flour_cession_gilles-thomel, 1660-10-29_saint-flour_cession_teilhard-parra, 1662-02-14_saint-flour_quittance_vidal-rouget, 1662-09-20_saint-flour_testament_benezet-pages, 1662-11-09_saint-flour_mariage_pirou-bergoin, 1663-04-12_saint-flour_mariage_bourgol-mossier, 1663-09-01_saint-flour_testament_bonafos, 1663-10-14_saint-flour_vente_surrel-mas, 1663-12-27_saint-flour_mariage_molle-monnier, 1664-01-14_saint-flour_mariage_bouffet-teilhard, 1664-02-06_saint-flour_mariage_marthomeuf-albos, 1664-02-26_saint-flour_mariage_bonnet-lombard, 1664-11-05_saint-flour_vente_travesse-vezin, 1664-11-18_saint-flour_testament_bonnault, 1665-06-06_saint-flour_testament_bareyre, 1665-09-08_saint-flour_testament_salesses, 1665-11-24_saint-flour_vente_hugon-larochette, 1666-01-31_saint-flour_mariage_mounier-roudil, 1666-06-21_saint-flour_testament_louvrier |
@@ -7412,6 +8035,7 @@
 | champ Liminade[?] des Fraice | 1 | 1666-09-21_saint-flour_vente_chauson-bechot |
 | champ Lo crostalh | 1 | 1659-05-06_saint-flour_vente_merle-traverse |
 | champ Longuar | 1 | 1665-11-17_saint-flour_vente_missonnier-cayron |
+| champ Lou Bughen? | 1 | 1634-01-29_saint-flour_bail_brassac-estiou |
 | champ Lou [Bix?] (ou Lou Bos), à La Bille | 1 | 1656-06-02_saint-flour_transaction_claviere-bican |
 | champ Lou [Bousseyrou?] à Arbeyrendille | 1 | 1653-10-02_saint-flour_vente_ostmal-sauvet |
 | champ Lou [Chastang?] | 1 | 1664-11-16_saint-flour_echange_cussac-monier |
@@ -7419,6 +8043,7 @@
 | champ Lou [Mergiu ?] | 1 | 1656-06-00_saint-flour_vente_chabot-bechot |
 | champ Lou [Vaughar?] | 1 | 1658-01-27_saint-flour_vente_devaluy-ollier |
 | champ Lou [Vralz?] | 1 | 1658-01-27_saint-flour_vente_devaluy-ollier |
+| champ Lou [bollayre?] | 1 | 1634-05-20_saint-flour_vente_roche-anglade |
 | champ Lou [paul ?] | 1 | 1656-06-00_saint-flour_vente_chabot-bechot |
 | champ Lou [touchoud?], aux appartenances de Fonbonne | 1 | 1653-03-29_saint-flour_vente_doumergue |
 | champ Lou contract | 1 | 1656-06-00_saint-flour_vente_chabot-bechot |
@@ -7426,6 +8051,7 @@
 | champ Lour [pasturaux?] (à Lastig) | 1 | 1653-06-03_saint-flour_vente_chadollac-chastang |
 | champ Lous Pradellous | 1 | 1665-02-24_saint-flour_echange_roux-coussarie |
 | champ Peche (?) Lamartre | 1 | 1659-12-15_saint-flour_quittance_colomb-guimbal |
+| champ Prat Las | 1 | 1634-01-29_saint-flour_bail_brassac-estiou |
 | champ Redon (Coltines) | 1 | 1656-06-14_saint-flour_echange_salgues-hugon |
 | champ [...] [Bergey ?] (la Barge) | 1 | 1661-07-22_alleuze_testament_gardelle |
 | champ [...] [Ceurieche?] | 1 | 1632-03-06_saint-flour_subrogation_bonnet |
@@ -7433,6 +8059,7 @@
 | champ [Champmol?] | 1 | 1658-01-27_saint-flour_vente_devaluy-ollier |
 | champ [Chaolu?] | 1 | 1632-02-21_saint-flour_mariage_brissede-pons |
 | champ [Chaptrodavez ? / chap rolidouz ?] | 1 | 1658-07-26_saint-flour_vente_sombes-pages |
+| champ [Colacq?] del Bos | 1 | 1634-01-11_inconnu_bail_bouges-maolat |
 | champ [Combe?] | 1 | 1653-04-08_saint-flour_bail_aujolet-chanson |
 | champ [Cor Soubit ?] | 1 | 1662-03-22_saint-flour_ratification_barriol-brousse |
 | champ [Daunelh?] (Mons) | 1 | 1661-03-00_saint-flour_vente_delort-delaroche |
@@ -7531,6 +8158,8 @@
 | champ appelé de la[?] blatteyrie[?] | 1 | 1653-01-26_saint-flour_vente_cibial-sauret |
 | champ appelé de las [Coste?] | 1 | 1653-05-11_saint-flour_vente_vidal-chazot |
 | champ appelé de[ladria?] / deladi[as?], appartenances de Latgua | 1 | 1658-05-13_tanavelle_transaction_richard-andrieu |
+| champ appelé del Chassang | 1 | 1634-02-05_saint-flour_transaction_chastel-lianniar |
+| champ appelé del [Lar?] | 1 | 1633-11-20_saint-flour_echange_delcros-attalec |
 | champ appelé del [bagner?] (terroir de Vibrezac) | 1 | 1665-09-00_saint-flour_vente_cussac |
 | champ appelé dela[charreyres?] (Toulz) | 1 | 1654-11-04_saint-flour_vente_souvel-mas |
 | champ appelé delagarde | 1 | 1654-07-17_saint-flour_ratification_sentheray-mallet |
@@ -7542,6 +8171,7 @@
 | champ appelé « de grossefontaine[?] » (lecture très incertaine) | 1 | 1654-12-02_saint-flour_ratification_gardelle-cussat |
 | champ appelé « de la [Platte?] » (Platte / Plette / Clette), aux appartenances de [Vedrenac?] | 1 | 1655-05-18_saint-flour_transaction_vautheran-cussac |
 | champ appelé « du [chaulm?] » (copie : « de [Charlue?] ») | 1 | 1654-01-10_saint-flour_desistement_bussolles-chastang |
+| champ appelé … de Vuzier [?] | 1 | 1634-08-26_saint-flour_quittance_baratte-ebrard |
 | champ bas de la Deneze, [autrement?] de [Cussagez?] | 1 | 1661-09-18_saint-flour_echange_coutel-roudil |
 | champ d'Oultre | 1 | 1609-01-20_andelat_mariage_farreyres-boudet |
 | champ d'entrechemins (Mons) | 1 | 1664-12-10_saint-flour_vente_chassol-brassac |
@@ -7620,6 +8250,7 @@
 | champ de Lhoux [?] (Courtines) | 1 | 1663-04-15_saint-flour_vente_combes-bergoin |
 | champ de Longerail [?] (Longeraile, Longeyral) | 1 | 1652-02-10_saint-flour_echange_dommergue-pouhavre |
 | champ de Louez[?] | 1 | 1649-12-06_inconnu_echange_volland-cornez |
+| champ de Mach[...], aux appartenances de Freyssinet (bien vendu) | 1 | 1633-12-29_saint-flour_vente_chastel-sentheven |
 | champ de Maldefon | 1 | 1662-02-04_saint-flour_vente_sarrou-sagette |
 | champ de Malpas (Fontbonnes) | 1 | 1661-03-25_saint-flour_vente_cayron-dupre |
 | champ de Matllac | 1 | 1652-02-23_saint-flour_remission_pavva |
@@ -7645,10 +8276,13 @@
 | champ de [Arnau?] Gourdieges (Fraissinet) | 1 | 1659-10-12_villedieu_mariage_gastail-daude |
 | champ de [Bataral?] (Coltines) | 1 | 1664-09-13_saint-flour_echange_hugon-vivel |
 | champ de [Belueche?] | 1 | 1658-10-02_saint-flour_echange_daufeulhe-bonnet |
+| champ de [Besanelle?] | 1 | 1634-01-11_inconnu_bail_bouges-maolat |
 | champ de [Bouboul?] | 1 | 1653-05-13_saint-flour_vente_chabert-fabry |
 | champ de [Boulazion?] (terroir, appartenances de Chaussine) | 1 | 1665-02-14_saint-flour_vente_cussac-doumergue |
 | champ de [Can?] [Coster?] | 1 | 1661-00-00_saint-flour_partage_lassaigne-bonneval |
+| champ de [Cantuel?] | 1 | 1633-05-10_saint-flour_vente_albaret-malet |
 | champ de [Chalangé?] | 1 | 1660-05-15_saint-flour_vente_pellegrin-bechot |
+| champ de [Chalchorbe?] / [Chalchorbu?] (appartenances de [Vedrinac?], ≈ 3 sesterées) | 1 | 1634-05-01_saint-flour_transaction_cussat-filhol |
 | champ de [Champferrier?] | 1 | 1626-02-15_saint-flour_bail_sauret-vergette |
 | champ de [Charbie?] à [Puyalade?] | 1 | 1657-04-12_saint-flour_mariage_gallyer-barriol |
 | champ de [Chassang?] | 1 | 1660-05-15_saint-flour_vente_pellegrin-bechot |
@@ -7708,6 +8342,7 @@
 | champ de [Pastaroglou?] | 1 | 1661-00-00_saint-flour_partage_lassaigne-bonneval |
 | champ de [Pigmyer?] | 1 | 1626-02-15_saint-flour_bail_sauret-vergette |
 | champ de [Riviere?] (appartenances du Chassang) | 1 | 1632-07-04_saint-flour_vente_costerousse-combe |
+| champ de [Rue?] | 1 | 1634-11-04_saint-flour_vente_liber |
 | champ de [Sargon?] / [...]ghal | 1 | 1628-11-17_saint-flour_bail_chanlhaguet-baldissard |
 | champ de [Torte?] gaude[?] | 1 | 1661-00-00_saint-flour_partage_lassaigne-bonneval |
 | champ de [Tournenal?] | 1 | 1662-01-25_saint-flour_vente_caucal-rouget |
@@ -7715,6 +8350,7 @@
 | champ de [Tremol?] | 1 | 1659-10-25_saint-flour_vente_couderc-mounier |
 | champ de [Vas?] Las Granges (Mons) | 1 | 1653-02-25_roffiac_mariage_cussac-uchassol |
 | champ de [Vaureir?] (douteux) | 1 | 1649-09-25_saint-flour_vente_chapoulhe-chambon |
+| champ de [Vedrine?] (appartenances de Vedrines, moitié ≈ 5 cartonnées) | 1 | 1634-07-22_saint-flour_vente_vachier-rossignol |
 | champ de [Vergibrank ?] | 1 | 1628-02-24_saint-flour_bail_valarguier-jun |
 | champ de [cloudre?] | 1 | 1660-06-11_saint-flour_vente_juery-gibrat |
 | champ de [fautbonne?] | 1 | 1652-03-22_saint-flour_vente_solier-gilles |
@@ -7744,6 +8380,7 @@
 | champ de faud richard (Fau-Richard ?, Coltines) | 1 | 1652-07-00_saint-flour_echange_margerit-boudoz |
 | champ de flori[...] (nom du champ ?) | 1 | 1654-04-25_saint-flour_vente_durhard-caueal |
 | champ de l [Ventoulz?] | 1 | 1653-01-07_saint-flour_vente_trabuc-fabry |
+| champ de l'arboo[?] (lieu-dit) | 1 | 1633-09-26_saint-flour_vente_avinal-roussel |
 | champ de l[couderc?] | 1 | 1661-09-18_saint-flour_transaction_albert-chastang |
 | champ de la Bardette ([Viuet?]) | 1 | 1665-01-20_saint-flour_vente_cristal-brassac |
 | champ de la Barel[?] | 1 | 1653-04-08_saint-flour_bail_aujolet-chanson |
@@ -7773,6 +8410,7 @@
 | champ de la Coste alias del Junial (Cussac) | 1 | 1665-09-13_saint-flour_vente_bo |
 | champ de la Coste[?] de la Fosse[?] Dolazie[?] | 1 | 1652-05-29_saint-flour_echange_poursain-hugon |
 | champ de la Croix | 2 | 1658-07-26_saint-flour_vente_sombes-pages, 1659-07-11_saint-flour_vente_saulheirou-bechot |
+| champ de la Croix [dol?] | 1 | 1634-01-11_inconnu_bail_bouges-maolat |
 | champ de la Croix de Lagarde | 1 | 1658-10-02_saint-flour_echange_daufeulhe-hugon |
 | champ de la Croix de Villedieu | 1 | 1654-01-29_saint-flour_donation_sauvet |
 | champ de la Croix des Arbres | 1 | 1659-02-22_saint-flour_partage_aymeric-odoul |
@@ -7803,6 +8441,8 @@
 | champ de la Lande (appartenances de Mons) | 1 | 1663-10-17_saint-flour_vente_sirvain-saintheiry |
 | champ de la Laude [?] | 1 | 1652-02-24_saint-flour_transaction_vidal-parra |
 | champ de la Liguere [?] haulte | 1 | 1663-06-19_saint-flour_vente_nicolas-boudet |
+| champ de la Liste | 1 | 1634-01-11_inconnu_bail_bouges-maolat |
+| champ de la Liste [del Pore?] | 1 | 1634-01-11_inconnu_bail_bouges-maolat |
 | champ de la Marche[?] | 1 | 1665-12-02_saint-flour_vente_coschet-fayon |
 | champ de la Montagne | 1 | 1650-12-31_saint-flour_echange_besson-fabre |
 | champ de la Narse | 1 | 1665-03-01_saint-flour_vente_mial-tisset |
@@ -7816,7 +8456,7 @@
 | champ de la Rompude | 1 | 1662-08-16_saint-flour_echange_giraldon-begon |
 | champ de la Rompude autrement del [pieg?] | 1 | 1664-01-15_saint-flour_vente_boudon |
 | champ de la Sagne | 1 | 1662-06-10_saint-flour_vente_reynaldy |
-| champ de la Saigne | 3 | 1652-02-23_saint-flour_remission_pavva, 1658-05-31_saint-flour_echange_sauret-chossy, 1659-06-04_saint-flour_vente_choffy-sauvet |
+| champ de la Saigne | 4 | 1634-01-11_inconnu_bail_bouges-maolat, 1652-02-23_saint-flour_remission_pavva, 1658-05-31_saint-flour_echange_sauret-chossy, 1659-06-04_saint-flour_vente_choffy-sauvet |
 | champ de la Saigne (Vedernac) | 1 | 1661-11-14_saint-flour_vente_mallet-mallet |
 | champ de la Saignolle (ou Seguiolle), à Tanavelle | 1 | 1659-07-05_saint-flour_vente_chavergne-chauliaguet |
 | champ de la Signalhière | 1 | 1666-02-20_saint-flour_mariage_nozieres-douze |
@@ -7832,8 +8472,10 @@
 | champ de la Vyade | 1 | 1662-04-15_saint-flour_echange_dauzolle-rouget |
 | champ de la [...] de [Clachau?] | 1 | 1652-02-10_saint-flour_echange_dommergue-pouhavre |
 | champ de la [...]eyrolle | 1 | 1666-02-28_saint-flour_vente_monchiaval-distubarthe |
+| champ de la [Albeirol?] | 1 | 1634-01-11_inconnu_bail_bouges-maolat |
 | champ de la [Barbe?] | 1 | 1661-00-00_saint-flour_partage_lassaigne-bonneval |
 | champ de la [Barnard?] | 1 | 1653-03-18_saint-flour_vente_bardon-hugon |
+| champ de la [Bastide?] | 1 | 1634-01-11_inconnu_bail_bouges-maolat |
 | champ de la [Baugerre?] [Soutrono?] | 1 | 1657-07-02_coltines_mariage_mas-cussac |
 | champ de la [Bernadye?], à Coltines | 1 | 1658-03-03_coltines_mariage_nicolas-bonnet |
 | champ de la [Bilaudye?], à Coltines | 1 | 1658-03-03_coltines_mariage_nicolas-bonnet |
@@ -7856,6 +8498,7 @@
 | champ de la [Coste?] de [Valnatgie?] | 1 | 1660-03-13_saint-flour_vente_doumergue-bechot |
 | champ de la [Courneche?] | 1 | 1658-10-02_saint-flour_echange_daufeulhe-bonnet |
 | champ de la [Croux de Vèze?] | 1 | 1628-11-17_saint-flour_bail_chanlhaguet-baldissard |
+| champ de la [Croza?] | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
 | champ de la [Croze?] | 1 | 1666-02-20_saint-flour_vente_chassol-fontes |
 | champ de la [Croze?] (ou de la Rozie) | 1 | 1653-05-17_saint-flour_vente_combes-rouget |
 | champ de la [Cumbarelle?] | 1 | 1628-04-01_saint-flour_bail_cust-gniyez |
@@ -7868,7 +8511,9 @@
 | champ de la [Gayamande?] | 1 | 1652-04-13_saint-flour_vente_hugon |
 | champ de la [Gelarny?] | 1 | 1628-12-22_saint-flour_bail_conte-hugon |
 | champ de la [Iaghe ?] | 1 | 1656-06-00_saint-flour_vente_chabot-bechot |
+| champ de la [Lazane?] | 1 | 1634-02-27_saint-flour_bail_bellengreville-amigo |
 | champ de la [Leubre ?] | 1 | 1628-02-24_saint-flour_bail_valarguier-jun |
+| champ de la [Lodol?] | 1 | 1634-01-11_inconnu_bail_bouges-maolat |
 | champ de la [Lumunaire?] | 1 | 1654-01-29_saint-flour_donation_sauvet |
 | champ de la [Malcote?] | 1 | 1657-03-24_saint-flour_transaction_blanc |
 | champ de la [Montayre ?] | 1 | 1650-12-02_saint-flour_cession_bouget-besson |
@@ -7910,6 +8555,7 @@
 | champ de la plaine[?] | 1 | 1651-08-24_saint-flour_partage_riourt |
 | champ de la ribeyre (Cussac) | 1 | 1656-06-23_saint-flour_transaction_couderc-bo |
 | champ de la vigne (Malle) | 1 | 1653-06-23_saint-flour_subrogation_vidal-albaree |
+| champ de las Bughes? | 1 | 1634-01-29_saint-flour_bail_brassac-estiou |
 | champ de las Cartellades | 1 | 1663-10-24_saint-flour_vente_rispal-mirmande |
 | champ de las Champalieyres | 1 | 1660-03-13_saint-flour_vente_doumergue-bechot |
 | champ de las Faigues Basses | 1 | 1663-10-24_saint-flour_vente_rispal-mirmande |
@@ -7953,6 +8599,7 @@
 | champ del Prat Nau[?] | 1 | 1653-04-08_saint-flour_bail_aujolet-chanson |
 | champ del Redondel | 1 | 1666-02-20_saint-flour_mariage_nozieres-douze |
 | champ del Riagou[?] | 1 | 1650-07-11_saint-flour_vente_sugimbert-pelligier |
+| champ del Rieu (Coguossac) | 1 | 1633-02-11_saint-flour_vente_julhe-baille_b |
 | champ del Rieu / delrieu, appartenances de Malchier | 1 | 1657-09-00_saint-flour_echange_boyer-delastre |
 | champ del Sol | 1 | 1661-00-00_saint-flour_partage_lassaigne-bonneval |
 | champ del Tavanel | 1 | 1662-03-28_saint-flour_vente_aureille-malessaignes |
@@ -7963,6 +8610,7 @@
 | champ del [Bar?] | 1 | 1628-11-17_saint-flour_bail_chanlhaguet-baldissard |
 | champ del [Barthar?] (Coltines ?) | 1 | 1652-04-14_saint-flour_transaction_hugon-bauny |
 | champ del [Bezal?] | 1 | 1628-11-17_saint-flour_bail_chanlhaguet-baldissard |
+| champ del [Bor?] | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
 | champ del [Bosc?] | 1 | 1657-03-24_saint-flour_transaction_blanc |
 | champ del [Bouyssou?] | 1 | 1628-04-01_saint-flour_bail_cust-gniyez |
 | champ del [Brugier ?] (Vibrezac) | 1 | 1663-11-21_saint-flour_echange_monnier-mirmande |
@@ -7993,12 +8641,15 @@
 | champ del [Tenzat?] | 1 | 1628-11-17_saint-flour_bail_chanlhaguet-baldissard |
 | champ del [Torchar?] autrement del [Bos?] (delbos), appartenances de Mons | 1 | 1654-07-22_saint-flour_subrogation_delort-delaroche |
 | champ del [Verdyer?] | 1 | 1662-02-05_saint-flour_echange_saignes-delcros |
+| champ del [bruine?] | 1 | 1634-05-20_saint-flour_vente_roche-anglade |
 | champ del [champcour?] | 1 | 1660-07-01_roffiac_vente_uchassol-saintheiry |
 | champ del [dougnon?] | 1 | 1661-00-00_saint-flour_partage_lassaigne-bonneval |
 | champ del [fromentail ?] | 1 | 1662-03-22_saint-flour_ratification_barriol-brousse |
+| champ del [mouras?] (lieu-dit, Patras) | 1 | 1633-04-25_saint-flour_vente_crespoul-siuergol |
 | champ del [paulx?] | 1 | 1657-11-25_seriers_mariage_doumergue-chevallier |
 | champ del [pranz?] | 1 | 1663-05-19_saint-flour_vente_juery-charbonnel |
 | champ del [prat?] | 1 | 1663-06-12_saint-flour_vente_lacombe-delort |
+| champ del [rhieu?] | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
 | champ del agualz (Orceyrolles) | 1 | 1665-05-01_saint-flour_vente_vedrines-vigier |
 | champ del champ gras | 1 | 1660-07-01_roffiac_vente_uchassol-saintheiry |
 | champ del chastelei (ou chastelet), terroir de Sériers | 1 | 1656-05-03_saint-flour_vente_bressolles-chanson |
@@ -8009,6 +8660,8 @@
 | champ del fondz del [coudere?] (Mons) | 1 | 1660-02-02_roffiac_mariage_parra-rolland |
 | champ del gour | 1 | 1659-02-17_saint-flour_echange_malet-filhol |
 | champ del malpas | 1 | 1652-02-23_saint-flour_remission_pavva |
+| champ del moulin | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
+| champ del moulin (Coguossac) | 1 | 1633-02-11_saint-flour_vente_julhe-baille |
 | champ del pastural grand | 1 | 1659-02-17_saint-flour_echange_malet-filhol |
 | champ del pradal | 1 | 1660-03-30_saint-flour_vente_roussel-chirol |
 | champ del[bosc?] | 1 | 1659-02-23_saint-flour_vente_cheylard-fabre |
@@ -8056,6 +8709,7 @@
 | champ devers l'Agleyze | 1 | 1659-02-22_saint-flour_partage_aymeric-odoul |
 | champ dit La [Cartallade?] (l. 11, lecture très douteuse) | 1 | 1628-05-21_saint-flour_transaction_vidal-nicolas |
 | champ dit [Pouzat?] | 1 | 1626-02-15_saint-flour_bail_sauret-vergette |
+| champ dobac[?] | 1 | 1634-01-14_saint-flour_bail_faury-fauret |
 | champ dou [Estivenz?] | 1 | 1628-07-07_saint-flour_bail_vergier-chastang |
 | champ doultre | 1 | 1660-07-01_roffiac_vente_uchassol-saintheiry |
 | champ du Allonssie [?] | 1 | 1626-12-08_saint-flour_bail_baldassard-attalier |
@@ -8064,6 +8718,7 @@
 | champ du [Bargassier ?] | 1 | 1628-02-24_saint-flour_bail_valarguier-jun |
 | champ du [Carlus?] / [charlus?] | 1 | 1665-11-17_saint-flour_vente_missonnier-cayron |
 | champ du [Laubinet?] (Caubinet ?), à Veilhespesse | 1 | 1660-06-15_saint-flour_vente_chappus-patissoulx |
+| champ du [ploz?] | 1 | 1634-05-20_saint-flour_vente_roche-anglade |
 | champ du boix [pandu?] | 1 | 1666-01-17_saint-flour_vente_bessolz-sabatier_b |
 | champ du chemin ferrat | 1 | 1649-12-06_inconnu_echange_volland-cornez |
 | champ dud. alboy de [Vize?] / [Nuit?] | 1 | 1658-04-10_saint-flour_echange_alboy-pirolle |
@@ -8076,7 +8731,8 @@
 | champ et pastural de las Goutilles / la Goutteille | 1 | 1663-10-24_saint-flour_vente_rispal-mirmande |
 | champ et pré de la gazellou[ne ?] | 1 | 1653-06-02_saint-flour_vente_cibial-rouget |
 | champ fourges / chaufours | 1 | 1664-11-25_saint-flour_partage_chassang |
-| champ grand | 3 | 1654-05-03_saint-flour_transaction_chanson, 1660-07-01_roffiac_vente_uchassol-saintheiry, 1665-11-29_vedrenat_mariage_malet-malet |
+| champ grand | 6 | 1633-02-10_saint-flour_partage_chastel-fouche, 1634-01-14_saint-flour_bail_faury-fauret, 1634-06-25_saint-flour_vente_barthomeuf-dufour, 1654-05-03_saint-flour_transaction_chanson, 1660-07-01_roffiac_vente_uchassol-saintheiry, 1665-11-29_vedrenat_mariage_malet-malet |
+| champ grand (appartenances de [Vedrinac?], ≈ 5 sesterées) | 1 | 1634-05-01_saint-flour_transaction_cussat-filhol |
 | champ grand (champ) | 1 | 1654-04-14_saint-flour_echange_bouffre-chastang |
 | champ grand de Combes [auviez ?] | 1 | 1650-07-09_saint-flour_vente_dupre-vidal |
 | champ la Bardeyre | 1 | 1660-03-13_saint-flour_vente_doumergue-bechot |
@@ -8093,6 +8749,7 @@
 | champ le Iotz | 1 | 1661-03-26_saint-flour_echange_defondz-bavoyre |
 | champ le [Dauzillier?] | 1 | 1652-02-10_saint-flour_echange_dommergue-pouhavre |
 | champ les [rigues?] | 1 | 1656-01-16_saint-flour_demission_fayon |
+| champ lo [Vandal?] | 1 | 1634-05-20_saint-flour_vente_roche-anglade |
 | champ lou Rodal (Sériers) | 1 | 1665-06-28_saint-flour_vente_boissolles-dupuy |
 | champ lou [Barrelanne?] | 1 | 1628-07-07_saint-flour_bail_vergier-chastang |
 | champ lou [Valadou?] | 1 | 1632-02-21_saint-flour_mariage_brissede-pons |
@@ -8107,6 +8764,8 @@
 | champ « [Lou Borgeat?] » | 1 | 1652-07-27_saint-flour_echange_boudet |
 | champ « [Lou?] chazaux » à Aulhac | 1 | 1666-03-22_saint-flour_vente_ciborny-aldigier |
 | champ « [Sau?] [dorcerou?] » (lieu-dit illisible) | 1 | 1632-08-01_saint-flour_vente_esbrard-chaluet |
+| champ « appelle de la [...] » (nom non lu) | 1 | 1634-03-13_saint-flour_echange_sibial-jolet |
+| champ « appelle de[?] [...] » (nom non lu) | 1 | 1634-03-13_saint-flour_echange_sibial-jolet |
 | champ « aux de […]chevalons » | 1 | 1665-12-13_saint-flour_echange_chastre-jouve |
 | champ « chastaual » dit « del champ del trou [o?] del Rabuge » (Peyralade) | 1 | 1661-01-20_saint-flour_vente_doumergue-bechot |
 | champ « de [Lenas?] » | 1 | 1665-10-25_saint-flour_echange_cormily-vechafol |
@@ -8130,6 +8789,7 @@
 | chapelle Notre-Dame de Fridière | 1 | 1663-12-09_saint-flour_vente_bechot-dupre |
 | chapelle Notre-Dame de Frydiere | 1 | 1658-09-15_saint-flour_mariage_vaylet-fernail |
 | chapelle Notre-Dame de Montsauvat (collégiale de Saint-Flour) | 1 | 1660-05-20_saint-flour_testament_dufour |
+| chapelle Notre-Dame de Montserrat | 1 | 1633-09-06_saint-flour_testament_roudil |
 | chapelle Notre-Dame de Montserrat [?] | 1 | 1647-09-18_saint-flour_testament_couderc-banes |
 | chapelle Notre-Dame de [...] | 1 | 1660-06-14_saint-flour_testament_cochespy |
 | chapelle Notre-Dame de [Montserrat?] | 1 | 1664-04-09_saint-flour_donation_dufour-coutel |
@@ -8139,8 +8799,10 @@
 | chapelle Notre-Dame du Rosaire (Prêcheurs) | 1 | 1659-10-19_saint-flour_testament_dulac |
 | chapelle Notre-Dame du Rosaire (église Saint-Dominique) | 1 | 1663-05-06_saint-flour_testament_riou |
 | chapelle Notre-Dame du Rosaire (église des Dominicains de Saint-Flour) | 1 | 1662-08-05_saint-flour_testament_gibrat-dobax |
+| chapelle Notre-Dame-de-Pitié | 1 | 1633-12-02_saint-flour_testament_galvier-vidal |
 | chapelle Notre-Dame-de-Pitié (cathédrale de Saint-Flour) | 1 | 1657-03-07_saint-flour_testament_malet-vastonnet |
 | chapelle Saint-Côme et Saint-Damien (église Notre-Dame) | 1 | 1632-11-06_saint-flour_testament_pallisse-pages |
+| chapelle Saint-Georges (Jacobins) | 1 | 1633-12-02_saint-flour_testament_galvier-vidal |
 | chapelle Saint-Jean (vocable probable) de l'église de [Vallueiols?] | 1 | 1659-09-06_saint-flour_testament_briger |
 | chapelle Saint-Joseph (collégiale Notre-Dame de Saint-Flour) | 1 | 1661-08-03_saint-flour_testament_herault-champelaux |
 | chapelle Saint-Pierre | 1 | 1648-01-00_saint-flour_testament_sahoure-peuilleu |
@@ -8152,6 +8814,7 @@
 | chapelle Saint-[Éloi?] (collégiale Notre-Dame) | 1 | 1653-09-18_saint-flour_testament_ferrand |
 | chapelle Sainte-Anne | 1 | 1659-09-08_saint-flour_testament_chauliaguet-chabot |
 | chapelle [?] de Saint-Flour | 1 | 1628-06-25_saint-flour_bail_aubert-girard |
+| chapelle d'Aulhac | 1 | 1638-06-30_saint-flour_partage_sauvat |
 | chapelle de Cussague | 1 | 1653-05-11_saint-flour_vente_vidal-chazot |
 | chapelle de Fayet | 2 | 1659-02-02_saint-flour_vente_brol-eschallier, 1663-01-27_saint-flour_vente_eschallier-vrol |
 | chapelle de N[otre?]-[Dame?] [...] (autel de la fondation) | 1 | 1660-09-18_saint-flour_testament_barthet |
@@ -8251,6 +8914,7 @@
 | chemin de Fayet à [Quezol?] | 1 | 1661-09-18_saint-flour_echange_coutel-roudil |
 | chemin de Fonbonne à [Vrion?] (ou Brion) | 1 | 1653-03-29_saint-flour_vente_doumergue |
 | chemin de Fontbonne | 1 | 1658-03-07_saint-flour_vente_ballas-dupre |
+| chemin de Fontbonne à Lavastrie | 1 | 1644-09-29_saint-flour_vente_albuisson-tissier |
 | chemin de Fontbonnes al [bougeyral?] | 1 | 1663-10-07_saint-flour_vente_cayron-dupre |
 | chemin de Fontbonnes au [Vertal?] | 1 | 1661-03-25_saint-flour_vente_cayron-dupre |
 | chemin de Fraissenet à [Bozatz?] | 1 | 1665-03-16_saint-flour_vente_bastail-teissedre |
@@ -8301,7 +8965,7 @@
 | chemin de Roffiac à [Alleuze?] | 1 | 1658-02-09_saint-flour_mariage_meyliot-cussac |
 | chemin de Ruines au moulin dudit lieu | 1 | 1665-06-02_saint-flour_vente_coutarel-darseulhe |
 | chemin de S. [Moutiz?] de Cussac à [lessoy?] | 1 | 1660-07-02_saint-flour_transaction_boudon-vachier |
-| chemin de Saint-Flour | 1 | 1652-02-24_saint-flour_transaction_vidal-parra |
+| chemin de Saint-Flour | 2 | 1633-11-20_saint-flour_echange_delcros-attalec, 1652-02-24_saint-flour_transaction_vidal-parra |
 | chemin de Saint-Flour au Bouschet | 1 | 1665-03-21_saint-flour_vente_vigier-jesuites |
 | chemin de Saint-Flour au Rochain | 1 | 1663-09-30_saint-flour_vente_chappoulade-cosches |
 | chemin de Saint-Flour au [Roufiay?] (Roffiac ?) | 1 | 1663-11-11_saint-flour_vente_chappoulade-delrieu |
@@ -8314,11 +8978,14 @@
 | chemin de Saint-Flour à Mentières | 1 | 1659-04-06_saint-flour_vente_delaspre-chaulaguet |
 | chemin de Saint-Flour à Murat | 7 | 1658-10-14_saint-flour_vente_uchafol-bergoin, 1659-06-23_saint-flour_vente_estieu-rolland, 1659-07-05_saint-flour_mariage_seimen-rolland, 1660-03-31_saint-flour_partage_bastide-cueyspoul, 1661-11-12_saint-flour_echange_grande-sirmay, 1663-05-19_saint-flour_vente_bonnal-crespoul, 1665-02-17_roffiac_mariage_vidal-parra |
 | chemin de Saint-Flour à Paulhac (paulhiac) | 1 | 1658-02-02_saint-flour_vente_gibrat-andrieu |
+| chemin de Saint-Flour à Rezentiers[?] (Rézentières ?) | 1 | 1633-02-11_saint-flour_vente_julhe-baille_b |
 | chemin de Saint-Flour à Vezenhever[?] | 1 | 1665-12-02_saint-flour_vente_coschet-fayon |
 | chemin de Saint-Flour à [...] | 1 | 1651-07-10_saint-flour_vente_lyssandre-rouget |
 | chemin de Saint-Flour à [Clavières?] | 1 | 1658-01-27_saint-flour_vente_ollier-delolme |
 | chemin de Saint-Flour à [Corsgonde?] | 1 | 1660-10-16_saint-flour_vente_andrieu-rolland |
 | chemin de Saint-Flour à [Cusson?] | 1 | 1656-06-25_villedieu_mariage_bondoy-tissoil |
+| chemin de Saint-Flour à [Mauriac?] | 1 | 1633-09-29_saint-flour_echange_regimbal-bonhoure |
+| chemin de Saint-Flour à [Roueyre?] / Ronenez | 1 | 1634-03-27_saint-flour_vente_roux-aymeric |
 | chemin de Saint-Flour à [Tanavelle?] | 1 | 1665-11-29_vedrenat_mariage_malet-malet |
 | chemin de Saint-Flour à [Valdughol?] | 1 | 1653-02-09_saint-flour_subrogation_galdessard-mallet |
 | chemin de Saint-Flour à [Vaulhac?] | 1 | 1665-07-12_saint-flour_vente_chapoulade-jury |
@@ -8367,6 +9034,7 @@
 | chemin de [Colhins?] (Coltines ?) à [Tan.otte?] | 1 | 1654-05-09_saint-flour_echange_fabre-crespoul |
 | chemin de [Couhe?] [à Pezalade?] | 1 | 1660-10-16_saint-flour_vente_andrieu-rolland |
 | chemin de [Deuzey ?] à Saint-Flour | 1 | 1628-03-06_saint-flour_inventaire_cocher-bazard |
+| chemin de [Feutgières?] à Talizat | 1 | 1634-09-16_saint-flour_vente_vigier-aymeric |
 | chemin de [Lou?] à Villedieu | 1 | 1653-10-02_saint-flour_vente_ostmal-sauvet |
 | chemin de [Luchier?] | 1 | 1661-04-26_saint-flour_vente_richard-coutel |
 | chemin de [Peijvalade?] à Neuvéglise | 1 | 1661-11-08_saint-flour_echange_dupre-chastang |
@@ -8392,6 +9060,7 @@
 | chemin de la Carosse a la Justice (lecture douteuse) | 1 | 1666-03-14_saint-flour_vente_soubeiroux-serugol |
 | chemin de la Chazes à la [Vaghelle?] | 1 | 1662-10-09_saint-flour_vente_alboy-eschallier |
 | chemin de la Gardelle | 1 | 1659-11-29_saint-flour_vente_bonniol-rolland |
+| chemin de la Maisona à Vabres | 1 | 1633-04-28_saint-flour_vente_soucheire-fontes |
 | chemin de la Montaigne (?) | 1 | 1665-11-01_saint-flour_vente_chomel-tailhand |
 | chemin de la Plantade à Chantemiale | 1 | 1664-10-04_saint-flour_echange_sauvet-attalin |
 | chemin de la Pouzeyre[?] | 1 | 1661-03-22_saint-flour_vente_delort-delaroche |
@@ -8417,6 +9086,7 @@
 | chemin du Blau [?] à Saint-Flour | 1 | 1665-03-04_saint-flour_vente_pons-trinsie |
 | chemin du Bouguet à Coltines | 1 | 1655-12-11_saint-flour_echange_hugon-calvel |
 | chemin du Bouschet à [...] | 1 | 1665-04-12_saint-flour_vente_rubine-chaulhac |
+| chemin du Merle au moulin | 1 | 1633-01-25_saint-flour_vente_bonesset-aymeric |
 | chemin du Moulin | 1 | 1660-01-10_saint-flour_vente_albepart-daufeulhe |
 | chemin du Peyroux [?] | 1 | 1661-09-25_saint-flour_vente_franchier-crozat |
 | chemin du Pouget à Anglards | 1 | 1665-05-18_saint-flour_vente_buge-blanchy |
@@ -8426,6 +9096,7 @@
 | chemin du passadour [al Rac?] | 1 | 1665-05-17_saint-flour_vente_contugol-bechot |
 | chemin du pont de la [Chaloghi?] à la Croix de [Saugy?] | 1 | 1653-07-08_saint-flour_vente_vayle-gaston |
 | chemin du pont del [batalhou?] à Massiac | 1 | 1660-06-15_saint-flour_vente_chappus-patissoulx |
+| chemin du terroir allant à [Rossilhes?] | 1 | 1634-09-09_saint-flour_vente_guillaud-orfulhe |
 | chemin dud. lieu à la Montagne | 1 | 1657-03-24_saint-flour_transaction_blanc |
 | chemin dudit lieu | 1 | 1653-04-01_saint-flour_vente_vispail-derames |
 | chemin dudit lieu aux terres | 1 | 1663-05-03_saint-flour_echange_sauvet-estival |
@@ -8446,6 +9117,7 @@
 | château de [Varilhetes?] (Varillettes ?), Saint-Georges [?] (Cantal) | 1 | 1624-11-19_saint-georges_vente_murat-celleyre |
 | château du [Vernigaix?] (Andelat) | 1 | 1626-09-01_andelat_obligation_admins-brugier |
 | cimetière d'Andelat | 4 | 1651-12-06_andelat_donation_maury-sauvet, 1654-09-16_andelat_testament_sauvet-chalmette, 1661-07-20_andelat_testament_chastel-alboy, 1661-10-00_saint-flour_testament_solier |
+| cimetière de Paulhac | 1 | 1633-12-13_saint-flour_testament_chazal |
 | cimetière de Roffiac | 2 | 1652-04-21_saint-flour_testament_bardon-amadieu, 1658-01-06_roffiac_testament_chevallier-mallet |
 | cimetière de Tossiac | 1 | 1666-03-25_tossiac_testament_inguimbert-aliadieres |
 | cimetière de Villedieu | 2 | 1660-01-30_saint-flour_testament_cathalla-trenchier, 1660-02-13_villedieu_testament_david-jouve |
@@ -8458,7 +9130,7 @@
 | cimetière de l'église [cathédrale?] de Saint-Flour | 1 | 1656-08-08_saint-flour_testament_odoul |
 | cimetière de l'église [nom en lacune] | 1 | 1651-03-24_saint-flour_testament_allezay |
 | cimetière de l'église cathédrale [de Saint-Flour?] | 1 | 1628-01-14_saint-flour_testament_lafon-couprat |
-| cimetière de l'église cathédrale de Saint-Flour | 14 | 1654-03-01_fraissenet_testament_nouzeiroe-beche, 1656-10-02_saint-flour_testament_bouzher, 1656-12-29_saint-flour_testament_nautomier, 1658-06-06_saint-flour_testament_julhe, 1660-03-11_saint-flour_testament_roux, 1660-03-16_saint-flour_testament_fromen-sentherain, 1661-03-04_saint-flour_testament_rossignol, 1661-06-09_saint-flour_testament_audouin-fajon, 1661-09-02_saint-flour_testament_uchassol-charbonnel, 1661-10-21_saint-flour_testament_sentherain-eschalier, 1662-01-25_saint-flour_testament_passanan-vidal, 1665-08-09_saint-flour_testament_fayet, 1665-09-26_saint-flour_testament_chalier, 1666-03-13_saint-flour_testament_lafaige |
+| cimetière de l'église cathédrale de Saint-Flour | 17 | 1633-01-20_saint-flour_testament_alby, 1633-07-00_saint-flour_testament_bardon, 1634-03-26_saint-flour_testament_maury, 1654-03-01_fraissenet_testament_nouzeiroe-beche, 1656-10-02_saint-flour_testament_bouzher, 1656-12-29_saint-flour_testament_nautomier, 1658-06-06_saint-flour_testament_julhe, 1660-03-11_saint-flour_testament_roux, 1660-03-16_saint-flour_testament_fromen-sentherain, 1661-03-04_saint-flour_testament_rossignol, 1661-06-09_saint-flour_testament_audouin-fajon, 1661-09-02_saint-flour_testament_uchassol-charbonnel, 1661-10-21_saint-flour_testament_sentherain-eschalier, 1662-01-25_saint-flour_testament_passanan-vidal, 1665-08-09_saint-flour_testament_fayet, 1665-09-26_saint-flour_testament_chalier, 1666-03-13_saint-flour_testament_lafaige |
 | cimetière de l'église cathédrale de Saint-Flour (tombeau des prédécesseurs du testateur) | 2 | 1660-09-27_saint-flour_testament_farreyre, 1663-07-19_saint-flour_testament_talizac |
 | cimetière de l'église collégiale Notre-Dame (Saint-Flour) | 1 | 1652-03-18_saint-flour_vente_chavagnac-baldissard |
 | cimetière de l'église collégiale de Saint-Flour (Notre-Dame) | 1 | 1657-12-20_saint-flour_testament_boudon-sauvaige |
@@ -8474,7 +9146,9 @@
 | cimetière de la cathédrale de Saint-Flour | 3 | 1661-04-29_saint-flour_testament_bagues, 1661-12-27_saint-flour_testament_pages, 1666-10-11_fayet_testament_maury-vondie |
 | cimetière de la cathédrale de Saint-Flour (tombeau des pauvres) | 1 | 1660-01-21_saint-flour_donation_nouzeyres-pages |
 | cimetière de la cathédrale de Saint-Flour (tombeau des prédécesseurs de Jean Alboy) | 1 | 1663-05-26_saint-flour_donation_alboy |
+| cimetière du Morle | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | cimetière du chapitre Notre-Dame (Saint-Flour) | 1 | 1653-03-31_saint-flour_vente_jean-combettes |
+| cimetière et église d'Anglards | 1 | 1634-10-21_saint-flour_testament_bical-maudre |
 | clos et cloître de la collégiale Notre-Dame | 1 | 1664-10-21_saint-flour_vente_valarchier-regimbalt |
 | cloître (enclos canonial) de la collégiale Notre-Dame de Saint-Flour | 1 | 1653-04-01_saint-flour_vente_frougoux-jean |
 | cloître [cimetière?] de la collégiale Notre-Dame | 1 | 1663-06-00_saint-flour_vente_brassac-jaquin |
@@ -8487,6 +9161,7 @@
 | coderc de l'Estrade | 1 | 1664-03-15_saint-flour_transaction_bassa |
 | codre commun (coudert ?) du village | 1 | 1661-07-08_saint-flour_vente_achier-solier |
 | coffiac[?] | 1 | 1660-11-13_saint-flour_transaction_roquelaure-fontes |
+| coguossac (Cougoussac) | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
 | col de [chaure?] (communal indivis entre les habitants du Pouget et de Beauregard) | 1 | 1661-05-05_saint-flour_vente_roudil-benezit |
 | collège (de Saint-Flour ?) | 1 | 1666-05-26_saint-flour_transaction_vezis-faure |
 | collège de Saint-Flour | 19 | 1648-06-20_saint-flour_vente_juery-bonnet, 1648-09-16_saint-flour_donation_rolland-boudon, 1649-04-17_saint-flour_mariage_pelligri-rigimbalt, 1650-11-20_saint-flour_vente_delaroche-cinqpar, 1652-04-01_saint-flour_testament_armand, 1656-01-09_saint-flour_mariage_delort-bouchier, 1657-06-08_saint-flour_testament_giroux, 1659-12-13_saint-flour_testament_rolland-faluet, 1659-12-22_saint-flour_donation_broche-regimbalt, 1659-12-22_saint-flour_testament_roche-hugon, 1660-10-29_saint-flour_donation_rispal-bechot, 1661-08-30_saint-flour_testament_levat, 1662-01-04_saint-flour_testament_bellengueuille-blanchi, 1662-09-11_saint-flour_testament_blanchy, 1663-05-27_alleuze_mariage_ventughol-vedrines, 1663-11-28_saint-flour_mariage_vigier-bechot, 1664-05-13_saint-flour_testament_tisset-vallette, 1665-06-03_saint-flour_donation_laurans, 1665-06-10_saint-flour_vente_parra-bechot |
@@ -8495,7 +9170,7 @@
 | collège des jésuites de Saint-Flour | 2 | 1660-04-26_saint-flour_vente_bonnet-chauliaguet, 1665-10-29_saint-flour_rente_sandrieu-chomel |
 | collégiale (Saint-Flour) | 4 | 1657-10-10_saint-flour_testament_delort-moner, 1660-05-08_saint-flour_mariage_dupre-traverse, 1664-03-17_saint-flour_donation_fontes, 1664-11-18_saint-flour_testament_bonnault |
 | collégiale Notre-Dame (Saint-Flour) | 1 | 1659-02-01_saint-flour_obligation_chazal-meinier |
-| collégiale Notre-Dame de Saint-Flour | 11 | 1648-06-20_saint-flour_vente_juery-bonnet, 1653-03-03_saint-flour_vente_durand-gillet, 1653-03-03_saint-flour_vente_durand-gillet_b, 1657-10-14_saint-flour_testament_nicolas-sautheron, 1657-12-21_saint-flour_testament_meindre-aicuard, 1658-05-18_saint-flour_mariage_chazalledez-chauses, 1658-06-27_saint-flour_vente_roche-golvain, 1661-02-04_saint-flour_donation_traverse-benezit, 1663-12-16_saint-flour_testament_dufour-coulbe, 1664-10-21_saint-flour_vente_valarchier-regimbalt, 1665-07-06_saint-flour_vente_odoul-sauret |
+| collégiale Notre-Dame de Saint-Flour | 14 | 1634-01-29_saint-flour_bail_brassac-estiou, 1634-09-28_saint-flour_transaction_chanson-vaudeye, 1634-11-20_saint-flour_quittance_gendre-barthomeuf, 1648-06-20_saint-flour_vente_juery-bonnet, 1653-03-03_saint-flour_vente_durand-gillet, 1653-03-03_saint-flour_vente_durand-gillet_b, 1657-10-14_saint-flour_testament_nicolas-sautheron, 1657-12-21_saint-flour_testament_meindre-aicuard, 1658-05-18_saint-flour_mariage_chazalledez-chauses, 1658-06-27_saint-flour_vente_roche-golvain, 1661-02-04_saint-flour_donation_traverse-benezit, 1663-12-16_saint-flour_testament_dufour-coulbe, 1664-10-21_saint-flour_vente_valarchier-regimbalt, 1665-07-06_saint-flour_vente_odoul-sauret |
 | collégiale Notre-Dame de Saint-Flour (« La Collegialle de Ceste ville ») | 1 | 1664-04-09_saint-flour_donation_dufour-coutel |
 | collégiale Notre-Dame de [Saint-Flour?] | 1 | 1660-04-25_ruynes_mariage_archer-meyrone |
 | collégiale [Notre-Dame ?] de Saint-Flour | 1 | 1662-09-20_saint-flour_testament_benezet-pages |
@@ -8545,16 +9220,22 @@
 | commun de la [Fabarlie?] | 1 | 1661-11-22_saint-flour_vente_estival-malet |
 | commun de la [Montane?] | 1 | 1654-01-29_saint-flour_mariage_odoul-metgue |
 | commun de la [grauve?] (lieu-dit, lecture incertaine) | 1 | 1653-05-18_alleuze_vente_monier-chanson |
+| commun de la ville [de Murat?] | 1 | 1634-09-09_saint-flour_vente_guillaud-orfulhe |
 | commun de la ville de Saint-Flour | 1 | 1661-11-11_saint-flour_vente_chazaledes-deleph |
+| commun de las [Areinas?] | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | commun de sainct Jacmes (Barry) | 1 | 1663-11-07_saint-flour_vente_brugier-chassang |
 | commun del Couderc (Fayet) | 1 | 1663-01-27_saint-flour_vente_eschallier-vrol |
 | commun del Ventadou | 1 | 1665-02-24_saint-flour_echange_roux-coussarie |
 | commun des Parrous (?) | 1 | 1659-04-06_saint-flour_vente_chassang-dabladie |
 | commun des faubourgs | 1 | 1647-09-16_saint-flour_bail_chauliaguet-esbrard |
 | commun des mezes | 1 | 1659-00-00_saint-flour_vente_broche-hugon |
+| commun du Viallard | 1 | 1633-02-26_saint-flour_vente_soulet-cellier |
 | commun du [Couderc?] | 1 | 1663-01-22_saint-flour_echange_teissedre-masset |
+| commun du [Meghou?] | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | commun du [Reno?] (confront du champ, l. 29) | 1 | 1658-05-21_saint-flour_echange_tassy-barreyre |
+| commun du [touvral?] des prat | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | commun du failliane[?] | 1 | 1662-01-26_saint-flour_vente_rispal-dabladie |
+| commun du lieu de [Vedrinac?] | 1 | 1634-05-01_saint-flour_transaction_cussat-filhol |
 | commun du village | 1 | 1656-07-00_saint-flour_echange_basset |
 | commun la [riuiere?] de la deneze | 1 | 1666-10-07_saint-flour_vente_bertrand-chastang |
 | communal La [balla?] | 1 | 1650-10-09_saint-flour_licitation_jouve-boudet |
@@ -8582,10 +9263,11 @@
 | communauté (presbytérale) de la ville | 1 | 1657-06-08_saint-flour_testament_giroux |
 | communauté Notre-Dame de Montsalvy | 1 | 1665-10-28_saint-flour_transaction_senetaire-galauba |
 | communauté d'Alleuze | 1 | 1653-04-08_saint-flour_vente_gaudelle-solier |
+| communauté des prêtres [...] de Saint-Flour | 1 | 1634-11-01_saint-flour_donation_fayon-valarchier |
 | communauté des prêtres de Saint-Flour | 4 | 1656-10-07_saint-flour_mariage_bo-rouget, 1657-04-23_saint-flour_mariage_ferrand-chapoulade, 1657-04-25_saint-flour_testament_girion-combettes, 1658-05-18_saint-flour_mariage_chazalledez-chauses |
 | communauté des prêtres de Villedieu | 1 | 1652-04-26_saint-flour_cession_cosset-mallessaigne |
 | communauté paroissiale de Saint-Flour | 1 | 1652-03-08_saint-flour_vente_combettes-vendre |
-| communauté presbytérale de Saint-Flour | 3 | 1632-09-10_saint-flour_testament_fayet-fayon, 1660-08-30_saint-flour_vente_monier-bonnet, 1664-09-14_saint-flour_vente_maury-rouget |
+| communauté presbytérale de Saint-Flour | 4 | 1632-09-10_saint-flour_testament_fayet-fayon, 1633-04-18_saint-flour_transaction_fazon, 1660-08-30_saint-flour_vente_monier-bonnet, 1664-09-14_saint-flour_vente_maury-rouget |
 | communauté[?] (des prêtres ?) | 1 | 1663-01-09_saint-flour_vente_gibrat-rigaud |
 | communaux | 1 | 1654-07-29_saint-flour_echange_chauliagne-chabot |
 | communaux de Touls | 1 | 1654-10-31_saint-flour_vente_doly-mas |
@@ -8638,7 +9320,7 @@
 | couderc commun de Saint-Georges | 1 | 1663-12-02_saint-flour_vente_moureyre-ebrard |
 | couderc commun de Savignac | 1 | 1658-09-25_saint-flour_vente_delrieu-david |
 | couderc commun de Soubizergues | 1 | 1654-03-12_saint-flour_vente_lessedre-grassalt |
-| couderc commun de Tanavelle | 1 | 1658-09-09_saint-flour_vente_lhoure-chauliaguet |
+| couderc commun de Tanavelle | 2 | 1634-07-19_saint-flour_vente_roussel-vigier, 1658-09-09_saint-flour_vente_lhoure-chauliaguet |
 | couderc commun de Vachals | 1 | 1665-05-17_saint-flour_vente_teissedre-blanc |
 | couderc commun de Vaysseyre | 1 | 1662-12-03_saint-flour_echange_cussac-mallet |
 | couderc commun de Vossiac? | 1 | 1665-08-05_saint-flour_echange_trabuc-vigier |
@@ -8709,14 +9391,14 @@
 | cour de parlement à Paris | 1 | 1626-09-00_saint-flour_deliberation_desrouel-gazal |
 | cour du [bibote?] | 1 | 1665-07-12_saint-flour_vente_monet-broncy |
 | cour du bailliage (Saint-Flour) | 1 | 1650-11-28_saint-flour_quittance_vidal-rouger |
-| cour du bailliage de Saint-Flour | 1 | 1666-05-26_saint-flour_transaction_vezis-faure |
+| cour du bailliage de Saint-Flour | 2 | 1634-02-05_saint-flour_transaction_chastel-lianniar, 1666-05-26_saint-flour_transaction_vezis-faure |
 | cour métropolitaine (appel de l'officialité) | 1 | 1651-07-14_saint-flour_transaction_sanson-lebre |
 | cours de Saint-Flour | 1 | 1661-09-23_saint-flour_echange_franchier-crozat |
 | courzau[?] (pré) | 1 | 1660-06-26_villedieu_testament_foutez-teyssedre |
 | coustal de [Peyroulou?] | 1 | 1661-00-00_saint-flour_partage_lassaigne-bonneval |
 | cout haute / la cout haute (champ) | 1 | 1665-08-05_saint-flour_echange_trabuc-vigier |
 | couvent Notre-Dame de Chaudesaigues | 2 | 1660-10-29_saint-flour_cession_gilles-thomel, 1660-10-29_saint-flour_cession_teilhard-parra |
-| couvent Notre-Dame de Saint-Flour | 1 | 1664-01-14_saint-flour_mariage_bouffet-teilhard |
+| couvent Notre-Dame de Saint-Flour | 2 | 1634-07-25_saint-flour_vente_chanut-chambon, 1664-01-14_saint-flour_mariage_bouffet-teilhard |
 | couvent Notre-Dame de Saint-Flour (parloir) | 1 | 1657-09-22_saint-flour_vente_abatud-clavieres |
 | couvent Notre-Dame de la Visitation Sainte-Marie (Saint-Flour) | 1 | 1658-07-28_saint-flour_mariage_lavergne-loussert |
 | couvent Saint-Dominique (Frères prêcheurs) de Saint-Flour, chapelle Sainte-Catherine | 1 | 1651-09-06_saint-flour_testament_rigault |
@@ -8796,6 +9478,7 @@
 | côte du Mur (Saint-Flour) | 1 | 1658-07-28_saint-flour_mariage_lavergne-loussert |
 | côtes communes du bois de bavri | 1 | 1656-04-23_saint-flour_echange_bouniol-chassang |
 | d'Auriolle | 1 | 1660-03-31_saint-flour_partage_bastide-cueyspoul |
+| d[...] [Ternes?] (village, paroisse de Roffiac ; Les Ternes ? à vérifier) | 1 | 1633-01-18_saint-flour_vente_crespon-cristal |
 | d[...]elle [?] (Andelat ?) | 1 | 1654-03-30_saint-flour_testament_vispal-couderc |
 | d[...]olles / Darc[u?]zolle (seigneurie d'Antoine Curtil) | 1 | 1632-10-11_saint-flour_vente_curtil-nivelon |
 | d[Ablad?] (nom de la dîme, l. 4, non établi) | 1 | 1628-08-01_andelat_association_bourguin-blanc |
@@ -8810,6 +9493,7 @@
 | daloizi… [?] (lieu de passation, paroisse de Paulhac) | 1 | 1659-02-20_paulhac_donation_chambon |
 | daluize (Alleuze ?) | 1 | 1657-01-20_saint-flour_mariage_marchiar-chalier |
 | dambres[?] (paroisse, d'après l'expédition) | 1 | 1652-05-25_saint-flour_vente_lisset-cussac |
+| dandelat (Andelat) | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
 | dandillac / dandelat / dandola (Andelat ?) — paroisse de l'épouse | 1 | 1658-09-21_saint-flour_mariage_laurier-galdissard |
 | dangolle[?] | 1 | 1650-07-02_saint-flour_mariage_eschallier-monnier |
 | dartoulours[?] | 1 | 1659-09-22_saint-flour_inventaire_sauret |
@@ -8842,6 +9526,7 @@
 | de la Croix (champ) | 1 | 1657-04-29_saint-flour_transaction_rochier-maury |
 | de la Lai Lenguez (lieu-dit du pré, à Roumaille ; segmentation douteuse) | 1 | 1653-11-15_saint-flour_vente_vigassol-pages |
 | de la Vaudeyre[?] | 1 | 1660-03-31_saint-flour_partage_bastide-cueyspoul |
+| de la [Bastide?] (pièce, l. 24) | 1 | 1634-03-26_saint-flour_vente_gastel-jurol |
 | de la [Bastille?] (l. 50) | 1 | 1653-11-15_saint-flour_vente_combes-rouget |
 | de la [Bertillie ?] | 1 | 1628-02-24_saint-flour_bail_valarguier-jun |
 | de la [Burghe ?] | 1 | 1628-02-24_saint-flour_bail_valarguier-jun |
@@ -8857,6 +9542,7 @@
 | de lachevallerie (pré et champ) | 1 | 1651-04-02_saint-flour_vente_mauvy-gerauld |
 | de las Communalhes (pré) | 1 | 1652-03-05_saint-flour_vente_daby-boudon |
 | de las [...] (l. 79, toponyme [?]) | 1 | 1632-07-00_saint-flour_demission_jaber-aymier |
+| de las costes | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | de lau Faissin (champ de Mr Vezin) | 1 | 1664-10-04_saint-flour_echange_sauvet-attalin |
 | de lauaril[?] / de lauarail[?] (Lavaril ?) | 1 | 1652-02-26_saint-flour_echange_tissier-alboy |
 | de lun [?] (lieu-dit ?) | 1 | 1628-06-10_saint-flour_bail_aymier-sabuyrier |
@@ -8867,8 +9553,10 @@
 | del Bagnet | 1 | 1659-06-05_saint-flour_partage_vedrines-mirmande |
 | del Bancheret (champ) | 1 | 1666-07-11_saint-flour_vente_rispal-bichot |
 | del Barie [?] (jardin) | 1 | 1653-05-03_saint-flour_vente_maulhat-feraud |
+| del Bartra (lieu-dit, deux champs et une bartra) | 1 | 1633-05-09_andelat_bail_brugier-julhe |
 | del Blan[?] | 1 | 1656-12-22_saint-flour_vente_prophan-brassac |
 | del Blassat / del Blattat | 1 | 1654-09-27_saint-flour_vente_doumergue-bonhomme |
+| del Blau / l blau (appartenances, moulin, grange) | 1 | 1634-01-29_saint-flour_bail_brassac-estiou |
 | del Bois Grand / del bos Grand (terroir) | 1 | 1663-12-08_saint-flour_vente_roquelaure-mallet |
 | del Boisson (champ) | 1 | 1659-09-29_saint-flour_cession_laurier |
 | del Bos | 1 | 1658-02-03_siviers_mariage_chanson-ventughol |
@@ -8916,6 +9604,7 @@
 | del Mo[u]in [?] | 1 | 1652-12-16_inconnu_testament_gauthier |
 | del Mont[el?] (endos : del [Moutal?]) | 1 | 1661-01-08_saint-flour_mariage_gastal-blanchier |
 | del Mouton (lieu-dit) | 1 | 1666-03-06_saint-flour_vente_mariol-mouliarat |
+| del Muntie[?] | 1 | 1634-05-20_saint-flour_vente_roche-anglade |
 | del Pagis[?] | 1 | 1660-03-31_saint-flour_partage_bastide-cueyspoul |
 | del Palady [?] | 1 | 1658-01-10_saint-flour_echange_albieuf-chauliaguet |
 | del Paoguads [?] | 1 | 1658-01-10_saint-flour_echange_albieuf-chauliaguet |
@@ -8970,6 +9659,9 @@
 | del [Cumalentu?] / Del [Vachar?] [Rouge?] (champ) | 1 | 1661-11-27_saint-flour_echange_chaulhaguet-filiol |
 | del [Doun ?] Chanalie | 1 | 1664-04-17_saint-flour_bail_roumiol-teissedre |
 | del [Fach?] / du [Fach?] (lieu et métairie) | 1 | 1628-07-04_saint-flour_bail_aymier-bonnenfant |
+| del [Farre?] | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
+| del [Genest?] grand (nom de la pièce vendue, douteux) | 1 | 1633-10-20_saint-flour_vente_cussac-hebrard |
+| del [Liaur?] | 1 | 1633-03-10_saint-flour_vente_pons-gibrard |
 | del [Mazinal? / Masinal?] (lieu, paroisse de Paulhac) | 1 | 1661-04-26_saint-flour_vente_richard-coutel |
 | del [Moule?] (seigneurie) | 1 | 1658-01-27_saint-flour_vente_ollier-delolme |
 | del [Mur?] (lieu-dit) | 1 | 1657-09-22_saint-flour_vente_abatud-clavieres |
@@ -8978,6 +9670,8 @@
 | del [Pounie ?] | 1 | 1664-04-17_saint-flour_bail_roumiol-teissedre |
 | del [Prouz ?] (champ) | 1 | 1659-07-27_saint-flour_vente_vidal-estival |
 | del [Puech?] [Combe?] (nom du champ, incertain) | 1 | 1657-12-16_saint-flour_vente_leyssiedre-jourdy |
+| del [Rounivrol?] | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
+| del [Seignau?] (terroir ?, au lieu des Maisons) | 1 | 1633-10-23_saint-flour_vente_fontan |
 | del [Serres?] (champ) | 1 | 1662-11-02_saint-flour_retrait_estival-mallet |
 | del [Sevon?] (champ) | 1 | 1660-05-15_saint-flour_vente_couzarie-chanson |
 | del [Teroyre?] (champ) | 1 | 1662-02-06_saint-flour_mariage_julhe-bertrand |
@@ -9015,6 +9709,7 @@
 | del mesavat (pré) | 1 | 1656-12-23_saint-flour_vente_solie-roussel |
 | del monghe[?] / Cant[...] del [bosson?] (pré) | 1 | 1653-12-00_saint-flour_vente_fray-mas |
 | del pages (champ) | 1 | 1665-02-16_roffiac_echange_parra-blondin |
+| del pallages | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | del pas[...] | 1 | 1651-03-03_saint-flour_vente_malleschaignes-parra |
 | del passadou (pré) | 1 | 1656-12-23_saint-flour_vente_solie-roussel |
 | del pasturalou | 1 | 1661-06-27_saint-flour_echange_saignes-delcros |
@@ -9025,6 +9720,7 @@
 | del piecq | 1 | 1664-11-25_saint-flour_partage_chassang |
 | del planol (champ) | 1 | 1666-06-12_saint-flour_vente_galand-dechalue |
 | del pommier (jardin) | 1 | 1654-03-29_saint-flour_partage_spezolles |
+| del prad[...] (lieu-dit du bien vendu, del Prat / de la Prade ?), aux appartenances de [Chassanyolles?] | 1 | 1633-05-21_saint-flour_vente_bouycher-tassy |
 | del pradal | 1 | 1659-05-31_saint-flour_vente_valarcher-parra |
 | del pradel (pradel) | 1 | 1658-09-17_saint-flour_vente_pages-rouget |
 | del pradel [del capradis ?] (pré, Barry) | 1 | 1663-11-22_saint-flour_transaction_quinsat-grezes |
@@ -9079,12 +9775,14 @@
 | desplan[?] (l. 55, toponyme ou nom, non résolu) | 1 | 1654-07-02_saint-flour_echange_combettes-vondel |
 | dessoubz La Vie | 1 | 1664-11-25_saint-flour_partage_chassang |
 | dessoubz La grange (jardin, à Vozentes) | 1 | 1660-02-14_saint-flour_vente_fromen-chastel |
+| dessoubz la ville | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | dessoubz les Orz[?] (jardin, Vedrines) | 1 | 1661-03-28_saint-flour_echange_grezes |
 | dessus Goudou | 1 | 1664-11-25_saint-flour_partage_chassang |
 | dessus la fontaine | 1 | 1659-05-31_saint-flour_vente_valarcher-parra |
 | dessus le [bos?] | 1 | 1626-04-21_saint-flour_vente_teschau |
 | dessus le puech | 1 | 1666-10-04_saint-flour_vente_lastic-barthet |
 | detessier [?] (paroisse) | 1 | 1654-05-09_saint-flour_vente_fabre-crespoul |
+| deux moulins (non nommés) | 1 | 1644-05-09_saint-flour_delaissement_devaux-bertin |
 | devant L'hostau | 1 | 1664-03-09_saint-flour_bail_roux-sentheran |
 | devant La Grange | 1 | 1664-11-25_saint-flour_partage_chassang |
 | devant Loustal | 1 | 1664-11-25_saint-flour_partage_chassang |
@@ -9093,6 +9791,7 @@
 | di prat [las?] (terroir aux appartenances de Coffiac) | 1 | 1654-11-29_saint-flour_vente_sainthevain-auzolle |
 | dibnac(?) | 1 | 1665-02-06_saint-flour_mariage_jouve-castel |
 | dilholme pane / dolme pane (champ) | 1 | 1664-09-07_saint-flour_vente_mourgue-fion |
+| diocèse (de Saint-Flour) | 1 | 1634-10-02_saint-flour_transaction_saure |
 | diocèse [de Saint-Flour?] | 1 | 1654-12-02_saint-flour_ratification_gardelle-cussat |
 | diocèse d'Uzès | 1 | 1654-01-17_saint-flour_mariage_pellouz-falgeyrac |
 | diocèse de Castres | 1 | 1652-05-25_saint-flour_vente_lisset-cussac |
@@ -9129,13 +9828,16 @@
 | du Puy [?] | 1 | 1654-12-30_saint-flour_testament_commond-mallessaigne |
 | du Vaurs[?] (seigneurie de l'acquéreur ; « Vauze[?] » à l'endos ; peut-être Vavres / Vaunez, paroisse de Saint-Georges) | 1 | 1652-07-24_saint-flour_vente_boudoz-durand |
 | du Viol | 1 | 1666-06-14_saint-flour_vente_barthet |
+| du [Chassel?] (seigneurie de Jacques Dubreul) | 1 | 1644-08-18_saint-flour_donation_bonnault |
 | du [Mayne?] | 1 | 1654-03-30_saint-flour_testament_vispal-couderc |
+| du [Meynial?] (l. 17, 36) | 1 | 1634-11-04_saint-flour_vente_bacon-sibial |
 | du [Muro?] (lieu-dit) | 1 | 1658-02-18_saint-flour_vente_mallessaigne-hoteldieu |
+| du [Sauel?] | 1 | 1633-05-10_saint-flour_vente_albaret-malet |
 | du [Terrier?] cout[...] (pré, Mons) | 1 | 1661-11-12_saint-flour_echange_grande-sirmay |
 | du blau / del blau (non identifié) | 1 | 1664-12-05_saint-flour_vente_chassol-brassac |
 | du chastang | 1 | 1665-05-25_saint-flour_echange_bonnet-veyre |
 | du couste de [Rize?] (champ, Vedrines) | 1 | 1661-03-28_saint-flour_echange_grezes |
-| duché de Mercœur | 4 | 1648-10-10_saint-flour_quittance_chabot-traversse, 1658-08-05_saint-flour_testament_gendre-rahon, 1659-06-14_saint-flour_revente_vedrines-albepard, 1663-08-01_saint-flour_transaction_mathieu-delangouroux |
+| duché de Mercœur | 5 | 1633-10-22_saint-flour_echange_regimbal-roussel, 1648-10-10_saint-flour_quittance_chabot-traversse, 1658-08-05_saint-flour_testament_gendre-rahon, 1659-06-14_saint-flour_revente_vedrines-albepard, 1663-08-01_saint-flour_transaction_mathieu-delangouroux |
 | duché de Mercœur ([mercure?]) | 1 | 1657-06-10_saint-flour_testament_gendre-vahon |
 | duché de [Mercœur?] | 1 | 1662-12-02_saint-flour_vente_chalvet-vedrines |
 | dîmerie de [Rozye?] / [Royre?] (confront) | 1 | 1653-05-03_saint-flour_vente_vaurilhac-bonnafos |
@@ -9152,6 +9854,7 @@
 | faigne [Marcieu ?] | 1 | 1664-03-09_saint-flour_bail_roux-sentheran |
 | fajet [?] (lieu ou famille Fayet ?) | 1 | 1661-06-09_saint-flour_testament_audouin-fajon |
 | falgeyrac [?] (commun) | 1 | 1658-01-10_saint-flour_echange_albieuf-chauliaguet |
+| farradal[?] | 1 | 1634-06-25_saint-flour_vente_barthomeuf-dufour |
 | faubourg Saint-Christophe (Saint-Flour) | 1 | 1658-05-18_saint-flour_mariage_chazalledez-chauses |
 | faubourg Sainte-Christine | 1 | 1664-06-16_saint-flour_vente_padoul-rodde |
 | faubourg Sainte-Christine (Saint-Flour) | 3 | 1656-12-03_saint-flour_donation_bouger-bertrand, 1662-05-03_saint-flour_mariage_galdissard-pignol, 1664-03-20_saint-flour_testament_rougier |
@@ -9161,18 +9864,21 @@
 | faubourg [?] de Saint-Flour (non nommé) | 1 | 1628-06-25_saint-flour_bail_aubert-girard |
 | faubourg [Fiduris?] de Saint-Flour (copie : [Tordiers?]) | 1 | 1657-02-14_saint-flour_mariage_chappoulle-rigault |
 | faubourg [Sainte ?]-Christine (xp̃hine) | 1 | 1658-09-15_saint-flour_mariage_vaylet-fernail |
+| faubourg [Sainte-Christine?] de Saint-Flour (l. 17, lecture à vérifier) | 1 | 1634-06-11_saint-flour_vente_bruguier-chareyre |
 | faubourg [Ste Cristine?] | 1 | 1664-02-20_saint-flour_mariage_lebre-combes |
 | faubourg [dalhuill?] (Saint-Flour) | 1 | 1651-12-26_saint-flour_testament_beraud |
+| faubourg [de Saint-Flour?] | 1 | 1633-03-26_saint-flour_vente_trencher |
 | faubourg [de Saint-Flour?] (nom non lu) | 1 | 1626-12-30_saint-flour_bail_dommergue-tourte |
 | faubourg [de Saint-Flour] | 1 | 1626-03-22_saint-flour_quittance_malessaigne-lastic |
-| faubourg [du Pont?] de Saint-Flour | 1 | 1660-02-07_saint-flour_mariage_bonnel-lager |
+| faubourg [du Pont?] de Saint-Flour | 2 | 1633-08-21_saint-flour_vente_albi-bardel, 1660-02-07_saint-flour_mariage_bonnel-lager |
 | faubourg [du Thuille ?] de Saint-Flour | 1 | 1663-11-14_saint-flour_testament_sauret |
 | faubourg [du Thuille?] de Saint-Flour (résidence de l'acquéreur, lecture très douteuse) | 1 | 1653-05-28_saint-flour_vente_vaylet-gaston |
 | faubourg [du thuille?] | 1 | 1665-04-12_saint-flour_vente_marchan-teyssedre |
 | faubourg de Fridières, Saint-Flour (« fauxbourgz de La presant ville appelle de fridieres », « faulxbourgz de fridiers ») | 1 | 1657-06-10_saint-flour_partage_vaysseyre-chapoulle |
 | faubourg de La Planchette (Saint-Flour) — « faux.b de Laplanchette » | 1 | 1658-03-28_saint-flour_quittance_blanchy-caguot |
-| faubourg de Saint-Flour | 54 | 1625-01-00_saint-flour_echange_murat-mourguet, 1626-03-18_saint-flour_transaction_breton-delorme, 1626-03-22_saint-flour_bail_fabre-fayet, 1626-03-22_saint-flour_prixfait_rymbal-cavallier, 1626-03-25_saint-flour_bail_chevalier-gotty, 1626-04-20_saint-flour_vente_vossier-eymard, 1626-05-28_saint-flour_compromis_fabry-devanes, 1626-08-03_saint-flour_bail_vidal-garnier, 1626-10-22_saint-flour_obligation_chatard-andrieu, 1626-10-25_saint-flour_bail_redinier-volland, 1626-11-02_saint-flour_bail_armand-rigmard, 1626-12-13_saint-flour_quittance_vertier-bassal, 1628-01-19_saint-flour_bail_vimpin-vossel, 1628-02-15_saint-flour_bail_armand-vinchebourg, 1628-02-16_saint-flour_bail_dolly-jourdan, 1628-03-25_saint-flour_bail_champaignac-pachmolle, 1628-06-04_saint-flour_bail_chotty-bigot, 1628-06-08_saint-flour_bail_chotty-masse, 1628-10-19_saint-flour_quittance_pelo-farges, 1632-01-11_saint-flour_mariage_veissiere-sicard, 1632-02-11_saint-flour_mariage_vidal-boudet, 1632-03-05_saint-flour_vente_tissier-soulier, 1632-12-22_saint-flour_vente_guilhaume-lissier, 1632-12-31_saint-flour_vente_amat-sauret, 1647-08-26_saint-flour_cession_lanes-alboy, 1651-03-24_saint-flour_testament_allezay, 1652-02-26_saint-flour_vente_alboy, 1652-04-01_saint-flour_testament_armand, 1652-08-05_saint-flour_vente_paulhard-fabry, 1653-02-22_saint-flour_mariage_siccard-montgial, 1653-07-06_saint-flour_mariage_ebrard-blanc, 1654-02-23_saint-flour_quittance_sicaud-vougier, 1654-08-06_saint-flour_donation_portal, 1654-08-25_saint-flour_vente_maury-delaroche, 1657-02-05_saint-flour_mariage_brousy-fauret, 1657-12-00_saint-flour_transaction_grassalt-chevallier, 1658-10-26_saint-flour_testament_brousse-apchier, 1658-11-18_saint-flour_donation_gaultier, 1660-02-00_saint-flour_testament_grandet, 1660-09-30_saint-flour_vente_chapus-batiffolier, 1661-02-16_saint-flour_mariage_jarlier-surrel, 1661-05-28_saint-flour_vente_clavillier-chanson, 1661-08-30_saint-flour_testament_levat, 1661-11-12_saint-flour_echange_grande-sirmay, 1664-01-06_saint-flour_mariage_bertrand-gautier, 1664-02-06_saint-flour_mariage_boudon-bonnaffe, 1664-10-27_saint-flour_vente_molinier-chanson, 1665-02-24_saint-flour_quittance_dominergue-barthomeuf, 1666-02-17_saint-flour_desistement_crozat-bacon, 1666-03-08_saint-flour_mariage_buzet-rougier, 1666-03-10_saint-flour_donation_chapoulle, 1666-03-13_saint-flour_testament_lafaige, 1666-04-12_saint-flour_obligation_mounier-aureille, 1666-07-04_saint-flour_protestation_aureilhe-mounier |
+| faubourg de Saint-Flour | 58 | 1625-01-00_saint-flour_echange_murat-mourguet, 1626-03-18_saint-flour_transaction_breton-delorme, 1626-03-22_saint-flour_bail_fabre-fayet, 1626-03-22_saint-flour_prixfait_rymbal-cavallier, 1626-03-25_saint-flour_bail_chevalier-gotty, 1626-04-20_saint-flour_vente_vossier-eymard, 1626-05-28_saint-flour_compromis_fabry-devanes, 1626-08-03_saint-flour_bail_vidal-garnier, 1626-10-22_saint-flour_obligation_chatard-andrieu, 1626-10-25_saint-flour_bail_redinier-volland, 1626-11-02_saint-flour_bail_armand-rigmard, 1626-12-13_saint-flour_quittance_vertier-bassal, 1628-01-19_saint-flour_bail_vimpin-vossel, 1628-02-15_saint-flour_bail_armand-vinchebourg, 1628-02-16_saint-flour_bail_dolly-jourdan, 1628-03-25_saint-flour_bail_champaignac-pachmolle, 1628-06-04_saint-flour_bail_chotty-bigot, 1628-06-08_saint-flour_bail_chotty-masse, 1628-10-19_saint-flour_quittance_pelo-farges, 1632-01-11_saint-flour_mariage_veissiere-sicard, 1632-02-11_saint-flour_mariage_vidal-boudet, 1632-03-05_saint-flour_vente_tissier-soulier, 1632-12-22_saint-flour_vente_guilhaume-lissier, 1632-12-31_saint-flour_vente_amat-sauret, 1633-02-27_saint-flour_vente_tissier-debrun, 1633-03-10_saint-flour_vente_pons-gibrard, 1634-03-25_saint-flour_vente_maury-juniet, 1644-06-25_saint-flour_vente_bichot-sauvar, 1647-08-26_saint-flour_cession_lanes-alboy, 1651-03-24_saint-flour_testament_allezay, 1652-02-26_saint-flour_vente_alboy, 1652-04-01_saint-flour_testament_armand, 1652-08-05_saint-flour_vente_paulhard-fabry, 1653-02-22_saint-flour_mariage_siccard-montgial, 1653-07-06_saint-flour_mariage_ebrard-blanc, 1654-02-23_saint-flour_quittance_sicaud-vougier, 1654-08-06_saint-flour_donation_portal, 1654-08-25_saint-flour_vente_maury-delaroche, 1657-02-05_saint-flour_mariage_brousy-fauret, 1657-12-00_saint-flour_transaction_grassalt-chevallier, 1658-10-26_saint-flour_testament_brousse-apchier, 1658-11-18_saint-flour_donation_gaultier, 1660-02-00_saint-flour_testament_grandet, 1660-09-30_saint-flour_vente_chapus-batiffolier, 1661-02-16_saint-flour_mariage_jarlier-surrel, 1661-05-28_saint-flour_vente_clavillier-chanson, 1661-08-30_saint-flour_testament_levat, 1661-11-12_saint-flour_echange_grande-sirmay, 1664-01-06_saint-flour_mariage_bertrand-gautier, 1664-02-06_saint-flour_mariage_boudon-bonnaffe, 1664-10-27_saint-flour_vente_molinier-chanson, 1665-02-24_saint-flour_quittance_dominergue-barthomeuf, 1666-02-17_saint-flour_desistement_crozat-bacon, 1666-03-08_saint-flour_mariage_buzet-rougier, 1666-03-10_saint-flour_donation_chapoulle, 1666-03-13_saint-flour_testament_lafaige, 1666-04-12_saint-flour_obligation_mounier-aureille, 1666-07-04_saint-flour_protestation_aureilhe-mounier |
 | faubourg de Saint-Flour ([de la prendie?]) | 1 | 1651-12-23_saint-flour_testament_pages-dubourd |
+| faubourg de Saint-Flour (domicile du vendeur, situation probable du bien) | 1 | 1633-08-21_saint-flour_vente_alby-molegrens |
 | faubourg de Saint-Flour (douteux) | 1 | 1649-09-25_saint-flour_vente_chapoulhe-chambon |
 | faubourg de Saint-Flour (fontbourgs) | 1 | 1662-06-03_saint-flour_vente_pages-combes |
 | faubourg de Saint-Flour (hypothèse, l. 11 et 77) | 1 | 1651-01-06_saint-flour_vente_chavergne-chastang |
@@ -9196,6 +9902,7 @@
 | faubourg de [p̃deirtz?] (Saint-Flour ; Pradeirtz / Spedeirtz / Pedeirz, peut-être Fridières ?) | 1 | 1651-02-00_saint-flour_obligation_sauvaige-blanc |
 | faubourg de la Planchette (Saint-Flour) | 5 | 1654-01-29_saint-flour_mariage_odoul-metgue, 1654-03-02_saint-flour_quittance_odoul, 1658-05-25_saint-flour_testament_rigault, 1664-09-14_saint-flour_vente_maury-rouget, 1666-01-18_saint-flour_vente_sauvet-marighon |
 | faubourg de la [Plansotte?] (Saint-Flour) | 1 | 1665-01-14_saint-flour_donation_polollion-fallie |
+| faubourg de la [croix?] de Saint-Flour | 1 | 1633-01-20_saint-flour_mariage_chauvel-falvet |
 | faubourg de lasplanchette (Saint-Flour) | 1 | 1666-07-18_saint-flour_mariage_blanc-cahot |
 | faubourg des Couzifiz (Saint-Flour) | 1 | 1666-09-26_saint-flour_mariage_maury-vedrines |
 | faubourg des Fordières (Saint-Flour) | 1 | 1660-10-04_saint-flour_vente_molinier-maury |
@@ -9220,7 +9927,7 @@
 | faubourg du [Tuille?] (Saint-Flour) | 1 | 1665-05-10_saint-flour_mariage_deleron-odoul |
 | faubourg du [tuisze?] haute | 1 | 1664-10-27_saint-flour_vente_molinier-chanson |
 | faubourg « du [chapelle?] » (non résolu) | 1 | 1659-04-01_saint-flour_vente_vicard |
-| faubourg(s) de Saint-Flour | 5 | 1626-11-08_saint-flour_quittance_anglade-chansy, 1632-10-11_saint-flour_testament_regimbal, 1656-02-17_saint-flour_mariage_pulse-assalmi, 1658-00-00_saint-flour_testament_bergoin-mirmande, 1660-05-26_saint-flour_testament_bener-chanson |
+| faubourg(s) de Saint-Flour | 6 | 1626-11-08_saint-flour_quittance_anglade-chansy, 1632-10-11_saint-flour_testament_regimbal, 1644-02-19_saint-flour_vente_geraud-trabuc, 1656-02-17_saint-flour_mariage_pulse-assalmi, 1658-00-00_saint-flour_testament_bergoin-mirmande, 1660-05-26_saint-flour_testament_bener-chanson |
 | faubourg(s) de Saint-Flour [?] | 1 | 1628-03-28_saint-flour_bail_cuelhmes-dufaure |
 | faubourg[?] de Saint-Flour | 1 | 1626-06-21_saint-flour_bail_vignal-alegre |
 | faubourg[?] de Saint-Flour (aux fau[...]) | 1 | 1660-01-16_saint-flour_donation_maraygue |
@@ -9228,7 +9935,7 @@
 | faubourgs [Ste Christine?] | 1 | 1665-01-01_saint-flour_mariage_chadelat-guezes |
 | faubourgs de Fridière | 1 | 1663-12-09_saint-flour_vente_bechot-dupre |
 | faubourgs de Fridières (Saint-Flour) | 2 | 1665-06-24_saint-flour_mariage_julhe-sauvaige, 1666-09-26_saint-flour_mariage_maury-vedrines |
-| faubourgs de Saint-Flour | 249 | 1626-02-00_saint-flour_prixfait_bandre-amargier, 1626-03-12_saint-flour_louage_juge-dolly, 1626-03-25_saint-flour_bail_gotty-bizet, 1626-04-26_saint-flour_quittance_fabre-tessier, 1626-05-03_saint-flour_bail_allizard-vargni, 1626-06-08_saint-flour_bail_falgat-thomas, 1626-06-19_saint-flour_transaction_deffreualz-alboy, 1626-07-04_saint-flour_quittance_olivier-vandre, 1626-09-20_saint-flour_association_mareschal-vmell, 1626-10-05_saint-flour_bail_martin-bergoin, 1626-10-06_saint-flour_bail_espinasse-garsbert, 1626-10-13_saint-flour_bail_juery-taleyrat, 1626-10-20_saint-flour_bail_cellerier-taliziat, 1626-12-29_saint-flour_bail_aymier-pollin, 1628-01-08_saint-flour_testament_desrabre-maury, 1628-04-19_saint-flour_cession_chavillier-berger, 1628-05-09_saint-flour_quittance_bonder-amargier, 1628-07-07_saint-flour_bail_vergier-chastang, 1628-09-27_saint-flour_bail_gaspard-costeprat, 1632-01-31_saint-flour_vente_missonnier-hirle, 1632-02-14_saint-flour_vente_tissier-malet, 1632-04-16_saint-flour_vente_chanson-bechot, 1632-10-09_saint-flour_partage_gualdissard-alboy, 1632-11-25_saint-flour_mariage_molinie-chazal, 1632-11-29_saint-flour_vente_nougier-grassal, 1647-09-16_saint-flour_bail_chauliaguet-esbrard, 1647-10-20_saint-flour_bail_chabot-bastide, 1648-01-00_saint-flour_testament_sahoure-peuilleu, 1648-05-26_saint-flour_mariage_monnier-houon, 1648-08-06_saint-flour_vente_lacrussol-rebeard, 1648-11-26_saint-flour_mariage_chastang-couderc, 1649-08-01_saint-flour_quittance_crozat-dupre, 1649-11-21_saint-flour_bail_palisse-odoul, 1649-11-26_saint-flour_vente_lancz-chatonnier, 1650-01-19_saint-flour_mariage_allegre-mollinier, 1650-02-06_saint-flour_donation_bondurand-delcros, 1650-02-11_saint-flour_vente_chauliaguet-caillaud, 1650-02-13_saint-flour_vente_dorhe-mourgue, 1650-03-13_saint-flour_vente_chastel-fayon, 1650-06-01_saint-flour_mariage_albuisson-chalvet, 1650-06-26_saint-flour_vente_boucher-berthon, 1650-07-09_saint-flour_vente_dupre-vidal, 1650-09-24_saint-flour_mariage_boyer-bauthet, 1650-10-01_saint-flour_transaction_gendre-pages, 1650-10-08_saint-flour_obligation_boudal-bevauld, 1650-10-09_saint-flour_obligation_prevost-apchier, 1650-10-15_saint-flour_testament_teillade, 1650-11-28_saint-flour_quittance_vidal-rouger, 1650-12-27_saint-flour_vente_bonnet-chavergne, 1651-00-00_saint-flour_vente_maurizart-vergne, 1651-01-00_saint-flour_transaction_guerin-castaing, 1651-01-16_saint-flour_vente_maulhac-chauvet, 1651-02-12_saint-flour_vente_mallessaigues-sauret, 1651-02-17_saint-flour_donation_odoul, 1651-03-03_saint-flour_vente_malleschaignes-parra, 1651-03-23_saint-flour_testament_mollinier-baulme, 1651-03-26_saint-flour_vente_mollinier-lebre, 1651-04-00_saint-flour_vente_benezit-pages, 1651-06-09_saint-flour_cession_chossy-boudoy, 1651-08-04_saint-flour_mariage_vessiere-tisset, 1651-08-12_saint-flour_vente_cayrou-dupre, 1651-08-26_saint-flour_testament_fayon, 1651-09-14_saint-flour_testament_chadel, 1651-09-14_saint-flour_testament_chamerle, 1651-11-06_saint-flour_vente_rouffe-roche, 1651-12-23_saint-flour_testament_doumergue, 1651-12-26_saint-flour_testament_beraud, 1652-01-10_saint-flour_transaction_marignon-vidal, 1652-02-23_saint-flour_remission_pavva, 1652-04-14_saint-flour_mariage_rochier-lassy, 1652-05-12_saint-flour_vente_tailhand-bourgeze, 1652-05-25_saint-flour_vente_ruvelle-chastel, 1652-06-09_saint-flour_quittance_boux-paulhiac, 1652-07-17_saint-flour_vente_chazalledes-dausfilhe, 1652-08-31_saint-flour_cession_detraussez-dufour, 1652-09-25_saint-flour_cession_bonafos-richard, 1653-01-06_saint-flour_transaction_trabuc-sauret, 1653-01-16_saint-flour_vente_martin-cussac, 1653-01-22_saint-flour_vente_chausse-devarnes, 1653-02-08_saint-flour_vente_viallard-mavron, 1653-02-14_saint-flour_donation_chaumeil-sauve, 1653-02-18_saint-flour_mariage_commond-mallessaignes, 1653-03-23_saint-flour_transaction_souchier-sauvaige, 1653-04-05_saint-flour_vente_dufaure-chauliaguet, 1653-04-06_saint-flour_testament_mollinier, 1653-04-08_saint-flour_vente_gaudelle-solier, 1653-04-29_saint-flour_echange_assonnier-grezes, 1653-05-25_saint-flour_subrogation_imbert-delangouvents, 1653-06-14_saint-flour_vente_mirhe-vidal, 1653-07-08_saint-flour_vente_vayle-gaston, 1653-10-20_saint-flour_mariage_borel-mollinier, 1654-01-17_saint-flour_mariage_pellouz-falgeyrac, 1654-01-26_saint-flour_mariage_ferauze-aussel, 1654-03-02_saint-flour_quittance_odoul, 1654-03-12_saint-flour_vente_lessedre-grassalt, 1654-06-25_saint-flour_vente_gardelle-delolme, 1654-07-06_saint-flour_testament_petit-mallissaignes, 1654-07-26_saint-flour_mariage_monnier-brassac, 1654-08-02_saint-flour_mariage_mallessaignes-vigier, 1654-10-15_saint-flour_mariage_pages-chappoulle, 1654-10-30_saint-flour_quittance_viallard-apchier, 1654-11-07_saint-flour_testament_chaluet-berault, 1654-12-00_saint-flour_mariage_mallessagne-missonnier, 1654-12-21_saint-flour_vente_gardelle-bussat, 1656-03-29_saint-flour_vente_gaudelle-missonnier, 1656-03-31_saint-flour_donation_rongier-beaufilz, 1656-04-09_saint-flour_testament_gazard-vouger, 1656-06-14_saint-flour_ratification_tassy-lanes, 1656-07-00_saint-flour_testament_baldissard, 1656-08-26_saint-flour_mariage_bertrand-roche, 1656-08-26_saint-flour_mariage_mirmande-rochadde, 1656-10-13_saint-flour_inventaire_berthier-johanny, 1656-11-18_saint-flour_donation_chazal-molinier, 1656-11-19_saint-flour_mariage_galdissard-varron, 1656-11-20_saint-flour_vente_monnier, 1656-12-21_saint-flour_testament_bechot-dupre, 1656-12-28_saint-flour_vente_odoul-sauvaige, 1656-12-29_saint-flour_testament_nautomier, 1657-00-00_saint-flour_subrogation_basset-roudil, 1657-01-17_saint-flour_mariage_aurelle-chaumel, 1657-01-27_saint-flour_mariage_caston-castide, 1657-02-06_saint-flour_testament_chaluet-juery, 1657-02-09_saint-flour_mariage_courmarie-bechot, 1657-03-28_saint-flour_echange_alboy-gibrat, 1657-09-00_saint-flour_testament_meunier-cazot, 1657-10-06_saint-flour_mariage_david-mauranne, 1657-10-16_saint-flour_mariage_roux-reynaldy, 1657-12-09_saint-flour_vente_jarlier-celarier, 1658-01-27_saint-flour_demission_salvage-vedrines, 1658-02-18_saint-flour_vente_mallessaigne-hoteldieu, 1658-02-25_saint-flour_mariage_gardolle-colomb, 1658-02-25_saint-flour_mariage_vigier-chevalier, 1658-03-18_saint-flour_ratification_coutarel-chausson, 1658-04-00_saint-flour_cession_crozat-jouve, 1658-05-18_saint-flour_mariage_chambaron-delmas_b, 1658-06-06_saint-flour_testament_julhe, 1658-06-16_saint-flour_quittance_jarlier-cellarier, 1658-07-07_saint-flour_mariage_bechot-aliadieres, 1658-07-16_saint-flour_vente_benezet-brassalt, 1658-07-21_saint-flour_mariage_alboy-benezit, 1658-09-15_saint-flour_mariage_vaylet-fernail, 1658-10-10_saint-flour_mariage_pagez-reghade, 1658-12-16_saint-flour_vente_dejarques-berault, 1659-02-06_saint-flour_vente_vandal-juery, 1659-02-10_saint-flour_echange_chabot-jurry, 1659-03-15_saint-flour_echange_bouniol-gazes, 1659-04-01_saint-flour_vente_vicard, 1659-04-06_saint-flour_vente_delaspre-chaulaguet, 1659-05-11_saint-flour_quittance_bernard-bonniol, 1659-07-18_saint-flour_mariage_merle-combes, 1659-08-17_saint-flour_quittance_vidal-bossuge, 1659-09-02_saint-flour_mariage_chaumel-fazes, 1659-09-18_saint-flour_testament_rey-callizat, 1659-11-16_saint-flour_mariage_fazes-barthomeuf, 1659-11-20_saint-flour_testament_esbrard, 1659-12-08_saint-flour_cession_sauret, 1659-12-16_saint-flour_donation_bechot-sauret, 1659-12-20_saint-flour_vente_bonnol, 1659-12-22_saint-flour_testament_roche-hugon, 1660-02-15_saint-flour_vente_sauret-chauliaguet, 1660-03-00_saint-flour_testament_grassalt, 1660-03-12_saint-flour_testament_bazard-rouget, 1660-03-23_saint-flour_vente_juery-talhand, 1660-04-04_saint-flour_testament_fontes, 1660-04-17_saint-flour_vente_gardelle-couzhavie, 1660-05-18_saint-flour_donation_chavanier, 1660-05-19_saint-flour_donation_chabanier, 1660-05-23_saint-flour_vente_boussolles-sauvet, 1660-06-15_saint-flour_vente_chappus-patissoulx, 1660-07-02_saint-flour_transaction_boudon-vachier, 1660-09-05_saint-flour_echange_mallessaignes-fajon, 1660-09-27_saint-flour_testament_farreyre, 1660-10-04_saint-flour_vente_molinier-maury, 1660-10-29_saint-flour_cession_teilhard-parra, 1660-11-03_saint-flour_testament_boudon-pelissier, 1660-11-21_saint-flour_mariage_chassoulle-mollinier, 1661-01-15_saint-flour_mariage_alboy-pellegrin, 1661-02-14_saint-flour_mariage_chastel-hugon, 1661-02-25_saint-flour_testament_rigault, 1661-03-01_saint-flour_mariage_vaisseyre-aurelle, 1661-08-03_saint-flour_testament_herault-champelaux, 1661-09-18_saint-flour_echange_coutel-roudil, 1661-12-27_saint-flour_testament_pages, 1662-02-17_saint-flour_mariage_pastre-chapat, 1662-04-25_saint-flour_vente_odoul-fabri, 1662-05-22_saint-flour_mariage_boudon-roche, 1662-06-01_saint-flour_vente_felhol-rolland, 1662-06-03_saint-flour_echange_jouve-delort, 1662-06-24_saint-flour_mariage_taillard-costirac, 1662-08-08_saint-flour_mariage_mollinier-chaulet, 1662-11-09_saint-flour_mariage_pirou-bergoin, 1662-11-19_saint-flour_echange_mallessaignes-rispail, 1662-12-02_saint-flour_echange_giraldon-chanson, 1662-12-13_saint-flour_mariage_aujolet-falgeyrac, 1662-12-29_saint-flour_mariage_trabut-chevallier, 1663-01-11_saint-flour_vente_chauliaguet-meyre, 1663-02-05_saint-flour_mariage_ebrard-grenier, 1663-03-23_saint-flour_testament_gendre, 1663-05-13_saint-flour_vente_charreyre-crozat, 1663-06-05_saint-flour_vente_castel-boudon, 1663-07-01_saint-flour_donation_ventughol-chappoulle, 1663-07-18_saint-flour_donation_chastel, 1663-09-01_saint-flour_traite_bondurand-hugon, 1663-09-02_saint-flour_mariage_chazal-mourier, 1663-09-21_saint-flour_mariage_cussac-martin, 1663-11-04_saint-flour_mariage_bonnenfan-chalvet, 1663-11-28_saint-flour_mariage_mounier-chavreyre, 1663-12-16_saint-flour_testament_dufour-coulbe, 1663-12-29_saint-flour_mariage_blanquet-missonnier, 1664-01-13_saint-flour_mariage_deleros-roux, 1664-03-20_saint-flour_testament_rougier, 1664-05-07_saint-flour_testament_anequin-mollinier, 1664-05-26_saint-flour_testament_missonnier, 1664-06-16_saint-flour_vente_padoul-rodde, 1664-08-09_saint-flour_vente_tezin-luillier, 1664-08-20_saint-flour_testament_fontes-gendre, 1664-11-20_saint-flour_partage_regimbalt-faucon, 1665-01-09_saint-flour_mariage_cailliaud-vaylet, 1665-01-12_saint-flour_testament_gilbert-bonniol, 1665-01-14_saint-flour_donation_polollion-fallie, 1665-01-27_saint-flour_donation_vailet-trabuc, 1665-01-29_saint-flour_mariage_barthomeuf-bonnet, 1665-02-01_saint-flour_mariage_chanson-chaumeil, 1665-03-06_saint-flour_vente_delaspre-fontes, 1665-03-18_saint-flour_vente_gillet-bertrand, 1665-04-12_saint-flour_vente_marchan-teyssedre, 1665-04-13_saint-flour_sommation_teissedre-batiffolier, 1665-04-18_saint-flour_mariage_chaumeil-fieu, 1665-04-27_saint-flour_retrait_gorsse-vargier, 1665-05-03_saint-flour_vente_pigon-chauliaguet, 1665-05-04_saint-flour_vente_cristal-molinier, 1665-05-08_saint-flour_cession_missonier-chanson, 1665-05-23_saint-flour_mariage_begne-barthet, 1665-05-28_saint-flour_demission_bondurand-hugon, 1665-07-14_saint-flour_vente_bechot-sauret, 1665-08-24_saint-flour_vente_dabladie-maury, 1665-09-22_saint-flour_cession_grenier-bevaud, 1665-10-25_saint-flour_mariage_vigier-chapoulle, 1665-11-02_saint-flour_mariage_bechot-rougier, 1666-02-07_saint-flour_mariage_chappoulle-cusset, 1666-02-24_saint-flour_testament_george, 1666-04-27_saint-flour_vente_guadolle-paul, 1666-06-08_saint-flour_testament_astier, 1666-08-30_saint-flour_mariage_jean-dufour, 1666-09-06_saint-flour_vente_dabladie-jury, 1666-09-16_saint-flour_quittance_rigault-bonniol, 1666-10-08_saint-flour_testament_chazal-mollinier, 1666-10-19_inconnu_testament_ventengol, 1672-12-10_saint-flour_requete_fauret-vedrines |
+| faubourgs de Saint-Flour | 262 | 1626-02-00_saint-flour_prixfait_bandre-amargier, 1626-03-12_saint-flour_louage_juge-dolly, 1626-03-25_saint-flour_bail_gotty-bizet, 1626-04-26_saint-flour_quittance_fabre-tessier, 1626-05-03_saint-flour_bail_allizard-vargni, 1626-06-08_saint-flour_bail_falgat-thomas, 1626-06-19_saint-flour_transaction_deffreualz-alboy, 1626-07-04_saint-flour_quittance_olivier-vandre, 1626-09-20_saint-flour_association_mareschal-vmell, 1626-10-05_saint-flour_bail_martin-bergoin, 1626-10-06_saint-flour_bail_espinasse-garsbert, 1626-10-13_saint-flour_bail_juery-taleyrat, 1626-10-20_saint-flour_bail_cellerier-taliziat, 1626-12-29_saint-flour_bail_aymier-pollin, 1628-01-08_saint-flour_testament_desrabre-maury, 1628-04-19_saint-flour_cession_chavillier-berger, 1628-05-09_saint-flour_quittance_bonder-amargier, 1628-07-07_saint-flour_bail_vergier-chastang, 1628-09-27_saint-flour_bail_gaspard-costeprat, 1632-01-31_saint-flour_vente_missonnier-hirle, 1632-02-14_saint-flour_vente_tissier-malet, 1632-04-16_saint-flour_vente_chanson-bechot, 1632-10-09_saint-flour_partage_gualdissard-alboy, 1632-11-25_saint-flour_mariage_molinie-chazal, 1632-11-29_saint-flour_vente_nougier-grassal, 1633-01-02_saint-flour_vente_chastel-fauret, 1633-02-07_saint-flour_mariage_faulier-tissier, 1633-04-17_saint-flour_donation_crozat-bourdon, 1633-06-24_saint-flour_vente_sicard-maury, 1633-08-29_saint-flour_mariage_moussier-valette, 1633-09-11_saint-flour_mariage_bazol-tremhiere, 1634-03-26_saint-flour_testament_maury, 1634-03-27_saint-flour_quittance_valla-roux, 1634-04-27_saint-flour_quittance_albar-valdessend, 1634-09-04_saint-flour_prixfait_chaulhaguet-tardieu, 1634-10-17_saint-flour_quittance_vidal-bonder, 1634-11-19_saint-flour_vente_vigier-missonier, 1644-01-18_saint-flour_vente_david-sauvet, 1647-09-16_saint-flour_bail_chauliaguet-esbrard, 1647-10-20_saint-flour_bail_chabot-bastide, 1648-01-00_saint-flour_testament_sahoure-peuilleu, 1648-05-26_saint-flour_mariage_monnier-houon, 1648-08-06_saint-flour_vente_lacrussol-rebeard, 1648-11-26_saint-flour_mariage_chastang-couderc, 1649-08-01_saint-flour_quittance_crozat-dupre, 1649-11-21_saint-flour_bail_palisse-odoul, 1649-11-26_saint-flour_vente_lancz-chatonnier, 1650-01-19_saint-flour_mariage_allegre-mollinier, 1650-02-06_saint-flour_donation_bondurand-delcros, 1650-02-11_saint-flour_vente_chauliaguet-caillaud, 1650-02-13_saint-flour_vente_dorhe-mourgue, 1650-03-13_saint-flour_vente_chastel-fayon, 1650-06-01_saint-flour_mariage_albuisson-chalvet, 1650-06-26_saint-flour_vente_boucher-berthon, 1650-07-09_saint-flour_vente_dupre-vidal, 1650-09-24_saint-flour_mariage_boyer-bauthet, 1650-10-01_saint-flour_transaction_gendre-pages, 1650-10-08_saint-flour_obligation_boudal-bevauld, 1650-10-09_saint-flour_obligation_prevost-apchier, 1650-10-15_saint-flour_testament_teillade, 1650-11-28_saint-flour_quittance_vidal-rouger, 1650-12-27_saint-flour_vente_bonnet-chavergne, 1651-00-00_saint-flour_vente_maurizart-vergne, 1651-01-00_saint-flour_transaction_guerin-castaing, 1651-01-16_saint-flour_vente_maulhac-chauvet, 1651-02-12_saint-flour_vente_mallessaigues-sauret, 1651-02-17_saint-flour_donation_odoul, 1651-03-03_saint-flour_vente_malleschaignes-parra, 1651-03-23_saint-flour_testament_mollinier-baulme, 1651-03-26_saint-flour_vente_mollinier-lebre, 1651-04-00_saint-flour_vente_benezit-pages, 1651-06-09_saint-flour_cession_chossy-boudoy, 1651-08-04_saint-flour_mariage_vessiere-tisset, 1651-08-12_saint-flour_vente_cayrou-dupre, 1651-08-26_saint-flour_testament_fayon, 1651-09-14_saint-flour_testament_chadel, 1651-09-14_saint-flour_testament_chamerle, 1651-11-06_saint-flour_vente_rouffe-roche, 1651-12-23_saint-flour_testament_doumergue, 1651-12-26_saint-flour_testament_beraud, 1652-01-10_saint-flour_transaction_marignon-vidal, 1652-02-23_saint-flour_remission_pavva, 1652-04-14_saint-flour_mariage_rochier-lassy, 1652-05-12_saint-flour_vente_tailhand-bourgeze, 1652-05-25_saint-flour_vente_ruvelle-chastel, 1652-06-09_saint-flour_quittance_boux-paulhiac, 1652-07-17_saint-flour_vente_chazalledes-dausfilhe, 1652-08-31_saint-flour_cession_detraussez-dufour, 1652-09-25_saint-flour_cession_bonafos-richard, 1653-01-06_saint-flour_transaction_trabuc-sauret, 1653-01-16_saint-flour_vente_martin-cussac, 1653-01-22_saint-flour_vente_chausse-devarnes, 1653-02-08_saint-flour_vente_viallard-mavron, 1653-02-14_saint-flour_donation_chaumeil-sauve, 1653-02-18_saint-flour_mariage_commond-mallessaignes, 1653-03-23_saint-flour_transaction_souchier-sauvaige, 1653-04-05_saint-flour_vente_dufaure-chauliaguet, 1653-04-06_saint-flour_testament_mollinier, 1653-04-08_saint-flour_vente_gaudelle-solier, 1653-04-29_saint-flour_echange_assonnier-grezes, 1653-05-25_saint-flour_subrogation_imbert-delangouvents, 1653-06-14_saint-flour_vente_mirhe-vidal, 1653-07-08_saint-flour_vente_vayle-gaston, 1653-10-20_saint-flour_mariage_borel-mollinier, 1654-01-17_saint-flour_mariage_pellouz-falgeyrac, 1654-01-26_saint-flour_mariage_ferauze-aussel, 1654-03-02_saint-flour_quittance_odoul, 1654-03-12_saint-flour_vente_lessedre-grassalt, 1654-06-25_saint-flour_vente_gardelle-delolme, 1654-07-06_saint-flour_testament_petit-mallissaignes, 1654-07-26_saint-flour_mariage_monnier-brassac, 1654-08-02_saint-flour_mariage_mallessaignes-vigier, 1654-10-15_saint-flour_mariage_pages-chappoulle, 1654-10-30_saint-flour_quittance_viallard-apchier, 1654-11-07_saint-flour_testament_chaluet-berault, 1654-12-00_saint-flour_mariage_mallessagne-missonnier, 1654-12-21_saint-flour_vente_gardelle-bussat, 1656-03-29_saint-flour_vente_gaudelle-missonnier, 1656-03-31_saint-flour_donation_rongier-beaufilz, 1656-04-09_saint-flour_testament_gazard-vouger, 1656-06-14_saint-flour_ratification_tassy-lanes, 1656-07-00_saint-flour_testament_baldissard, 1656-08-26_saint-flour_mariage_bertrand-roche, 1656-08-26_saint-flour_mariage_mirmande-rochadde, 1656-10-13_saint-flour_inventaire_berthier-johanny, 1656-11-18_saint-flour_donation_chazal-molinier, 1656-11-19_saint-flour_mariage_galdissard-varron, 1656-11-20_saint-flour_vente_monnier, 1656-12-21_saint-flour_testament_bechot-dupre, 1656-12-28_saint-flour_vente_odoul-sauvaige, 1656-12-29_saint-flour_testament_nautomier, 1657-00-00_saint-flour_subrogation_basset-roudil, 1657-01-17_saint-flour_mariage_aurelle-chaumel, 1657-01-27_saint-flour_mariage_caston-castide, 1657-02-06_saint-flour_testament_chaluet-juery, 1657-02-09_saint-flour_mariage_courmarie-bechot, 1657-03-28_saint-flour_echange_alboy-gibrat, 1657-09-00_saint-flour_testament_meunier-cazot, 1657-10-06_saint-flour_mariage_david-mauranne, 1657-10-16_saint-flour_mariage_roux-reynaldy, 1657-12-09_saint-flour_vente_jarlier-celarier, 1658-01-27_saint-flour_demission_salvage-vedrines, 1658-02-18_saint-flour_vente_mallessaigne-hoteldieu, 1658-02-25_saint-flour_mariage_gardolle-colomb, 1658-02-25_saint-flour_mariage_vigier-chevalier, 1658-03-18_saint-flour_ratification_coutarel-chausson, 1658-04-00_saint-flour_cession_crozat-jouve, 1658-05-18_saint-flour_mariage_chambaron-delmas_b, 1658-06-06_saint-flour_testament_julhe, 1658-06-16_saint-flour_quittance_jarlier-cellarier, 1658-07-07_saint-flour_mariage_bechot-aliadieres, 1658-07-16_saint-flour_vente_benezet-brassalt, 1658-07-21_saint-flour_mariage_alboy-benezit, 1658-09-15_saint-flour_mariage_vaylet-fernail, 1658-10-10_saint-flour_mariage_pagez-reghade, 1658-12-16_saint-flour_vente_dejarques-berault, 1659-02-06_saint-flour_vente_vandal-juery, 1659-02-10_saint-flour_echange_chabot-jurry, 1659-03-15_saint-flour_echange_bouniol-gazes, 1659-04-01_saint-flour_vente_vicard, 1659-04-06_saint-flour_vente_delaspre-chaulaguet, 1659-05-11_saint-flour_quittance_bernard-bonniol, 1659-07-18_saint-flour_mariage_merle-combes, 1659-08-17_saint-flour_quittance_vidal-bossuge, 1659-09-02_saint-flour_mariage_chaumel-fazes, 1659-09-18_saint-flour_testament_rey-callizat, 1659-11-16_saint-flour_mariage_fazes-barthomeuf, 1659-11-20_saint-flour_testament_esbrard, 1659-12-08_saint-flour_cession_sauret, 1659-12-16_saint-flour_donation_bechot-sauret, 1659-12-20_saint-flour_vente_bonnol, 1659-12-22_saint-flour_testament_roche-hugon, 1660-02-15_saint-flour_vente_sauret-chauliaguet, 1660-03-00_saint-flour_testament_grassalt, 1660-03-12_saint-flour_testament_bazard-rouget, 1660-03-23_saint-flour_vente_juery-talhand, 1660-04-04_saint-flour_testament_fontes, 1660-04-17_saint-flour_vente_gardelle-couzhavie, 1660-05-18_saint-flour_donation_chavanier, 1660-05-19_saint-flour_donation_chabanier, 1660-05-23_saint-flour_vente_boussolles-sauvet, 1660-06-15_saint-flour_vente_chappus-patissoulx, 1660-07-02_saint-flour_transaction_boudon-vachier, 1660-09-05_saint-flour_echange_mallessaignes-fajon, 1660-09-27_saint-flour_testament_farreyre, 1660-10-04_saint-flour_vente_molinier-maury, 1660-10-29_saint-flour_cession_teilhard-parra, 1660-11-03_saint-flour_testament_boudon-pelissier, 1660-11-21_saint-flour_mariage_chassoulle-mollinier, 1661-01-15_saint-flour_mariage_alboy-pellegrin, 1661-02-14_saint-flour_mariage_chastel-hugon, 1661-02-25_saint-flour_testament_rigault, 1661-03-01_saint-flour_mariage_vaisseyre-aurelle, 1661-08-03_saint-flour_testament_herault-champelaux, 1661-09-18_saint-flour_echange_coutel-roudil, 1661-12-27_saint-flour_testament_pages, 1662-02-17_saint-flour_mariage_pastre-chapat, 1662-04-25_saint-flour_vente_odoul-fabri, 1662-05-22_saint-flour_mariage_boudon-roche, 1662-06-01_saint-flour_vente_felhol-rolland, 1662-06-03_saint-flour_echange_jouve-delort, 1662-06-24_saint-flour_mariage_taillard-costirac, 1662-08-08_saint-flour_mariage_mollinier-chaulet, 1662-11-09_saint-flour_mariage_pirou-bergoin, 1662-11-19_saint-flour_echange_mallessaignes-rispail, 1662-12-02_saint-flour_echange_giraldon-chanson, 1662-12-13_saint-flour_mariage_aujolet-falgeyrac, 1662-12-29_saint-flour_mariage_trabut-chevallier, 1663-01-11_saint-flour_vente_chauliaguet-meyre, 1663-02-05_saint-flour_mariage_ebrard-grenier, 1663-03-23_saint-flour_testament_gendre, 1663-05-13_saint-flour_vente_charreyre-crozat, 1663-06-05_saint-flour_vente_castel-boudon, 1663-07-01_saint-flour_donation_ventughol-chappoulle, 1663-07-18_saint-flour_donation_chastel, 1663-09-01_saint-flour_traite_bondurand-hugon, 1663-09-02_saint-flour_mariage_chazal-mourier, 1663-09-21_saint-flour_mariage_cussac-martin, 1663-11-04_saint-flour_mariage_bonnenfan-chalvet, 1663-11-28_saint-flour_mariage_mounier-chavreyre, 1663-12-16_saint-flour_testament_dufour-coulbe, 1663-12-29_saint-flour_mariage_blanquet-missonnier, 1664-01-13_saint-flour_mariage_deleros-roux, 1664-03-20_saint-flour_testament_rougier, 1664-05-07_saint-flour_testament_anequin-mollinier, 1664-05-26_saint-flour_testament_missonnier, 1664-06-16_saint-flour_vente_padoul-rodde, 1664-08-09_saint-flour_vente_tezin-luillier, 1664-08-20_saint-flour_testament_fontes-gendre, 1664-11-20_saint-flour_partage_regimbalt-faucon, 1665-01-09_saint-flour_mariage_cailliaud-vaylet, 1665-01-12_saint-flour_testament_gilbert-bonniol, 1665-01-14_saint-flour_donation_polollion-fallie, 1665-01-27_saint-flour_donation_vailet-trabuc, 1665-01-29_saint-flour_mariage_barthomeuf-bonnet, 1665-02-01_saint-flour_mariage_chanson-chaumeil, 1665-03-06_saint-flour_vente_delaspre-fontes, 1665-03-18_saint-flour_vente_gillet-bertrand, 1665-04-12_saint-flour_vente_marchan-teyssedre, 1665-04-13_saint-flour_sommation_teissedre-batiffolier, 1665-04-18_saint-flour_mariage_chaumeil-fieu, 1665-04-27_saint-flour_retrait_gorsse-vargier, 1665-05-03_saint-flour_vente_pigon-chauliaguet, 1665-05-04_saint-flour_vente_cristal-molinier, 1665-05-08_saint-flour_cession_missonier-chanson, 1665-05-23_saint-flour_mariage_begne-barthet, 1665-05-28_saint-flour_demission_bondurand-hugon, 1665-07-14_saint-flour_vente_bechot-sauret, 1665-08-24_saint-flour_vente_dabladie-maury, 1665-09-22_saint-flour_cession_grenier-bevaud, 1665-10-25_saint-flour_mariage_vigier-chapoulle, 1665-11-02_saint-flour_mariage_bechot-rougier, 1666-02-07_saint-flour_mariage_chappoulle-cusset, 1666-02-24_saint-flour_testament_george, 1666-04-27_saint-flour_vente_guadolle-paul, 1666-06-08_saint-flour_testament_astier, 1666-08-30_saint-flour_mariage_jean-dufour, 1666-09-06_saint-flour_vente_dabladie-jury, 1666-09-16_saint-flour_quittance_rigault-bonniol, 1666-10-08_saint-flour_testament_chazal-mollinier, 1666-10-19_inconnu_testament_ventengol, 1672-12-10_saint-flour_requete_fauret-vedrines |
 | faubourgs de Saint-Flour (Pères [Cordeliers?]) | 1 | 1660-09-18_saint-flour_testament_barthet |
 | faubourgs de Saint-Flour ([de Rapin?]) | 1 | 1651-05-01_saint-flour_obligation_mallespaigne-boussuge |
 | faubourgs de Saint-Flour (congrégation de Saint-Joseph) | 1 | 1660-05-20_saint-flour_testament_dufour |
@@ -9239,8 +9946,10 @@
 | faubourgs de Saint-Flour (faulxbourgs ; lieu de l'acte, maison des [hoirs?] de feu Anthoine Debays, chambre basse ; domicile de Debladin, de Bondurand [?] et d'Abraut [?]) | 1 | 1658-06-02_saint-flour_testament_giraldon-durand |
 | faubourgs de Saint-Flour (faulxbourgs de S.t flour) | 1 | 1651-12-26_saint-flour_testament_pouzin |
 | faubourgs de Saint-Flour (faulxbourgs de St flour) | 1 | 1653-04-27_saint-flour_vente_bonnet-bernard |
+| faubourgs de Saint-Flour (faulxbourgs) | 1 | 1633-01-20_saint-flour_testament_alby |
 | faubourgs de Saint-Flour (faulxbourgs, forsbourg) | 1 | 1653-02-10_saint-flour_vente_armand-chomie |
 | faubourgs de Saint-Flour (faulxbourgz) | 1 | 1653-04-26_saint-flour_vente_lamere-vigault |
+| faubourgs de Saint-Flour (faux bourgs) | 1 | 1634-03-27_saint-flour_vente_roux-aymeric |
 | faubourgs de Saint-Flour (lecture incertaine) | 1 | 1650-05-18_saint-flour_transaction_bastide-sauvaige |
 | faubourgs de Saint-Flour (lecture probable) | 1 | 1632-10-11_saint-flour_vente_chastel-fauret |
 | faubourgs de Saint-Flour (maison de Guillaume Sauret) | 1 | 1654-06-28_saint-flour_vente_courette-sauret |
@@ -9280,6 +9989,8 @@
 | fief [baronie?] de [Sevrie?] | 1 | 1664-07-27_saint-flour_vente_chossy-rechallier |
 | fief de [Sedingha?] (nom non identifié) | 1 | 1662-10-14_saint-flour_vente_daude-bonniol |
 | fief de [Seriers?] | 1 | 1662-11-11_saint-flour_vente_rolland-sibrac |
+| foire de [Toussainctz?] | 1 | 1634-02-07_saint-flour_mariage_veissiere-aufolet |
+| foire de [mars?] | 1 | 1634-02-07_saint-flour_mariage_veissiere-aufolet |
 | fonds commun de Coltines | 1 | 1665-03-28_saint-flour_echange_bruict-desfondz |
 | fonds del four [?] | 1 | 1663-06-19_saint-flour_vente_nicolas-boudet |
 | fongou (champ) | 1 | 1664-08-17_saint-flour_transaction_challier-boyer |
@@ -9287,6 +9998,7 @@
 | font appelée Fonblanche | 1 | 1662-06-10_saint-flour_vente_reynaldy |
 | font del [sauuz?] | 1 | 1661-06-27_saint-flour_echange_saignes-delcros |
 | fontaine [dJuelleux?] | 1 | 1666-10-02_saint-flour_donation_reynaud-dupuy |
+| fontaine a la [ffauge?] | 1 | 1634-01-23_saint-flour_transport_delfour |
 | fontaine au [planol?] de [Vavi...non?], devant la maison de Jacques GRASSALT | 1 | 1657-12-00_saint-flour_transaction_grassalt-chevallier |
 | fontaine commune de Sériers | 1 | 1664-06-13_seriers_echange_gorsse-andrieu |
 | fontaine de Feiditres (champ dit de la fontayne de Feiditres) | 1 | 1665-08-24_saint-flour_vente_dabladie-maury |
@@ -9318,6 +10030,7 @@
 | four commun de Langoniron | 1 | 1665-02-24_saint-flour_echange_roux-coussarie |
 | four commun de Vedrines | 1 | 1653-03-28_saint-flour_vente_tesse-ambiele |
 | four commun de Vibrezac | 1 | 1653-05-18_alleuze_vente_monier-chanson |
+| four commun de [Roua?] | 1 | 1634-07-01_saint-flour_cession_bonamy |
 | four commun de la Barge | 1 | 1658-06-23_saint-flour_mariage_chausse-fourcharie |
 | four commun du lieu de [Lastrigne?] | 1 | 1653-03-22_saint-flour_echange_chadellac-maulhac |
 | four d'Alleuze [?] | 1 | 1653-04-29_saint-flour_echange_assonnier-grezes |
@@ -9336,6 +10049,7 @@
 | fournial (fournil) du four de [Varilhetes?] | 1 | 1626-09-20_saint-flour_association_mareschal-vmell |
 | fournols[?] (Fournolz ?), paroisse du premier domaine et résidence d'Izaac Aymeric | 1 | 1656-12-24_saint-flour_vente_vezin-chauliaguet |
 | frairie de Notre-Dame (Saint-Flour) | 1 | 1626-03-08_saint-flour_apprentissage_padin-chastel |
+| frairie de Saint-Jean [?] | 1 | 1633-01-20_saint-flour_mariage_chauvel-falvet |
 | fraissenetz[?] (Fraissinet ?) | 1 | 1662-11-18_saint-flour_vente_peires-rouget |
 | fraysilat [?] (Fraissinet / Fraissilhac ?) | 1 | 1628-03-24_saint-flour_transaction_valarchier-mauran |
 | freissinet / freysinet (Fraissinet, paroisse d'Oradour) | 1 | 1659-10-25_saint-flour_vente_couderc-mounier |
@@ -9366,6 +10080,7 @@
 | grange Lagrangoune | 1 | 1658-05-31_saint-flour_echange_sauret-chossy |
 | grange [pres?] de la [grangiere?] | 1 | 1657-02-17_saint-flour_demission_crespont-gaint |
 | grange de Bassal | 1 | 1628-11-17_saint-flour_bail_chanlhaguet-baldissard |
+| grange de [Michie?] | 1 | 1633-10-22_saint-flour_vente_boyer-vieulx |
 | grange de la Bazille | 1 | 1665-07-12_saint-flour_vente_monet-broncy |
 | gros[?] (destination d'un chemin depuis Ler) | 1 | 1660-01-10_saint-flour_vente_lanie-avrilee |
 | guaz [?] de Cournasse | 1 | 1658-01-10_saint-flour_echange_albieuf-chauliaguet |
@@ -9377,7 +10092,7 @@
 | haut Auvergne (bailliage) | 1 | 1649-06-15_saint-flour_partage_bonnet |
 | haut Auvergne (élection) | 1 | 1663-07-24_saint-flour_vente_salesses-roussilhe |
 | haut de la ville (Saint-Flour) | 1 | 1666-01-26_saint-flour_mariage_rouffilhe-cussac |
-| haut pays d'Auvergne | 2 | 1661-03-03_saint-flour_vente_maury-apchier, 1661-03-03_saint-flour_vente_maury-apchier_b |
+| haut pays d'Auvergne | 3 | 1643-04-00_saint-flour_vente_solignac-dufour, 1661-03-03_saint-flour_vente_maury-apchier, 1661-03-03_saint-flour_vente_maury-apchier_b |
 | haut pays d'Auvergne (bailliage) | 1 | 1655-06-14_saint-flour_donation_bonafos-pademorgue |
 | haut pays d'Auvergne (vice-bailliage) | 1 | 1653-04-22_saint-flour_mariage_dufour-vaur |
 | haut pays d'Auvergne [?] | 1 | 1661-11-11_saint-flour_donation_anequin |
@@ -9386,11 +10101,15 @@
 | haute montagne d'Auvergne | 1 | 1658-05-18_saint-flour_mariage_chazalledez-chauses |
 | herbage des [pradoux?] | 1 | 1664-10-17_saint-flour_echange_bougier |
 | hors de [province?] (l. 5) | 1 | 1653-06-06_saint-flour_ratification_daude-dupre |
+| hors du Royaume | 1 | 1633-11-13_saint-flour_testament_rouchea |
+| hors du Royaume (voyage projeté) | 1 | 1633-12-17_saint-flour_testament_cristal |
+| hors du présent royaume | 1 | 1633-07-00_saint-flour_testament_bardon |
+| hors du royaume | 1 | 1633-11-13_saint-flour_testament_boucher |
 | hort de La Croix (jardin) | 1 | 1664-03-01_saint-flour_vente_barthomeuf-montel |
 | hospital [?] | 1 | 1652-02-23_saint-flour_remission_pavva |
 | hôpital Dieu de Saint-Flour | 1 | 1659-09-08_saint-flour_testament_chauliaguet-chabot |
 | hôpital Dieu des faubourgs de Saint-Flour | 1 | 1657-03-20_saint-flour_testament_aumergnoz |
-| hôpital de Saint-Flour | 2 | 1656-08-26_saint-flour_mariage_bertrand-roche, 1660-09-18_saint-flour_testament_barthet |
+| hôpital de Saint-Flour | 3 | 1634-06-11_saint-flour_vente_bruguier-chareyre, 1656-08-26_saint-flour_mariage_bertrand-roche, 1660-09-18_saint-flour_testament_barthet |
 | hôpital de Saint-Flour ([faubourg?]) | 1 | 1660-05-08_saint-flour_mariage_dupre-traverse |
 | hôpital de Saint-Flour (congrégation de Saint-Joseph) | 1 | 1664-02-06_saint-flour_donation_mallessaigne-fenal |
 | hôtel épiscopal de Saint-Flour | 4 | 1658-01-15_saint-flour_quittance_attalec-cussac, 1659-04-01_saint-flour_vente_vicard, 1660-10-29_saint-flour_cession_gilles-thomel, 1660-10-29_saint-flour_cession_teilhard-parra |
@@ -9401,6 +10120,7 @@
 | hôtel-Dieu du faubourg de Saint-Flour | 1 | 1659-04-01_saint-flour_vente_vicard |
 | hôtellerie de la Couronne | 1 | 1663-03-17_saint-flour_inventaire_grezes-bechot |
 | hôtellerie à l'enseigne du Mouton[?] (faubourgs de Saint-Flour) | 1 | 1653-02-08_saint-flour_vente_viallard-mavron |
+| iardin la planche | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
 | jardin Lo[...] | 1 | 1656-06-00_saint-flour_vente_chabot-bechot |
 | jardin Lort del Mas (Fraissinet) | 1 | 1664-02-23_saint-flour_mariage_bechot-defondz |
 | jardin Lou Neuf (La Brousse) | 1 | 1656-01-17_saint-flour_mariage_sudre-suvrel |
@@ -9408,6 +10128,8 @@
 | jardin Lou[...] de la Joz | 1 | 1662-06-03_saint-flour_echange_jouve-delort |
 | jardin [Lourdagre?] (Villedieu) | 1 | 1654-02-09_saint-flour_mariage_vassond-courchaud |
 | jardin [Sore ?] de la fon | 1 | 1662-11-19_saint-flour_echange_mallessaignes-rispail |
+| jardin [de Tardieu?] | 1 | 1633-06-24_saint-flour_vente_sicard-maury |
+| jardin appelé [Flourbac?] (florbag / florbac), aux appartenances de Saint-Flour | 1 | 1633-04-18_saint-flour_transaction_fazon |
 | jardin appelé [del fon Juiou?] à Liozargues | 1 | 1663-05-06_saint-flour_vente_chalanhac-chazaledes |
 | jardin appelé [delolme?] à Vendèze | 1 | 1660-02-04_saint-flour_vente_fayon-rongier |
 | jardin appelé de Vigeret [ou del Tigeret], à Védernat | 1 | 1658-12-07_saint-flour_vente_jean-bressolles |
@@ -9469,6 +10191,7 @@
 | jardin « de la gerce » (au lieu de Barry) | 1 | 1661-06-25_saint-flour_donation_chassang-barthet |
 | jardin « dedevant la porte » | 1 | 1656-07-00_saint-flour_echange_basset |
 | jardin à [Viande?] | 1 | 1660-05-15_saint-flour_vente_pellegrin-bechot |
+| jardin à [Viaud?] | 1 | 1633-02-11_saint-flour_vente_julhe-baille_b |
 | jardin à chanvre [oulbe?] (Fontbonne) | 1 | 1666-03-28_saint-flour_vente_fiou-cayron |
 | jardin à chanvre de la [Marthe?] (Roueyre) | 1 | 1657-04-23_saint-flour_mariage_ferrand-chapoulade |
 | jardin à chanvre « lhort [?] grand » à la Tremolière | 1 | 1656-11-05_saint-flour_vente_jonnenoux-pastre |
@@ -9512,7 +10235,7 @@
 | la Barge (village, paroisse d'Alleuze) | 1 | 1654-07-18_saint-flour_vente_pouget-faure |
 | la Barrandete (champ, Auriac) | 1 | 1658-06-04_saint-flour_vente_espinal-albuisson |
 | la Barthasse | 1 | 1659-06-05_saint-flour_partage_vedrines-mirmande |
-| la Bastide | 4 | 1657-11-25_seriers_mariage_doumergue-chevallier, 1659-09-22_saint-flour_inventaire_sauret, 1661-06-23_saint-flour_testament_chastang-vigier, 1665-04-10_saint-flour_vente_bremon-tremoliere |
+| la Bastide | 5 | 1634-08-22_saint-flour_vente_portal-aymerie, 1657-11-25_seriers_mariage_doumergue-chevallier, 1659-09-22_saint-flour_inventaire_sauret, 1661-06-23_saint-flour_testament_chastang-vigier, 1665-04-10_saint-flour_vente_bremon-tremoliere |
 | la Bastide (lieu d'habitation des acquéreurs et de Bazellon [?]) | 1 | 1653-11-15_saint-flour_vente_louvo-chauvejon |
 | la Bastide (lieu, paroisse des Ternes) | 1 | 1656-09-25_saint-flour_vente_sours-galvier |
 | la Bastide (paroisse des Ternes) | 1 | 1654-11-29_saint-flour_quittance_gibrat-houra |
@@ -9531,6 +10254,7 @@
 | la Belle [?] | 1 | 1658-01-10_saint-flour_echange_albieuf-chauliaguet |
 | la Bernadeze (champ, à Coltines) | 1 | 1656-11-29_saint-flour_vente_delrieu-reuel |
 | la Bessadie[?] (pièce de terre) | 1 | 1662-11-04_saint-flour_echange_fabre-buge |
+| la Bessayre [?] (Besseyre), paroisse de Chastel [?] | 1 | 1633-08-21_saint-flour_vente_alby-molegrens |
 | la Besseyre | 3 | 1662-02-07_saint-flour_echange_sabatier-souchayre, 1663-08-27_saint-flour_transaction_pradal-gire, 1665-02-16_saint-flour_mariage_galvier-delort |
 | la Besseyre (lieu) | 1 | 1626-11-08_saint-flour_quittance_anglade-chansy |
 | la Besseyre [de Lair?], paroisse de Chaliers | 1 | 1656-05-20_alleuze_mariage_catala-chanson |
@@ -9543,7 +10267,8 @@
 | la Bizade (champ) | 1 | 1663-12-13_saint-flour_vente_devaurs-chastel |
 | la Blancheyre (terroir, bois) | 1 | 1660-02-04_roffiac_mariage_mallet-fontes |
 | la Blatyre[?] (champ) | 1 | 1660-04-17_saint-flour_vente_froys-coutel |
-| la Borie | 3 | 1665-03-31_saint-flour_echange_hugon-barreyre, 1666-08-30_saint-flour_mariage_jean-dufour, 1666-10-05_saint-flour_demission_albon-jean |
+| la Borie | 4 | 1634-11-04_saint-flour_vente_liber, 1665-03-31_saint-flour_echange_hugon-barreyre, 1666-08-30_saint-flour_mariage_jean-dufour, 1666-10-05_saint-flour_demission_albon-jean |
+| la Borie (Andelat) | 1 | 1634-11-21_saint-flour_vente_chadre-celier |
 | la Borie (la Borye), paroisse d'Andelat | 1 | 1658-02-26_saint-flour_mariage_jean-bastide |
 | la Borie (la borye) | 1 | 1628-05-08_saint-flour_bail_vossier-jehan |
 | la Borie (paroisse d'Andelat) | 2 | 1659-05-01_saint-flour_vente_apchier-sarrazin, 1662-07-24_saint-flour_vente_martin-jean |
@@ -9552,12 +10277,15 @@
 | la Borie [?] (ou la Bouge), paroisse d'Andelat | 1 | 1663-06-19_saint-flour_vente_nicolas-boudet |
 | la Borie de Vizé[?] | 1 | 1663-02-10_saint-flour_vente_hugon-pages |
 | la Borie de [Bize?] | 1 | 1660-05-03_coltines_vente_costail-hugon |
+| la Borrade (champ) | 1 | 1634-11-21_saint-flour_vente_chadre-celier |
 | la Borye (paroisse d'Andelat) | 2 | 1664-10-00_saint-flour_revente_savrazy-apchier, 1666-07-06_andelat_mariage_revel-jean |
 | la Bosse (?) | 1 | 1664-07-29_saint-flour_vente_benezit-bertrand |
 | la Bou | 1 | 1660-03-06_saint-flour_donation_fontanier-recoudier |
 | la Bou[...] [?] (témoin Jean Jean) | 1 | 1660-05-01_saint-flour_vente_migne-bougier |
 | la Bouchardie | 1 | 1662-07-19_saint-flour_mariage_delaroche-gillet |
 | la Bouff[...] (lecture incomplète) | 1 | 1650-09-21_saint-flour_vente_boudet-maury |
+| la Bougeire[?] | 1 | 1634-06-25_saint-flour_vente_barthomeuf-dufour |
+| la Bougerie [?] | 1 | 1644-05-31_saint-flour_vente_fornier-boudon |
 | la Bougeyrie (paroisse de Bournoncles) | 1 | 1651-09-06_saint-flour_transaction_valarchier-trabuc |
 | la Bourgade | 1 | 1626-01-17_saint-flour_consentement_delaroche |
 | la Bourgeyre ([bouzeyre?], [Labrugeyre?]) | 1 | 1651-05-20_saint-flour_vente_mighoulle-froment |
@@ -9571,6 +10299,7 @@
 | la Brousse, paroisse de [Coren?] | 1 | 1657-05-24_saint-flour_transaction_mauvy-mossier |
 | la Broze (Labroze) | 1 | 1658-11-25_saint-flour_vente_solier-jourdy |
 | la Broze / de la bro[...] (champ et lieu-dit, Mons) | 1 | 1632-12-03_saint-flour_vente_sugelles-gibrat |
+| la Broze [?] | 1 | 1644-05-31_saint-flour_vente_fornier-boudon |
 | la Broze [?] (paroisse de Saint-Mary-le-Cros) | 1 | 1659-05-10_saint-flour_obligation_girard |
 | la Brug[e?] / la B[o?]rug[e?] / Brugere[?] (lieu des acquéreurs et des biens) | 1 | 1652-06-16_saint-flour_vente_borchette-portefaix |
 | la Brugeire (paroisse de Clavières) | 1 | 1665-06-02_saint-flour_vente_durand-hugon |
@@ -9596,6 +10325,7 @@
 | la Cham (champ, appartenances de Vedrines) | 1 | 1661-02-22_saint-flour_echange_missonnier-grezes |
 | la Cham de Collinie (commun, Mons) | 1 | 1666-02-27_saint-flour_echange_sevenes-fontes |
 | la Champ (lieu) | 1 | 1653-02-01_saint-flour_vente_quatveulx-pelegry |
+| la Champaigne (terroir et commun) | 1 | 1634-09-16_saint-flour_vente_vigier-aymeric |
 | la Chan (paroisse de Celles) | 1 | 1664-03-14_saint-flour_vente_baldissard-brassac |
 | la Chanade | 1 | 1659-06-04_saint-flour_vente_choffy-sauvet |
 | la Chanade[?] | 1 | 1658-05-31_saint-flour_echange_sauret-chossy |
@@ -9624,14 +10354,16 @@
 | la Chaumette (paroisse de Neuvéglise, Cantal) | 1 | 1658-04-02_saint-flour_vente_pantard |
 | la Chaumette (paroisse de Tiviers) | 1 | 1632-12-24_saint-flour_vente_delolme-delolme |
 | la Chaumette (seigneurie) | 2 | 1653-03-16_saint-flour_echange_delort-fornal, 1665-02-07_saint-flour_mariage_combes-chargebeuf |
+| la Chaumette [?] | 1 | 1633-12-24_saint-flour_vente_delpiron-bozona |
 | la Chaz[?] (lieu du témoin Bigoline) | 1 | 1663-11-10_saint-flour_echange_tassy-gaudel |
 | la Chazin[?] | 1 | 1657-07-02_coltines_mariage_mas-cussac |
 | la Comb d'Haut[?] (champ, Vedrines) | 1 | 1661-03-28_saint-flour_echange_grezes |
 | la Combe | 9 | 1655-05-01_saint-flour_subrogation_chevallier-devarnes, 1656-02-20_saint-flour_mariage_fages-chastang, 1656-06-23_saint-flour_transaction_couderc-bo, 1659-02-01_saint-flour_obligation_chazal-meinier, 1659-04-06_saint-flour_vente_chassang-dabladie, 1659-09-22_saint-flour_inventaire_sauret, 1661-04-02_saint-flour_vente_rispal-caylar, 1663-01-26_saint-flour_mariage_meiliot-jourdanne, 1666-10-02_saint-flour_donation_reynaud-dupuy |
 | la Combe (champ) | 1 | 1662-06-17_saint-flour_vente_mollinier-dupre |
 | la Combe (lieu et appartenances, paroisse de Paulhac probable) | 1 | 1661-11-24_saint-flour_vente_charbonnel-faulcon |
-| la Combe (paroisse d'Andelat) | 3 | 1658-02-09_roffiac_mariage_blondy-parra, 1660-08-16_saint-flour_vente_bossuge-bo, 1661-08-28_saint-flour_mariage_chaulhac-meyliot |
+| la Combe (paroisse d'Andelat) | 4 | 1633-12-17_saint-flour_testament_cristal, 1658-02-09_roffiac_mariage_blondy-parra, 1660-08-16_saint-flour_vente_bossuge-bo, 1661-08-28_saint-flour_mariage_chaulhac-meyliot |
 | la Combe (paroisse de Paulhac) | 2 | 1661-02-19_saint-flour_vente_soubrier-germany, 1662-01-26_saint-flour_vente_rispal-dabladie |
+| la Combe (terroir) | 1 | 1634-09-16_saint-flour_vente_vigier-aymeric |
 | la Combe (village, paroisse de Paulhac) | 1 | 1658-02-07_saint-flour_inventaire_bonafos-pademorgue |
 | la Combe [?] | 1 | 1656-02-23_saint-flour_vente_fraz-hugon |
 | la Combe [Coumbe?] | 1 | 1650-03-12_saint-flour_testament_merle-ingimbert |
@@ -9640,6 +10372,7 @@
 | la Combe de gerault (Combegerault), pré à Coren | 1 | 1654-06-07_saint-flour_transaction_maury-chastang |
 | la Combe, paroisse d'Andelat (lieu des parties et de la maison) | 1 | 1657-11-10_saint-flour_transaction_cristal-crespoul |
 | la Combelle, rue commune (Coltines) | 1 | 1658-03-14_coltines_echange_hugon-nicolas |
+| la Contalades[?] | 1 | 1634-01-14_saint-flour_bail_faury-fauret |
 | la Coste | 2 | 1659-02-01_saint-flour_obligation_chazal-meinier, 1660-03-12_saint-flour_testament_bazard-rouget |
 | la Coste (commun de) | 1 | 1651-03-03_saint-flour_vente_malleschaignes-parra |
 | la Coste (jardin à chanvre, bois, pradel) | 1 | 1663-04-01_saint-flour_partage_rolland-mallessaignes |
@@ -9677,6 +10410,8 @@
 | la Fage (paroisse de Coren) | 1 | 1665-12-31_saint-flour_cession_falgeyrac-montaigne |
 | la Fage / la faige (paroisse de Sériers) | 1 | 1665-03-17_saint-flour_vente_chauliac-jesuites |
 | la Fage [?] | 1 | 1628-06-24_saint-flour_bail_aymier-baile |
+| la Fageolle (lieu d'Anthoine Armand et de la [Flore?]) | 1 | 1634-08-31_saint-flour_cession_chaulhaguet-vayron |
+| la Fageolle (paroisse de [Valleiolle?], Valuéjols ?) | 1 | 1634-11-20_saint-flour_quittance_gendre-barthomeuf |
 | la Fageolle[?] (chemin de) | 1 | 1662-11-04_saint-flour_echange_fabre-buge |
 | la Faghe | 1 | 1632-09-06_saint-flour_vente_corspoul-delaire |
 | la Faghole[?] | 1 | 1658-05-31_saint-flour_echange_sauret-chossy |
@@ -9700,6 +10435,7 @@
 | la Faye | 1 | 1647-11-17_saint-flour_quittance_rouger-attalin |
 | la Fluzerade | 2 | 1665-11-24_saint-flour_vente_hugon-larochette, 1665-11-24_saint-flour_vente_larochette-destubartes |
 | la Fon | 1 | 1653-03-03_saint-flour_vente_durand-gillet |
+| la Font (pré) | 1 | 1633-05-09_andelat_bail_brugier-julhe |
 | la Fontagne [?] | 1 | 1652-02-24_saint-flour_transaction_vidal-parra |
 | la Fourche [?] (lieu-dit du champ) | 1 | 1652-03-17_saint-flour_vente_chastel-crozat |
 | la Fraissenede (la Fraissinède ?), paroisse de Coltines | 1 | 1658-06-18_coltines_donation_rouby-pelegry |
@@ -9709,6 +10445,7 @@
 | la Fulhierade | 1 | 1664-11-06_saint-flour_vente_delaroche-portail |
 | la Garde | 2 | 1658-08-20_saint-flour_inventaire_delort-bechot, 1660-03-31_saint-flour_partage_bastide-cueyspoul |
 | la Garde (la garde) | 1 | 1664-02-21_saint-flour_mariage_rayne-lombard |
+| la Garde (la guarde, Lagarde) | 1 | 1634-02-11_saint-flour_quittance_fabre-pitiot |
 | la Garde (sieurie) | 1 | 1665-02-17_roffiac_mariage_vidal-parra |
 | la Garde de l'Olme (terroir) | 1 | 1664-10-04_saint-flour_echange_sauvet-attalin |
 | la Garde, paroisse d'Albaret-Sainte-Marie | 1 | 1656-05-20_alleuze_mariage_catala-chanson |
@@ -9736,11 +10473,13 @@
 | la Laude[?] (pré) | 1 | 1651-07-10_saint-flour_vente_lyssandre-rouget |
 | la Londe de Teyssonneyre | 1 | 1648-03-07_saint-flour_vente_derames-chastel |
 | la Louche [?] | 1 | 1652-02-10_saint-flour_vente_dommergue-sautherez |
+| la Maison (paroisse de Vabres) | 1 | 1634-10-21_saint-flour_testament_bical-maudre |
 | la Maisonne (Maisonne), paroisse de Vabres | 1 | 1658-06-08_saint-flour_donation_duviallard-fontes |
 | la Malautio / Malautro[?] (lieu du vendeur) | 1 | 1660-04-17_saint-flour_vente_froys-coutel |
 | la Maleyrie [?] | 1 | 1626-10-13_saint-flour_bail_juery-taleyrat |
 | la Maloutie[?] | 1 | 1651-06-17_saint-flour_vente_vazieu-boullette |
 | la Mannialle [?] | 1 | 1632-03-03_saint-flour_vente_pages |
+| la Maon (la Maison), paroisse de Vabres | 1 | 1633-10-22_saint-flour_vente_boyer-vieulx |
 | la Margeride (?) | 1 | 1664-07-29_saint-flour_vente_benezit-bertrand |
 | la Martinie [?] (communal) | 1 | 1652-08-05_saint-flour_vente_paulhard-fabry |
 | la Moleyre[?] (champ ; exp. la moulerre[?]) | 1 | 1658-04-02_saint-flour_vente_pantard |
@@ -9772,6 +10511,7 @@
 | la Peyre[?] (appartenances de la pièce) | 1 | 1652-04-01_saint-flour_vente_faigeolle-rouger |
 | la Peyrie (paroisse de Paulhac) | 1 | 1666-01-05_saint-flour_vente_charbonnel-cibiel |
 | la Pierre [?] de Maleval | 1 | 1658-01-10_saint-flour_echange_albieuf-chauliaguet |
+| la Planche (jardin) | 1 | 1634-03-25_saint-flour_vente_maury-juniet |
 | la Planche (lecture douteuse) | 1 | 1659-02-10_saint-flour_echange_chabot-jurry |
 | la Planchette (jardin, dit « dela planchette ») | 1 | 1663-01-09_saint-flour_vente_gibrat-rigaud |
 | la Planchette (« la planschette »), lieu-dit et porte de Saint-Flour | 1 | 1664-01-22_saint-flour_vente_vigaud-lauriac |
@@ -9809,6 +10549,7 @@
 | la Rochette (seigneurie) | 1 | 1659-07-02_saint-flour_mariage_durantz-chandorat |
 | la Rochette / Rouchette | 1 | 1659-05-31_saint-flour_vente_valarcher-parra |
 | la Rodde [?] | 1 | 1659-12-13_saint-flour_testament_rolland-faluet |
+| la Rode | 1 | 1634-05-01_saint-flour_vente_cussac-filhol |
 | la Ronziere / la Rouziere [?] (chemin de Ruines à) | 1 | 1658-01-10_saint-flour_echange_albieuf-chauliaguet |
 | la Rossière | 2 | 1642-01-12_saint-flour_mariage_chandorat-aymerie, 1666-06-14_saint-flour_vente_montaigne-brivines |
 | la Rossière (château) | 1 | 1659-06-04_saint-flour_vente_choffy-sauvet |
@@ -9821,6 +10562,7 @@
 | la Roussière | 1 | 1662-12-28_saint-flour_vente_bigot-lafage |
 | la Roussière (seigneurie) | 1 | 1654-06-15_saint-flour_vente_aymerit-sauve |
 | la Roussière (terre et seigneurie) | 1 | 1660-03-05_saint-flour_donation_sauor-tremolhol |
+| la Rue publicque | 1 | 1644-01-18_saint-flour_vente_david-sauvet |
 | la Rueire[?] | 1 | 1666-01-27_alleuze_testament_daix |
 | la Sagnette (la Sanhete, la Sagnete), paroisse de Paulhac | 1 | 1659-02-12_saint-flour_vente_desparou-rouget |
 | la Sagnette (village) | 1 | 1660-04-14_saint-flour_vente_chassang-faure |
@@ -9832,12 +10574,14 @@
 | la Saignette (paroisse de Paulhac) | 1 | 1658-05-13_saint-flour_vente_bonnafos-rispal |
 | la Saignette / la Saignete[?] | 1 | 1661-02-19_saint-flour_vente_soubrier-germany |
 | la Saiguiolle | 1 | 1666-05-01_saint-flour_partage_astier |
-| la Salesse | 1 | 1663-08-01_saint-flour_transaction_mathieu-delangouroux |
+| la Salesse | 2 | 1633-12-13_saint-flour_testament_chazal, 1663-08-01_saint-flour_transaction_mathieu-delangouroux |
+| la Salesse (la Sallesse) | 1 | 1633-01-28_saint-flour_mariage_cammel-jarlier |
 | la Salesse (paroisse de Paulhac) | 1 | 1653-05-25_saint-flour_subrogation_imbert-delangouvents |
 | la Salesse de Cuspart [?] | 1 | 1665-12-12_saint-flour_subrogation_charbonnel-charreyre |
 | la Salguette / Saiguette[?] | 1 | 1659-09-22_saint-flour_inventaire_sauret |
 | la Salle [?] | 1 | 1658-01-10_saint-flour_echange_albieuf-chauliaguet |
 | la Salle de Gardon (Lasalle, Gard) | 1 | 1654-01-17_saint-flour_mariage_pellouz-falgeyrac |
+| la Salvete[?] | 1 | 1633-03-26_saint-flour_vente_trencher |
 | la Sarre de Lort | 1 | 1658-08-20_saint-flour_inventaire_delort-bechot |
 | la Sautelladde[?] | 1 | 1653-03-03_saint-flour_vente_durand-gillet |
 | la Sauvige (pré et champ, appartenances de Roffiac) | 1 | 1663-06-20_saint-flour_vente_uchassol-brassac |
@@ -9899,25 +10643,31 @@
 | la Vergne / Lavergne (Delvergne[?], la Vergne[?]) | 1 | 1653-01-14_saint-flour_vente_andrieu-solie |
 | la Vergne[?] (paroisse) | 1 | 1651-06-25_saint-flour_vente_audouin-matthaugier |
 | la Verse | 1 | 1664-11-25_saint-flour_partage_chassang |
+| la Vessiere (seigneurie) | 1 | 1638-06-30_saint-flour_quittance_sauvat |
 | la Vibeyre | 1 | 1664-09-06_saint-flour_vente_couliadire-roudil |
+| la Vigade (Laviȝade), terroir aux appartenances de Ribeyre-Vieille | 1 | 1634-03-09_saint-flour_vente_bondon-tissot |
 | la Vigueire | 1 | 1664-11-25_saint-flour_partage_chassang |
 | la Villedieu? | 1 | 1653-04-01_saint-flour_vente_derames-missonnier |
 | la Visade / la Vissade | 1 | 1664-07-29_saint-flour_vente_benezit-bertrand |
+| la Vissière [?] (la Veyssière ?) | 1 | 1644-04-10_saint-flour_mariage_maury-andrieu |
 | la Vizade | 2 | 1666-08-16_saint-flour_subrogation_rouget-tronchere, 1666-09-05_saint-flour_vente_polverelles-froment |
 | la Volh[?] / la Voute ? (prieuré) | 1 | 1654-01-31_saint-flour_vente_delaire-charbonnier |
 | la Vollandye[?] (rue ou quartier de Saint-Flour, lecture très incertaine) | 1 | 1626-06-21_saint-flour_bail_vignal-alegre |
 | la Volte (?) | 1 | 1664-07-29_saint-flour_vente_benezit-bertrand |
 | la Volte (chemin de Labou à la Volte) | 1 | 1665-05-03_saint-flour_vente_pigon-chauliaguet |
 | la Volte (prieuré, mandement de Courtines) | 1 | 1663-04-15_saint-flour_vente_combes-bergoin |
+| la Volte [?] (prieur, l. 19-20) | 1 | 1634-11-04_saint-flour_vente_bacon-sibial |
 | la Volte[?] | 1 | 1653-03-03_saint-flour_vente_durand-gillet |
 | la Voultile | 1 | 1664-11-25_saint-flour_partage_chassang |
 | la Vousselle[?] / la Vaysse[?] | 1 | 1650-10-09_saint-flour_licitation_jouve-boudet |
 | la [...] (lieu du témoin Claude Peyne[?]) | 1 | 1658-04-00_saint-flour_vente_pirolle-chalbre |
 | la [...] de soubz [pratgrol?] (champ, Vallanghol) | 1 | 1660-06-26_saint-flour_vente_maury-boyer |
+| la [...] ou du [clauzet?] (terroir du champ, l. 12) | 1 | 1634-03-13_saint-flour_vente_jolet-sibial |
 | la [Albuy?] | 1 | 1628-07-17_saint-flour_bail_sauret-chastang |
 | la [Bardy ?] | 1 | 1659-02-04_saint-flour_mariage_galdissard-eschallier |
 | la [Bargade?] (champ) | 1 | 1661-11-19_saint-flour_echange_gibrat-cussac |
 | la [Barioulse?] | 1 | 1632-09-11_saint-flour_titreclerical_attalec-nabou |
+| la [Barolle?] | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | la [Bastide?] | 2 | 1651-01-16_saint-flour_vente_maulhac-chauvet, 1653-08-16_saint-flour_vente_boudie-ferrand |
 | la [Bastide?] (endos) | 1 | 1654-12-28_saint-flour_vente_guimbal-bouniol |
 | la [Bastide?] (lieu, paroisse de Faverolles) | 1 | 1653-06-29_saint-flour_vente_mallet-bergier |
@@ -9960,19 +10710,24 @@
 | la [Chau?] (paroisse de Saint-Mary-le-[Cros?]) | 1 | 1660-09-19_saint-flour_vente_cordes |
 | la [Chaule?] | 1 | 1659-06-05_saint-flour_echange_fareyre-siomy |
 | la [Chaumenne?] | 1 | 1665-11-00_saint-flour_vente_richard-bergoin |
-| la [Chaumette?] | 3 | 1651-12-29_saint-flour_partage_pages-vidal, 1657-08-27_roffiac_transaction_uchassol-fontes, 1661-10-29_saint-flour_cession_roux-boudon |
+| la [Chaumette?] | 4 | 1634-02-14_saint-flour_mariage_clavieres-aymeric, 1651-12-29_saint-flour_partage_pages-vidal, 1657-08-27_roffiac_transaction_uchassol-fontes, 1661-10-29_saint-flour_cession_roux-boudon |
 | la [Chaumette?] (seigneurie) | 2 | 1661-07-02_saint-flour_vente_rispal-bechot, 1661-12-12_saint-flour_vente_boyer-astier |
 | la [Chaumette?] / La [Chanuette?] (village) | 1 | 1664-01-01_saint-flour_vente_debrons |
 | la [Chaux?] | 1 | 1651-01-00_saint-flour_transaction_guerin-castaing |
 | la [Chavassiera?] (nom du jardin, l. 13) | 1 | 1651-05-18_saint-flour_vente_andrieu-volland |
 | la [Chazote?] (confront, l. 12 ; lieu-dit ou personne) | 1 | 1653-05-11_saint-flour_vente_vidal-chazot |
 | la [Chevrepeau?] (l. 20) | 1 | 1651-05-18_saint-flour_vente_andrieu-volland |
+| la [Chirelle?] (lieu-dit du bien vendu) | 1 | 1633-06-02_saint-flour_vente_delayre-maury |
 | la [Comassarie?] (champ et bois) | 1 | 1653-04-05_saint-flour_vente_dufaure-chauliaguet |
 | la [Combe?] | 1 | 1660-00-00_saint-flour_mariage_bardolle-falgeyrac |
+| la [Combe?] (champ) | 1 | 1633-10-22_saint-flour_vente_boyer-vieulx |
 | la [Combes?] | 1 | 1651-01-16_saint-flour_vente_maulhac-chauvet |
+| la [Costa?] | 1 | 1634-01-02_saint-flour_vente_sandou-jean |
+| la [Coste?] (commun) | 1 | 1634-09-16_saint-flour_vente_vigier-aymeric |
 | la [Coste?] (pré) | 1 | 1655-05-25_saint-flour_subrogation_vezis-brousse |
 | la [Coudeire ?] | 1 | 1659-05-31_saint-flour_vente_valarcher-parra |
 | la [Cuselade ?] | 1 | 1659-05-31_saint-flour_vente_valarcher-parra |
+| la [Faghole?] | 1 | 1633-11-12_saint-flour_vente_roux-rouchea |
 | la [Fagholle?] | 1 | 1654-07-12_saint-flour_vente_chauliaguet-lalieure |
 | la [Faige?] | 1 | 1651-01-12_saint-flour_mariage_coulzie-bastide |
 | la [Faissenède?] / la [Freissenède?] (lieu, paroisse de Coltines) | 1 | 1653-02-01_saint-flour_vente_quatveulx-pelegry |
@@ -9993,12 +10748,18 @@
 | la [Gazolle?] | 1 | 1666-07-06_andelat_mariage_revel-jean |
 | la [Glodine?] | 1 | 1653-02-24_saint-flour_inventaire_chanson-aujolet |
 | la [Granchavade?] / Grandchavade | 1 | 1658-05-00_saint-flour_vente_bleyle-portail |
+| la [Grange?] [?] | 1 | 1638-06-30_saint-flour_quittance_sauvat |
 | la [Lande?] | 1 | 1654-06-06_saint-flour_vente_cosserand |
+| la [Lavenque?] | 1 | 1634-01-02_saint-flour_vente_sandou-jean |
+| la [Maisona?] / Maisonne / Maisson[e], par. de Vabres | 1 | 1633-04-28_saint-flour_vente_soucheire-fontes |
 | la [Malotie?] / Molotie (endos), paroisse de Tanavelle | 1 | 1658-02-02_saint-flour_vente_gibrat-andrieu |
+| la [Maona?] | 1 | 1633-12-13_saint-flour_testament_chazal |
 | la [Mar.l?] | 1 | 1658-02-07_saint-flour_inventaire_bonafos-pademorgue |
+| la [Marjonne?] | 1 | 1634-02-27_saint-flour_bail_bellengreville-amigo |
 | la [Martre?] (l. 33) | 1 | 1660-06-23_coltines_vente_reuel-verdier |
 | la [Masie?] d'[Hauandels?] | 1 | 1661-11-14_saint-flour_vente_mallet-mallet |
 | la [Mazue?] / [Mauue?] (lieu du vendeur) | 1 | 1660-05-08_saint-flour_vente_charreyre-esserand |
+| la [Mochere?] (Molhere ?), appartenances | 1 | 1633-04-28_saint-flour_vente_soucheire-fontes |
 | la [Molatys ?] | 1 | 1628-03-06_saint-flour_inventaire_cocher-bazard |
 | la [Molle?] | 1 | 1626-09-13_inconnu_bail_boyer-maury |
 | la [Montejre?] | 1 | 1666-09-05_saint-flour_vente_polverelles-froment |
@@ -10010,6 +10771,7 @@
 | la [Navarolle?] (mouvance ou lieu ?) | 1 | 1654-07-29_saint-flour_echange_chauliagne-chabot |
 | la [Oulhade?] (?) | 1 | 1654-07-29_saint-flour_echange_chauliagne-chabot |
 | la [Peyre?] | 1 | 1665-11-00_saint-flour_vente_richard-bergoin |
+| la [Peyre?] (village, l. 10, 16, 57) | 1 | 1634-11-04_saint-flour_vente_bacon-sibial |
 | la [Pinatelle?] / Lan pinatelle | 1 | 1661-00-00_saint-flour_partage_lassaigne-bonneval |
 | la [Pioouyel?] (paroisse de Charmensac) | 1 | 1661-08-30_saint-flour_testament_levat |
 | la [Plaine?] | 1 | 1654-06-06_saint-flour_vente_cosserand |
@@ -10029,6 +10791,7 @@
 | la [Rollandye?] (Saint-Flour) | 1 | 1652-10-07_saint-flour_partage_coutel-malbec |
 | la [Roucheyre?] (champ, appartenances de [Chassanittes?]) | 1 | 1656-06-14_saint-flour_echange_salgues-hugon |
 | la [Roughade?] (champ) | 1 | 1653-10-28_saint-flour_vente_fabre-vayron |
+| la [Rousiere?] | 1 | 1633-10-22_saint-flour_vente_boyer-vieulx |
 | la [Saiglere?] | 1 | 1666-01-01_roffiac_mariage_david-vachal |
 | la [Saigne?] / la Saignete (lieu, paroisse de Paulhac) | 1 | 1656-05-16_saint-flour_quittance_colomb-belloy |
 | la [Saigniolle?] | 1 | 1666-10-04_saint-flour_vente_lastic-barthet |
@@ -10043,9 +10806,12 @@
 | la [Soulane?] (champ) | 1 | 1658-08-18_saint-flour_donation_masset-chinaze |
 | la [Tarrisse?] (lieu et paroisse de Me Anthoine Bellefont ; Talizat ?) | 1 | 1658-06-02_saint-flour_testament_giraldon-durand |
 | la [Tonzade?] | 1 | 1666-06-14_saint-flour_vente_barthet |
+| la [Tournolhere?] / [Tournoliere?] (Tremoliere ?), par. de Vabres | 1 | 1633-04-28_saint-flour_vente_soucheire-fontes |
 | la [Tremoliere ?] | 1 | 1660-11-08_saint-flour_mariage_jouzelin-meyre |
+| la [Vacherie?] | 1 | 1633-10-22_saint-flour_vente_boyer-vieulx |
 | la [Vail?] | 1 | 1666-05-08_lagoyron_testament_tailhand |
 | la [Vaissiere?] (paroisse) | 1 | 1661-05-22_saint-flour_mariage_roche-deschaptz |
+| la [Vaissieyre?] (nom du fonds dotal) | 1 | 1633-02-06_saint-flour_mariage_tallon-dufour |
 | la [Varchitte?] (ou Vachette / Barthette), paroisse de Lavastrie | 1 | 1652-05-13_saint-flour_vente_gastail-chanson |
 | la [Vargue?] / Hargue | 1 | 1653-07-22_saint-flour_cession_colrat-vergne |
 | la [Vassyere?] | 1 | 1665-07-04_saint-flour_inventaire_grassalt-berthon |
@@ -10061,6 +10827,7 @@
 | la [Vedrine?] | 2 | 1654-06-07_saint-flour_transaction_maury-chastang, 1665-10-09_saint-flour_vente_brossy-destubartes |
 | la [Veiroles?], paroisse de [Faveyrolles?] | 1 | 1650-05-14_saint-flour_mariage_jouvenhe-aujolet |
 | la [Venibe?] (terroir) | 1 | 1666-06-05_saint-flour_ratification_meyre-hugon |
+| la [Venne?] / [d'Autregue?] | 1 | 1634-01-02_saint-flour_vente_sandou-jean |
 | la [Venteisse?] | 1 | 1628-07-17_saint-flour_bail_sauret-chastang |
 | la [Vergne?] | 1 | 1660-09-21_la-brousse_testament_maury |
 | la [Vergne?] (l. 82, personne ou lieu ?) | 1 | 1656-01-19_allanche_testament_rigault |
@@ -10070,6 +10837,7 @@
 | la [Vessiere?] | 1 | 1654-06-00_saint-flour_vente_chappoulle-antheraiq |
 | la [Vigeyre?] (pré) | 1 | 1650-02-11_saint-flour_vente_chauliaguet-caillaud |
 | la [Virgnie?] (pré) | 1 | 1661-12-09_saint-flour_vente_polverelles-chirol |
+| la [Vitgiere?] | 1 | 1633-01-25_saint-flour_mariage_gibrat-alhadieres |
 | la [Vizade ?] | 1 | 1659-05-31_saint-flour_vente_valarcher-parra |
 | la [Volte?] | 1 | 1660-06-02_saint-flour_vente_chassat-chastrac |
 | la [Volte?] (prieuré ?) | 1 | 1653-03-03_saint-flour_vente_caucal-rouget |
@@ -10079,12 +10847,14 @@
 | la [bajolle?] | 1 | 1663-11-04_saint-flour_mariage_bonnenfan-chalvet |
 | la [biouradou?] (lieu-dit, confront du midi) | 1 | 1664-10-12_saint-flour_vente_chambaron-polverelles |
 | la [bruyere ?] (biffé) | 1 | 1665-06-14_saint-flour_vente_bonyblanc-hugon |
+| la [bughe?] de [Michel?] | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | la [cardinz?] (terroir) | 1 | 1664-11-06_saint-flour_vente_delaroche-portail |
 | la [chalz?] de [Salgues?] | 1 | 1658-01-07_saint-flour_echange_uchafol-estienne |
 | la [chan?] de [Lagnarde?] | 1 | 1659-00-00_saint-flour_vente_broche-hugon |
 | la [chassagne?] | 1 | 1653-03-18_saint-flour_vente_bardon-hugon |
 | la [chau?] (commun) | 1 | 1659-06-05_saint-flour_echange_fareyre-siomy |
 | la [chaul?] de mazerac (champ, Mazerac) | 1 | 1661-03-03_saint-flour_vente_maury-apchier_b |
+| la [chaviere?] | 1 | 1634-06-25_saint-flour_vente_barthomeuf-dufour |
 | la [combe?] de [barrauit?] (bois) | 1 | 1666-10-16_saint-flour_vente_catalat-jouve |
 | la [conquise?] (pré, Coltines) | 1 | 1660-06-06_saint-flour_vente_rolland-chastang |
 | la [fage?], paroisse de Coren | 1 | 1658-07-25_saint-flour_transaction_surrel |
@@ -10109,6 +10879,7 @@
 | la [ruppe?] (pré) | 1 | 1665-04-12_saint-flour_vente_rubine-chaulhac |
 | la [safrandyre ?] de [fridieyre ?] (terroir, lecture incertaine) | 1 | 1650-11-05_saint-flour_vente_alboy-bualet |
 | la [saigne?] [de?] [lamuille?] (pré) | 1 | 1666-03-16_saint-flour_vente_chapoulade-giraldon |
+| la [saigne?] des [Bezalous?] | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | la [table?] de Saint-Flour (communauté ?) | 1 | 1632-11-19_andelat_testament_tantal |
 | la [tarde ?] | 1 | 1659-05-31_saint-flour_vente_valarcher-parra |
 | la [treyve ?] (terroir, lecture douteuse) | 1 | 1659-11-07_roffiac_vente_rolland-brugier |
@@ -10119,6 +10890,7 @@
 | la bou[...] (vignoble, non identifié) | 1 | 1662-02-06_saint-flour_bail_faucon-badeulh |
 | la boutade (Liouzargues) | 1 | 1661-12-09_saint-flour_vente_polverelles-chirol |
 | la brugeyre (champ, coudert commun) | 1 | 1659-04-27_saint-flour_vente_mallet-chauliaguet |
+| la bruonde[?] | 1 | 1634-06-25_saint-flour_vente_barthomeuf-dufour |
 | la buge | 2 | 1659-05-31_saint-flour_vente_valarcher-parra, 1664-11-25_saint-flour_partage_chassang |
 | la buge [voursouze?] (terroir) | 1 | 1663-02-26_saint-flour_vente_jouve-chastel |
 | la buge de [mart?] (pré, à la Saignette) | 1 | 1658-05-13_saint-flour_vente_bonnafos-rispal |
@@ -10126,6 +10898,7 @@
 | la buge dezamet (pré, appartenances de la Faige) | 1 | 1658-11-28_saint-flour_vente_sudre-alboy |
 | la bughe de la [Courmance?] (pré) | 1 | 1632-02-28_saint-flour_vente_bonnet-roudil |
 | la chan des [Oltieres?] | 1 | 1664-05-17_saint-flour_subrogation_brassac-martin |
+| la chanviere | 1 | 1634-06-25_saint-flour_vente_barthomeuf-dufour |
 | la chappelle [Laurans?] (La Chapelle-Laurent ?) | 1 | 1657-05-24_saint-flour_transaction_mauvy-mossier |
 | la charreyre basse (rue) | 1 | 1663-01-06_saint-flour_vente_volland-chastel |
 | la chastaniet[?] | 1 | 1666-04-26_saint-flour_echange_bardelle-paur |
@@ -10144,6 +10917,7 @@
 | la fontaine de Combret | 1 | 1658-11-30_saint-flour_vente_albuisson |
 | la fontaine de Larochette | 1 | 1652-05-25_saint-flour_vente_ruvelle-chastel |
 | la fontaine de Mont | 1 | 1666-03-20_saint-flour_vente_vchassol-parra |
+| la fontayne | 1 | 1633-06-25_saint-flour_vente_bechassol |
 | la grand esglize (Ruines) | 1 | 1658-10-02_saint-flour_echange_daufeulhe-bonnet |
 | la grand ville [Lagrandville?] (chemin) | 1 | 1657-05-20_saint-flour_demission_cussac-monnier |
 | la grange[?] (près du pré vendu) | 1 | 1655-11-20_saint-flour_vente_fournier-chastang |
@@ -10155,6 +10929,7 @@
 | la maison neufue | 1 | 1660-08-01_saint-flour_vente_pelegry-vigier |
 | la malatie (maladrerie de Saint-Flour) | 1 | 1654-06-03_saint-flour_vente_borde-sauret |
 | la montagne | 1 | 1666-09-30_saint-flour_subrogation_hugoz-destubartes |
+| la montaigne | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | la montat (Saint-Flour) | 1 | 1664-11-20_saint-flour_partage_regimbalt-faucon |
 | la moulhjoa[?] (champ) | 1 | 1661-10-29_saint-flour_vente_roux-pautard |
 | la petite [buette?] de Vozeutes aux prés de Tissonneyre (chemin) | 1 | 1660-05-29_saint-flour_bail_vidal-rouve |
@@ -10178,6 +10953,7 @@
 | lafage (terroir de lafage) | 1 | 1651-01-28_saint-flour_partage_milhot-aurelle |
 | lagarde | 1 | 1661-12-09_saint-flour_vente_polverelles-chirol |
 | laglie[?] | 1 | 1666-05-01_saint-flour_partage_astier |
+| lalisat[?] (endos ; Talizat ?) | 1 | 1633-05-09_andelat_bail_brugier-julhe |
 | lan [Clarges?] | 1 | 1628-07-17_saint-flour_bail_sauret-chastang |
 | lanavelle[?] | 1 | 1659-09-22_saint-flour_inventaire_sauret |
 | langeyrou | 1 | 1662-11-18_saint-flour_vente_barthet-chauses |
@@ -10186,6 +10962,7 @@
 | las Buges (champ, au Blau) | 1 | 1663-04-04_saint-flour_vente_uchassol-cussac |
 | las Buges (ou las Buzes), lieu-dit au Blau | 1 | 1663-06-11_saint-flour_vente_uchassol-rispal |
 | las C[...]ozes [?] | 1 | 1652-02-24_saint-flour_transaction_vidal-parra |
+| las Champaignes (communal de Fontgières) | 1 | 1633-06-03_saint-flour_vente_vigier-aymeric |
 | las Chanals (terroir et ruisseau, à Lue) | 1 | 1665-04-11_saint-flour_echange_fontes-vaissiere |
 | las Chirouzes (champ, commun et rue) | 1 | 1662-12-03_saint-flour_echange_cussac-mallet |
 | las Clachas ([Clachez?], [Clachoz?]) | 1 | 1653-03-03_saint-flour_vente_durand-gillet_b |
@@ -10205,7 +10982,9 @@
 | las [Alles?] | 1 | 1666-06-14_saint-flour_vente_barthet |
 | las [Charrals?] | 1 | 1666-10-04_saint-flour_vente_lastic-barthet |
 | las [Chavals ?] | 1 | 1648-03-07_saint-flour_vente_derames-chastel |
+| las [Costa?] [Treou?] de la parrot | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | las [Costes?] (jardin) | 1 | 1650-02-11_saint-flour_vente_chauliaguet-caillaud |
+| las [Faumelles?] (champ et ruisseau) | 1 | 1634-01-02_saint-flour_vente_sandou-jean |
 | las [Fourches?] (deux champs) | 1 | 1661-12-09_saint-flour_vente_polverelles-chirol |
 | las [Foutilhes?] / [Coustilhe?] (champ) | 1 | 1652-01-12_saint-flour_vente_cosches-chauliaguet |
 | las [Rouzeu?] | 1 | 1666-10-04_saint-flour_vente_lastic-barthet |
@@ -10215,9 +10994,11 @@
 | las [bugez?] | 1 | 1666-10-04_saint-flour_vente_lastic-barthet |
 | las [bugzea?] (lieu-dit du pastural, Toulz) | 1 | 1651-12-09_saint-flour_vente_jean-margarit |
 | las [crusinades?] (pré à Mour) | 1 | 1656-04-03_saint-flour_subrogation_ceomes-rolland |
+| las [foasses?] | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | las [goutelles ?] | 1 | 1659-05-31_saint-flour_vente_valarcher-parra |
 | las blatyrea [?] (lieu-dit, champ vendu) | 1 | 1654-06-03_saint-flour_vente_borde-sauret |
 | las fontes | 1 | 1658-01-07_saint-flour_echange_uchafol-estienne |
+| las hemines du moulin | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
 | latgua (Latga ?) | 1 | 1662-01-25_saint-flour_vente_caucal-rouget |
 | lau[riban?] (nom du champ) | 1 | 1661-07-08_saint-flour_vente_achier-solier |
 | le Ballat (communal) | 1 | 1657-12-27_saint-flour_mariage_mazamblard-mauvy |
@@ -10230,6 +11011,7 @@
 | le Blau [?] (lieu du témoin Vissac) | 1 | 1663-08-25_saint-flour_vente_clavilier-chauliaguet |
 | le Blau [?] (village) | 1 | 1652-02-10_saint-flour_echange_dommergue-pouhavre |
 | le Blau[?] | 1 | 1664-12-05_saint-flour_vente_vschaffolz-rispal |
+| le Blau[?], paroisse de Soffra[...] (Roffiac ?) — résidence actuelle du vendeur, corps | 1 | 1633-12-29_saint-flour_vente_chastel-sentheven |
 | le Bois de Merceau[?] (champ, à Beauregard) | 1 | 1661-04-27_saint-flour_echange_roudil-benezit |
 | le Boisson du Bois | 1 | 1666-05-01_saint-flour_partage_astier |
 | le Borie ? / Bouzier ? (paroisse d'Andelat) | 1 | 1652-01-28_andelat_mariage_boussuge-bastide |
@@ -10244,6 +11026,7 @@
 | le Bousquet | 1 | 1663-02-06_roffiac_mariage_cussac-uchassol |
 | le Bousquet (paroisse de Coltines) | 1 | 1662-01-19_saint-flour_vente_boyer-tassy |
 | le Breul de Pieg (pré) | 1 | 1661-04-27_saint-flour_echange_roudil-benezit |
+| le Bruc (seigneurie de Jean du Teil) | 1 | 1633-05-19_tiviers_mariage_chaulhaguet-duteil |
 | le Buis[?] | 1 | 1648-04-05_saint-flour_quittance_amat-vayssier |
 | le Buisson | 1 | 1656-03-31_saint-flour_ratification_gaudelle-chanson |
 | le Buisson (chemin ; mandement) | 1 | 1665-02-04_saint-flour_vente_cussac-monnier |
@@ -10260,12 +11043,14 @@
 | le Chassang | 2 | 1659-00-00_saint-flour_vente_broche-hugon, 1666-09-19_saint-flour_vente_gazal-fromen |
 | le Chassang (champ, Coltines) | 1 | 1663-04-15_saint-flour_vente_mas-hugon |
 | le Chassang (paroisse de Tiviers) | 1 | 1632-07-04_saint-flour_vente_costerousse-combe |
+| le Chassang, paroisse de Tiviers (maison du sieur du Bruc, lieu de l'acte) | 1 | 1633-05-19_tiviers_mariage_chaulhaguet-duteil |
 | le Chastang | 1 | 1657-07-02_saint-flour_transaction_combes-vidal |
 | le Chaylet (seigneurie, procuration) | 1 | 1659-07-02_saint-flour_mariage_durantz-chandorat |
 | le Chazal | 1 | 1664-11-11_saint-flour_vente_pirolle-lollier |
 | le Cheilar | 1 | 1665-04-27_saint-flour_transaction_tassy-chalmette |
 | le Cheylar (château) | 1 | 1665-01-21_saint-flour_mariage_delort-sauret |
 | le Coderc (dau[s] [bourg?]) | 1 | 1659-02-01_saint-flour_obligation_chazal-meinier |
+| le Commun (communal) | 1 | 1633-04-09_saint-flour_vente_arnal-tissedre |
 | le Commun dudit lieu | 2 | 1663-08-25_saint-flour_vente_clavilier-chauliaguet, 1663-10-18_saint-flour_echange_chauliaguet-estival |
 | le Communal | 1 | 1658-09-09_saint-flour_vente_thoure-chauliaguet |
 | le Couderc [de Laubert?] (champ) | 1 | 1661-01-29_saint-flour_vente_galdissard-seutheren |
@@ -10289,6 +11074,7 @@
 | le Goux[?] | 1 | 1660-09-16_saint-flour_procuration_roquelaure-fontes |
 | le Landas (pré) | 1 | 1666-04-03_saint-flour_vente_vigier-sauvagol |
 | le Maisson [?] | 1 | 1626-05-07_saint-flour_renouvellement_brotin-bassal |
+| le Maron (champ) | 1 | 1634-11-21_saint-flour_vente_chadre-celier |
 | le Mas | 1 | 1657-02-04_saint-flour_donation_champaignac-missonnier |
 | le Mas (del Mas), paroisse de Vedrines-Saint-Loup | 1 | 1662-02-07_saint-flour_echange_sabatier-souchayre |
 | le Mas[...] (village des preneurs ; Mas / Masson / Maison ?, l. 6, 44) | 1 | 1626-11-09_saint-flour_bail_valet-malet |
@@ -10296,6 +11082,7 @@
 | le Masset | 1 | 1666-04-22_saint-flour_vente_mouchiera-destubartes |
 | le Masset (paroisse de Clavières) | 1 | 1666-09-30_saint-flour_subrogation_hugoz-destubartes |
 | le Mazel (quartier ou rue des boucheries, Saint-Flour) | 1 | 1628-06-24_saint-flour_bail_aymier-dolom |
+| le Merle (lieu et paroisse ?) | 1 | 1633-01-25_saint-flour_vente_bonesset-aymeric |
 | le Merle (paroisse de Soulages) | 1 | 1658-11-16_saint-flour_mariage_daunis-rouget |
 | le Meynial | 1 | 1665-11-00_saint-flour_vente_richard-bergoin |
 | le Meynial (Meynial / Meymial), paroisse de Paulhac | 1 | 1660-01-24_saint-flour_vente_richard-rolland |
@@ -10304,6 +11091,7 @@
 | le Mont [?] (lieu et paroisse du vendeur) | 1 | 1666-02-28_saint-flour_vente_monchiaval-distubarthe |
 | le Morle | 6 | 1656-09-29_saint-flour_transaction_bouchard-chauliaguet, 1663-05-05_saint-flour_vente_portal-destubartes, 1665-11-24_saint-flour_vente_hugon-larochette, 1666-02-00_saint-flour_bail_bronsy-monchiavar, 1666-05-21_saint-flour_vente_rolland-crouzatier, 1666-09-30_saint-flour_subrogation_hugoz-destubartes |
 | le Morle (lieu et paroisse ?) | 1 | 1658-05-00_saint-flour_vente_bleyle-portail |
+| le Morle (lieu et paroisse) | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | le Morle[?] | 2 | 1664-11-06_saint-flour_vente_delaroche-portail, 1665-11-24_saint-flour_vente_larochette-destubartes |
 | le Morle[?] (Morlo ?) | 1 | 1652-05-29_saint-flour_echange_poursain-hugon |
 | le Morles (lieu, diocèse de Saint-Flour) | 1 | 1657-04-00_saint-flour_mariage_boudie-portail |
@@ -10325,15 +11113,16 @@
 | le Pouget | 2 | 1632-09-11_saint-flour_titreclerical_attalec-nabou, 1663-10-18_saint-flour_echange_chauliaguet-estival |
 | le Pouget (chemin du Pouget au moulin de Guillet) | 1 | 1663-01-27_saint-flour_vente_estival-chauliaguet |
 | le Pouget (del pouget) | 1 | 1662-11-04_saint-flour_echange_fabre-buge |
-| le Pouget (paroisse d'Anglards) | 3 | 1652-09-14_saint-flour_vente_chaubard-chastre, 1661-04-27_saint-flour_echange_roudil-benezit, 1662-09-03_saint-flour_donation_allegre-vedrines |
+| le Pouget (paroisse d'Anglards) | 4 | 1634-06-08_saint-flour_vente_albepar-vedrine, 1652-09-14_saint-flour_vente_chaubard-chastre, 1661-04-27_saint-flour_echange_roudil-benezit, 1662-09-03_saint-flour_donation_allegre-vedrines |
 | le Pouget, paroisse d'Anglards | 1 | 1663-05-01_saint-flour_echange_chauliaguet-albiuf |
-| le Pradal | 3 | 1626-07-04_saint-flour_bail_duteil-chalier, 1661-11-22_saint-flour_vente_estival-malet, 1662-11-02_saint-flour_retrait_estival-mallet |
+| le Pradal | 4 | 1626-07-04_saint-flour_bail_duteil-chalier, 1634-11-28_saint-flour_quittance_chadellac-brassac, 1661-11-22_saint-flour_vente_estival-malet, 1662-11-02_saint-flour_retrait_estival-mallet |
 | le Pradal (lieu, siège de la seigneurie et du dîme) | 1 | 1626-00-00_saint-flour_declaration_duteil-chalier |
 | le Pradal (paroisse de Vieillespesse) | 1 | 1648-08-11_saint-flour_bail_challier-juery |
 | le Pradel (pré, au Mas) | 1 | 1662-02-07_saint-flour_echange_sabatier-souchayre |
 | le Pradel (pré, aux appartenances d'Aloyzet) | 1 | 1654-12-28_saint-flour_vente_guimbal-bouniol |
 | le Pradel haut | 1 | 1666-10-05_saint-flour_demission_albon-jean |
 | le Pradou (pré) | 1 | 1660-04-17_saint-flour_vente_gardelle-couzhavie |
+| le Prantard [?] / Pranteau (pièce) | 1 | 1634-01-28_saint-flour_echange_crespel-vibert |
 | le Puy | 1 | 1659-00-00_saint-flour_vente_broche-hugon |
 | le Razau | 1 | 1664-10-04_saint-flour_echange_sauvet-attalin |
 | le Real / pré del Real | 1 | 1664-03-15_saint-flour_transaction_bassa |
@@ -10371,7 +11160,7 @@
 | le Viallard | 3 | 1659-09-22_saint-flour_inventaire_sauret, 1666-05-01_saint-flour_partage_astier, 1666-06-15_saint-flour_vente_durand-vayron |
 | le Viallard (Vialard) | 1 | 1656-11-20_saint-flour_vente_bougeyre-rochier |
 | le Viallard (du viallard) | 1 | 1654-12-31_saint-flour_vente_grezes-bastide |
-| le Viallard (paroisse d'Andelat) | 1 | 1609-01-20_andelat_mariage_farreyres-boudet |
+| le Viallard (paroisse d'Andelat) | 2 | 1609-01-20_andelat_mariage_farreyres-boudet, 1633-02-26_saint-flour_vente_soulet-cellier |
 | le Viallard (« del Viallard »), paroisse d'Andelat | 1 | 1656-10-17_saint-flour_donation_palhouzier-farreyre |
 | le Viallard [?] | 1 | 1664-10-00_saint-flour_revente_savrazy-apchier |
 | le Viallard, paroisse d'Andelat | 1 | 1656-10-18_saint-flour_demission_delmas-palhouzier |
@@ -10420,12 +11209,14 @@
 | le grand champ de la Cure | 1 | 1659-02-01_saint-flour_obligation_chazal-meinier |
 | le grand pré de la Cure | 1 | 1659-02-01_saint-flour_obligation_chazal-meinier |
 | le pastural del Suc | 1 | 1660-06-09_saint-flour_vente_sauvet-marlhiac |
+| le paulsaguet[?] (confront, lieu-dit ou personne) | 1 | 1633-12-29_saint-flour_vente_chastel-sentheven |
 | le pont (résidence du témoin Carmantrand) | 1 | 1656-02-17_saint-flour_mariage_pulse-assalmi |
 | le pradal | 1 | 1658-09-09_saint-flour_vente_thoure-chauliaguet |
 | le pradel de devant l'hortal (pré) | 1 | 1664-10-12_saint-flour_vente_chambaron-polverelles |
 | le pradel[?] Coulu[?] (pré, Coltines) | 1 | 1663-11-10_saint-flour_echange_tassy-gaudel |
 | le pu[y?] de [rozeble?] | 1 | 1652-02-26_saint-flour_echange_tissier-alboy |
 | le ruisseau (la Tremolière) | 1 | 1656-11-05_saint-flour_vente_jonnenoux-pastre |
+| le sendier commung | 1 | 1633-06-25_saint-flour_vente_bechassol |
 | le[s]coudre[?] (champ) | 1 | 1666-04-26_saint-flour_echange_bardelle-paur |
 | les Arbres (paroisse de Riom-ès-Montagnes) | 1 | 1656-02-25_saint-flour_mariage_labroha-gillet |
 | les Champs (paroisse de Paulhac) | 1 | 1661-11-24_saint-flour_vente_charbonnel-faulcon |
@@ -10453,7 +11244,7 @@
 | les Maisons | 2 | 1666-01-04_saint-flour_vente_odoul-debattut, 1666-02-21_saint-flour_mariage_sabattier-delvor |
 | les Maisons (lieu des Maisons), paroisse de Vabres | 1 | 1654-01-15_saint-flour_transaction_buge-delrieu |
 | les Maisons (lieu des maisons, paroisse de Vabres) | 1 | 1656-01-16_saint-flour_demission_fayon |
-| les Maisons (lieu, paroisse de Vabres) | 1 | 1666-05-06_saint-flour_echange_sabatier |
+| les Maisons (lieu, paroisse de Vabres) | 2 | 1633-10-23_saint-flour_vente_fontan, 1666-05-06_saint-flour_echange_sabatier |
 | les Maisons (lieu, paroisse de [Vabres?]) | 1 | 1653-03-20_saint-flour_vente_bagail-mallet |
 | les Maisons (paroisse de Vabres [?]) | 1 | 1665-04-19_saint-flour_vente_bagely-delcros |
 | les Maisons (paroisse de Vabres) | 5 | 1632-03-05_saint-flour_vente_tissier-soulier, 1648-01-01_saint-flour_obligation_berhot-mallet, 1658-07-04_saint-flour_vente_rous-mas, 1665-03-28_saint-flour_vente_albaret-sabattier, 1666-04-26_saint-flour_mariage_fontes-bouschet |
@@ -10473,6 +11264,7 @@
 | les Ternes (paroisse) | 1 | 1652-03-20_saint-flour_vente_douhet-andrieu |
 | les Ternes (paroisse, terre et seigneurie ; église et communauté des prêtres) | 1 | 1656-09-25_saint-flour_vente_sours-galvier |
 | les Ternes [?] | 1 | 1654-06-11_fraissenet_testament_gibrat-beyot |
+| les Ternes [?] (hypothèse non retenue, l. 4 et 11) | 1 | 1644-02-13_saint-flour_vente_debrion-alboy |
 | les [Appendiers?] (champ, Barry) | 1 | 1656-03-31_saint-flour_ratification_gaudelle-chanson |
 | les [Boissonies ?] | 1 | 1650-11-12_saint-flour_ratification_cayrou-dupre |
 | les [Bouzhe?] (des bouzhe, delbouzhe, de bouzhe), paroisse de Mentières (domicile de l'épouse) | 1 | 1655-05-16_saint-flour_mariage_delaspre-sostrousse |
@@ -10481,6 +11273,7 @@
 | les [Iufoniers?] (communal) | 1 | 1664-03-28_saint-flour_vente_colomb-sadone |
 | les [Mazut?] (maison de Louis Chadel) | 1 | 1666-02-07_saint-flour_mariage_chappoulle-cusset |
 | les [Ternes ?] | 1 | 1628-03-06_saint-flour_inventaire_cocher-bazard |
+| les [Ternes?] (endos) | 1 | 1634-01-26_saint-flour_quittance_rouger-crespoul |
 | les [Vergoux ?] (terroir, appartenances de Barry) | 1 | 1659-12-29_saint-flour_vente_barthet |
 | les [parrasties?] | 1 | 1656-07-01_saint-flour_echange_derames-chastang |
 | les chazaux | 1 | 1656-06-00_saint-flour_vente_chabot-bechot |
@@ -10489,6 +11282,7 @@
 | lhort davant lostal (jardin à chanvre, Coltines) | 1 | 1654-09-00_saint-flour_vente_chastang-defondz |
 | lieu [Delfau?] | 1 | 1654-03-30_saint-flour_testament_vispal-couderc |
 | lieu [dela vor… ?] (paroisse d'Anglards) | 1 | 1665-05-18_saint-flour_vente_buge-blanchy |
+| lieu appelé […] (l. 8, non lu) | 1 | 1634-01-17_saint-flour_vente_perriel-tassy |
 | lieu appelé de Mas[...] (l. 7) | 1 | 1626-11-09_saint-flour_bail_valet-malet |
 | lieu d'en Vidal (?) | 1 | 1659-11-09_saint-flour_vente_boussuge-mollinier |
 | lieu de Jumeal? | 1 | 1660-02-15_saint-flour_vente_bonnefoy-jumeal |
@@ -10497,6 +11291,7 @@
 | lieu de [Mbrenezet?], paroisse de [Ciaux?] | 1 | 1662-07-19_saint-flour_mariage_delaroche-gillet |
 | lieu de [Monta...] | 1 | 1655-12-05_saint-flour_quittance_brassac-parra |
 | lieu de [mous?], paroisse de Saint-Georges | 1 | 1662-07-19_saint-flour_mariage_delaroche-gillet |
+| lieu de la sétérée de terre non lu (l. 9 : [lig?] [umbre?]) | 1 | 1634-09-29_saint-flour_obligation_roudil-bonnet |
 | lieu del Chastang [ou Chassang ?] | 1 | 1665-03-06_saint-flour_vente_delaspre-fontes |
 | lieu del Croz (le Cros), paroisse d'Anglards | 1 | 1663-11-10_saint-flour_transaction_lafon-charbonnier |
 | lieu del Fabre | 2 | 1658-11-06_saint-flour_echange_bougier-chauliaguet, 1661-06-27_saint-flour_echange_saignes-delcros |
@@ -10527,18 +11322,21 @@
 | lou Mal par (champ, terroir de Mons) | 1 | 1658-02-09_roffiac_mariage_blondy-parra |
 | lou [...] | 1 | 1660-03-25_saint-flour_donation_aubiole-cussac |
 | lou [Brame?] (pré vendu et pré voisin) | 1 | 1664-03-28_saint-flour_vente_colomb-sadone |
+| lou [Rouyable?] (pastural) | 1 | 1634-03-21_saint-flour_vente_gorce-andrieu |
 | lou [dil?] sol (nom du jardin ; copie « lort del sol ») | 1 | 1666-04-12_saint-flour_echange_chargnaire-jouve |
 | lou [lauzatier ?] | 1 | 1659-05-31_saint-flour_vente_valarcher-parra |
 | lou [pouts?] | 1 | 1661-11-22_saint-flour_vente_estival-malet |
 | lou [vaonnet?] | 1 | 1661-11-22_saint-flour_vente_estival-malet |
 | lou champ de loby | 1 | 1665-10-24_saint-flour_vente_gastal-fayron |
 | lou chastre | 1 | 1661-11-22_saint-flour_vente_estival-malet |
+| lou cheila (champ) | 1 | 1634-04-15_saint-flour_vente_rigal-bugo |
 | lou de la Charral[i?] (jardin) | 1 | 1665-12-29_saint-flour_vente_cussac-pelissier |
 | lou pastural de l'Arbre, à Auzolle | 1 | 1665-03-24_saint-flour_echange_baccon-migoulle |
 | lou pescheyrou | 1 | 1666-10-04_saint-flour_vente_lastic-barthet |
 | lou pradel [camadges ?] (pré, Barry) | 1 | 1663-11-07_saint-flour_vente_brugier-chassang |
 | lou pradou (pré) | 1 | 1661-07-17_saint-flour_vente_bardon-david |
 | lou prat (pré à Alleuzet) | 1 | 1658-05-27_saint-flour_vente_tafanel-combes |
+| lou prat [Ebe...?] (pré) | 1 | 1634-06-08_saint-flour_vente_albepar-vedrine |
 | lou prat de Bousquet | 1 | 1666-06-05_saint-flour_ratification_meyre-hugon |
 | lou prat de Neyreveze [?] (pré vendu, appartenances des Chazaux) | 1 | 1652-03-20_saint-flour_vente_douhet-andrieu |
 | lou puech de las peyres | 1 | 1659-05-31_saint-flour_vente_valarcher-parra |
@@ -10548,12 +11346,13 @@
 | lous [Espertz?] (prés) | 1 | 1661-11-24_saint-flour_vente_charbonnel-faulcon |
 | lous [adreitz?] (champ) | 1 | 1659-11-16_saint-flour_vente_barthet |
 | maison [...] Sigalon | 1 | 1660-02-07_saint-flour_mariage_bonnel-lager |
+| maison [Bergier?] (confront) | 1 | 1633-05-02_saint-flour_vente_cortel-mourgue |
 | maison [des héritiers?] de [Jean?] Durand (Saint-Flour) | 1 | 1626-05-08_saint-flour_bail_boyer-malet |
 | maison acquise de Jean Alichard (Saint-Flour ?) | 1 | 1653-09-30_saint-flour_testament_galiot-marquis |
 | maison appelée la [chambre neuve ?] | 1 | 1626-11-02_saint-flour_bail_armand-rigmard |
 | maison aux faubourgs de Saint-Flour | 1 | 1657-02-09_saint-flour_mariage_courmarie-bechot |
 | maison consulaire (Saint-Flour) | 1 | 1656-02-25_saint-flour_mariage_labroha-gillet |
-| maison consulaire de Saint-Flour | 6 | 1653-02-18_saint-flour_mariage_commond-mallessaignes, 1654-07-26_saint-flour_mariage_monnier-brassac, 1657-01-00_saint-flour_mariage_hugon-broha, 1662-01-04_saint-flour_testament_bellengueuille-blanchi, 1663-03-23_saint-flour_testament_gendre, 1664-08-09_saint-flour_vente_tezin-luillier |
+| maison consulaire de Saint-Flour | 7 | 1634-06-11_saint-flour_vente_bruguier-chareyre, 1653-02-18_saint-flour_mariage_commond-mallessaignes, 1654-07-26_saint-flour_mariage_monnier-brassac, 1657-01-00_saint-flour_mariage_hugon-broha, 1662-01-04_saint-flour_testament_bellengueuille-blanchi, 1663-03-23_saint-flour_testament_gendre, 1664-08-09_saint-flour_vente_tezin-luillier |
 | maison d'Amable Fauron (chambre basse) | 1 | 1647-09-18_saint-flour_testament_couderc-banes |
 | maison d'André Roux à Saint-Flour | 1 | 1665-04-20_saint-flour_testament_roux |
 | maison d'Anne Mallessaignes à Saint-Flour | 1 | 1658-10-18_saint-flour_transaction_mallessaignes-beaufilz |
@@ -10584,6 +11383,7 @@
 | maison de François Teilhard à Saint-Flour (lieu de passation) | 1 | 1664-01-14_saint-flour_mariage_bouffet-teilhard |
 | maison de Gaston | 1 | 1651-08-04_saint-flour_mariage_vessiere-tisset |
 | maison de Guillaume Baldissard à Saint-Flour | 1 | 1660-02-10_saint-flour_mariage_portal-baldissard |
+| maison de Guillaume Falvet à Saint-Flour | 1 | 1633-01-20_saint-flour_mariage_chauvel-falvet |
 | maison de Guillaume Fauret au faubourg | 1 | 1657-02-05_saint-flour_mariage_brousy-fauret |
 | maison de Jacques Delmas au faubourg, « [carrefour?] » (l. 35) | 1 | 1658-05-18_saint-flour_mariage_chambaron-delmas |
 | maison de Jacques Espinasse (chambre basse), faubourgs de Saint-Flour | 1 | 1626-10-06_saint-flour_bail_espinasse-garsbert |
@@ -10623,11 +11423,15 @@
 | maison de Me Barthélemy Vigier à Saint-Flour | 1 | 1654-12-30_saint-flour_testament_commond-mallessaigne |
 | maison de Me Estienne Jacques | 1 | 1665-06-06_saint-flour_testament_bareyre |
 | maison de Me Gaspard Roux, prêtre | 1 | 1665-01-27_saint-flour_donation_vailet-trabuc |
+| maison de Me Guillaume Fazon, prêtre, à Saint-Flour (chambre basse, boutique et cave) | 1 | 1633-04-18_saint-flour_transaction_fazon |
 | maison de Me Guinot Rion à Saint-Flour | 1 | 1666-02-04_saint-flour_testament_bouvet-chevallier |
+| maison de Me Jacques Aufolet (Saint-Flour) | 1 | 1634-02-07_saint-flour_mariage_veissiere-aufolet |
 | maison de Me Jacques Regimbalt à Saint-Flour | 1 | 1628-02-20_saint-flour_louage_regimbalt-boudon |
 | maison de Me Jacques Rossignol[?], chirurgien, à Saint-Flour | 1 | 1626-11-15_saint-flour_desistement_vergete-chambaron |
+| maison de Me Jean Bigot (Saint-Flour) | 1 | 1633-01-23_saint-flour_mariage_chapaneyre-lanne |
 | maison de Me Jean Brassac (Saint-Flour) | 1 | 1666-10-30_saint-flour_testament_callijat-baldissard |
 | maison de Me Mathieu [Teynat?], Saint-Flour | 1 | 1658-01-05_saint-flour_echange_rolland-gibrat |
+| maison de Me Nathan ? Gilles ? (« [bas?] d[e] [Maison?] ») | 1 | 1644-08-27_saint-flour_donation_rolland-chalier |
 | maison de Me Pierre Fabry | 1 | 1662-05-22_saint-flour_mariage_boudon-roche |
 | maison de Me Pierre Fabry (Saint-Flour) | 1 | 1658-04-00_saint-flour_cession_crozat-jouve |
 | maison de Me Pierre Fabry (lieu de passation, lecture douteuse) | 1 | 1658-04-01_saint-flour_transaction_cussac-chausse |
@@ -10655,10 +11459,12 @@
 | maison de [Pagez?] (Saint-Flour) | 1 | 1656-07-15_saint-flour_mariage_galdissard-dufour |
 | maison de [Pre?] Chastang | 1 | 1658-02-03_seriers_donation_chavvegne-cailliaud |
 | maison de [Pre?] [Iabri?] | 1 | 1658-02-03_seriers_donation_chavvegne-cailliaud |
+| maison de [Vinzon?] à Saint-Flour | 1 | 1633-10-20_saint-flour_vente_cussac-hebrard |
 | maison de [damoiselle?] Louise de [Sauna?] aux faubourgs | 1 | 1664-01-13_saint-flour_mariage_deleros-roux |
 | maison de feu Anthoine Biret[?] | 1 | 1626-05-01_saint-flour_partage_aymier-bonnefon |
 | maison de feu Antoine Brassier | 1 | 1626-10-25_saint-flour_bail_redinier-volland |
 | maison de feu Estienne Chapoulle à Fridières | 1 | 1657-06-10_saint-flour_partage_vaysseyre-chapoulle |
+| maison de feu Jean Brouzy (non localisée) | 1 | 1634-07-12_saint-flour_cession_brouzy-bourel |
 | maison de feu Jean Giriou (Saint-Flour) | 1 | 1662-07-19_saint-flour_donation_giriou-souchier |
 | maison de feu Mathieu de Sauret à Saint-Flour | 1 | 1665-10-25_saint-flour_mariage_vigier-chapoulle |
 | maison de feu Me Anthoine Delort à Saint-Flour | 1 | 1658-09-29_saint-flour_donation_jacques-berhot |
@@ -10683,6 +11489,7 @@
 | maison des Mallessaignes à Saint-Flour | 1 | 1653-02-18_saint-flour_mariage_commond-mallessaignes |
 | maison des hoirs de feu Me Estienne Gosse (Saint-Flour) | 1 | 1663-12-27_saint-flour_mariage_molle-monnier |
 | maison des hoirs de feu Me Vidal Jacques (Saint-Flour) | 1 | 1662-08-07_saint-flour_donation_aureilhe-estachon |
+| maison des héritiers [?] de feu Me Jacques Tanyer | 1 | 1634-01-28_saint-flour_echange_crespel-vibert |
 | maison des héritiers de feu [Pierre?] [Brizot?] | 1 | 1632-01-19_saint-flour_vente_trymbal-espinchal |
 | maison des sieurs Vidalz à Saint-Flour | 1 | 1650-11-28_saint-flour_quittance_vidal-rouger |
 | maison des sieurs de [Villemur?] à Saint-Flour | 1 | 1660-02-18_saint-flour_mariage_chargebeuf-chalier |
@@ -10690,6 +11497,7 @@
 | maison du S.r [Chauve?] à Saint-Flour | 1 | 1656-08-04_saint-flour_testament_gauil |
 | maison du Sr Vezis à Villedieu | 1 | 1652-06-08_villedieu_testament_missonnier |
 | maison du Sr [Vigier?] à Saint-Flour | 1 | 1657-01-00_saint-flour_mariage_hugon-broha |
+| maison du chapitre dite [la maîtrise?] (« [mestrise?] ») | 1 | 1634-06-07_saint-flour_vente_albos-vandesse |
 | maison du donateur à Saint-Flour | 1 | 1648-06-13_saint-flour_donation_benezit |
 | maison du notaire Sourzat à Saint-Flour [?] | 1 | 1653-12-17_saint-flour_rente_sauvet-tours |
 | maison du s.r Estienne [Alho?], faubourgs de Saint-Flour | 1 | 1656-05-18_saint-flour_mariage_bonniol-gilbert |
@@ -10732,6 +11540,7 @@
 | maison et grange[?] appelée de [Chalzezier?] (faubourgs de Saint-Flour) | 1 | 1654-01-26_saint-flour_mariage_ferauze-aussel |
 | maison et jardin des Missonnier aux faubourgs de Saint-Flour | 1 | 1663-12-29_saint-flour_mariage_blanquet-missonnier |
 | maison joignant celle de Blaise Saumade | 1 | 1664-02-17_roffiac_mariage_cussac-saumade |
+| maison joignant le couvent | 1 | 1634-07-25_saint-flour_vente_chanut-chambon |
 | maison « [...]aues de dolphin » aux faubourgs de Saint-Flour (enseigne du Dauphin ?) | 1 | 1653-06-21_saint-flour_mariage_daulhet-monnier |
 | mandement [de la Planèze?] | 1 | 1666-04-13_saint-flour_echange_rolland-galvier |
 | mandement d'Alleuze | 5 | 1652-02-12_saint-flour_subrogation_folhe-chausy, 1654-06-13_saint-flour_vente_chanson-cussac, 1659-06-16_saint-flour_vente_gardret-chanson, 1661-01-17_saint-flour_demission_gardelle-chanson, 1666-04-27_saint-flour_vente_guadolle-paul |
@@ -10792,6 +11601,7 @@
 | mandement et prieuré de [Toulz?] (paroisse de Coltines) | 1 | 1653-12-25_saint-flour_quittance_berthier-julhien |
 | marquisat de Malause (seigneurie directe) | 1 | 1664-03-28_saint-flour_vente_colomb-sadone |
 | marquisat de [Clanpac?] (Canilhac ?) | 1 | 1661-06-19_saint-flour_vente_bousseyre-seguy |
+| mayson de [S.t?] [Agne?] [?] | 1 | 1638-00-00_saint-flour_transaction_inconnu |
 | moitié de maison aux faubourgs (confronts : boutique de Jehan [Bertine?], maison de Jehan Vidal, [chemin?] public) | 1 | 1628-05-09_saint-flour_quittance_bonder-amargier |
 | monastère Notre-Dame de Chaudesaigues | 1 | 1665-10-29_saint-flour_rente_sandrieu-chomel |
 | monastère Notre-Dame de Saint-Flour | 1 | 1665-10-29_saint-flour_rente_sandrieu-chomel |
@@ -10805,6 +11615,7 @@
 | montagne de la Bouteyre | 1 | 1664-10-17_saint-flour_echange_bougier |
 | montagne de la Chambe | 1 | 1659-04-06_saint-flour_vente_chassang-dabladie |
 | montagne de la [Bouffeyre?] | 1 | 1664-10-17_saint-flour_echange_bougier |
+| montaigne de [guazelles?] | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | montaigne du seigneur | 1 | 1661-11-22_saint-flour_vente_estival-malet |
 | moulin Chassang[?] / Chassaing[?] | 1 | 1628-04-13_saint-flour_bail_cuspiac-symon |
 | moulin Soubro | 1 | 1660-03-31_saint-flour_partage_bastide-cueyspoul |
@@ -10816,6 +11627,7 @@
 | moulin commun de Bouzentelhe | 1 | 1650-09-29_saint-flour_vente_fajon-sauret |
 | moulin d'Alleuze (endos « Moulin [dalleuze?] ») | 1 | 1656-08-11_saint-flour_subrogation_cussac-mathieu |
 | moulin de Beauregard (paroisse de Fau[...] en Gévaudan) | 1 | 1649-04-17_saint-flour_mariage_pelligri-rigimbalt |
+| moulin de Bonesset (au Merle) | 1 | 1633-01-25_saint-flour_vente_bonesset-aymeric |
 | moulin de Bualh [?] | 1 | 1662-10-18_saint-flour_vente_pelegrin-barthomeuf |
 | moulin de Chaminade | 1 | 1658-03-24_saint-flour_echange_chassaigne-boudil |
 | moulin de Fadin [?] (ou Sadin) | 1 | 1628-09-27_saint-flour_bail_gaspard-costeprat |
@@ -10867,12 +11679,15 @@
 | moulin dudit lieu (confront du pré) | 1 | 1656-02-21_saint-flour_subrogation_villemault-albepart |
 | moulin et ruisseau de Rézentières | 1 | 1659-03-26_saint-flour_vente_taillandier-roslan |
 | moulin tenu en rente d'une seigneurie non lue | 1 | 1657-01-20_saint-flour_mariage_marchiar-chalier |
+| moulin vendu pendant la tutelle (non localisé) | 1 | 1634-05-15_saint-flour_transaction_garnier |
 | moulin à [Estorgnal?] | 1 | 1665-05-10_saint-flour_mariage_deleron-odoul |
+| moulin à blé (Allanche ?) | 1 | 1643-04-00_saint-flour_vente_solignac-dufour |
 | moulin[?] (nom non lu) | 1 | 1628-04-22_saint-flour_bail_cust-mergue |
 | moulins de Biochon[?] et de Pechot[?] (Brochon / Pechet), paroisse des forains de Saint-Flour | 1 | 1648-10-13_saint-flour_vente_travesse-chauliaguet |
 | moulins de toursse[?] de bobal[?], paroisse des forains de Saint-Flour | 1 | 1648-10-11_saint-flour_quittance_giboa |
 | moulins du Blau | 1 | 1660-01-11_saint-flour_vente_rispal-gerault |
 | muntiuac / montiuac (paroisse non identifiée) | 1 | 1664-08-17_saint-flour_transaction_challier-boyer |
+| muraille (muralhe) de la ville de Saint-Flour | 1 | 1633-05-02_saint-flour_vente_cortel-mourgue |
 | muraille de Saint-Flour | 1 | 1664-01-22_saint-flour_vente_vigaud-lauriac |
 | muraille de la ville (Saint-Flour) | 1 | 1658-04-00_saint-flour_vente_vaissiere-fabry |
 | muraille de la ville de Saint-Flour | 7 | 1652-09-17_saint-flour_vente_rigault-herault, 1653-12-21_saint-flour_subrogation_langenaire-rigault, 1654-04-02_saint-flour_vente_bonnault-papavin, 1654-11-12_saint-flour_vente_chevallier-laroque, 1657-01-22_saint-flour_mariage_berault-charreyre, 1661-06-03_saint-flour_testament_chalvet-seghalory, 1662-03-02_saint-flour_vente_auquier-chazalede |
@@ -10880,6 +11695,7 @@
 | murailles de la ville de Saint-Flour | 1 | 1656-10-15_saint-flour_transaction_rol |
 | murgière (limite) | 1 | 1660-05-29_saint-flour_bail_vidal-rouve |
 | métairie Bechot à Mallessaigues | 1 | 1659-06-08_saint-flour_vente_begon-bechot |
+| métairie au lieu de [Lavripassade?], paroisse foraine de Saint-Flour | 1 | 1633-05-19_tiviers_mariage_chaulhaguet-duteil |
 | métairie de Barres [?] | 1 | 1626-05-17_andelat_bail_teyssier-viallard |
 | métairie de Besseyrettes basses | 1 | 1661-00-00_saint-flour_partage_lassaigne-bonneval |
 | métairie de Besseyrettes hautes | 1 | 1661-00-00_saint-flour_partage_lassaigne-bonneval |
@@ -10888,9 +11704,14 @@
 | métairie de Fraissinet | 1 | 1628-06-04_saint-flour_bail_chotty-bigot |
 | métairie de Jeanne [?] Barthomieu | 1 | 1626-11-12_saint-flour_bail_barthomieu-vidal |
 | métairie de Masailez[?] | 1 | 1648-10-13_saint-flour_vente_travesse-chauliaguet |
+| métairie de Mauiargues [?] | 1 | 1634-02-24_saint-flour_bail_brugier-bastide |
 | métairie de Montchamp[?] | 1 | 1626-07-01_saint-flour_bail_aymeric-mestre |
 | métairie de Treniac / Freniac (?) | 1 | 1664-08-12_saint-flour_testament_detrausse |
+| métairie de [...] (nom illisible) | 1 | 1644-02-19_saint-flour_vente_geraud-trabuc |
+| métairie de [Tourie?] | 1 | 1634-07-25_saint-flour_vente_chanut-chambon |
+| métairie de [Verdenac?] | 1 | 1634-07-25_saint-flour_vente_chanut-chambon |
 | métairie de [chateu?] / [Vertiaux?] | 1 | 1662-07-19_saint-flour_mariage_delaroche-gillet |
+| métairie de [gontbeyses?] (gonbdejes / goutbeyres ?) | 1 | 1634-05-17_saint-flour_quittance_gibrat-mestre |
 | métairie de feu Jacques Celarier (le Piroz) | 1 | 1658-07-21_saint-flour_echange_jouve-borel |
 | métairie du Blau | 1 | 1663-03-00_roffiac_transaction_rispal-rolland |
 | métairie du sieur Rouget à Fraissenet | 1 | 1665-03-16_saint-flour_vente_bastail-teissedre |
@@ -10904,6 +11725,7 @@
 | parlement | 1 | 1653-11-20_saint-flour_compromis_jourdy-fabry |
 | parlement [de Paris ?] | 1 | 1663-05-08_saint-flour_transaction_regimbalt-berault |
 | parlement de Paris | 5 | 1626-05-02_saint-flour_transaction_contel-sauret, 1654-02-05_saint-flour_compromis_alloy-bertrand, 1656-10-15_saint-flour_transaction_rol, 1664-07-06_saint-flour_transaction_lastic-fargue, 1664-10-17_saint-flour_echange_bougier |
+| parloir du couvent | 1 | 1634-07-25_saint-flour_vente_chanut-chambon |
 | parloir du couvent Notre-Dame de Saint-Flour | 1 | 1665-10-29_saint-flour_rente_sandrieu-chomel |
 | paroisse Sainct [Bure?] | 1 | 1628-07-17_saint-flour_bail_sauret-chastang |
 | paroisse Saint-Georges | 1 | 1659-06-05_saint-flour_donation_soulhier-boudon |
@@ -10918,6 +11740,7 @@
 | paroisse [d'Alleuze ?] (dalueze) | 1 | 1665-05-06_saint-flour_vente_brugier-eschallier |
 | paroisse [d'Allie?] (incertain) | 1 | 1664-03-02_saint-flour_subrogation_rouvel-charbonnel |
 | paroisse [d'Andelat?] | 1 | 1661-02-16_saint-flour_mariage_jarlier-surrel |
+| paroisse [d'Auradour?] / Daurac d[...] (endos) — Oradour ? | 1 | 1633-08-29_saint-flour_mariage_moussier-valette |
 | paroisse [dalbrge? / dalhuge?] | 1 | 1654-02-09_saint-flour_mariage_vassond-courchaud |
 | paroisse [dallagne?] / [Valluzio?] (Alleuze ? par recoupement, non confirmé) | 1 | 1661-06-25_saint-flour_donation_chassang-barthet |
 | paroisse [danglardz?] (Anglards-de-Saint-Flour ?) | 1 | 1654-02-05_saint-flour_compromis_alloy-bertrand |
@@ -10927,7 +11750,7 @@
 | paroisse [de Saint-Martin?] | 1 | 1659-03-14_saint-flour_vente_herault-fouchier |
 | paroisse [de reclz?] / de la [daurade?] (biffé) — illisible | 1 | 1660-11-22_saint-flour_donation_missonnier-counord |
 | paroisse [des Ternes ?] | 1 | 1663-09-02_saint-flour_vente_delaire-barrou |
-| paroisse [foraine?] de Saint-Flour | 2 | 1626-09-21_saint-flour_obligation_roux-vendre, 1628-11-19_saint-flour_obligation_vendit-landy |
+| paroisse [foraine?] de Saint-Flour | 3 | 1626-09-21_saint-flour_obligation_roux-vendre, 1628-11-19_saint-flour_obligation_vendit-landy, 1634-07-20_saint-flour_vente_desfondz-baudrongue |
 | paroisse [menheoa?] / S^t Mautier[?] (endos) — Mentières ? | 1 | 1632-04-13_saint-flour_mariage_trabuc-rigaud |
 | paroisse [« f[e]raym » ?] non identifiée | 1 | 1628-06-02_saint-flour_bail_bigot |
 | paroisse d'Auglardz (Anglards ?) | 1 | 1654-01-29_saint-flour_mariage_odoul-metgue |
@@ -10967,12 +11790,14 @@
 | paroisse de [Ment...?] | 1 | 1665-04-11_saint-flour_vente_jean-gizolme |
 | paroisse de [Sallenza?] | 1 | 1660-04-26_saint-flour_vente_jacques-traverse |
 | paroisse de [Sallier?] | 1 | 1652-09-26_saint-flour_donation_chappoulle |
+| paroisse de [Sandirolliere?] | 1 | 1634-02-07_saint-flour_mariage_veissiere-aufolet |
 | paroisse de [Sanvizolles?] | 1 | 1659-07-02_saint-flour_mariage_durantz-chandorat |
 | paroisse de [Sebirjeu?] (endos [Sebiryet?]) | 1 | 1657-10-16_saint-flour_mariage_roux-reynaldy |
 | paroisse de [Sellers?] (Celles ? Sériers ? non vérifié) | 1 | 1657-02-17_saint-flour_demission_crespont-gaint |
 | paroisse de [Solage?] | 1 | 1660-08-22_saint-flour_mariage_blanc-pignol |
 | paroisse de [Ternes ?] (les Ternes ; « Vernes » non exclu) | 1 | 1632-10-21_saint-flour_vente_chastel-fauret |
 | paroisse de [Tiuiex?] / [Tiuier?] (Tiviers ? hypothèse) | 1 | 1656-12-28_saint-flour_mariage_mounier-boyer |
+| paroisse de [V...] (Villedieu ? hypothèse) | 1 | 1634-11-28_saint-flour_quittance_chadellac-brassac |
 | paroisse de [Valhe…?] / [Vealhzposse?] (Valuéjols ?) | 1 | 1664-01-01_saint-flour_vente_debrons |
 | paroisse de [Valuejoz?] (Valuéjols ? ; Alleuze d'après d'autres actes) | 1 | 1660-12-18_saint-flour_subrogation_mollinier-chanson |
 | paroisse de [Vieure?] de [brio?] | 1 | 1665-06-14_saint-flour_bail_hugon-bonyblanc |
@@ -10982,8 +11807,10 @@
 | paroisse de [fovance?] de [Viunes?] (lecture incertaine) | 1 | 1660-06-18_saint-flour_vente_crozatier-delolme |
 | paroisse de [la mollet?] / De[lanuole?] (non identifiée) | 1 | 1626-11-08_saint-flour_quittance_anglade-chansy |
 | paroisse de [mentieres?] | 1 | 1657-07-02_saint-flour_transaction_combes-vidal |
+| paroisse de [tizac?] | 1 | 1633-02-11_saint-flour_vente_julhe-baille_b |
 | paroisse de la [Vaystre?] | 1 | 1658-02-03_seriers_donation_chavvegne-cailliaud |
 | paroisse de la [Vessieur?] | 1 | 1651-04-19_saint-flour_vente_chanson-bechot |
+| paroisse de m[...] (Mentières ? hypothèse) | 1 | 1634-03-06_saint-flour_vente_breseyrousse-fabry |
 | paroisse de saint [Mary? / Bury?] | 1 | 1626-07-04_saint-flour_quittance_olivier-vandre |
 | paroisse de saint [ferny?] | 1 | 1626-09-01_andelat_obligation_admins-brugier |
 | paroisse de st [oble?] | 1 | 1660-03-11_saint-flour_testament_roux |
@@ -10991,7 +11818,7 @@
 | paroisse des [Ternes?] | 1 | 1661-06-23_saint-flour_testament_chastang-vigier |
 | paroisse des forains [?] de Saint-Flour | 1 | 1654-07-29_saint-flour_echange_chauliagne-chabot |
 | paroisse du Sol | 1 | 1666-08-25_saint-flour_subrogation_brassac-tronchere |
-| paroisse foraine de Saint-Flour | 13 | 1628-01-08_saint-flour_testament_desrabre-maury, 1628-02-20_saint-flour_louage_regimbalt-boudon, 1632-09-13_saint-flour_donation_fouchier-boussuge, 1651-02-17_villedieu_mariage_andrieu-chastel, 1651-03-06_saint-flour_vente_sentherain-vouget, 1651-11-08_saint-flour_vente_boudet-chauzy, 1653-01-14_saint-flour_vente_bordes-chanson, 1654-08-02_saint-flour_mariage_mallessaignes-vigier, 1656-02-19_saint-flour_mariage_mouzeyres-bonhomme, 1656-02-20_saint-flour_mariage_fages-chastang, 1656-08-11_saint-flour_subrogation_cussac-mathieu, 1657-02-04_saint-flour_donation_champaignac-missonnier, 1659-08-06_saint-flour_vente_andrieu-rochier |
+| paroisse foraine de Saint-Flour | 15 | 1628-01-08_saint-flour_testament_desrabre-maury, 1628-02-20_saint-flour_louage_regimbalt-boudon, 1632-09-13_saint-flour_donation_fouchier-boussuge, 1633-02-10_saint-flour_partage_chastel-fouche, 1633-11-12_saint-flour_vente_roux-rouchea, 1651-02-17_villedieu_mariage_andrieu-chastel, 1651-03-06_saint-flour_vente_sentherain-vouget, 1651-11-08_saint-flour_vente_boudet-chauzy, 1653-01-14_saint-flour_vente_bordes-chanson, 1654-08-02_saint-flour_mariage_mallessaignes-vigier, 1656-02-19_saint-flour_mariage_mouzeyres-bonhomme, 1656-02-20_saint-flour_mariage_fages-chastang, 1656-08-11_saint-flour_subrogation_cussac-mathieu, 1657-02-04_saint-flour_donation_champaignac-missonnier, 1659-08-06_saint-flour_vente_andrieu-rochier |
 | paroisse foraine de Saint-Flour [?] | 1 | 1628-03-28_saint-flour_bail_cuelhmes-dufaure |
 | paroisse s[ain]t [?] George (Saint-Georges ?) | 1 | 1664-01-20_saint-flour_vente_ballat-fabry |
 | paroisse « dallanze » (Allanche ou Alleuze ?) | 1 | 1654-01-29_saint-flour_mariage_odoul-metgue |
@@ -11017,10 +11844,12 @@
 | pastural de La deuze (la Devèze ?) | 1 | 1659-06-16_saint-flour_vente_gardret-chanson |
 | pastural de Lacombes | 1 | 1665-04-19_saint-flour_transaction_bastal-cussac |
 | pastural de Seignegrand Lac | 1 | 1659-02-22_saint-flour_partage_aymeric-odoul |
+| pastural de Vignarel | 1 | 1633-02-11_saint-flour_vente_julhe-baille_b |
 | pastural de [Auzes?] | 1 | 1651-08-28_saint-flour_vente_nouvel-boudoy |
 | pastural de [Brogez?] | 1 | 1665-10-09_saint-flour_vente_brossy-destubartes |
 | pastural de [Chauzgie?] | 1 | 1661-00-00_saint-flour_partage_lassaigne-bonneval |
 | pastural de [Cussat?] | 1 | 1664-11-29_saint-flour_bail_rolland-esthie |
+| pastural de [Marsanne?] | 1 | 1644-05-09_saint-flour_vente_sabatier-devannes |
 | pastural de [Mazelet?] (copie : Maselet) | 1 | 1654-09-21_saint-flour_vente_estival |
 | pastural de [Seryden?] | 1 | 1653-10-28_saint-flour_vente_fabre-vayron |
 | pastural de [boutt...?] | 1 | 1658-01-27_saint-flour_vente_devaluy-ollier |
@@ -11038,9 +11867,11 @@
 | pastural de las Faigues de Hault | 1 | 1663-10-24_saint-flour_vente_rispal-mirmande |
 | pastural de las [deuezes?] (deuezes / denezes) | 1 | 1661-01-17_saint-flour_demission_gardelle-chanson |
 | pastural de las faisses | 1 | 1666-10-07_saint-flour_vente_bertrand-chastang |
+| pastural de vignarel | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
 | pastural de[soirgues?] | 1 | 1665-04-19_saint-flour_transaction_bastal-cussac |
 | pastural del Montil | 1 | 1650-12-31_saint-flour_vente_boniol-masset |
 | pastural del [Barnes?] (Barmes / Barrieres / Barnac ?), au Cros | 1 | 1663-11-10_saint-flour_transaction_lafon-charbonnier |
+| pastural del [Chaume?] | 1 | 1634-11-04_saint-flour_vente_crozet-vossen |
 | pastural del [Deffés?] | 1 | 1662-11-08_saint-flour_vente_tisset-david |
 | pastural del [Driuzou ?], aux Salles | 1 | 1662-12-02_saint-flour_echange_giraldon-chanson |
 | pastural del [moulit?] (Crouzet) | 1 | 1650-12-31_saint-flour_desistement_masset-teissedre |
@@ -11108,6 +11939,7 @@
 | pont [Gradach?] (ou Pradach) | 1 | 1653-07-17_saint-flour_vente_reynault-gaston |
 | pont [dolvr?] (expédition « pont dalvy ») | 1 | 1664-03-15_saint-flour_transaction_bassa |
 | pont de Bouzentelhe | 1 | 1650-09-29_saint-flour_vente_fajon-sauret |
+| pont de Colombier | 1 | 1634-09-04_saint-flour_prixfait_chaulhaguet-tardieu |
 | pont de Lande | 1 | 1664-08-11_saint-flour_echange_chassol-sermez |
 | pont de Lescure | 1 | 1663-12-09_saint-flour_vente_bechot-dupre |
 | pont de Levy (ou Lery ; douteux) | 1 | 1659-08-06_saint-flour_vente_andrieu-rochier |
@@ -11198,6 +12030,7 @@
 | prat Vachier (pré et champ) | 1 | 1665-04-19_saint-flour_vente_bagely-delcros |
 | prat Vayssieres[?] (pré) | 1 | 1660-06-26_villedieu_testament_foutez-teyssedre |
 | prat Vidon (pré) | 1 | 1664-12-05_saint-flour_vente_chassol-brassac |
+| prat [...] (pré) | 1 | 1633-03-10_saint-flour_vente_pons-gibrard |
 | prat [?] nouvel | 1 | 1665-03-23_saint-flour_vente_cassanel-andrieu |
 | prat [Bourre?] | 1 | 1659-04-00_saint-flour_vente_raymond-fabry |
 | prat [Mondon ?] (Mondon / Mondou) | 1 | 1665-05-14_saint-flour_vente_brugier-fayon |
@@ -11217,6 +12050,7 @@
 | prat de bellau | 1 | 1651-01-28_saint-flour_partage_milhot-aurelle |
 | prat de la [Fontanan?] (pré) | 1 | 1658-06-24_saint-flour_vente_gibrat-rouget |
 | prat de la buge | 1 | 1666-10-07_saint-flour_vente_bertrand-chastang |
+| prat de soubz lore[?] | 1 | 1634-06-25_saint-flour_vente_barthomeuf-dufour |
 | prat de[s]chadisse (pré) | 1 | 1656-06-25_villedieu_mariage_bondoy-tissoil |
 | prat degiou | 1 | 1666-10-04_saint-flour_vente_lastic-barthet |
 | prat del Four | 1 | 1654-07-19_saint-flour_echange_chanson-monnier |
@@ -11233,6 +12067,7 @@
 | prat soubeyro | 1 | 1650-06-23_saint-flour_vente_sauret-mornac |
 | pratlar[?] (nom du bien ?) | 1 | 1654-05-31_saint-flour_vente_rolland-pages |
 | pratlong[?] | 1 | 1649-01-25_saint-flour_transaction_migne-hugon |
+| pre [Coulhiu?] (lieu-dit du champ ; Couhin, Coulhou, Coubin ?) | 1 | 1644-07-02_saint-flour_vente_gibrat-gastal |
 | pre sarrazi (terroir, Coltines) | 1 | 1665-03-28_saint-flour_echange_bruict-desfondz |
 | prei Noel (pré) | 1 | 1650-01-26_saint-flour_vente_doumergue-dupre |
 | prieuré de Saint-Michel | 3 | 1648-03-07_saint-flour_transaction_tranchier-sudre, 1653-08-16_saint-flour_vente_boudie-ferrand, 1662-05-07_saint-flour_vente_chouvette-jouve |
@@ -11247,13 +12082,15 @@
 | prieuré de la [Volte?] | 1 | 1666-03-27_saint-flour_vente_pouhvillet-bergoin |
 | prieuré de la [Volte?] (la Voulte ?) | 1 | 1664-10-12_saint-flour_vente_chambaron-polverelles |
 | prieuré dit [de Valougue?] (Valongue?) | 1 | 1651-04-00_saint-flour_vente_benezit-pages |
-| prisons de Saint-Flour | 2 | 1626-12-17_saint-flour_transaction_fabry-alichaud, 1653-01-13_saint-flour_quittance_challier-boubolene |
+| prisons de Saint-Flour | 3 | 1626-12-17_saint-flour_transaction_fabry-alichaud, 1634-07-05_saint-flour_vente_lafargette-murat, 1653-01-13_saint-flour_quittance_challier-boubolene |
+| prisons et conciergerie du bailliage de Saint-Flour | 1 | 1634-03-30_saint-flour_transaction_valarchier-dolmiere |
 | prisons royales / conciergerie de Saint-Flour | 1 | 1658-05-27_saint-flour_vente_tafanel-combes |
 | prisons royales de Saint-Flour | 9 | 1659-00-00_saint-flour_vente_broche-hugon, 1659-07-11_saint-flour_vente_saulheirou-bechot, 1660-06-06_saint-flour_vente_rolland-chastang, 1662-01-25_saint-flour_vente_caucal-rouget, 1663-03-17_saint-flour_inventaire_grezes-bechot, 1664-03-28_saint-flour_vente_colomb-sadone, 1664-07-09_saint-flour_vente_chappus-vairon, 1665-03-28_saint-flour_vente_tafanel-jordin, 1666-10-02_saint-flour_donation_reynaud-dupuy |
 | prisons royales de Saint-Flour (conciergerie du bailliage) | 1 | 1659-03-26_saint-flour_vente_taillandier-roslan |
 | prisons royales de l'élection de Saint-Flour | 1 | 1658-02-13_saint-flour_vente_sauron-jean |
 | prisons royales du bailliage de Saint-Flour | 1 | 1663-02-10_saint-flour_vente_hugon-pages |
 | province d'Espagne | 1 | 1661-10-00_saint-flour_testament_solier |
+| province d'[Auvergne?] | 1 | 1644-10-02_saint-flour_vente_teyssedre-bragier |
 | province de Dauphiné | 1 | 1661-06-03_saint-flour_testament_chalvet-seghalory |
 | province de Languedoc | 1 | 1658-08-04_saint-flour_mariage_brounet-polverelles |
 | province de Languedoc (lieu du décès de Jacques Nouzeyres) | 1 | 1656-11-26_saint-flour_quittance_cussac-nouzeyre |
@@ -11262,6 +12099,7 @@
 | pruniez (?) des Maletz (lieu-dit douteux) | 1 | 1659-08-06_saint-flour_vente_andrieu-rochier |
 | pré (ou champ) appelé « [...] Blondi », appartenances de [Vmu?] | 1 | 1658-03-00_roffiac_echange_blondin-cristal |
 | pré / champ del [Fressarq?] / [Fossarq?] / [Forssarq?] | 1 | 1654-01-29_saint-flour_donation_sauvet |
+| pré / parcelle appelé Geraud[?] [dal?] | 1 | 1634-05-20_saint-flour_vente_roche-anglade |
 | pré Alligue[?] (Petges) | 1 | 1666-07-07_saint-flour_vente_missonnier-bruzit |
 | pré Chabre[?] (pré, Sauvignac) | 1 | 1659-11-13_saint-flour_vente_carrier-chastang |
 | pré Del Saignias (Fraissinet) | 1 | 1659-10-12_villedieu_mariage_gastail-daude |
@@ -11287,6 +12125,7 @@
 | pré Migier[?] (Petges) | 1 | 1666-07-07_saint-flour_vente_missonnier-bruzit |
 | pré Prat... [?] | 1 | 1626-12-08_saint-flour_bail_baldassard-attalier |
 | pré Prat[?] Neuf | 1 | 1652-05-29_saint-flour_echange_poursain-hugon |
+| pré [Bonnet?] (confront) | 1 | 1634-12-09_saint-flour_vente_delaire-combe |
 | pré [Chapsoal?] | 1 | 1659-06-05_saint-flour_donation_soulhier-boudon |
 | pré [Chourelou?] | 1 | 1663-05-05_saint-flour_vente_portal-destubartes |
 | pré [Debvail?] | 1 | 1632-09-11_saint-flour_titreclerical_attalec-nabou |
@@ -11308,6 +12147,7 @@
 | pré [Loubrau?] bas | 1 | 1658-01-27_saint-flour_vente_devaluy-ollier |
 | pré [Loubrau?] hault | 1 | 1658-01-27_saint-flour_vente_devaluy-ollier |
 | pré [Meyre ?] | 1 | 1659-09-18_saint-flour_transaction_durand-juery |
+| pré [Pangalas?] (appartenances de Lanaulle) | 1 | 1633-09-29_saint-flour_echange_regimbal-bonhoure |
 | pré [Prat?] grand | 1 | 1665-11-17_saint-flour_vente_missonnier-cayron |
 | pré [Savourson?] | 1 | 1662-11-04_saint-flour_vente_vidal-coupion |
 | pré [Spuat?] | 1 | 1660-06-19_saint-flour_vente_chanson |
@@ -11317,6 +12157,7 @@
 | pré [d'Antoniere? Cochnau?] | 1 | 1647-11-17_saint-flour_bail_rouger-attalin |
 | pré [d'Espezandoune ?] | 1 | 1650-04-18_villedieu_vente_goizet-gibrat |
 | pré [dalire ?] | 1 | 1656-06-00_saint-flour_vente_chabot-bechot |
+| pré [daugeu?] (d'Augeu ?) | 1 | 1633-04-28_saint-flour_vente_soucheire-fontes |
 | pré [de Biouroir?] (Vedrenac) | 1 | 1653-02-09_saint-flour_subrogation_galdessard-mallet |
 | pré [de la Bisse?] (Vedrenac) | 1 | 1653-02-09_saint-flour_subrogation_galdessard-mallet |
 | pré [de la Pressie?] | 1 | 1654-01-29_saint-flour_donation_sauvet |
@@ -11338,6 +12179,7 @@
 | pré appelé Le [...] | 1 | 1653-04-01_saint-flour_vente_vispail-derames |
 | pré appelé Lou[?] [Yornegeyr?] (Auviar) | 1 | 1656-12-07_inconnu_vente_chassang-durand |
 | pré appelé [Gelinade?] | 1 | 1632-12-24_saint-flour_vente_delolme-delolme |
+| pré appelé [L.?] ou [dedochadore?] (de la Chadore ?) | 1 | 1633-11-19_saint-flour_vente_pons-chastel |
 | pré appelé [Labughe ?] | 1 | 1647-12-06_saint-flour_vente_combes-bonniol |
 | pré appelé [Lachaignes?] (Bosentes) | 1 | 1666-05-01_saint-flour_echange_lastic-chastre |
 | pré appelé [Lagarrie?] (appartenances de [Fauges?]) | 1 | 1652-07-06_saint-flour_transaction_rolland-bourzet |
@@ -11355,15 +12197,18 @@
 | pré appelé de [Bigne?] (Bigue ?) | 1 | 1654-03-02_saint-flour_vente_martial-cramon |
 | pré appelé de [Bosson?] (appartenances de Toulz) | 1 | 1653-05-10_saint-flour_vente_rivore-mar |
 | pré appelé de [Lapie?] ou delas Saignes, à Mons | 1 | 1658-01-05_saint-flour_echange_rolland-gibrat |
+| pré appelé de [Riag.?] | 1 | 1633-11-12_saint-flour_vente_roux-rouchea |
 | pré appelé de [bauaige?] | 1 | 1665-06-14_saint-flour_bail_hugon-bonyblanc |
 | pré appelé de [l'Hospital?] | 1 | 1632-11-16_saint-flour_vente_trinchier-aymeric |
 | pré appelé de [pratLonne?] | 1 | 1653-04-01_saint-flour_vente_vispail-derames |
 | pré appelé de la Redonde, aux appartenances de Libeprevuille | 1 | 1652-03-26_villedieu_cession_david-lisset |
 | pré appelé de la [...] (l. 10) | 1 | 1653-05-04_saint-flour_vente_mauly-vaurs |
+| pré appelé de la [Fouon?] / la Fonou, appartenances de Saint-Flour | 1 | 1634-03-27_saint-flour_vente_roux-aymeric |
 | pré appelé de la gui [?] | 1 | 1664-06-03_saint-flour_vente_marlhiac-garand |
 | pré appelé de la roche[?] | 1 | 1652-04-13_saint-flour_vente_chauson |
 | pré appelé de prat Neuf | 1 | 1663-05-27_alleuze_mariage_ventughol-vedrines |
 | pré appelé del [...] (confront) | 1 | 1626-05-08_saint-flour_bail_boyer-malet |
+| pré appelé del [pesquio?] | 1 | 1634-02-01_saint-flour_vente_gibrat-rolland |
 | pré appelé del[a] [...] | 1 | 1654-08-20_saint-flour_vente_delcros-vollant |
 | pré appelé delafoy (Toulz) | 1 | 1654-11-04_saint-flour_vente_souvel-mas |
 | pré appelé devant Pinhergues[?] | 1 | 1650-04-21_saint-flour_vente_sarguin-brassac |
@@ -11377,6 +12222,7 @@
 | pré appelé prat [Lhioulagre?] (cf. pra [Rioulayre?]) | 1 | 1653-05-11_saint-flour_vente_vidal-chazot |
 | pré appelé « de chausse [de pre?] » (Villedieu) | 1 | 1653-01-22_saint-flour_vente_chausse-devarnes |
 | pré appelé « de la saigne » (Chassaignetes) | 1 | 1660-10-23_saint-flour_vente_bardon-odoul |
+| pré appelé « pratum » [?] | 1 | 1633-02-27_saint-flour_vente_tissier-debrun |
 | pré appelé « pres grand » | 1 | 1659-11-03_andelat_donation_brezes |
 | pré champ grand | 1 | 1661-06-12_saint-flour_vente_mallet-teissedre |
 | pré d'Amonhon[?] (Lieuzargues) | 1 | 1662-02-11_saint-flour_echange_fabry-tisset |
@@ -11442,6 +12288,7 @@
 | pré de Lesguieres (Lezguiere, Lesgueyre) | 1 | 1665-04-13_saint-flour_sommation_teissedre-batiffolier |
 | pré de Lond[es?] | 1 | 1665-05-18_saint-flour_vente_buge-blanchy |
 | pré de Lork (de [ork?]), à Bournoncles | 1 | 1660-07-25_saint-flour_vente_lebre-joune |
+| pré de Nouvel acquis (Aulhac) | 1 | 1638-06-30_saint-flour_partage_sauvat |
 | pré de Pontou | 1 | 1659-02-10_saint-flour_echange_chabot-jurry |
 | pré de Pradelz | 1 | 1663-07-24_saint-flour_vente_salesses-roussilhe |
 | pré de Pradeyron | 1 | 1659-01-11_saint-flour_vente_prohan-verrel |
@@ -11564,6 +12411,7 @@
 | pré de la Saigne | 2 | 1652-02-23_saint-flour_remission_pavva, 1665-01-04_saint-flour_vente_chauson-bouchet |
 | pré de la Saigne (Coltines) | 1 | 1654-01-31_saint-flour_vente_delaire-charbonnier |
 | pré de la Saigne (Mons) | 1 | 1658-10-14_saint-flour_vente_uchafol-bergoin |
+| pré de la Saigne? | 1 | 1634-01-29_saint-flour_bail_brassac-estiou |
 | pré de la Saignolle | 1 | 1665-04-10_saint-flour_vente_bremon-tremoliere |
 | pré de la Saignolle (Coltines) | 1 | 1659-10-14_saint-flour_vente_tiouleyre-pelegrin |
 | pré de la Sayne [?] (Tanavelle) | 1 | 1663-04-15_saint-flour_vente_combes-bergoin |
@@ -11661,6 +12509,7 @@
 | pré del Soucheiras | 1 | 1663-11-13_saint-flour_vente_chanson-bechot |
 | pré del [Brau?] | 1 | 1661-00-00_saint-flour_partage_lassaigne-bonneval |
 | pré del [Buzard?] | 1 | 1666-02-00_saint-flour_vente_hugon-sauve |
+| pré del [Communal?] (… de la [Machio?]) | 1 | 1633-09-29_saint-flour_echange_regimbal-bonhoure |
 | pré del [Cortal?] alias de lo [Carrute?] | 1 | 1662-10-09_saint-flour_vente_hugon |
 | pré del [Courtre?] (le Cros) | 1 | 1663-11-10_saint-flour_cession_charbonnier-rancillac |
 | pré del [Fondz?] | 1 | 1657-03-24_saint-flour_transaction_blanc |
@@ -11669,6 +12518,7 @@
 | pré del [Perier?] | 1 | 1660-06-02_saint-flour_bail_ytual-fromen |
 | pré del [Pronie?] / del [Preou?] (Bezenghat) | 1 | 1660-06-02_saint-flour_transaction_ythual-durand |
 | pré del [Vaspastial?] | 1 | 1666-01-17_saint-flour_vente_bessolz-sabatier |
+| pré del [Vaud?] | 1 | 1633-10-22_saint-flour_vente_boyer-vieulx |
 | pré del [bocal?] | 1 | 1663-06-12_saint-flour_vente_lacombe-delort |
 | pré del [sagne?] | 1 | 1662-11-18_saint-flour_vente_barthet-chauses |
 | pré del [valaegou?] | 1 | 1654-12-31_saint-flour_vente_grezes-bastide |
@@ -11763,7 +12613,7 @@
 | prés « de la Vatte » | 1 | 1665-10-25_saint-flour_echange_cormily-vechafol |
 | présidial d'Aurillac | 3 | 1653-11-20_saint-flour_compromis_jourdy-fabry, 1654-02-05_saint-flour_compromis_alloy-bertrand, 1655-05-23_saint-flour_transaction_yzabel-sentheraiz |
 | présidial[?] | 1 | 1652-04-26_saint-flour_cession_cosset-mallessaigne |
-| prévôté de Saint-Flour | 1 | 1652-05-17_saint-flour_vente_pages-lassy |
+| prévôté de Saint-Flour | 2 | 1634-07-05_saint-flour_vente_lafargette-murat, 1652-05-17_saint-flour_vente_pages-lassy |
 | prévôté[?] (juridiction saisie) | 1 | 1654-05-24_saint-flour_transaction_marly |
 | puech palat | 1 | 1664-11-25_saint-flour_partage_chassang |
 | puy [de Chavlet?] | 1 | 1654-01-04_saint-flour_vente_daud-devaux |
@@ -11773,17 +12623,21 @@
 | pâtis communs de Malefargues | 1 | 1632-04-17_saint-flour_vente_treuer-pons |
 | pâturages de [Fargues?] | 1 | 1664-10-17_saint-flour_echange_bougier |
 | pâturail « delmeze » (la Bastide) | 1 | 1656-09-25_saint-flour_vente_sours-galvier |
+| pâtural Long [sallens?] | 1 | 1633-06-03_saint-flour_vente_vigier-aymeric |
 | pâtural [des Prozis?] (Beaulieu) | 1 | 1665-12-29_saint-flour_vente_gaultier-daufeulhe |
 | pâtural appelé dela Saigne, à Mons | 1 | 1658-01-05_saint-flour_echange_rolland-gibrat |
 | pâtural de la Saignolle | 1 | 1663-04-01_saint-flour_partage_rolland-mallessaignes |
 | pâtural del [Rouge?], appartenances de Coltines | 1 | 1658-04-09_saint-flour_transaction_hugon-volland |
 | pâtural le [Vaudar ?] | 1 | 1656-06-00_saint-flour_vente_chabot-bechot |
+| pâturaux du [suc?] | 1 | 1633-06-03_saint-flour_vente_vigier-aymeric |
 | quartier (Cartery) de métairie à la Vastrie | 1 | 1652-06-24_villedieu_vente_missonnier |
 | quartier appelé La [...] (faubourgs de Saint-Flour) | 1 | 1652-06-09_saint-flour_quittance_boux-paulhiac |
 | quartier de [...] (non lu) | 1 | 1649-08-06_saint-flour_obligation_penel-volland |
 | quartier de la Place (Montchamp) | 1 | 1663-01-18_saint-flour_vente_astier-bardel |
 | reconnaissance de [Brand bouc ?] | 1 | 1664-04-14_saint-flour_vente_andrieu-fayon |
+| rezentieres (Rezentières) | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
 | riftalz / ristalz [?] (pré et champ) | 1 | 1658-01-10_saint-flour_echange_albieuf-chauliaguet |
+| riol venant de [luis lavgues?] allant à [Lignerogues?] | 1 | 1633-06-03_saint-flour_vente_vigier-aymeric |
 | riuiere de la [mausse?] | 1 | 1666-10-07_saint-flour_vente_bertrand-chastang |
 | rivière (non lue ; Truyère ?) | 1 | 1661-10-29_saint-flour_cession_roux-boudon |
 | rivière [Lad...?] | 1 | 1666-03-06_saint-flour_transaction_gibrat-blanc |
@@ -11804,6 +12658,7 @@
 | rivière de Lander (Ander) | 1 | 1632-03-23_saint-flour_ratification_rouchier-julhes |
 | rivière de Lander (l'Ander) | 1 | 1666-02-27_saint-flour_echange_sevenes-fontes |
 | rivière de Landre (la Lander) [lecture probable] | 1 | 1660-12-16_roffiac_vente_vidal-crespoul |
+| rivière de Lende? (Lander ?) | 1 | 1634-01-29_saint-flour_bail_brassac-estiou |
 | rivière de Pinnegues [?] | 1 | 1666-04-20_saint-flour_vente_andrieu-barthomeuf |
 | rivière de Roffiac | 1 | 1663-04-04_saint-flour_vente_uchassol-cussac |
 | rivière de Rozonnet | 1 | 1658-09-15_saint-flour_mariage_vaylet-fernail |
@@ -11827,6 +12682,7 @@
 | rivière du Lander (« riuiere de lande ») | 1 | 1665-10-25_saint-flour_echange_cormily-vechafol |
 | rivière dudit lieu | 1 | 1665-12-13_vossiar_echange_chazalede-andrieu |
 | rivière[?] (nom non lu) | 1 | 1628-04-22_saint-flour_bail_cust-mergue |
+| roche courbiere[?] | 1 | 1634-06-25_saint-flour_vente_barthomeuf-dufour |
 | royaume [d'Espagne?] | 1 | 1664-09-14_roffiac_mariage_sautherain-mallet |
 | royaume d'Espagne | 18 | 1661-07-07_saint-flour_donation_uchassol, 1661-10-05_saint-flour_testament_boyer, 1662-06-01_saint-flour_vente_felhol-rolland, 1662-11-11_saint-flour_vente_rolland-sibrac, 1663-10-14_saint-flour_vente_surrel-mas, 1663-12-08_saint-flour_vente_roquelaure-mallet, 1664-01-20_saint-flour_mariage_cahot-albuisson, 1664-01-26_saint-flour_vente_yzabel-dubois, 1664-02-02_saint-flour_vente_bonnal-vidal, 1664-03-14_saint-flour_vente_baldissard-brassac, 1664-03-17_saint-flour_donation_fontes, 1664-10-04_saint-flour_vente_david-sauret, 1664-12-10_saint-flour_vente_chassol-brassac, 1665-05-11_saint-flour_testament_vidal-parra, 1665-05-13_saint-flour_testament_saintheiry, 1666-02-27_saint-flour_testament_pastre-nicolas, 1666-04-12_saint-flour_testament_chargenaire, 1666-09-05_saint-flour_vente_polverelles-froment |
 | rue (quartier) du Breul, Saint-Flour | 1 | 1655-11-10_saint-flour_vente_monet-combes |
@@ -11835,6 +12691,7 @@
 | rue [Rajoune? / Majourne?] | 1 | 1632-10-09_saint-flour_partage_gualdissard-alboy |
 | rue [non lue] à Saint-Flour | 1 | 1665-02-03_saint-flour_mariage_vaylet-vivmarin |
 | rue [planol ?] et [charradour ?] du lac (Saint-Flour) | 1 | 1663-05-08_saint-flour_transaction_regimbalt-berault |
+| rue allant a la [Maurel?] | 1 | 1634-01-23_saint-flour_transport_delfour |
 | rue allant au Collège (Saint-Flour) | 1 | 1632-02-22_saint-flour_vente_melgho-viallard |
 | rue allant au faubourg (Saint-Flour) | 1 | 1626-03-25_saint-flour_bail_chevalier-gotty |
 | rue allant au four (Mentières) | 1 | 1658-01-07_saint-flour_vente_laspre-monnier |
@@ -11845,6 +12702,7 @@
 | rue allant de Mons à Roffiac | 1 | 1659-10-01_roffiac_vente_cussac-fontes |
 | rue allant de Tanavelle à Crouzet | 1 | 1658-10-08_saint-flour_echange_boude-filhol |
 | rue allant de Tanavelle à [Pongibert?] | 1 | 1651-06-18_saint-flour_echange_bouttelle |
+| rue allant de [Lauaulle] a la [chau?] [...] | 1 | 1633-10-22_saint-flour_echange_regimbal-roussel |
 | rue allant de la porte au [...] | 1 | 1653-02-10_saint-flour_vente_armand-chomie |
 | rue allant du pont au moulin de [Roueyreueille?] | 1 | 1656-12-27_saint-flour_vente_fayon-odoul |
 | rue allant à [Javy?] au [muar?] | 1 | 1658-02-13_saint-flour_vente_sauron-jean |
@@ -11899,12 +12757,14 @@
 | rue de la [...] (Saint-Flour) | 1 | 1662-03-02_saint-flour_vente_auquier-chazalede |
 | rue de la [Cattollane?] (Saint-Flour) | 1 | 1661-12-04_saint-flour_donation_delaroche |
 | rue de la [Guarde?] | 1 | 1632-02-21_saint-flour_mariage_brissede-pons |
+| rue de la [Vollandie?] (Saint-Flour) | 1 | 1644-04-24_saint-flour_vente_sivry-boussuge |
 | rue de la [milade?] | 1 | 1665-02-24_saint-flour_echange_roux-coussarie |
 | rue de la place (Roffiac) | 1 | 1664-09-17_saint-flour_vente_brassac |
 | rue de la placette à l'église Notre-Dame (Saint-Flour) | 1 | 1653-07-02_saint-flour_vente_jean-noailles |
 | rue del Coudere grand | 1 | 1654-09-27_saint-flour_vente_doumergue-bonhomme |
 | rue del [Gounes ?] au lieu du Pouget | 1 | 1663-10-18_saint-flour_echange_chauliaguet-estival |
 | rue des Chazaux aux Ternes | 1 | 1665-04-25_saint-flour_vente_tafanel-douhet |
+| rue des La[tz?] (Saint-Flour) | 1 | 1633-05-02_saint-flour_vente_cortel-mourgue |
 | rue des Lacs (Saint-Flour) | 3 | 1647-10-20_saint-flour_bail_chabot-bastide, 1658-11-16_saint-flour_mariage_daunis-rouget, 1659-08-06_saint-flour_vente_andrieu-rochier |
 | rue des Lacs (rue de Lacz), Saint-Flour | 1 | 1653-12-21_saint-flour_subrogation_langenaire-rigault |
 | rue des Lacs (rue des Latz), Saint-Flour | 1 | 1656-06-14_saint-flour_ratification_tassy-lanes |
@@ -11931,6 +12791,7 @@
 | rue descendant du thuille au planol de [Malvez ?] | 1 | 1659-03-28_saint-flour_vente_charreyre-mirmande |
 | rue du Breuil (Breul) à Saint-Flour | 1 | 1657-01-27_saint-flour_mariage_caston-castide |
 | rue du Breuil (Saint-Flour) | 4 | 1626-12-17_saint-flour_transaction_fabry-alichaud, 1655-06-14_saint-flour_donation_bonafos-pademorgue, 1658-06-16_saint-flour_quittance_jarlier-cellarier, 1662-06-06_saint-flour_vente_jaquet |
+| rue du Breuil (rue du breul), Saint-Flour | 2 | 1634-01-25_saint-flour_bail_regimbalt-masilhar, 1644-02-19_saint-flour_vente_geraud-trabuc |
 | rue du Breuil [?] (« [rue?] du breul »), Saint-Flour | 1 | 1626-10-06_saint-flour_bail_gaultier-fournier |
 | rue du Breul (Breuil), Saint-Flour | 1 | 1661-03-00_saint-flour_vente_cathalan |
 | rue du Breul (Saint-Flour) | 3 | 1656-10-13_saint-flour_inventaire_berthier-johanny, 1658-03-17_saint-flour_echange_chadel-rougier, 1672-12-10_saint-flour_requete_fauret-vedrines |
@@ -11949,6 +12810,7 @@
 | rue du [Breuil?] (Saint-Flour) | 1 | 1632-01-19_saint-flour_mariage_rigault-albier |
 | rue du [Breuil?], Saint-Flour | 1 | 1632-04-13_saint-flour_mariage_trabuc-rigaud |
 | rue du [Lac ?] (Saint-Flour, lecture douteuse) | 1 | 1659-11-18_saint-flour_mariage_chastang-rol |
+| rue du [Majol?] / de [Majel?] (Saint-Flour) | 1 | 1634-02-07_saint-flour_mariage_veissiere-aufolet |
 | rue du [Mazel?] à Saint-Flour | 1 | 1653-12-09_saint-flour_quittance_desauve-beaufilz |
 | rue du [Maz…?] (Saint-Flour ; rue du Mazel ?) | 1 | 1661-08-06_saint-flour_vente_brassac-lavergne |
 | rue du [Muret?] à Saint-Flour (lecture conjecturale) | 1 | 1626-10-25_saint-flour_bail_redinier-volland |
@@ -11998,6 +12860,7 @@
 | ruisseau de [Dombe ?] Londeyre | 1 | 1665-05-18_saint-flour_vente_buge-blanchy |
 | ruisseau de [Fretgieres?] | 1 | 1662-02-06_saint-flour_mariage_julhe-bertrand |
 | ruisseau de [Fuissinges ?] | 1 | 1663-11-13_saint-flour_vente_chanson-bechot |
+| ruisseau de [Grandane?] | 1 | 1633-10-22_saint-flour_vente_boyer-vieulx |
 | ruisseau de [Landan?] | 1 | 1661-07-08_saint-flour_vente_achier-solier |
 | ruisseau de [Peysalade?] | 1 | 1660-08-12_saint-flour_vente_solie-charreyre |
 | ruisseau de [Vasonnet?] | 1 | 1658-07-21_saint-flour_mariage_alboy-benezit |
@@ -12023,6 +12886,7 @@
 | ruisseau descendant des Maisons au lieu de [Betquey?] | 1 | 1651-10-28_saint-flour_mariage_joumbre-boyer |
 | ruisseau descendant du Faillaux à « Agaymond[?] » (lecture très douteuse) | 1 | 1654-11-03_andelat_desistement_avenens-fulhes |
 | ruisseau descendant du Mazeyrial à Luchal | 1 | 1664-01-26_saint-flour_vente_yzabel-dubois |
+| ruisseau descendant du moulin au viallard | 1 | 1633-04-28_saint-flour_vente_soucheire-fontes |
 | ruisseau descendant du pont de Lescure | 1 | 1663-12-09_saint-flour_vente_bechot-dupre |
 | ruisseau descendant à Alleuze | 1 | 1660-04-17_saint-flour_vente_gardelle-couzhavie |
 | ruisseau du Sailhant [?] | 1 | 1663-06-19_saint-flour_vente_nicolas-boudet |
@@ -12039,9 +12903,11 @@
 | saint Vauche [?] | 1 | 1628-03-24_saint-flour_transaction_valarchier-mauran |
 | salle capitulaire de la cathédrale de Saint-Flour | 1 | 1665-10-29_saint-flour_rente_sandrieu-chomel |
 | salle capitulaire de la communauté des prêtres | 1 | 1664-03-09_saint-flour_bail_roux-sentheran |
+| sauignac[?] (Sauvagnac ?) | 1 | 1633-05-09_andelat_bail_brugier-julhe |
 | seigneurie / [marquisat?] du [Sailhant?] | 1 | 1656-10-17_saint-flour_donation_palhouzier-farreyre |
 | seigneurie [Comte?] d'[Ho?]segonde (Rochegonde ? hypothèse) | 1 | 1660-11-14_saint-flour_vente_polverelles |
 | seigneurie [de Brugière?] | 1 | 1666-04-13_saint-flour_echange_rolland-galvier |
+| seigneurie d'[Auzolle?] | 1 | 1643-04-00_saint-flour_vente_solignac-dufour |
 | seigneurie de Chelvy [?] | 1 | 1660-12-21_saint-flour_vente_mezhot-marron |
 | seigneurie de Coltines | 1 | 1664-10-29_saint-flour_vente_quatruelx-tassy |
 | seigneurie de Lair | 1 | 1632-09-13_saint-flour_donation_fouchier-boussuge |
@@ -12050,20 +12916,25 @@
 | seigneurie de Vormeste[?] | 1 | 1661-03-22_saint-flour_vente_delort-delaroche |
 | seigneurie de [...]ac | 1 | 1658-10-29_saint-flour_vente_cochinie |
 | seigneurie de [Mardougne ?] | 1 | 1659-05-10_saint-flour_obligation_girard |
+| seigneurie de [Reufac?] | 1 | 1633-04-28_saint-flour_vente_soucheire-fontes |
 | seigneurie de [Saliaux?] (Sailhans ?) | 1 | 1657-11-10_saint-flour_transaction_cristal-crespoul |
 | seigneurie de [Treughea?] | 1 | 1653-05-01_saint-flour_vente_gibrat-sauret |
 | seigneurie de la Chaumette[?] | 1 | 1661-03-22_saint-flour_vente_delort-delaroche |
+| seigneurie du Merle | 1 | 1633-01-25_saint-flour_vente_bonesset-aymeric |
+| seigneurie du Morle | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | seigneurie du Sailhant | 1 | 1664-11-21_saint-flour_vente_chilman-malet |
 | sentier commun [dela sagne?] de Toult | 1 | 1656-01-18_saint-flour_vente_astorg-molinier |
 | sentier de [treylans ?] | 1 | 1662-11-07_saint-flour_vente_portal-rolland |
 | siège de Murat | 1 | 1664-07-26_saint-flour_transaction_vidal-roudier |
+| siège de Saint-Flour | 1 | 1644-02-13_saint-flour_vente_dufour-geraud |
 | siège de [Riom?] | 1 | 1653-11-30_saint-flour_quittance_gibrat-lolier |
 | siège de [Rioz?] (Riom ?) | 1 | 1653-11-14_coren_vente_seurgol-mossier |
 | siège de [Vimer?] (non identifié) | 1 | 1657-07-29_saint-flour_quittance_crouzat |
 | siège ordinaire (bailliage) de Saint-Flour | 1 | 1653-12-21_saint-flour_subrogation_langenaire-rigault |
 | siège présidial (lieu non lu) | 1 | 1657-05-24_saint-flour_transaction_mauvy-mossier |
-| siège présidial d'Aurillac | 2 | 1650-05-18_saint-flour_transaction_bastide-sauvaige, 1654-02-13_saint-flour_transaction_crozat-boudier |
+| siège présidial d'Aurillac | 3 | 1644-02-13_saint-flour_vente_dufour-geraud, 1650-05-18_saint-flour_transaction_bastide-sauvaige, 1654-02-13_saint-flour_transaction_crozat-boudier |
 | siège présidial de Riom[?] | 1 | 1657-06-16_saint-flour_donation_farlin-laspre |
+| soubz la ville | 1 | 1634-08-22_saint-flour_vente_portal-aymerie |
 | sous Chagoux | 1 | 1666-10-04_saint-flour_vente_lastic-barthet |
 | st [Halary ?] | 1 | 1659-05-31_saint-flour_vente_valarcher-parra |
 | st [ostaige?] (bénéfice de B. Missonnier) | 1 | 1661-02-22_saint-flour_echange_missonnier-grezes |
@@ -12078,6 +12949,7 @@
 | sénéchaussée et présidial d'Auvergne | 1 | 1656-02-19_saint-flour_transaction_rolland-wanchier |
 | sénéchaussée et siège présidial d'Auvergne | 1 | 1650-12-16_saint-flour_donation_tailhandier-molede |
 | tage[nac?] (paroisse, lecture conjecturale) | 1 | 1659-03-22_saint-flour_donation_coucherie-teyssedre |
+| talizac (Talizat) | 1 | 1633-02-10_saint-flour_partage_chastel-fouche |
 | tanaville | 1 | 1654-12-29_saint-flour_vente_cosches-segui |
 | tanneries (des faubourgs) | 1 | 1626-02-00_saint-flour_prixfait_bandre-amargier |
 | tanneries de Saint-Flour | 1 | 1666-03-08_saint-flour_mariage_buzet-rougier |
@@ -12152,10 +13024,12 @@
 | terroir de la Vaisseyre | 1 | 1650-06-26_saint-flour_vente_boucher-berthon |
 | terroir de la [Bibeissie?] | 1 | 1662-11-08_saint-flour_vente_tisset-david |
 | terroir de la [Borie ?] | 1 | 1665-05-01_saint-flour_vente_bonafous-chalvet |
+| terroir de la [Boutisse?] (pré) | 1 | 1634-09-09_saint-flour_vente_guillaud-orfulhe |
 | terroir de la [Chaulde?] | 1 | 1660-11-14_saint-flour_vente_polverelles |
 | terroir de la [Fucial?] | 1 | 1658-09-23_saint-flour_mariage_sauvel-sauret |
 | terroir de la [Fuvnie?] (Coltines) | 1 | 1650-04-12_saint-flour_vente_rioure-tassy |
 | terroir de la [Jantonne?] | 1 | 1665-05-03_saint-flour_vente_pigon-chauliaguet |
+| terroir de la [Maliel?] (appartenances de Lanavelle) | 1 | 1634-01-15_saint-flour_vente_regimbal-roussel |
 | terroir de la [Prade?] | 1 | 1657-07-02_coltines_mariage_mas-cussac |
 | terroir de la [Riue longe?] | 1 | 1654-07-06_saint-flour_echange_chanson-teyssedre |
 | terroir de la [Vachiz?] | 1 | 1653-03-03_saint-flour_vente_durand-gillet_b |
@@ -12181,8 +13055,10 @@
 | terroir des Vioux (Mentières) | 1 | 1665-05-25_saint-flour_echange_bonnet-veyre |
 | terroir des [Branzrons?] / [Brancyroux?] (Mons), pré | 1 | 1658-05-03_roffiac_sommation_aurelle-rolland |
 | terroir des [Pradetz?] haut (Vedrines) | 1 | 1650-02-03_saint-flour_vente_crozet-delbelmon |
+| terroir des [Terondelz?] alias las Champaignes | 1 | 1633-06-03_saint-flour_vente_vigier-aymeric |
 | terroir des [Truandoux?] ; ruisseau des [truandoux?] | 1 | 1660-04-00_saint-flour_vente_chanson |
 | terroir du Bois du seigneur évêque de Saint-Flour / appartenances [de tour?] du bois S. flour | 1 | 1653-05-28_saint-flour_vente_vaylet-gaston |
+| terroir du Peire | 1 | 1633-06-03_saint-flour_vente_vigier-aymeric |
 | terroir du [Sagniat?] / del [Sagniat?] | 1 | 1663-12-09_saint-flour_vente_laurier-hugon |
 | terroir et champ de la Garde | 1 | 1664-01-15_saint-flour_vente_boudon |
 | terroir non lu ([Lagbeyret?]) | 1 | 1632-10-11_saint-flour_vente_chastel-fauret |
@@ -12204,6 +13080,7 @@
 | vadal[?] | 1 | 1666-05-01_saint-flour_partage_astier |
 | valleizac[?] | 1 | 1659-09-22_saint-flour_inventaire_sauret |
 | verger du seigneur de Roffiac | 1 | 1665-00-00_saint-flour_vente_vigier-trabuc |
+| vieille paroisse foraine de Saint-Flour | 1 | 1633-11-13_saint-flour_testament_rouchea |
 | vieux [Doctaux?] (lecture incertaine) | 1 | 1654-04-16_saint-flour_quittance_chaluet-senteraiz |
 | vigne appelée [La vigne?] grand… (nom incomplet) | 1 | 1653-07-01_saint-flour_transaction_maroz-ouvrier |
 | vigne de [Barun?] | 1 | 1628-11-20_saint-flour_bail_aymier-despeyre |
@@ -12211,6 +13088,7 @@
 | village de [Pulleghul?], paroisse de Saint-Georges | 1 | 1662-07-19_saint-flour_mariage_delaroche-gillet |
 | village de [lfa?] / l[isle?] (habitation du vendeur, paroisse de Paulhac) | 1 | 1653-05-04_saint-flour_vente_mauly-vaurs |
 | village de la [Besseyrettes ?] | 1 | 1662-06-08_saint-flour_donation_boisseyre-pignol |
+| village de la paroisse de Tanavelle commençant par ffauz… (illisible) | 1 | 1634-01-16_saint-flour_echange_regimbal-roussel |
 | village del Fer, paroisse de Paulhac | 1 | 1664-05-01_saint-flour_echange_boudon-badeul |
 | village du Montil (?) | 1 | 1664-08-12_saint-flour_testament_detrausse |
 | village du [Montie?] | 1 | 1662-03-11_saint-flour_testament_detrauesse |
@@ -12221,6 +13099,7 @@
 | ville d'[Audor?] | 1 | 1653-06-22_saint-flour_mariage_astier-noel |
 | ville d'[Ayoz ?] | 1 | 1651-03-23_saint-flour_testament_mollinier-baulme |
 | ville de Saint-[...] | 1 | 1657-07-07_saint-flour_testament_cussac-massy |
+| ville de [Murat?] (résidence des parties, conjecture) | 1 | 1634-09-09_saint-flour_vente_guillaud-orfulhe |
 | ville de [Rumis?] (non identifié) | 1 | 1662-00-00_inconnu_quittance_vidal |
 | ville de [bizieux?] (non identifiée) | 1 | 1656-10-18_saint-flour_demission_delmas-palhouzier |
 | ville « daulez » / « aulez » / [aorlez?] (non identifiée) | 1 | 1661-11-05_saint-flour_donation_brassac |
@@ -12238,6 +13117,7 @@
 | « [del?] [Val?] [Chassaigne?] » | 1 | 1652-07-27_saint-flour_echange_boudet |
 | « [lou ?] pradel » (pré, var. pradelh) | 1 | 1628-06-02_saint-flour_bail_bigot |
 | « a Chambre » [?] (jardin) | 1 | 1665-10-25_saint-flour_echange_cormily-vechafol |
+| « a [Combe?] » (nom du bien, au lieu de Chazes) | 1 | 1634-12-09_saint-flour_vente_delaire-combe |
 | « a la marie [?] » (champ du sr d'Aumon) | 1 | 1632-08-01_saint-flour_vente_esbrard-chaluet |
 | « a villiar » [?] (résidence du notaire deLolme, non identifiée) | 1 | 1665-02-24_saint-flour_quittance_dominergue-barthomeuf |
 | « dels.te »[?] (village de la paroisse de Paulhac, lecture non résolue) | 1 | 1651-04-01_saint-flour_vente_marly |
@@ -12248,7 +13128,9 @@
 | « la ville » (Saint-Flour ?, résidence des témoins) | 1 | 1652-08-20_mazerac_donation_joumente-gerauld |
 | « lad. ville » (Saint-Flour ?) | 1 | 1656-12-07_inconnu_vente_chassang-durand |
 | « montchan » [Montchamp ?] | 1 | 1661-02-04_saint-flour_donation_traverse-benezit |
+| « vng bas » (rez-de-chaussée d'une maison, non localisé) | 1 | 1644-02-00_saint-flour_testament_seguy-comoul |
 | Élection de Saint-Flour | 1 | 1653-06-24_saint-flour_compromis_gozet-saumade |
+| écluse du moulin [?] (Lescluse du moulin, confront) | 1 | 1633-01-18_saint-flour_vente_crespon-cristal |
 | église Notre-Dame (Saint-Flour) | 1 | 1656-02-25_saint-flour_mariage_labroha-gillet |
 | église Notre-Dame de Saint-Flour | 3 | 1632-11-06_saint-flour_testament_pallisse-pages, 1657-03-24_saint-flour_transaction_blanc, 1659-02-11_saint-flour_testament_chirol |
 | église Notre-Dame de Villedieu | 3 | 1648-03-07_saint-flour_vente_derames-chastel, 1652-06-08_villedieu_testament_missonnier, 1653-11-09_saint-flour_vente_cathala-bechot |
@@ -12259,24 +13141,29 @@
 | église Saint-Jean-le-[...] (S.t Iean Le [...]) [?] | 1 | 1656-07-00_saint-flour_testament_baldissard |
 | église Saint-Pierre de Saint-Flour | 1 | 1660-04-20_saint-flour_testament_valadier |
 | église Saint-Pierre de la Va[...]e[?] (Lavastrie ?) | 1 | 1652-06-08_villedieu_testament_missonnier |
+| église Sainte-Madeleine de Saint-Flour (« sancte magdelaine ») | 1 | 1634-06-07_saint-flour_vente_albos-vandesse |
+| église [Darzevalle?] (sépulture) | 1 | 1633-11-13_saint-flour_testament_boucher |
 | église [Notre-Dame ?] de Saint-Flour | 1 | 1660-11-03_saint-flour_testament_boudon-pelissier |
 | église [cathédrale? / paroissiale?] de Saint-Flour (tombeau des prédécesseurs du testateur) | 1 | 1654-08-28_saint-flour_testament_aussel |
 | église [cathédrale?] de Saint-Flour | 1 | 1653-12-17_saint-flour_rente_sauvet-tours |
 | église [cathédrale?] de Saint-Flour et son cimetière | 1 | 1661-09-02_saint-flour_testament_chalui |
+| église [cathédrale?] de Saint-[Flour?] | 1 | 1633-11-14_saint-flour_vente_monnier-mossine |
 | église [collégiale ? Notre-]Dame de Saint-Flour ? | 1 | 0000-00-00_saint-flour_vente_chauva-chasal |
 | église [collégiale?] Notre-Dame de Saint-Flour | 1 | 1658-02-24_saint-flour_testament_boyer |
 | église [collégiale?] Notre-Dame de Saint-Flour (tombeau des prédécesseurs de la testatrice) | 1 | 1653-10-02_saint-flour_testament_maurelhiar |
+| église [collégiale?] de Saint-Flour | 1 | 1633-09-06_saint-flour_testament_roudil |
 | église [collégiale?] de Saint-Flour (« leglize coll ») | 1 | 1663-08-19_saint-flour_testament_mendre-lerolle |
 | église [dar?] [Pitnam?] de Saint-Flour (lieu de sépulture, non identifié) | 1 | 1663-03-02_saint-flour_testament_rigaud |
 | église [du couvent?] [St Fr...?] (douteux) | 1 | 1651-12-23_saint-flour_testament_pages-dubourd |
 | église [du lieu?] de sépulture | 1 | 1658-07-28_saint-flour_testament_veyle |
+| église cathédrale (de Saint-Flour) | 1 | 1634-10-02_saint-flour_transaction_saure |
 | église cathédrale Notre-Dame de Saint-Flour | 1 | 1661-03-00_saint-flour_vente_cathalan |
 | église cathédrale [?] | 1 | 1659-11-15_saint-flour_mariage_hugon-juery |
-| église cathédrale de Saint-Flour | 69 | 1626-03-25_saint-flour_bail_chevalier-gotty, 1626-03-25_saint-flour_bail_gotty-bizet, 1626-05-02_saint-flour_transaction_contel-sauret, 1626-09-00_saint-flour_deliberation_desrouel-gazal, 1628-06-07_saint-flour_bail_jehan-prolatier, 1632-09-10_saint-flour_testament_fayet-fayon, 1648-03-29_saint-flour_testament_guillaume, 1648-09-16_saint-flour_donation_rolland-boudon, 1648-11-26_saint-flour_mariage_chastang-couderc, 1650-01-26_saint-flour_vente_colrat-sauret, 1651-07-18_saint-flour_transaction_teilhard-jarquin, 1651-12-27_saint-flour_testament_boyer, 1652-03-18_saint-flour_vente_chavagnac-baldissard, 1652-03-29_saint-flour_testament_cusset-brundroz, 1652-04-14_saint-flour_mariage_rochier-lassy, 1652-04-18_saint-flour_vente_coutel-brausse, 1652-07-01_saint-flour_quittance_blanc, 1652-09-16_saint-flour_vente_champanhac-volp, 1653-02-11_saint-flour_vente_bouy-galand, 1653-02-14_saint-flour_donation_chaumeil-sauve, 1653-02-18_saint-flour_mariage_commond-mallessaignes, 1653-02-24_saint-flour_inventaire_chanson-aujolet, 1653-06-23_saint-flour_subrogation_vidal-albaree, 1653-07-02_saint-flour_vente_jean-noailles, 1653-09-20_saint-flour_vente_salnaz-rolland, 1653-10-02_saint-flour_testament_maurelhiar, 1653-11-30_saint-flour_quittance_gibrat-lolier, 1654-03-30_saint-flour_testament_vispal-couderc, 1654-04-16_saint-flour_transaction_david-estienne, 1655-06-14_saint-flour_donation_bonafos-pademorgue, 1656-04-09_saint-flour_testament_gazard-vouger, 1656-04-28_saint-flour_vente_alliadier-regimbalt, 1656-06-23_saint-flour_subrogation_vossier-charbonnier, 1656-11-18_saint-flour_donation_chazal-molinier, 1656-12-21_saint-flour_testament_bechot-dupre, 1656-12-27_saint-flour_transaction_roux-bousoure, 1657-02-04_saint-flour_donation_champaignac-missonnier, 1657-02-09_saint-flour_mariage_courmarie-bechot, 1657-06-18_saint-flour_vente_chaudesaigues-coutel, 1657-09-00_saint-flour_testament_meunier-cazot, 1657-11-11_saint-flour_mariage_faure-marques, 1658-01-15_saint-flour_quittance_attalec-cussac, 1658-03-26_saint-flour_testament_bussac-nostas, 1658-04-02_saint-flour_donation_roche-bondurand, 1658-05-18_saint-flour_vente_chaluet-charlotes, 1659-02-01_saint-flour_obligation_chazal-meinier, 1659-02-06_saint-flour_vente_vandal-juery, 1659-03-28_saint-flour_vente_charreyre-mirmande, 1659-09-18_saint-flour_testament_tissier-broussy, 1659-10-19_saint-flour_testament_dulac, 1660-03-00_saint-flour_testament_grassalt, 1660-04-14_saint-flour_vente_chassang-faure, 1660-04-20_saint-flour_testament_valadier, 1660-06-14_saint-flour_testament_cochespy, 1660-06-17_saint-flour_donation_vezin, 1660-09-29_saint-flour_testament_broncy-tissier, 1661-05-05_saint-flour_vente_bestier-cathalan, 1662-06-03_saint-flour_testament_chabot-lastic, 1662-06-12_saint-flour_testament_jaquet, 1662-06-14_saint-flour_donation_teissedre, 1663-02-00_saint-flour_donation_martinon-lafoy, 1663-09-15_saint-flour_testament_vidal, 1663-11-25_saint-flour_testament_teilhard, 1664-03-09_saint-flour_bail_roux-sentheran, 1664-06-16_saint-flour_testament_sauret-boudet, 1664-08-20_saint-flour_testament_fontes-gendre, 1666-02-27_saint-flour_testament_pastre-nicolas, 1666-03-06_saint-flour_transaction_gibrat-blanc, 1666-05-16_saint-flour_testament_marques-piron |
+| église cathédrale de Saint-Flour | 76 | 1626-03-25_saint-flour_bail_chevalier-gotty, 1626-03-25_saint-flour_bail_gotty-bizet, 1626-05-02_saint-flour_transaction_contel-sauret, 1626-09-00_saint-flour_deliberation_desrouel-gazal, 1628-06-07_saint-flour_bail_jehan-prolatier, 1632-09-10_saint-flour_testament_fayet-fayon, 1633-04-18_saint-flour_transaction_fazon, 1633-09-26_saint-flour_vente_avinal-roussel, 1633-11-13_saint-flour_testament_rouchea, 1634-02-07_saint-flour_mariage_veissiere-aufolet, 1634-06-07_saint-flour_vente_albos-vandesse, 1634-06-11_saint-flour_vente_bruguier-chareyre, 1638-06-30_saint-flour_partage_sauvat, 1648-03-29_saint-flour_testament_guillaume, 1648-09-16_saint-flour_donation_rolland-boudon, 1648-11-26_saint-flour_mariage_chastang-couderc, 1650-01-26_saint-flour_vente_colrat-sauret, 1651-07-18_saint-flour_transaction_teilhard-jarquin, 1651-12-27_saint-flour_testament_boyer, 1652-03-18_saint-flour_vente_chavagnac-baldissard, 1652-03-29_saint-flour_testament_cusset-brundroz, 1652-04-14_saint-flour_mariage_rochier-lassy, 1652-04-18_saint-flour_vente_coutel-brausse, 1652-07-01_saint-flour_quittance_blanc, 1652-09-16_saint-flour_vente_champanhac-volp, 1653-02-11_saint-flour_vente_bouy-galand, 1653-02-14_saint-flour_donation_chaumeil-sauve, 1653-02-18_saint-flour_mariage_commond-mallessaignes, 1653-02-24_saint-flour_inventaire_chanson-aujolet, 1653-06-23_saint-flour_subrogation_vidal-albaree, 1653-07-02_saint-flour_vente_jean-noailles, 1653-09-20_saint-flour_vente_salnaz-rolland, 1653-10-02_saint-flour_testament_maurelhiar, 1653-11-30_saint-flour_quittance_gibrat-lolier, 1654-03-30_saint-flour_testament_vispal-couderc, 1654-04-16_saint-flour_transaction_david-estienne, 1655-06-14_saint-flour_donation_bonafos-pademorgue, 1656-04-09_saint-flour_testament_gazard-vouger, 1656-04-28_saint-flour_vente_alliadier-regimbalt, 1656-06-23_saint-flour_subrogation_vossier-charbonnier, 1656-11-18_saint-flour_donation_chazal-molinier, 1656-12-21_saint-flour_testament_bechot-dupre, 1656-12-27_saint-flour_transaction_roux-bousoure, 1657-02-04_saint-flour_donation_champaignac-missonnier, 1657-02-09_saint-flour_mariage_courmarie-bechot, 1657-06-18_saint-flour_vente_chaudesaigues-coutel, 1657-09-00_saint-flour_testament_meunier-cazot, 1657-11-11_saint-flour_mariage_faure-marques, 1658-01-15_saint-flour_quittance_attalec-cussac, 1658-03-26_saint-flour_testament_bussac-nostas, 1658-04-02_saint-flour_donation_roche-bondurand, 1658-05-18_saint-flour_vente_chaluet-charlotes, 1659-02-01_saint-flour_obligation_chazal-meinier, 1659-02-06_saint-flour_vente_vandal-juery, 1659-03-28_saint-flour_vente_charreyre-mirmande, 1659-09-18_saint-flour_testament_tissier-broussy, 1659-10-19_saint-flour_testament_dulac, 1660-03-00_saint-flour_testament_grassalt, 1660-04-14_saint-flour_vente_chassang-faure, 1660-04-20_saint-flour_testament_valadier, 1660-06-14_saint-flour_testament_cochespy, 1660-06-17_saint-flour_donation_vezin, 1660-09-29_saint-flour_testament_broncy-tissier, 1661-05-05_saint-flour_vente_bestier-cathalan, 1662-06-03_saint-flour_testament_chabot-lastic, 1662-06-12_saint-flour_testament_jaquet, 1662-06-14_saint-flour_donation_teissedre, 1663-02-00_saint-flour_donation_martinon-lafoy, 1663-09-15_saint-flour_testament_vidal, 1663-11-25_saint-flour_testament_teilhard, 1664-03-09_saint-flour_bail_roux-sentheran, 1664-06-16_saint-flour_testament_sauret-boudet, 1664-08-20_saint-flour_testament_fontes-gendre, 1666-02-27_saint-flour_testament_pastre-nicolas, 1666-03-06_saint-flour_transaction_gibrat-blanc, 1666-05-16_saint-flour_testament_marques-piron |
 | église cathédrale de Saint-Flour (autel Saint-Joseph) | 1 | 1657-03-20_saint-flour_testament_aumergnoz |
 | église cathédrale de Saint-Flour (chapitre) | 3 | 1650-06-26_saint-flour_vente_tailhandier-bonnafos, 1654-03-14_saint-flour_vente_jourdy-richard, 1667-11-11_saint-flour_requete_vuillon-lepelletier |
 | église cathédrale de Saint-Flour (cimetière ; chapelle Sainte-Anne) | 1 | 1661-08-30_saint-flour_testament_levat |
-| église cathédrale de Saint-Flour (cimetière) | 6 | 1652-01-12_saint-flour_testament_eschallier, 1654-06-11_fraissenet_testament_gibrat-beyot, 1657-03-07_saint-flour_testament_malet-vastonnet, 1658-00-00_saint-flour_testament_bergoin-mirmande, 1661-07-15_saint-flour_testament_sauvet, 1663-03-08_saint-flour_donation_bagues-delort |
+| église cathédrale de Saint-Flour (cimetière) | 7 | 1633-04-22_saint-flour_testament_desmars-trabuc, 1652-01-12_saint-flour_testament_eschallier, 1654-06-11_fraissenet_testament_gibrat-beyot, 1657-03-07_saint-flour_testament_malet-vastonnet, 1658-00-00_saint-flour_testament_bergoin-mirmande, 1661-07-15_saint-flour_testament_sauvet, 1663-03-08_saint-flour_donation_bagues-delort |
 | église cathédrale de Saint-Flour (cimetière, tombeau de Guillaume Rougier) | 1 | 1663-04-13_saint-flour_donation_rougier |
 | église cathédrale de Saint-Flour (petit cimetière) | 1 | 1664-05-13_saint-flour_testament_tisset-vallette |
 | église cathédrale de Saint-Flour (sépulture) | 1 | 1661-04-21_saint-flour_testament_gendre-dehauvet |
@@ -12287,17 +13174,20 @@
 | église cathédrale de Saint-Flour et son cimetière | 1 | 1656-12-03_saint-flour_donation_bouger-bertrand |
 | église cathédrale de Saint-Flour, chapelle Notre-Dame de Grâce | 1 | 1662-03-11_saint-flour_testament_detrauesse |
 | église cathédrale de Saint-Flour, chapelle Sainte-Anne | 1 | 1661-03-15_saint-flour_testament_boyer-boudon |
+| église collégiale (Notre-Dame de Saint-Flour ?) | 1 | 1633-05-11_saint-flour_ratification_albaret-malet |
 | église collégiale Notre-Dame | 1 | 1663-07-04_saint-flour_vente_bonnet-judry |
+| église collégiale Notre-Dame [de Saint-Flour?] | 1 | 1634-01-26_saint-flour_quittance_rouger-crespoul |
 | église collégiale Notre-Dame [la Mayour?] de « daulez » | 1 | 1661-11-05_saint-flour_donation_brassac |
-| église collégiale Notre-Dame de Saint-Flour | 57 | 1626-03-04_saint-flour_quittance_jurdy-desauret, 1626-05-01_saint-flour_partage_aymier-bonnefon, 1626-05-28_saint-flour_compromis_fabry-devanes, 1626-07-04_saint-flour_bail_duteil-chalier, 1626-11-04_saint-flour_compromis_desauret-cinqfougeran, 1628-02-24_saint-flour_bail_valarguier-jun, 1628-03-24_saint-flour_transaction_valarchier-mauran, 1647-09-18_saint-flour_testament_couderc-banes, 1648-01-00_saint-flour_testament_sahoure-peuilleu, 1650-01-26_saint-flour_vente_colrat-sauret, 1650-09-29_saint-flour_vente_fajon-sauret, 1650-12-02_saint-flour_cession_bouget-besson, 1651-04-10_saint-flour_vente_brassac-uchassol, 1651-07-00_saint-flour_vente_chanson-berthon, 1652-03-05_saint-flour_vente_daby-boudon, 1652-03-08_saint-flour_vente_combettes-vendre, 1652-03-18_saint-flour_vente_chavagnac-baldissard, 1652-06-08_villedieu_testament_missonnier, 1652-10-07_saint-flour_partage_coutel-malbec, 1653-02-17_saint-flour_vente_tisset-cussac, 1653-02-23_saint-flour_testament_chanson, 1653-03-31_saint-flour_vente_jean-combettes, 1653-04-01_saint-flour_vente_frougoux-jean, 1653-07-02_saint-flour_vente_jean-noailles, 1653-07-25_saint-flour_testament_falgiere, 1653-09-18_saint-flour_testament_ferrand, 1654-01-07_saint-flour_vente_galliardy-albessard, 1654-03-09_saint-flour_vente_forgeac-malle, 1654-07-26_saint-flour_mariage_monnier-brassac, 1654-08-02_saint-flour_mariage_mallessaignes-vigier, 1654-10-28_saint-flour_vente_rigault-deramis, 1656-09-10_saint-flour_testament_aussel, 1656-09-13_saint-flour_testament_bray-cussat, 1656-09-29_saint-flour_transaction_bouchard-chauliaguet, 1656-10-07_saint-flour_mariage_bo-rouget, 1656-10-09_saint-flour_testament_apchier, 1657-03-08_saint-flour_testament_bonal-culhiere, 1657-04-25_saint-flour_testament_girion-combettes, 1657-06-21_saint-flour_retrait_cathalan-gillet, 1658-08-13_saint-flour_testament_blau-trenchier, 1658-09-21_saint-flour_mariage_laurier-galdissard, 1659-02-27_saint-flour_vente_buge-chauliaguet, 1659-03-28_saint-flour_vente_charreyre-mirmande, 1659-09-22_saint-flour_testament_orchier, 1660-05-20_saint-flour_testament_dufour, 1660-10-20_saint-flour_testament_palisse-bourdon, 1661-02-12_saint-flour_testament_daude, 1661-02-24_saint-flour_mariage_prat-pauc, 1661-08-03_saint-flour_testament_herault-champelaux, 1662-06-06_saint-flour_vente_jaquet, 1662-06-12_saint-flour_testament_jaquet, 1663-05-13_saint-flour_vente_charreyre-crozat, 1663-06-00_saint-flour_vente_brassac-jaquin, 1664-05-20_saint-flour_testament_rossignol-calliand, 1666-05-30_saint-flour_testament_andrieu-chanson, 1666-06-05_saint-flour_ratification_meyre-hugon, 1666-08-16_saint-flour_subrogation_rouget-tronchere |
+| église collégiale Notre-Dame de Saint-Flour | 66 | 1626-03-04_saint-flour_quittance_jurdy-desauret, 1626-05-01_saint-flour_partage_aymier-bonnefon, 1626-05-28_saint-flour_compromis_fabry-devanes, 1626-07-04_saint-flour_bail_duteil-chalier, 1626-11-04_saint-flour_compromis_desauret-cinqfougeran, 1628-02-24_saint-flour_bail_valarguier-jun, 1628-03-24_saint-flour_transaction_valarchier-mauran, 1633-05-14_saint-flour_testament_badeul-morin, 1633-06-03_saint-flour_vente_vigier-aymeric, 1633-11-12_saint-flour_vente_roux-rouchea, 1634-01-28_saint-flour_echange_crespel-vibert, 1634-08-22_saint-flour_vente_portal-aymerie, 1634-09-16_saint-flour_vente_vigier-aymeric, 1634-10-11_saint-flour_testament_joullio-julhi, 1638-06-30_saint-flour_quittance_sauvat, 1644-02-00_saint-flour_testament_seguy-comoul, 1647-09-18_saint-flour_testament_couderc-banes, 1648-01-00_saint-flour_testament_sahoure-peuilleu, 1650-01-26_saint-flour_vente_colrat-sauret, 1650-09-29_saint-flour_vente_fajon-sauret, 1650-12-02_saint-flour_cession_bouget-besson, 1651-04-10_saint-flour_vente_brassac-uchassol, 1651-07-00_saint-flour_vente_chanson-berthon, 1652-03-05_saint-flour_vente_daby-boudon, 1652-03-08_saint-flour_vente_combettes-vendre, 1652-03-18_saint-flour_vente_chavagnac-baldissard, 1652-06-08_villedieu_testament_missonnier, 1652-10-07_saint-flour_partage_coutel-malbec, 1653-02-17_saint-flour_vente_tisset-cussac, 1653-02-23_saint-flour_testament_chanson, 1653-03-31_saint-flour_vente_jean-combettes, 1653-04-01_saint-flour_vente_frougoux-jean, 1653-07-02_saint-flour_vente_jean-noailles, 1653-07-25_saint-flour_testament_falgiere, 1653-09-18_saint-flour_testament_ferrand, 1654-01-07_saint-flour_vente_galliardy-albessard, 1654-03-09_saint-flour_vente_forgeac-malle, 1654-07-26_saint-flour_mariage_monnier-brassac, 1654-08-02_saint-flour_mariage_mallessaignes-vigier, 1654-10-28_saint-flour_vente_rigault-deramis, 1656-09-10_saint-flour_testament_aussel, 1656-09-13_saint-flour_testament_bray-cussat, 1656-09-29_saint-flour_transaction_bouchard-chauliaguet, 1656-10-07_saint-flour_mariage_bo-rouget, 1656-10-09_saint-flour_testament_apchier, 1657-03-08_saint-flour_testament_bonal-culhiere, 1657-04-25_saint-flour_testament_girion-combettes, 1657-06-21_saint-flour_retrait_cathalan-gillet, 1658-08-13_saint-flour_testament_blau-trenchier, 1658-09-21_saint-flour_mariage_laurier-galdissard, 1659-02-27_saint-flour_vente_buge-chauliaguet, 1659-03-28_saint-flour_vente_charreyre-mirmande, 1659-09-22_saint-flour_testament_orchier, 1660-05-20_saint-flour_testament_dufour, 1660-10-20_saint-flour_testament_palisse-bourdon, 1661-02-12_saint-flour_testament_daude, 1661-02-24_saint-flour_mariage_prat-pauc, 1661-08-03_saint-flour_testament_herault-champelaux, 1662-06-06_saint-flour_vente_jaquet, 1662-06-12_saint-flour_testament_jaquet, 1663-05-13_saint-flour_vente_charreyre-crozat, 1663-06-00_saint-flour_vente_brassac-jaquin, 1664-05-20_saint-flour_testament_rossignol-calliand, 1666-05-30_saint-flour_testament_andrieu-chanson, 1666-06-05_saint-flour_ratification_meyre-hugon, 1666-08-16_saint-flour_subrogation_rouget-tronchere |
 | église collégiale Notre-Dame de Saint-Flour (autel N.-D. des Agonisants) | 1 | 1658-05-25_saint-flour_testament_rigault |
-| église collégiale Notre-Dame de Saint-Flour (chapitre) | 2 | 1654-05-14_saint-flour_cession_rouget-faverge, 1656-06-23_saint-flour_subrogation_vossier-charbonnier |
+| église collégiale Notre-Dame de Saint-Flour (chapitre) | 3 | 1633-01-18_saint-flour_vente_crespon-cristal, 1654-05-14_saint-flour_cession_rouget-faverge, 1656-06-23_saint-flour_subrogation_vossier-charbonnier |
 | église collégiale Notre-Dame de Saint-Flour (cimetière) | 1 | 1656-08-04_saint-flour_testament_gauil |
+| église collégiale Notre-Dame de Saint-Flour (directe du fonds) | 1 | 1633-02-06_saint-flour_mariage_tallon-dufour |
 | église collégiale Notre-Dame de Saint-Flour (salle du chapitre) | 1 | 1626-09-00_saint-flour_deliberation_desrouel-gazal |
 | église collégiale Notre-Dame de Saint-Flour (sépulture) | 2 | 1652-03-29_saint-flour_testament_cusset-brundroz, 1654-03-30_saint-flour_testament_vispal-couderc |
 | église collégiale Notre-Dame de Saint-Flour (tombeau des prédécesseurs du testateur) | 1 | 1657-03-20_saint-flour_testament_aumergnoz |
 | église collégiale [Notre-]Dame de Saint-Flour | 1 | 1650-03-13_saint-flour_vente_chastel-fayon |
-| église collégiale de Saint-Flour | 13 | 1628-05-26_saint-flour_donation_coutel, 1651-09-06_saint-flour_testament_rigault, 1655-06-14_saint-flour_donation_bonafos-pademorgue, 1656-07-09_saint-flour_mariage_estival-chaulhaguet, 1657-06-10_saint-flour_testament_gendre-vahon, 1657-06-18_saint-flour_vente_chaudesaigues-coutel, 1658-02-13_saint-flour_vente_sauron-jean, 1660-04-20_saint-flour_testament_valadier, 1660-08-02_saint-flour_mariage_brassac-brugon, 1660-09-27_saint-flour_testament_farreyre, 1661-02-25_saint-flour_testament_rigault, 1661-05-05_saint-flour_vente_bestier-cathalan, 1666-07-18_saint-flour_mariage_blanc-cahot |
+| église collégiale de Saint-Flour | 14 | 1628-05-26_saint-flour_donation_coutel, 1633-11-14_saint-flour_vente_monnier-mossine, 1651-09-06_saint-flour_testament_rigault, 1655-06-14_saint-flour_donation_bonafos-pademorgue, 1656-07-09_saint-flour_mariage_estival-chaulhaguet, 1657-06-10_saint-flour_testament_gendre-vahon, 1657-06-18_saint-flour_vente_chaudesaigues-coutel, 1658-02-13_saint-flour_vente_sauron-jean, 1660-04-20_saint-flour_testament_valadier, 1660-08-02_saint-flour_mariage_brassac-brugon, 1660-09-27_saint-flour_testament_farreyre, 1661-02-25_saint-flour_testament_rigault, 1661-05-05_saint-flour_vente_bestier-cathalan, 1666-07-18_saint-flour_mariage_blanc-cahot |
 | église collégiale de Saint-Flour [« leglize coll[...] »] | 1 | 1661-02-01_saint-flour_testament_reguibal-vidal |
 | église d'Alleuze | 1 | 1661-07-22_alleuze_testament_gardelle |
 | église d'Andelat | 3 | 1651-12-06_andelat_donation_maury-sauvet, 1654-09-16_andelat_testament_sauvet-chalmette, 1661-07-20_andelat_testament_chastel-alboy |
@@ -12305,10 +13195,12 @@
 | église d'Andelat, autel de Notre-Dame du Saint-Rosaire | 1 | 1659-11-03_andelat_donation_brezes |
 | église d'Anglards (communauté) | 1 | 1650-05-26_anglards_vente_combettes-jouve |
 | église d'Oradour | 2 | 1650-06-15_saint-flour_testament_durand, 1661-07-15_saint-flour_testament_sauvet |
+| église d'Ussel | 1 | 1634-10-11_saint-flour_testament_joullio-julhi |
 | église de Coltines | 3 | 1651-12-09_saint-flour_vente_jean-margarit, 1657-05-31_coltines_donation_chastang, 1658-03-03_coltines_donation_vorze |
 | église de Faverolles [?] (chemin partant de l'[esglise?]) | 1 | 1653-06-29_saint-flour_vente_mallet-bergier |
 | église de Mentières | 1 | 1664-03-15_saint-flour_transaction_bassa |
 | église de Nost[re ...] (Notre-Dame ?, douteux) | 1 | 1651-12-23_saint-flour_testament_pages-dubourd |
+| église de Paulhac | 1 | 1633-12-13_saint-flour_testament_chazal |
 | église de Roffiac | 3 | 1650-07-01_roffiac_mariage_rolland-mallet, 1659-11-18_roffiac_vente_trabue-mallet, 1664-03-17_saint-flour_donation_fontes |
 | église de Roffiac (tombeau des prédécesseurs du testateur) | 1 | 1657-02-20_roffiac_testament_delolme-vautherin |
 | église de S.t [Dominique?] (Dominicains/Jacobins de Saint-Flour ?) | 1 | 1666-10-08_saint-flour_testament_chazal-mollinier |
@@ -12326,7 +13218,7 @@
 | église des Cordeliers des faubourgs de Saint-Flour | 1 | 1664-03-22_saint-flour_testament_bonniol |
 | église des Dominicains de Saint-Flour (chapelle du Rosaire) | 1 | 1662-09-11_saint-flour_testament_blanchy |
 | église des Frères prêcheurs (couvent Saint-Dominique) de Saint-Flour | 1 | 1653-09-30_saint-flour_testament_galiot-marquis |
-| église des Jacobins de Saint-Flour | 1 | 1666-10-01_saint-flour_testament_chinial-riou |
+| église des Jacobins de Saint-Flour | 2 | 1633-12-02_saint-flour_testament_galvier-vidal, 1666-10-01_saint-flour_testament_chinial-riou |
 | église des Pères Prêcheurs de Saint-Flour | 1 | 1661-06-23_saint-flour_testament_chastang-vigier |
 | église des Pères de Saint-Dominique (Dominicains) de Saint-Flour | 2 | 1661-08-06_saint-flour_testament_deltort-teller, 1666-10-30_saint-flour_testament_callijat-baldissard |
 | église des R. P. Prêcheurs[?] de Saint-Flour | 1 | 1657-03-05_saint-flour_testament_malzoni |
@@ -12363,8 +13255,9 @@
 | église paroissiale de [Tiuyers?] | 1 | 1656-10-00_inconnu_testament_cabonnis-bessayre |
 | église paroissiale de [Vabres?] | 1 | 1660-04-04_saint-flour_testament_fontes |
 | élection de Haute-Auvergne | 3 | 1654-03-14_saint-flour_vente_jourdy-richard, 1658-03-19_saint-flour_vente_rispal-bonafos, 1664-02-04_saint-flour_vente_meyliac-bonafos |
-| élection de Saint-Flour | 35 | 1648-07-14_saint-flour_obligation_cussac-lagoisson, 1649-10-19_saint-flour_quittance_cussac-lauvie, 1650-09-21_saint-flour_vente_boudet-maury, 1651-02-00_saint-flour_vente_missonnier-vezin, 1651-04-02_saint-flour_vente_mauvy-gerauld, 1651-06-02_saint-flour_vente_vezin-vazeilles, 1651-07-18_saint-flour_transaction_teilhard-jarquin, 1651-09-22_saint-flour_transaction_chauliaguet, 1653-07-05_saint-flour_cession_chauliaguet-biller, 1653-09-00_saint-flour_mariage_bechot-chaulhaguet, 1654-07-05_saint-flour_vente_jourdes-albaret, 1654-07-12_saint-flour_vente_chauliaguet-lalieure, 1654-08-00_saint-flour_transaction_bardoz-boussuge, 1655-05-23_saint-flour_transaction_yzabel-sentheraiz, 1655-11-10_saint-flour_vente_monet-combes, 1656-03-31_saint-flour_donation_rongier-beaufilz, 1656-12-13_saint-flour_vente_sudre-noclar, 1657-01-08_saint-flour_sommation_audigier-bonnet, 1657-01-23_saint-flour_demission_julhien, 1657-06-21_saint-flour_retrait_cathalan-gillet, 1658-05-27_saint-flour_vente_tafanel-combes, 1658-06-29_saint-flour_vente_lallandier-noslac, 1660-00-00_saint-flour_sommation_audigier-nicolas, 1660-04-26_saint-flour_vente_jacques-traverse, 1660-05-08_saint-flour_mariage_dupre-traverse, 1660-10-19_saint-flour_vente_tissard-boudon, 1661-08-06_saint-flour_testament_deltort-teller, 1661-12-04_saint-flour_donation_delaroche, 1662-12-04_saint-flour_vente_delpeuch-faulcon, 1663-04-23_saint-flour_obligation_champaniac-delrhieu, 1664-03-28_saint-flour_vente_colomb-sadone, 1664-07-06_saint-flour_transaction_lastic-fargue, 1664-10-26_saint-flour_vente_southeyrain-apchier, 1665-07-04_saint-flour_inventaire_grassalt-berthon, 1665-12-16_saint-flour_vente_vezis-bertrand |
+| élection de Saint-Flour | 38 | 1634-01-11_inconnu_bail_bouges-maolat, 1638-06-30_saint-flour_partage_sauvat, 1644-08-18_saint-flour_donation_bonnault, 1648-07-14_saint-flour_obligation_cussac-lagoisson, 1649-10-19_saint-flour_quittance_cussac-lauvie, 1650-09-21_saint-flour_vente_boudet-maury, 1651-02-00_saint-flour_vente_missonnier-vezin, 1651-04-02_saint-flour_vente_mauvy-gerauld, 1651-06-02_saint-flour_vente_vezin-vazeilles, 1651-07-18_saint-flour_transaction_teilhard-jarquin, 1651-09-22_saint-flour_transaction_chauliaguet, 1653-07-05_saint-flour_cession_chauliaguet-biller, 1653-09-00_saint-flour_mariage_bechot-chaulhaguet, 1654-07-05_saint-flour_vente_jourdes-albaret, 1654-07-12_saint-flour_vente_chauliaguet-lalieure, 1654-08-00_saint-flour_transaction_bardoz-boussuge, 1655-05-23_saint-flour_transaction_yzabel-sentheraiz, 1655-11-10_saint-flour_vente_monet-combes, 1656-03-31_saint-flour_donation_rongier-beaufilz, 1656-12-13_saint-flour_vente_sudre-noclar, 1657-01-08_saint-flour_sommation_audigier-bonnet, 1657-01-23_saint-flour_demission_julhien, 1657-06-21_saint-flour_retrait_cathalan-gillet, 1658-05-27_saint-flour_vente_tafanel-combes, 1658-06-29_saint-flour_vente_lallandier-noslac, 1660-00-00_saint-flour_sommation_audigier-nicolas, 1660-04-26_saint-flour_vente_jacques-traverse, 1660-05-08_saint-flour_mariage_dupre-traverse, 1660-10-19_saint-flour_vente_tissard-boudon, 1661-08-06_saint-flour_testament_deltort-teller, 1661-12-04_saint-flour_donation_delaroche, 1662-12-04_saint-flour_vente_delpeuch-faulcon, 1663-04-23_saint-flour_obligation_champaniac-delrhieu, 1664-03-28_saint-flour_vente_colomb-sadone, 1664-07-06_saint-flour_transaction_lastic-fargue, 1664-10-26_saint-flour_vente_southeyrain-apchier, 1665-07-04_saint-flour_inventaire_grassalt-berthon, 1665-12-16_saint-flour_vente_vezis-bertrand |
 | élection de Saint-Flour [?] | 1 | 1653-01-23_saint-flour_transaction_saignes-gillet |
+| élection de Saint-Flour[?] | 1 | 1633-01-23_saint-flour_mariage_chapaneyre-lanne |
 | élection du Haut-Auvergne | 2 | 1658-05-13_saint-flour_vente_bonnafos-rispal, 1665-09-08_saint-flour_testament_salesses |
 | élection du haut Auvergne (Saint-Flour) | 1 | 1663-04-25_saint-flour_mariage_vezis-teilhard |
 | étable d'Antoine Mourat | 1 | 1651-05-06_saint-flour_echange_aurelle-mourat |
@@ -12376,4 +13269,6 @@
 | étude du notaire à Saint-Flour | 6 | 1656-12-27_saint-flour_vente_fayon-odoul, 1656-12-28_saint-flour_mariage_mounier-boyer, 1656-12-28_saint-flour_vente_odoul-sauvaige, 1660-01-16_saint-flour_donation_maraygue, 1661-02-27_saint-flour_partage_gibrat, 1661-03-20_saint-flour_vente_sentherain-bechot |
 | étude du notaire, Saint-Flour | 1 | 1658-03-24_saint-flour_echange_chassaigne-boudil |
 | évêché de Saint-Flour (confront) | 1 | 1656-04-28_saint-flour_vente_alliadier-regimbalt |
+| évêché de Saint-Flour (directe du jardin) | 1 | 1633-04-18_saint-flour_transaction_fazon |
 | évêché de Saint-Flour (directe seigneuriale) | 1 | 1660-08-22_saint-flour_mariage_aujolet-rossignol |
+| évêché de Saint-Flour (directe) | 1 | 1634-01-15_saint-flour_vente_regimbal-roussel |
