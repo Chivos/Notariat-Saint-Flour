@@ -22,13 +22,11 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  publier:
+  # 1. Assemblage du site (page, index, fiches, liste des registres).
+  assembler:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deploiement.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Vérifier l'index
         run: python3 -c "import json; d=json.load(open('index/index.json', encoding='utf-8')); print(len(d['actes']), 'actes')"
@@ -45,9 +43,19 @@ jobs:
 
       - uses: actions/configure-pages@v5
 
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v4
         with:
           path: _site
 
+  # 2. Mise en ligne, dans un job séparé : il ne démarre qu'une fois le site
+  #    assemblé bien enregistré par GitHub (évite l'erreur « No artifacts
+  #    named github-pages were found » quand les deux étapes se suivent de trop près).
+  publier:
+    needs: assembler
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
       - id: deploiement
         uses: actions/deploy-pages@v4
