@@ -67,6 +67,7 @@
     var badges = "";
     if (ind.deduit) badges += '<span class="badge" title="Personne jamais nommée comme partie : connue seulement par la filiation d\'un autre">déduit</span>';
     if (ind.homonymes) badges += '<span class="badge" title="Plusieurs individus portent ce nom et ce prénom : ils ont pu être mal séparés ou mal regroupés">' + ind.homonymes + " homonymes</span>";
+    if (ind.parentsMultiples) badges += '<span class="badge badge-attention" title="Les actes lui donnent plus de deux parents : deux personnes homonymes ont sans doute été confondues, ou un nom a été mal lu">plus de 2 parents</span>';
     if (ind.contradiction) badges += '<span class="badge badge-attention" title="Des liens incompatibles ont été écartés : probablement des homonymes confondus">liens incohérents</span>';
     return '<span class="fam-meta">' + m.join(" · ") + "</span>" + badges;
   }
