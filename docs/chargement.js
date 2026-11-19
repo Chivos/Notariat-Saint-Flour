@@ -35,13 +35,46 @@
     if (t.lastIndexOf("autre", 0) === 0) return "autre";
     return t || "inconnu";
   }
-  function notaireNormalise(n) {
-    n = String(n || "").toUpperCase();
-    if (n.indexOf("SOURZAT") >= 0) return "SOURZAT";
-    if (n.indexOf("PAGÈS") >= 0 || n.indexOf("PAGES") >= 0) return "PAGÈS";
-    if (n.indexOf("PAYEN") >= 0) return "PAYEN";
-    return "non identifié";
+  // Nom du notaire tel qu'écrit dans l'index (« SOURZAT Hugues (signe « Sourzat Notaire Royal ») »,
+  // « [PAGES?] »…) -> premier nom en capitales, sans crochets ni signes de doute.
+  var PAS_UN_NOM = /^(?:NON|LU|NOTAIRE|ROYAL|NORE|DE|DU|LA|LE|ET)$/;
+  function nomNotaire(n) {
+    var mots = String(n || "").replace(/[\[\]?]/g, " ").split(/[^A-Za-zÀ-ÿ'-]+/);
+    for (var i = 0; i < mots.length; i++) {
+      var m = mots[i];
+      if (m.length >= 3 && m === m.toUpperCase() && /[A-ZÀ-Þ]/.test(m) && !PAS_UN_NOM.test(m)) return m;
+    }
+    return "";
   }
+  // Regroupe les notaires de tous les actes : les variantes d'un notaire fréquent (PAGES / PAGÈS,
+  // SOUZAT / SOURZAT) lui sont rattachées ; les noms très rares vont dans « autres ».
+  function notairesNormalises(actes) {
+    var P = window.Phonetique, SEUIL = 5;
+    var noms = actes.map(function (a) { return nomNotaire(a.notaire); });
+    var parCle = new Map();
+    noms.forEach(function (n) {
+      if (!n) return;
+      var k = P.cleOrtho(n), e = parCle.get(k);
+      if (!e) parCle.set(k, e = { n: 0, formes: new Map() });
+      e.n++;
+      e.formes.set(n, (e.formes.get(n) || 0) + 1);
+    });
+    var frequents = Array.from(parCle.entries()).filter(function (x) { return x[1].n >= SEUIL; })
+      .sort(function (x, y) { return y[1].n - x[1].n; });
+    var libelle = function (e) {
+      var best = "", max = -1;
+      e.formes.forEach(function (c, f) { if (c > max || (c === max && /[À-Þ]/.test(f))) { max = c; best = f; } });
+      return best;
+    };
+    var verdict = new Map();
+    parCle.forEach(function (e, k) {
+      var cible = frequents.filter(function (f) { return f[0] === k; })[0] ||
+        frequents.filter(function (f) { return P.distance(f[0], k, 1) <= 1; })[0];
+      verdict.set(k, cible ? libelle(cible[1]) : "autres");
+    });
+    return noms.map(function (n) { return n ? verdict.get(P.cleOrtho(n)) : "non identifié"; });
+  }
+
 
   // « AD15 3 E 263-1, pages 10, 11 » -> « 3 E 263-1 » (cote du registre aux AD).
   function coteRegistre(cote) {
@@ -51,14 +84,15 @@
   window.coteRegistre = coteRegistre;
 
   function convertir(donnees) {
+    var groupesNotaires = notairesNormalises(donnees.actes || []);
     return {
       genere_le: donnees.genere_le || "",
-      actes: (donnees.actes || []).map(function (a) {
+      actes: (donnees.actes || []).map(function (a, i) {
         return {
           id: a.id, chemin: a.chemin || "",
           type: a.type || "", tg: groupeType(a.type),
           date: a.date_acte || "", lieu: a.lieu || "",
-          notaire: a.notaire || "", ng: notaireNormalise(a.notaire),
+          notaire: a.notaire || "", ng: groupesNotaires[i],
           depot: a.depot || "", cote: a.cote || "", registre: coteRegistre(a.cote),
           etat: a.etat_transcription || "", confiance: a.confiance || "",
           personnes: (a.personnes || []).map(function (p) {

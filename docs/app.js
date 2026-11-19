@@ -178,7 +178,9 @@ window.demarrerExplorateur = function () {
   }
   var parNombre = function (a, b) { return b[1] - a[1] || a[0].localeCompare(b[0], "fr"); };
   remplirSelect("type", compter("tg").sort(parNombre));
-  remplirSelect("notaire", compter("ng").sort(parNombre));
+  // « autres » et « non identifié » en fin de liste.
+  var enDernier = function (x) { return x[0] === "autres" || x[0] === "non identifié" ? 1 : 0; };
+  remplirSelect("notaire", compter("ng").sort(function (a, b) { return enDernier(a) - enDernier(b) || parNombre(a, b); }));
 
   CHAMPS_TEXTE.concat(CHAMPS_SELECT).forEach(function (n) { DEFAUTS[n] = form.elements[n].value; });
   CASES.forEach(function (n) { DEFAUTS[n] = form.elements[n].checked; });
