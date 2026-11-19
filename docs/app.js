@@ -30,6 +30,39 @@ window.demarrerExplorateur = function () {
     return [m[1] + "-" + mois[0] + "-" + jour[0], m[1] + "-" + mois[1] + "-" + jour[1]];
   }
 
+  // Mots des graphies qui ne sont jamais des noms ni des prénoms.
+  var MOTS_DESCRIPTION = {};
+  ("PARR PARRE PARROISSE PAROISSE PARROSS PARROSSE LIEU VILLE DEMEURANT HABITANT HABITANTE VEUFUE VEFUE VEUUE " +
+   "CURE PRESTRE PRETRE NORE NOTAIRE ROYAL VAND VANDR VANDRESSE VENDERESSE SIGNATURE SIGNE PERE MERE FRERE SOEUR " +
+   "MARCHAND LABOUREUR MAISTRE BOURGEOIS CLERC PRATICIEN TAILLEUR CORDONNIER AUTRE AUTRES PAR POUR CY APRES ESTRE").split(" ")
+    .forEach(function (m) { MOTS_DESCRIPTION[m] = 1; });
+  // Découpe une graphie en { nom: [...], prenom: [...] } : le nom est le mot (ou la paire de
+  // mots) le plus proche du nom normalisé de la personne ; le prénom, les mots qui le précèdent.
+  function decouperGraphie(g, nomNormalise) {
+    var mots = P.mots(g).filter(function (m) { return m.length > 1 && !P.MOTS_VIDES[m] && !MOTS_DESCRIPTION[m]; });
+    if (!mots.length) return { nom: [], prenom: [] };
+    var cible = P.clePhon(nomNormalise), cibleOrtho = P.cleOrtho(nomNormalise);
+    var meilleur = -1, largeur = 1, ecart = Infinity;
+    if (cible) {
+      var tolerance = Math.max(1, Math.floor(cible.length / 3));
+      mots.forEach(function (m, i) {
+        [[m, 1], [i + 1 < mots.length ? m + mots[i + 1] : null, 2]].forEach(function (c) {
+          if (!c[0]) return;
+          // Écart minimal entre prononciation et orthographe (fredeuille = FREDEVILLE).
+          var e = Math.min(P.distance(P.clePhon(c[0]), cible, tolerance), P.distance(P.cleOrtho(c[0]), cibleOrtho, tolerance));
+          if (e <= tolerance && e < ecart) { ecart = e; meilleur = i; largeur = c[1]; }
+        });
+      });
+    }
+    if (meilleur < 0) {
+      // Nom introuvable (illisible, très déformé) : on suppose « prénom nom … » ; la suite
+      // de la graphie (qualité, résidence…) n'est pas prise en compte.
+      return mots.length > 1 ? { nom: [mots[1]], prenom: [mots[0]] } : { nom: [mots[0]], prenom: [] };
+    }
+    var nom = mots.slice(meilleur, meilleur + largeur);
+    return { nom: nom.length > 1 ? nom.concat([nom.join("")]) : nom, prenom: mots.slice(Math.max(0, meilleur - 2), meilleur) };
+  }
+
   var MENTIONS = []; // une entrée par personne citée dans un acte
   ACTES.forEach(function (a, ia) {
     a.idx = ia;
@@ -37,18 +70,20 @@ window.demarrerExplorateur = function () {
     a.texte = plat([a.type, a.resume, a.cote, a.lieu, a.notaire].concat(a.lieux, a.sommes, a.mots).join(" \u0001 "));
     a.mentions = [];
     a.personnes.forEach(function (p, ip) {
-      var tokens = [];
+      // Graphies originales : on n'en garde que le nom (pour la recherche par nom) et les
+      // mots qui le précèdent (pour la recherche par prénom), pas le reste de la description
+      // (« veuve de feu sieur Jean parra », « parr. de Dienne »…).
+      var tokensNom = [], tokensPrenom = [];
       p.graphies.forEach(function (g) {
-        var ms = P.mots(g).filter(function (m) { return m.length > 1 && !P.MOTS_VIDES[m]; });
-        ms.forEach(function (m, i) {
-          tokens.push(m);
-          if (i + 1 < ms.length) tokens.push(m + ms[i + 1]); // « de Lort », « Del Bos »
-        });
+        var d = decouperGraphie(g, p.nom);
+        tokensNom.push.apply(tokensNom, d.nom);
+        tokensPrenom.push.apply(tokensPrenom, d.prenom);
       });
       var m = {
         acte: a, p: p, ip: ip,
         motsPrenom: P.mots(p.prenom),
-        tokens: tokens,
+        tokens: tokensNom,
+        tokensPrenom: tokensPrenom,
         role: plat(p.role),
         profession: plat(p.profession),
         residence: plat(p.residence + " \u0001 " + p.filiation),
@@ -136,7 +171,7 @@ window.demarrerExplorateur = function () {
       if (cmps.length) tests.push(function (m) {
         return cmps.every(function (cmp) {
           for (var i = 0; i < m.motsPrenom.length; i++) if (cmp(m.motsPrenom[i])) return true;
-          if (opts.graphies) for (var j = 0; j < m.tokens.length; j++) if (cmp(m.tokens[j])) return true;
+          if (opts.graphies) for (var j = 0; j < m.tokensPrenom.length; j++) if (cmp(m.tokensPrenom[j])) return true;
           return false;
         });
       });

@@ -25,6 +25,7 @@
       .replace(/[\[\]?]/g, "").replace(/\s+/g, " ").trim();
   }
   function cleNom(nom) { return P.cleOrtho(nom); }
+  function plat(s) { return String(s || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase(); }
   // Formes féminines que la clé orthographique confondrait avec le masculin (Jeanne = Jean…).
   var FEMININS = new Set(("JEANNE JEHANNE IEANNE IEHANNE JANE LOUISE LOYSE LOUYSE FRANCOISE MICHELLE GABRIELLE RAYMONDE DURANDE VIDALE " +
     "BERNARDE GERAUDE GUIRAUDE SIMONE DENISE PAULE JULIENNE MARTINE CLAUDINE ANDREE PHILIPPE").split(" "));
@@ -38,7 +39,7 @@
   }
   function anneeDe(a) { var y = parseInt((a.date || "").slice(0, 4), 10); return y > 0 ? y : null; }
 
-  var TITRES = /^(?:m\^?e|me|mre|m\^?re|mtre|maistre|maître|messire|sieur|sr|s\^?r|noble|honn?est?e|honnête|dame|damoiselle|demoiselle|dam\.?lle|dlle|vénérable|venerable|discret|frère|sœur)\.?\s+/i;
+  var TITRES = /^(?:m\^?e|me|mre|m\^?re|mr|m|mtre|maistre|maître|messire|monsieur|sieur|sr|s\^?r|noble|honn?est?e|honnête|dame|damoiselle|demoiselle|dam\.?lle|dlle|vénérable|venerable|discret|frère|sœur)\.?\s+/i;
   var PRENOMS_COMPOSES = /^(?:Jean|Jeanne|Marie|Anne|Pierre|Louis|François|Claude)\s+(?:Baptiste|Pierre|Louis|François|Marie|Anne|Jacques|Antoine|Joseph|Hugues|Claude)$/i;
   var FEU = /^(?:feue?s?|défunte?s?|deffunte?s?)\s+/i;
 
@@ -59,7 +60,7 @@
   ];
 
   // Relation exprimée par le début d'un segment.
-  var RELATION = /^(?:(?:probablement|sans doute|peut-être|dit[e]?)\s+)?(?:(?:premier|première|second|seconde|deuxième|troisième|aîné|aînée|cadet|cadette|puîné|puînée|jeune)\s+)?(fils|filz|fille|enfants?|père|mère|épouse|femme|veuve|mari|époux|frère|sœur|soeur)\b((?:\s+(?:naturel(?:le)?|légitime|aîné(?:e)?|aisné|aisne|puîné(?:e)?|cadet(?:te)?|défunt(?:e)?|unique|majeur|mineur|en\s+(?:premières|secondes)\s+noces|puis\s+veuve|et\s+héritière?))*)\s+(d'|de\s+la\s+|de\s+l'|de\s+|du\s+|des\s+)(.+)$/i;
+  var RELATION = /^(?:(?:probablement|vraisemblablement|sans doute|peut-être|semble-t-il|dit[e]?)\s+)?(?:(?:premier|première|second|seconde|deuxième|troisième|aîné|aînée|cadet|cadette|puîné|puînée|jeune)\s+)?(fils|filz|fille|enfants?|père|mère|épouse|femme|veuve|mari|époux|frère|sœur|soeur)\b((?:\s+(?:naturel(?:le)?|légitime|aîné(?:e)?|aisné|aisne|puîné(?:e)?|cadet(?:te)?|défunt(?:e)?|unique|majeur|mineur|en\s+(?:premières|secondes)\s+noces|puis\s+veuve|et\s+héritière?))*)\s+(d'|de\s+la\s+|de\s+l'|de\s+|du\s+|des\s+)(.+)$/i;
 
   function typeRelation(mot) {
     mot = mot.toLowerCase();
@@ -187,6 +188,7 @@
     // Résolution d'une cible dans l'acte (même acte d'abord).
     function resoudre(sujet, cible, type, autres) {
       var dansActe = parActe.get(sujet.acte.idx) || [];
+      var prenomSujet = plat(P.mots(sujet.prenom)[0] || "").replace(/[^a-z]/g, "");
       if (cible.ref) {
         var t = dansActe.filter(function (y) { return y !== sujet && cible.ref.test(y.m.p.role); });
         return t.length ? { mention: t[0] } : null;
@@ -205,12 +207,22 @@
         if (y === sujet || y.cle !== cle) return false;
         // Un conjoint n'est ni l'enfant du sujet ni, s'il est dit « feu », une partie vivante de l'acte.
         if (type === "conjoint") {
-          var ty = (y.m.p.role + " " + y.m.p.filiation).toLowerCase();
-          if (/\b(fils|fille|filz)\b/.test(ty)) return false;
-          if (cible.feu && !/défunt|feu\b/.test(ty)) return false;
+          var ty = plat(y.m.p.role + " " + y.m.p.filiation);
+          // Un conjoint n'est pas l'enfant du sujet (« fils de … et de <prénom du sujet> »).
+          if (/\b(fils|fille|filz)\b/.test(ty) && prenomSujet && new RegExp("\\b(fils|fille|filz)\\b[^;]*\\b" + prenomSujet + "\\b").test(ty)) return false;
+          if (cible.feu && !/defunt|deffunt|feue?\b/.test(ty)) return false;
         }
         return true;
       });
+      if (t2.length > 1 && prenomSujet) {
+        // Homonymes dans l'acte : on préfère celui dont la filiation cite le sujet en retour
+        // (« mari de Marguerite BRAZE », « frère de Filipe HUGON »).
+        var retour = { conjoint: "(mari|epoux|femme|epouse|veuve|veuf)", fratrie: "(frere|soeur|sœur)", enfant: "(pere|mere)", parent: "(fils|fille|filz|enfant)" }[type];
+        var nomSujet = plat(sujet.nom).replace(/[^a-z]/g, "").slice(0, 4);
+        var reRetour = retour && new RegExp("\\b" + retour + "\\b[^;]*?\\b" + prenomSujet + "\\b[^;]*?\\b" + nomSujet);
+        var reciproques = reRetour ? t2.filter(function (y) { return reRetour.test(plat(y.m.p.role + " ; " + y.m.p.filiation)); }) : [];
+        if (reciproques.length) t2 = reciproques;
+      }
       if (t2.length > 1) {
         // Homonymes dans l'acte (père et fils) : on départage par le qualificatif ou le rôle.
         var texte = function (y) { return (y.m.p.role + " " + y.m.p.filiation).toLowerCase(); };
@@ -218,7 +230,7 @@
           if (cible.qualif === "père") return /père|mari\b|veuf/.test(texte(y));
           if (cible.qualif === "fils") return /\bfils\b|héritier|jeune/.test(texte(y));
           if (type === "enfant") return /père|mère/.test(texte(y));
-          if (type === "conjoint") return !/\bfils\b|\bfille\b/.test(texte(y));
+          if (type === "conjoint") return !/\bfils\b|\bfille\b/.test(texte(y)) || /\b(mari|époux|femme|épouse)\b/.test(texte(y));
           return false;
         });
         if (choix.length) t2 = choix;
@@ -312,8 +324,48 @@
       qa.forEach(function (k) { if (!qb.has(k)) ok = false; });
       return ok;
     }
+    // Conjoints connus de chaque mention, et date de l'acte, pour départager des homonymes.
+    var conjointsDe = new Map(), dateDe = new Map();
+    LIENS.forEach(function (l) {
+      if (l.type !== "conjoint") return;
+      [[l.a, l.b], [l.b, l.a]].forEach(function (c) {
+        if (!c[0].m) return;
+        var n = noeud(c[0]);
+        if (!conjointsDe.has(n)) conjointsDe.set(n, new Set());
+        conjointsDe.get(n).add(cleDe(c[1]));
+      });
+    });
+    M.forEach(function (x) { if (x.cle) dateDe.set(noeud(x), x.acte.date || "9999"); });
+    function conjointsGroupe(racine) {
+      var r = new Set();
+      (uf.membres.get(racine) || [racine]).forEach(function (n) { (conjointsDe.get(n) || new Set()).forEach(function (k) { r.add(k); }); });
+      return r;
+    }
+    // Quand une mention peut rejoindre plusieurs homonymes distincts (deux sœurs Helipse, l'aînée
+    // et la cadette), on choisit le plus cohérent : même conjoint d'abord, puis sans conjoint
+    // connu ; une personne déjà mariée à quelqu'un d'autre ne passe qu'en dernier recours.
     indices.forEach(function (l) {
-      for (var i = 1; i < l.length; i++) if (compatibles(l[0], l[i])) uf.unir(l[0], l[i]);
+      l = l.slice().sort(function (a, b) { return (dateDe.get(a) || "").localeCompare(dateDe.get(b) || ""); });
+      l.forEach(function (n, i) {
+        var vues = new Set(), candidats = [];
+        for (var j = 0; j < i; j++) {
+          var r = uf.trouver(l[j]);
+          if (r === uf.trouver(n) || vues.has(r)) continue;
+          vues.add(r);
+          if (compatibles(l[j], n)) candidats.push(r);
+        }
+        if (!candidats.length) return;
+        var cn = conjointsGroupe(uf.trouver(n));
+        var score = function (r) {
+          var cc = conjointsGroupe(r);
+          if (!cn.size || !cc.size) return 1;
+          var commun = false;
+          cc.forEach(function (k) { if (cn.has(k)) commun = true; });
+          return commun ? 2 : 0;
+        };
+        candidats.sort(function (a, b) { return score(b) - score(a); });
+        for (var k = 0; k < candidats.length; k++) if (uf.unir(candidats[k], n)) break;
+      });
     });
     // Variantes de lecture d'un même proche : les parents d'un même enfant qui ont le même
     // prénom, ou les conjoints d'une même personne au même prénom et au nom presque identique.
@@ -334,7 +386,11 @@
       var pa = P.clePhon(a.nom), pb = P.clePhon(b.nom);
       return Math.min(pa.length, pb.length) >= 4 && P.distance(pa, pb, tol) <= tol && P.distance(nomDe(a), nomDe(b), tol + 1) <= tol + 1;
     }
-    function unirProches(liste, test) {
+    function nomsCourtsProches(a, b) {
+      var pa = P.clePhon(a.nom), pb = P.clePhon(b.nom);
+      return Math.min(pa.length, pb.length) >= 3 && pa.slice(0, 2) === pb.slice(0, 2) && P.distance(pa, pb, 1) <= 1;
+    }
+        function unirProches(liste, test) {
       for (var i = 0; i < liste.length; i++) for (var j = i + 1; j < liste.length; j++) {
         if (test(liste[i], liste[j])) uf.unir(noeud(liste[i]), noeud(liste[j]));
       }
@@ -373,7 +429,8 @@
         unirProches(l, function (a, b) { return prenomsProches(a, b) && nomsProches(a, b, 1) && memesParents(a, b); });
       });
       // Deux conjoints d'une même personne au prénom et au nom proches : une seule personne.
-      conjointsPar.forEach(function (l) { unirProches(l, function (a, b) { return prenomsProches(a, b) && nomsProches(a, b, 2); }); });
+      // (noms courts acceptés si le début concorde : BROHA / BRAZE, conjoints d'un même homme).
+      conjointsPar.forEach(function (l) { unirProches(l, function (a, b) { return prenomsProches(a, b) && (nomsProches(a, b, 2) || nomsCourtsProches(a, b)); }); });
       // Deux couples aux noms et prénoms proches des deux côtés (ROCHE ∞ Maronne FAYON /
       // ROCHER ∞ Marianne FAYON) : un seul couple.
       if (passe === 0) {
@@ -384,13 +441,16 @@
           if (prenomsProches(a, b)) return true;
           if (/\*/.test(prenomDe(a)) !== /\*/.test(prenomDe(b))) return false;
           var pa = P.clePhon(P.mots(a.prenom)[0] || ""), pb = P.clePhon(P.mots(b.prenom)[0] || "");
-          return Math.min(pa.length, pb.length) >= 5 && P.distance(pa, pb, 2) <= 2;
+          // Nom identique de ce côté : on tolère une lecture plus fautive du prénom (Holipa / Hélips).
+          var minimum = nomDe(a) === nomDe(b) ? 4 : 5;
+          return Math.min(pa.length, pb.length) >= minimum && P.distance(pa, pb, 2) <= 2;
         };
         var parSon = new Map();
         LIENS.forEach(function (l) {
           if (l.type !== "conjoint") return;
           [[l.a, l.b], [l.b, l.a]].forEach(function (c) {
-            var k = P.clePhon(c[0].nom).slice(0, 3) + "|" + P.clePhon(c[1].nom).slice(0, 3);
+            // Tri grossier (deux premiers sons de chaque nom) : ALLOY et ALBOY doivent se retrouver ensemble.
+            var k = P.clePhon(c[0].nom).slice(0, 2) + "|" + P.clePhon(c[1].nom).slice(0, 2);
             if (!parSon.has(k)) parSon.set(k, []);
             parSon.get(k).push(c);
           });
@@ -538,6 +598,13 @@
     for (var tour = 0; tour < 2; tour++) INDIV.forEach(function (ind) {
       if (ind.sexe) return;
       ind.conjoints.forEach(function (e) { if (e.ind.sexe && !ind.sexe) ind.sexe = e.ind.sexe === "F" ? "M" : "F"; });
+    });
+    // Rang dans la fratrie quand un acte le précise (« fille aînée », « fils cadet »…).
+    INDIV.forEach(function (ind) {
+      ind.mentions.forEach(function (x) {
+        var m = /(?:^|[^a-zà-ÿ])(aînée|aîné|aisnée|aisné|cadette|cadet|puînée|puîné)(?![a-zà-ÿ])/i.exec(x.m.p.role + " " + x.m.p.filiation.split(/[;,]/)[0]);
+        if (m && !ind.rang) ind.rang = m[1].toLowerCase().replace("aisn", "aîn");
+      });
     });
     // Variantes d'écriture réunies dans un même individu (affichées pour contrôle).
     INDIV.forEach(function (ind) {
