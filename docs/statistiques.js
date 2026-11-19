@@ -179,7 +179,10 @@
       '<div class="grille-graphiques">' +
       barres("Actes par type", "", s.types.top(30), "actes", function (l) { return { criteres: { type: l.cle }, vue: "actes" }; }) +
       '<div class="pile">' +
-      barres("Actes par notaire", "", s.notaires.top(10), "actes", function (l) {
+      barres("Actes par notaire", "", s.notaires.top(20).sort(function (a, b) {
+        var d = function (l) { return l.cle === "autres" || l.cle === "non identifié" ? 1 : 0; };
+        return d(a) - d(b) || b.n - a.n;
+      }), "actes", function (l) {
         return l.cle === "non identifié" ? null : { criteres: { notaire: l.cle }, vue: "actes" };
       }) +
       colonnes("Saisonnalité", "Actes par mois de passation, toutes années confondues (" + nombre(nbMois) + " actes au mois connu).",

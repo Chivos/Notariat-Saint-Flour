@@ -58,6 +58,7 @@
   }
   function meta(ind) {
     var m = [];
+    if (ind.rang) m.push(esc(ind.rang));
     if (ind.debut) m.push(ind.debut === ind.fin ? String(ind.debut) : ind.debut + "–" + ind.fin);
     if (ind.profession) m.push(esc(ind.profession));
     if (ind.residence && !/^saint-flour$/i.test(ind.residence)) m.push(esc(ind.residence));
