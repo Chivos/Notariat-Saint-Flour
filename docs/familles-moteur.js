@@ -543,15 +543,26 @@
       });
     });
     // Deux parents d'un même enfant forment un couple (même si aucun acte ne le dit).
+    // Avec plus de deux parents (deux mères citées selon les actes), le parent qui porte le
+    // nom de l'enfant est rapproché de chacun des autres, et l'enfant est signalé à vérifier.
     INDIV.forEach(function (ind) {
-      if (ind.parents.size !== 2) return;
+      if (ind.parents.size < 2) return;
       var ps = Array.from(ind.parents.values());
-      var x = ps[0].ind, y = ps[1].ind;
-      if (!x.conjoints.has(y.id) && !x.enfants.has(y.id) && !y.enfants.has(x.id)) {
-        var actes = ps[0].actes.filter(function (a) { return ps[1].actes.indexOf(a) >= 0; });
+      var paires = [];
+      if (ps.length === 2) paires.push([ps[0], ps[1]]);
+      else {
+        ind.parentsMultiples = true;
+        var cleEnfant = cleNom(ind.nom || plusFrequent(ind.noms) || "");
+        var memeNom = ps.filter(function (e) { return cleNom(e.ind.nom || plusFrequent(e.ind.noms) || "") === cleEnfant; });
+        if (memeNom.length === 1) ps.forEach(function (e) { if (e !== memeNom[0]) paires.push([memeNom[0], e]); });
+      }
+      paires.forEach(function (pr) {
+        var x = pr[0].ind, y = pr[1].ind;
+        if (x.conjoints.has(y.id) || x.enfants.has(y.id) || y.enfants.has(x.id)) return;
+        var actes = pr[0].actes.filter(function (a) { return pr[1].actes.indexOf(a) >= 0; });
         x.conjoints.set(y.id, { ind: y, actes: actes, deduit: true });
         y.conjoints.set(x.id, { ind: x, actes: actes, deduit: true });
-      }
+      });
     });
     // Libellés
     INDIV.forEach(function (ind) {

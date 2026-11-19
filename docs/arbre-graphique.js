@@ -146,8 +146,12 @@
       maxNiv = Math.max(maxNiv, profondeur(a));
     });
     var largeur = Math.max(x - ECART_RACINES + MARGE, 300);
-    var hauteur = MARGE * 2 + (maxNiv - 1) * ETAGE + H;
+    var hauteur = MARGE * 2 + (maxNiv - 1) * ETAGE + H + 36; // place pour les arcs de renvoi
     var c = couleurs();
+    // Une personne n'est dessinée qu'une fois ; ses autres occurrences (renvois) sont reliées
+    // à elle par un arc pointillé, ce qui montre comment les branches se rejoignent.
+    var originaux = new Map();
+    cases.forEach(function (k) { if (!k.renvoi && !originaux.has(k.ind.id)) originaux.set(k.ind.id, k); });
     var out = [];
     out.push('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ' + largeur + " " + hauteur + '" width="' + largeur + '" height="' + hauteur +
       '" font-family="Inter, system-ui, sans-serif" role="img" aria-label="Arbre généalogique reconstitué">');
@@ -161,6 +165,14 @@
         out.push('<text x="' + (t.x1 + t.x2) / 2 + '" y="' + (t.y - 6) + '" text-anchor="middle" font-size="13" font-weight="700" fill="' + c.or + '">∞</text>');
       }
     });
+    cases.forEach(function (k) {
+      var o = k.renvoi && originaux.get(k.ind.id);
+      if (!o) return;
+      var x1 = k.x + L / 2, y1 = k.y + H, x2 = o.x + L / 2, y2 = o.y + H;
+      var bas = Math.max(y1, y2) + 30;
+      out.push('<path d="M' + x1 + " " + y1 + " C" + x1 + " " + bas + " " + x2 + " " + bas + " " + x2 + " " + y2 +
+        '" fill="none" stroke="' + c.or + '" stroke-width="2.2" stroke-dasharray="4 4"/>');
+    });
     cases.forEach(function (k, i) {
       var ind = k.ind;
       // Aplat de couleur selon le sexe estimé ; contour pointillé seulement pour un renvoi ou une personne déduite.
@@ -171,7 +183,7 @@
       if (ind.rang) dates.push(ind.rang);
       if (ind.debut) dates.push(ind.debut === ind.fin ? String(ind.debut) : ind.debut + "–" + ind.fin);
       if (ind.feuAvant) dates.push("† av. " + ind.feuAvant);
-      var sous = k.renvoi ? "voir ailleurs dans l'arbre" : ind.deduit ? "déduit (filiation)" : dates.join("  ");
+      var sous = k.renvoi ? "même personne (arc pointillé)" : ind.deduit ? "déduit (filiation)" : dates.join("  ");
       var info = ind.prenom + " " + ind.nom + (ind.profession ? " — " + ind.profession : "") + (ind.residence ? " — " + ind.residence : "") +
         (ind.mentions.length ? " — " + ind.mentions.length + " mention(s)" : "");
       out.push('<g class="case" data-i="' + i + '" tabindex="0" role="button" style="cursor:pointer">');
